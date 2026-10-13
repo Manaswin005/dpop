@@ -1,0 +1,15 @@
+project_id,snapshot_date,sequence,pdo_rating,ip_rating,disbursement_pct,schedule_delay_months,stage1_baseline_risk,interim_risk_stance,interim_signals,eventual_outcome_target
+P100968,2011-06-27,,,,,,Medium,Standard Supervision,No adverse flags identified,Partially Successful
+P101614,2011-05-28,2.0,Moderately Unsatisfactory,Moderately Satisfactory,0.0,0.0,Medium,High Implementation Alert,PDO rating downgraded to Moderately Unsatisfactory; Disbursement low at interim stage (0.0%),Partially Successful
+P106752,2011-01-02,5.0,Moderately Satisfactory,Moderately Satisfactory,10.0,0.0,Medium,Moderate Implementation Attention,No adverse flags identified,Partially Successful
+P108440,2011-03-28,3.0,Satisfactory,Satisfactory,1.0,0.0,Medium,Moderate Implementation Attention,Disbursement low at interim stage (1.0%),Partially Successful
+P118560,2011-02-13,2.0,Satisfactory,Satisfactory,31.0,0.0,Medium,Standard Supervision,No adverse flags identified,Partially Successful
+P121328,2012-01-08,2.0,Satisfactory,Satisfactory,49.0,0.0,Medium,Standard Supervision,No adverse flags identified,Partially Successful
+P126033,2013-12-17,2.0,Satisfactory,Moderately Satisfactory,76.0,0.0,Medium,Moderate Implementation Attention,No adverse flags identified,Partially Successful
+P126364,2012-10-22,2.0,Satisfactory,Moderately Satisfactory,0.0,0.0,Medium,Moderate Implementation Attention,Disbursement low at interim stage (0.0%),Partially Successful
+P132101,2013-11-05,2.0,Satisfactory,Satisfactory,19.0,0.0,Medium,Standard Supervision,No adverse flags identified,Partially Successful
+P106589,2011-02-26,6.0,Moderately Satisfactory,Moderately Satisfactory,4.0,0.0,Medium,Moderate Implementation Attention,Disbursement low at interim stage (4.0%),Successful
+P113184,2012-12-14,2.0,Moderately Satisfactory,Satisfactory,8.0,0.0,Medium,Moderate Implementation Attention,No adverse flags identified,Successful
+P118540,2011-10-05,2.0,,Moderately Satisfactory,2.0,0.0,Medium,Moderate Implementation Attention,Disbursement low at interim stage (2.0%),Successful
+P126576,2012-12-15,2.0,Moderately Satisfactory,Moderately Satisfactory,0.0,0.0,Medium,Moderate Implementation Attention,Disbursement low at interim stage (0.0%),Unsuccessful
+P126791,2014-06-21,2.0,Moderately Satisfactory,Moderately Satisfactory,22.0,0.0,Medium,Moderate Implementation Attention,No adverse flags identified,Unsuccessful

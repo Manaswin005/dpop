@@ -1,0 +1,15 @@
+project_id,snapshot_doc_id,snapshot_repnb,snapshot_date,snapshot_sequence,pdo_rating_current,pdo_rating_previous,ip_rating_current,ip_rating_previous,overall_risk_rating,disbursement_percentage,schedule_delay_months,outcome_class
+P100968,14472522,,2011-06-27,,,,,,,,,Partially Successful
+P101614,14261870,,2011-05-28,2.0,Moderately Unsatisfactory,Unsatisfactory,Moderately Satisfactory,Unsatisfactory,High,0.0,0.0,Partially Successful
+P106752,13308395,,2011-01-02,5.0,Moderately Satisfactory,Satisfactory,Moderately Satisfactory,Satisfactory,,10.0,0.0,Partially Successful
+P108440,13973061,,2011-03-28,3.0,Satisfactory,Satisfactory,Satisfactory,Satisfactory,,1.0,0.0,Partially Successful
+P118560,13771273,,2011-02-13,2.0,Satisfactory,Satisfactory,Satisfactory,Satisfactory,,31.0,0.0,Partially Successful
+P121328,15614483,ISR5062,2012-01-08,2.0,Satisfactory,Satisfactory,Satisfactory,Satisfactory,Moderate,49.0,0.0,Partially Successful
+P126033,18668597,ISR11256,2013-12-17,2.0,Satisfactory,Satisfactory,Moderately Satisfactory,Satisfactory,Moderate,76.0,0.0,Partially Successful
+P126364,16862888,ISR7994,2012-10-22,2.0,Satisfactory,Satisfactory,Moderately Satisfactory,Satisfactory,Moderate,0.0,0.0,Partially Successful
+P132101,18481438,ISR11489,2013-11-05,2.0,Satisfactory,Satisfactory,Satisfactory,Satisfactory,High,19.0,0.0,Partially Successful
+P106589,13835158,,2011-02-26,6.0,Moderately Satisfactory,Satisfactory,Moderately Satisfactory,Satisfactory,,4.0,0.0,Successful
+P113184,17076655,ISR8343,2012-12-14,2.0,Moderately Satisfactory,Satisfactory,Satisfactory,Satisfactory,Moderate,8.0,0.0,Successful
+P118540,15221924,,2011-10-05,2.0,,,Moderately Satisfactory,Satisfactory,Low,2.0,0.0,Successful
+P126576,17079579,ISR8642,2012-12-15,2.0,Moderately Satisfactory,Satisfactory,Moderately Satisfactory,Satisfactory,High,0.0,0.0,Unsuccessful
+P126791,20114322,ISR14440,2014-06-21,2.0,Moderately Satisfactory,Satisfactory,Moderately Satisfactory,Satisfactory,Substantial,22.0,0.0,Unsuccessful

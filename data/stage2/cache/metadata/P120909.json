@@ -1,0 +1,1162 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 9,
+  "documents": {
+    "D18550490": {
+      "id": "18550490",
+      "admreg": "East Asia and Pacific",
+      "authors": {
+        "0": {
+          "author": "Eliste, Paavo"
+        }
+      },
+      "count": "Lao People's Democratic Republic",
+      "docna": {
+        "0": {
+          "docna": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LA-Lao PDR Upland Food Security Improvement Project -- P120909",
+      "subsc": "FY17 - Other Agriculture, Fishing and Forestry,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Crops",
+      "theme": "FY17 - Food Security,FY17 - Nutrition and Food Security",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0820b5fd0_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Climate Change and Agriculture,Climate and Meteorology,Crops and Crop Management Systems,Food Security,Labor Markets,Nutrition",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        }
+      },
+      "repnb": "ISR12466",
+      "docdt": "2013-11-24T05:00:00Z",
+      "datestored": "2013-11-24T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "emergency recovery loan"
+        },
+        "1": {
+          "keywd": "food security improvement"
+        },
+        "2": {
+          "keywd": "delivery of service"
+        },
+        "3": {
+          "keywd": "improved food security"
+        },
+        "4": {
+          "keywd": "seed producer"
+        },
+        "5": {
+          "keywd": "wet season"
+        },
+        "6": {
+          "keywd": "farmer"
+        },
+        "7": {
+          "keywd": "extension activity"
+        },
+        "8": {
+          "keywd": "dry season"
+        },
+        "9": {
+          "keywd": "institutional mechanism"
+        },
+        "10": {
+          "keywd": "rice yield"
+        },
+        "11": {
+          "keywd": "seed production"
+        },
+        "12": {
+          "keywd": "improved livelihood"
+        },
+        "13": {
+          "keywd": "increase productivity"
+        },
+        "14": {
+          "keywd": "irrigation infrastructure"
+        },
+        "15": {
+          "keywd": "recovery activity"
+        },
+        "16": {
+          "keywd": "quality seed"
+        },
+        "17": {
+          "keywd": "positive impact"
+        },
+        "18": {
+          "keywd": "financial agreement"
+        },
+        "19": {
+          "keywd": "baseline survey"
+        },
+        "20": {
+          "keywd": "rice production"
+        },
+        "21": {
+          "keywd": "poor village"
+        },
+        "22": {
+          "keywd": "upland area"
+        },
+        "23": {
+          "keywd": "farming system"
+        },
+        "24": {
+          "keywd": "participatory approach"
+        },
+        "25": {
+          "keywd": "target beneficiary"
+        },
+        "26": {
+          "keywd": "disbursement rate"
+        },
+        "27": {
+          "keywd": "Agriculture"
+        },
+        "28": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2013-11-25T02:34:35Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/855021468266092688/pdf/ISR-Disclosable-P120909-11-24-2013-1385346866581.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/855021468266092688/text/ISR-Disclosable-P120909-11-24-2013-1385346866581.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0820b5fd0",
+      "totvolnb": "1",
+      "projectid": "P120909",
+      "guid": "855021468266092688",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/855021468266092688"
+    },
+    "D20476612": {
+      "id": "20476612",
+      "admreg": "East Asia and Pacific",
+      "authors": {
+        "0": {
+          "author": "Eliste, Paavo"
+        }
+      },
+      "count": "Lao People's Democratic Republic",
+      "docna": {
+        "0": {
+          "docna": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LA-Lao PDR Upland Food Security Improvement Project -- P120909",
+      "subsc": "FY17 - Other Agriculture, Fishing and Forestry,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Crops",
+      "theme": "FY17 - Food Security,FY17 - Nutrition and Food Security",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0828e96e9_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Agricultural Irrigation and Drainage,Climate and Meteorology,Food Security,Irrigation and Drainage,Labor Markets,Nutrition",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        }
+      },
+      "repnb": "ISR17036",
+      "docdt": "2014-12-05T05:00:00Z",
+      "datestored": "2014-12-05T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "farmer"
+        },
+        "1": {
+          "keywd": "irrigation and drainage"
+        },
+        "2": {
+          "keywd": "extension activity"
+        },
+        "3": {
+          "keywd": "emergency recovery loan"
+        },
+        "4": {
+          "keywd": "improved food security"
+        },
+        "5": {
+          "keywd": "delivery of service"
+        },
+        "6": {
+          "keywd": "seed producer"
+        },
+        "7": {
+          "keywd": "improved livelihood"
+        },
+        "8": {
+          "keywd": "rice yield"
+        },
+        "9": {
+          "keywd": "quality seed"
+        },
+        "10": {
+          "keywd": "benchmarking survey"
+        },
+        "11": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2014-12-06T04:51:21Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/779381468045012427/pdf/ISR-Disclosable-P120909-12-05-2014-1417841468763.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/779381468045012427/text/ISR-Disclosable-P120909-12-05-2014-1417841468763.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0828e96e9",
+      "totvolnb": "1",
+      "projectid": "P120909",
+      "guid": "779381468045012427",
+      "origu": "Agriculture - GP (GFADR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/779381468045012427"
+    },
+    "D19477626": {
+      "id": "19477626",
+      "admreg": "East Asia and Pacific",
+      "authors": {
+        "0": {
+          "author": "Eliste, Paavo"
+        }
+      },
+      "count": "Lao People's Democratic Republic",
+      "docna": {
+        "0": {
+          "docna": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LA-Lao PDR Upland Food Security Improvement Project -- P120909",
+      "subsc": "FY17 - Other Agriculture, Fishing and Forestry,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Crops",
+      "theme": "FY17 - Food Security,FY17 - Nutrition and Food Security",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08244b036_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Agricultural Irrigation and Drainage,Climate and Meteorology,Educational Sciences,Food Security,Irrigation and Drainage,Nutrition",
+      "teratopic": "Agriculture,Education,Health, Nutrition and Population,Science and Technology Development,Water Resources",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        }
+      },
+      "repnb": "ISR14117",
+      "docdt": "2014-05-09T04:00:00Z",
+      "datestored": "2014-05-09T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "emergency recovery loan"
+        },
+        "1": {
+          "keywd": "irrigation and drainage"
+        },
+        "2": {
+          "keywd": "food security improvement"
+        },
+        "3": {
+          "keywd": "improving food security"
+        },
+        "4": {
+          "keywd": "improved food security"
+        },
+        "5": {
+          "keywd": "rice yield"
+        },
+        "6": {
+          "keywd": "seed production"
+        },
+        "7": {
+          "keywd": "extension activity"
+        },
+        "8": {
+          "keywd": "quality seed"
+        },
+        "9": {
+          "keywd": "small animals"
+        },
+        "10": {
+          "keywd": "Irrigation Rehabilitation"
+        },
+        "11": {
+          "keywd": "farming practice"
+        },
+        "12": {
+          "keywd": "fertilizer application"
+        },
+        "13": {
+          "keywd": "irrigated area"
+        },
+        "14": {
+          "keywd": "satisfaction rate"
+        },
+        "15": {
+          "keywd": "participatory approach"
+        },
+        "16": {
+          "keywd": "target beneficiary"
+        },
+        "17": {
+          "keywd": "dry season"
+        },
+        "18": {
+          "keywd": "field visits"
+        },
+        "19": {
+          "keywd": "wet season"
+        },
+        "20": {
+          "keywd": "poor village"
+        },
+        "21": {
+          "keywd": "upland area"
+        },
+        "22": {
+          "keywd": "farming system"
+        },
+        "23": {
+          "keywd": "irrigation scheme"
+        },
+        "24": {
+          "keywd": "farmer"
+        },
+        "25": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2014-05-09T13:59:26Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/380441468278045150/pdf/ISR-Disclosable-P120909-05-09-2014-1399647555028.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/380441468278045150/text/ISR-Disclosable-P120909-05-09-2014-1399647555028.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08244b036",
+      "totvolnb": "1",
+      "historic_topic": "Agriculture,Education,Health, Nutrition and Population,Science and Technology Development,Water Resources",
+      "projectid": "P120909",
+      "guid": "380441468278045150",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/380441468278045150"
+    },
+    "D23036156": {
+      "id": "23036156",
+      "admreg": "East Asia and Pacific",
+      "authors": {
+        "0": {
+          "author": "Eliste, Paavo"
+        }
+      },
+      "count": "Lao People's Democratic Republic",
+      "docna": {
+        "0": {
+          "docna": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LA-Lao PDR Upland Food Security Improvement Project -- P120909",
+      "subsc": "FY17 - Other Agriculture, Fishing and Forestry,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Crops",
+      "theme": "FY17 - Food Security,FY17 - Nutrition and Food Security",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08291863e_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Agricultural Irrigation and Drainage,Climate Change and Agriculture,Climate and Meteorology,Crops and Crop Management Systems,Fertilizers,Food Security,Irrigation and Drainage,Nutrition",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        }
+      },
+      "repnb": "ISR17649",
+      "docdt": "2014-12-17T05:00:00Z",
+      "datestored": "2014-12-17T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "farmer"
+        },
+        "1": {
+          "keywd": "core sector indicator"
+        },
+        "2": {
+          "keywd": "extension activity"
+        },
+        "3": {
+          "keywd": "irrigation and drainage"
+        },
+        "4": {
+          "keywd": "average yield"
+        },
+        "5": {
+          "keywd": "rice yield"
+        },
+        "6": {
+          "keywd": "improved food security"
+        },
+        "7": {
+          "keywd": "emergency recovery loan"
+        },
+        "8": {
+          "keywd": "project impact evaluation"
+        },
+        "9": {
+          "keywd": "paddy yield"
+        },
+        "10": {
+          "keywd": "seed production"
+        },
+        "11": {
+          "keywd": "wet season"
+        },
+        "12": {
+          "keywd": "extension service"
+        },
+        "13": {
+          "keywd": "fodder crop"
+        },
+        "14": {
+          "keywd": "upland rice"
+        },
+        "15": {
+          "keywd": "conservation agriculture"
+        },
+        "16": {
+          "keywd": "quality seed"
+        },
+        "17": {
+          "keywd": "rotation system"
+        },
+        "18": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2014-12-17T10:40:40Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/310781468277776580/pdf/ISR-Disclosable-P120909-12-17-2014-1418812830814.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/310781468277776580/text/ISR-Disclosable-P120909-12-17-2014-1418812830814.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08291863e",
+      "totvolnb": "1",
+      "projectid": "P120909",
+      "guid": "310781468277776580",
+      "origu": "Agriculture - GP (GFADR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/310781468277776580"
+    },
+    "D17550502": {
+      "id": "17550502",
+      "admreg": "East Asia and Pacific",
+      "authors": {
+        "0": {
+          "author": "Eliste, Paavo"
+        }
+      },
+      "count": "Laos,Lao People's Democratic Republic",
+      "docna": {
+        "0": {
+          "docna": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LA-Lao PDR Upland Food Security Improvement Project -- P120909",
+      "subsc": "FY17 - Other Agriculture, Fishing and Forestry,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Crops",
+      "theme": "FY17 - Food Security,FY17 - Nutrition and Food Security",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081a5d5b4_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Climate and Meteorology,Food Security,Inequality,Labor Markets,Nutrition",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        }
+      },
+      "repnb": "ISR9987",
+      "docdt": "2013-04-08T04:00:00Z",
+      "datestored": "2013-04-08T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "emergency recovery loan"
+        },
+        "1": {
+          "keywd": "food security improvement"
+        },
+        "2": {
+          "keywd": "improved food security"
+        },
+        "3": {
+          "keywd": "wet season"
+        },
+        "4": {
+          "keywd": "seed producer"
+        },
+        "5": {
+          "keywd": "participatory approach"
+        },
+        "6": {
+          "keywd": "rice yield"
+        },
+        "7": {
+          "keywd": "target beneficiary"
+        },
+        "8": {
+          "keywd": "dry season"
+        },
+        "9": {
+          "keywd": "quality seed"
+        },
+        "10": {
+          "keywd": "farming system"
+        },
+        "11": {
+          "keywd": "upland area"
+        },
+        "12": {
+          "keywd": "poor village"
+        },
+        "13": {
+          "keywd": "rice production"
+        },
+        "14": {
+          "keywd": "baseline survey"
+        },
+        "15": {
+          "keywd": "financial agreement"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2013-04-08T16:47:19Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/261911468045536168/pdf/ISR-Disclosable-P120909-04-08-2013-1365439632379.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/261911468045536168/text/ISR-Disclosable-P120909-04-08-2013-1365439632379.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081a5d5b4",
+      "totvolnb": "1",
+      "projectid": "P120909",
+      "guid": "261911468045536168",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/261911468045536168"
+    },
+    "D16695128": {
+      "id": "16695128",
+      "admreg": "East Asia and Pacific",
+      "authors": {
+        "0": {
+          "author": "Eliste, Paavo"
+        },
+        "1": {
+          "author": "Paavo"
+        }
+      },
+      "count": "Laos,Lao People's Democratic Republic",
+      "docna": {
+        "0": {
+          "docna": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LA-Lao PDR Upland Food Security Improvement Project -- P120909",
+      "subsc": "FY17 - Other Agriculture, Fishing and Forestry,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Crops",
+      "theme": "FY17 - Food Security,FY17 - Nutrition and Food Security",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012090404594828"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Climate and Meteorology,Food Security,Hydrology,Livestock and Animal Husbandry,Nutrition",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        }
+      },
+      "repnb": "ISR7647",
+      "docdt": "2012-09-04T04:00:00Z",
+      "datestored": "2012-09-04T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "emergency recovery loan"
+        },
+        "1": {
+          "keywd": "dry season"
+        },
+        "2": {
+          "keywd": "food security improvement"
+        },
+        "3": {
+          "keywd": "wet season"
+        },
+        "4": {
+          "keywd": "improving food security"
+        },
+        "5": {
+          "keywd": "improved food security"
+        },
+        "6": {
+          "keywd": "seed producer"
+        },
+        "7": {
+          "keywd": "access road"
+        },
+        "8": {
+          "keywd": "health clinics"
+        },
+        "9": {
+          "keywd": "participatory approach"
+        },
+        "10": {
+          "keywd": "target beneficiary"
+        },
+        "11": {
+          "keywd": "seed storage"
+        },
+        "12": {
+          "keywd": "production area"
+        },
+        "13": {
+          "keywd": "rainy season"
+        },
+        "14": {
+          "keywd": "improved seed"
+        },
+        "15": {
+          "keywd": "quality seed"
+        },
+        "16": {
+          "keywd": "irrigation scheme"
+        },
+        "17": {
+          "keywd": "production level"
+        },
+        "18": {
+          "keywd": "train activity"
+        },
+        "19": {
+          "keywd": "rice yield"
+        },
+        "20": {
+          "keywd": "financial agreement"
+        },
+        "21": {
+          "keywd": "baseline survey"
+        },
+        "22": {
+          "keywd": "poor village"
+        },
+        "23": {
+          "keywd": "upland area"
+        },
+        "24": {
+          "keywd": "farming system"
+        },
+        "25": {
+          "keywd": "Agriculture"
+        },
+        "26": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 04",
+      "pdfurl": "http://documents.worldbank.org/curated/en/864811468773699357/pdf/ISR0Disclosabl004201201346749187722.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/864811468773699357/text/ISR0Disclosabl004201201346749187722.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081640b47",
+      "totvolnb": "1",
+      "projectid": "P120909",
+      "guid": "864811468773699357",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/864811468773699357"
+    },
+    "D15791411": {
+      "id": "15791411",
+      "admreg": "East Asia and Pacific",
+      "authors": {
+        "0": {
+          "author": "Eliste, Paavo"
+        },
+        "1": {
+          "author": "Paavo"
+        }
+      },
+      "count": "Laos,Lao People's Democratic Republic",
+      "docna": {
+        "0": {
+          "docna": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LA-Lao PDR Upland Food Security Improvement Project -- P120909",
+      "subsc": "FY17 - Other Agriculture, Fishing and Forestry,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Crops",
+      "theme": "FY17 - Food Security,FY17 - Nutrition and Food Security",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012021008315511"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Climate and Meteorology,Food Security,Labor Markets,Nutrition,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        }
+      },
+      "repnb": "ISR5727",
+      "docdt": "2012-02-10T05:00:00Z",
+      "datestored": "2012-02-10T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "emergency recovery loan"
+        },
+        "1": {
+          "keywd": "Public Works and Transport"
+        },
+        "2": {
+          "keywd": "food security improvement"
+        },
+        "3": {
+          "keywd": "improved food security"
+        },
+        "4": {
+          "keywd": "baseline survey"
+        },
+        "5": {
+          "keywd": "wet season"
+        },
+        "6": {
+          "keywd": "target beneficiary"
+        },
+        "7": {
+          "keywd": "rice yield"
+        },
+        "8": {
+          "keywd": "improved seed"
+        },
+        "9": {
+          "keywd": "seed producer"
+        },
+        "10": {
+          "keywd": "seed production"
+        },
+        "11": {
+          "keywd": "food insecurity"
+        },
+        "12": {
+          "keywd": "rice production"
+        },
+        "13": {
+          "keywd": "irrigation scheme"
+        },
+        "14": {
+          "keywd": "agricultural infrastructure"
+        },
+        "15": {
+          "keywd": "animal vaccination"
+        },
+        "16": {
+          "keywd": "result indicator"
+        },
+        "17": {
+          "keywd": "quality seed"
+        },
+        "18": {
+          "keywd": "participatory approach"
+        },
+        "19": {
+          "keywd": "financial agreement"
+        },
+        "20": {
+          "keywd": "accurate assessment"
+        },
+        "21": {
+          "keywd": "project's achievements"
+        },
+        "22": {
+          "keywd": "farming system"
+        },
+        "23": {
+          "keywd": "processing equipment"
+        },
+        "24": {
+          "keywd": "upland area"
+        },
+        "25": {
+          "keywd": "poor village"
+        },
+        "26": {
+          "keywd": "farmer"
+        },
+        "27": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 03",
+      "pdfurl": "http://documents.worldbank.org/curated/en/688381468753270181/pdf/P1209090ISR0Di010201201328880714448.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/688381468753270181/text/P1209090ISR0Di010201201328880714448.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081234834",
+      "totvolnb": "1",
+      "projectid": "P120909",
+      "guid": "688381468753270181",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/688381468753270181"
+    },
+    "D14615682": {
+      "id": "14615682",
+      "admreg": "East Asia and Pacific",
+      "authors": {
+        "0": {
+          "author": "Eliste, Paavo"
+        }
+      },
+      "count": "Laos,Lao People's Democratic Republic",
+      "docna": {
+        "0": {
+          "docna": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LA-Lao PDR Upland Food Security Improvement Project -- P120909",
+      "subsc": "FY17 - Other Agriculture, Fishing and Forestry,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Crops",
+      "theme": "FY17 - Food Security,FY17 - Nutrition and Food Security",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011072123144282"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Agricultural Economics,Climate and Meteorology,Food Security,Labor Markets,Nutrition",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        }
+      },
+      "docdt": "2011-07-21T04:00:00Z",
+      "datestored": "2011-07-21T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "emergency recovery loan"
+        },
+        "1": {
+          "keywd": "food security improvement"
+        },
+        "2": {
+          "keywd": "improved food security"
+        },
+        "3": {
+          "keywd": "increased agricultural productivity"
+        },
+        "4": {
+          "keywd": "delay in procurement"
+        },
+        "5": {
+          "keywd": "productive infrastructure"
+        },
+        "6": {
+          "keywd": "target beneficiary"
+        },
+        "7": {
+          "keywd": "field activity"
+        },
+        "8": {
+          "keywd": "wet season"
+        },
+        "9": {
+          "keywd": "baseline survey"
+        },
+        "10": {
+          "keywd": "financial agreement"
+        },
+        "11": {
+          "keywd": "quality seed"
+        },
+        "12": {
+          "keywd": "participatory approach"
+        },
+        "13": {
+          "keywd": "poor village"
+        },
+        "14": {
+          "keywd": "upland area"
+        },
+        "15": {
+          "keywd": "farming system"
+        },
+        "16": {
+          "keywd": "farm input"
+        },
+        "17": {
+          "keywd": "satisfactory progress"
+        },
+        "18": {
+          "keywd": "emergency relief"
+        },
+        "19": {
+          "keywd": "rice yield"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 02",
+      "pdfurl": "http://documents.worldbank.org/curated/en/148201468753284340/pdf/P1209090ISR0Di021201101311304482016.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/148201468753284340/text/P1209090ISR0Di021201101311304482016.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b080e447b6",
+      "projectid": "P120909",
+      "guid": "148201468753284340",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/148201468753284340"
+    },
+    "D13935489": {
+      "id": "13935489",
+      "admreg": "East Asia and Pacific",
+      "authors": {
+        "0": {
+          "author": "Eliste, Paavo"
+        }
+      },
+      "count": "Laos,Lao People's Democratic Republic",
+      "docna": {
+        "0": {
+          "docna": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LA-Lao PDR Upland Food Security Improvement Project -- P120909",
+      "subsc": "FY17 - Other Agriculture, Fishing and Forestry,FY17 - Public Administration - Agriculture, Fishing & Forestry,FY17 - Crops",
+      "theme": "FY17 - Food Security,FY17 - Nutrition and Food Security",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011032010374489"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Climate and Meteorology,Food Security,Judicial System Reform,Labor Markets,Legal Products,Legal Reform,Legislation,Nutrition,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        }
+      },
+      "docdt": "2011-03-20T04:00:00Z",
+      "datestored": "2011-03-20T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "emergency recovery loan"
+        },
+        "1": {
+          "keywd": "food security improvement"
+        },
+        "2": {
+          "keywd": "financial management specialist"
+        },
+        "3": {
+          "keywd": "improved food security"
+        },
+        "4": {
+          "keywd": "baseline survey"
+        },
+        "5": {
+          "keywd": "target beneficiary"
+        },
+        "6": {
+          "keywd": "financial agreement"
+        },
+        "7": {
+          "keywd": "emergency operation"
+        },
+        "8": {
+          "keywd": "seed producer"
+        },
+        "9": {
+          "keywd": "participatory approach"
+        },
+        "10": {
+          "keywd": "international procurement"
+        },
+        "11": {
+          "keywd": "field work"
+        },
+        "12": {
+          "keywd": "emergency relief"
+        },
+        "13": {
+          "keywd": "rice yield"
+        },
+        "14": {
+          "keywd": "quality seed"
+        },
+        "15": {
+          "keywd": "financial staff"
+        },
+        "16": {
+          "keywd": "farming system"
+        },
+        "17": {
+          "keywd": "upland area"
+        },
+        "18": {
+          "keywd": "poor village"
+        },
+        "19": {
+          "keywd": "funding source"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Lao People's Democratic Republic - Lao PDR Upland Food Security Improvement Project : P120909 - Implementation Status Results Report : Sequence 01",
+      "disclosure_date": "2011-03-20T04:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/612671468776954258/pdf/P1209090ISR0Di020201101300631863850.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/612671468776954258/text/P1209090ISR0Di020201101300631863850.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b080a128d8",
+      "projectid": "P120909",
+      "guid": "612671468776954258",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/612671468776954258"
+    },
+    "facets": {}
+  }
+}

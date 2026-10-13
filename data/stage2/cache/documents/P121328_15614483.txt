@@ -1,0 +1,189 @@
+﻿                             The World Bank                                                                                                                                             Report No: ISR5062
+
+
+                                                                                                   Implementation Status & Results
+                                                                                                           Sri Lanka
+                                                                                    Small and Medium Enterprise Development Facility (P121328)
+Public Disclosure Copy
+
+
+
+
+                         Operation Name: Small and Medium Enterprise Development Facility                   Project Stage:   Implementation         Seq.No: 2      Status: ARCHIVED    Archive Date:    13-Apr-2011
+                                          (P121328)
+                                                                              Country: Sri Lanka                                     Approval FY:        2011
+                         Product Line: IBRD/IDA                               Region: SOUTH ASIA                                     Lending Instrument: Financial Intermediary Loan
+                         Implementing Agency(ies):
+
+                         Key Dates
+                         Board Approval Date      07-Sep-2010         Original Closing Date 31-Mar-2014            Planned Mid Term Review Date 13-Jun-2012                Last Archived ISR Date 13-Apr-2011
+                         Effectiveness Date       05-Jan-2011         Revised Closing Date 31-Mar-2014             Actual Mid Term Review Date       13-Jun-2012
+
+                         Project Development Objectives
+                         Project Development Objective (from Project Appraisal Document)
+
+                         The Project Development Objective is to improve access to finance (including term finance) for SMEs affected by the Global Financial Crisis in Sri Lanka.
+
+                         Has the Project Development Objective been changed since Board Approval of the Project?
+
+                            Yes           No
+
+                         Component(s)
+                         Component Name                                                                                                          Component Cost
+                         Component 1: Financing and Risk Sharing Facility                                                                                  41.00
+                         Component 2: Policy and Capacity Enhancement for SME Banking                                                                      12.00
+
+                         Overall Ratings
+                                                                  Previous Rating                       Current Rating
+                         Progress towards achievement of PDO      Satisfactory                          Satisfactory
+Public Disclosure Copy
+
+
+
+
+                         Overall Implementation Progress (IP)     Satisfactory                          Satisfactory
+                         Overall Risk Rating                                                            Moderate
+
+                         Implementation Status Overview
+                         The SME Development Facility (SMEDeF) Project was approved on September 7, 2010 and became effective on January 5, 2011. The first implementation support mission took
+                         place on March 9-16, 2011 and the second implementation support mission was held on August 8-17,2011.
+
+
+                         Locations
+                         No Location data has been entered
+
+
+                                                                                                                                                                                                          Page 1 of 4
+                             The World Bank                                                                                              Report No: ISR5062
+
+
+
+                         Results
+
+                         Project Development Objective Indicators
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                  Core   Unit of Measure              Baseline      Current       End Target
+                         Cumulative number of active SME loans (< 36            Number            Value      0.00          11.00         280.00
+                         months maturity)
+                                                                                                  Date       07-Sep-2010   01-Dec-2011   31-Mar-2014
+                                                                                                  Comments
+
+                         Cumulative number of active SME loans (>36             Number            Value      0.00          35.00         280.00
+                         months maturity)
+                                                                                                  Date       07-Sep-2010   01-Dec-2011   31-Mar-2014
+                                                                                                  Comments
+
+                         Cumulative volume of loans to SMEs (<36                Amount(USD)       Value      0.00          516601.00     14000000.00
+                         months maturity, US$m equivalent)
+                                                                                                  Date       07-Sep-2010   01-Dec-2011   31-Mar-2014
+                                                                                                  Comments
+
+                         Cumulative volume of loans to SMEs (>36                Amount(USD)       Value      0.00          3860760.00    14000000.00
+                         months maturity, US$ equivalent)
+                                                                                                  Date       07-Sep-2010   01-Dec-2011   31-Mar-2014
+                                                                                                  Comments
+
+                         PFI SMEDeF Project Portfolio Quality (NPL              Percentage        Value      10.00         10.00         8.00
+                         (% ) of >90 days)
+                                                                                                  Date       07-Sep-2010   01-Dec-2011   31-Mar-2014
+                                                                                                  Comments
+
+
+                         Intermediate Results Indicators
+                         Indicator Name                                  Core   Unit of Measure              Baseline      Current       End Target
+                         Volume of Bank Support: Lines of Credit - SME          Amount(USD)       Value      0.00          4377370.00    28000000.00
+
+                                                                                                  Date
+Public Disclosure Copy
+
+
+
+
+                                                                                                             07-Sep-2010   01-Dec-2011   31-Mar-2014
+                                                                                                  Comments
+
+                         Number of new SME borrowers under RSF                  Number            Value      0.00          0.00          1000.00
+                         portfolio (cumulative)
+                                                                                                  Date       07-Sep-2010   31-Mar-2011   31-Mar-2014
+                                                                                                  Comments
+
+                         Cumulative no. of PFI introducing processes/           Number            Value      0.00          0.00          6.00
+                         products/management systems specific to SME
+                                                                                                  Date       07-Sep-2010   31-Mar-2011   31-Mar-2014
+
+
+
+
+                                                                                                                                                          Page 2 of 4
+                             The World Bank                                                                                                                                                       Report No: ISR5062
+
+
+
+                         Indicator Name                                     Core      Unit of Measure                      Baseline                          Current                              End Target
+                                                                                                            Comments
+
+                         Cumulative percentage of SMEs getting loan                   Percentage            Value          0.00                              0.00                                 50.00
+Public Disclosure Copy
+
+
+
+
+                         after training by PFIs
+                                                                                                            Date           07-Sep-2010                       31-Mar-2011                          31-Mar-2014
+                                                                                                            Comments
+
+                         Cumulative no. of PFI loan officers trained in               Number                Value          0.00                              0.00                                 400.00
+                         SME Banking products and credit risk
+                         management                                                                         Date           07-Sep-2010                       31-Mar-2011                          31-Mar-2014
+                                                                                                            Comments
+
+                         Completion of findings of the diagnostic                     Text                  Value                                                                                 recommendations drafted and
+                         affecting SMEs and recommendation to                                                                                                                                     shared with relevant
+                         address them made available.                                                                                                                                             authorities for action
+                                                                                                            Date                                                                                  31-Mar-2014
+                                                                                                            Comments
+
+
+
+                         Data on Financial Performance (as of 29-Jun-2011)
+                         Financial Agreement(s) Key Dates
+                         Project               Loan No.                   Status                            Approval Date                  Signing Date                 Effectiveness Date             Closing Date
+                         P121328               IDA-48040                  Effective                         07-Sep-2010                    08-Nov-2010                  05-Jan-2011                    31-Mar-2014
+
+                         Disbursements (in Millions)
+                         Project               Loan No.                   Status                 Currency           Original           Revised            Cancelled           Disbursed            Undisbursed         % Disbursed
+                         P121328               IDA-48040                  Effective              XDR                           37.80             37.80                 0.00               18.67                19.13         49.00
+
+
+                         Disbursement Graph
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                                                                                                       Page 3 of 4
+                             The World Bank                                                                    Report No: ISR5062
+Public Disclosure Copy
+
+
+
+
+                         Key Decisions Regarding Implementation
+                         The mission found the overall implementation progress of SMEDeF to be satisfactory.
+
+                         Restructuring History
+                         There has been no restructuring to date.
+
+                         Related Projects
+                         There are no related projects.
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                Page 4 of 4
+

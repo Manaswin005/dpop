@@ -1,0 +1,221 @@
+                             The World Bank                                                                                                                                             Report No: ISR1413
+
+
+                                                                                                   Implementation Status & Results
+                                                                                                              Mexico
+Public Disclosure Copy
+
+
+
+
+                                                                                           Information Technology Development (P106589)
+
+                         Operation Name: Information Technology Development (P106589)                       Project Stage:   Implementation         Seq.No: 6      Status: ARCHIVED    Last Modified Date: 07-Feb-2011
+                                                                              Country: Mexico                                        Approval FY:        2009
+                         Product Line: IBRD/IDA                               Region: LATIN AMERICA AND CARIBBEAN                    Lending Instrument: Specific Investment Loan
+                         Implementing Agency(ies): Secretaria de Economia
+
+                         Key Dates
+                         Board Approval Date      10-Jul-2008         Original Closing Date 30-Jun-2013            Planned Mid Term Review Date 05-Dec-2011                Last Archived ISR Date 29-Jun-2010
+                         Effectiveness Date       20-Apr-2010         Revised Closing Date 30-Jun-2013             Actual Mid Term Review Date
+
+                         Project Development Objectives
+                         Project Development Objective (from Project Appraisal Document)
+
+                         The general objective of the Project is to contribute to developing the IT and ITES Industry in Mexico, by improving its human skills, infrastructure, links
+                         between local and global companies, financing and legal and regulatory framework.
+                         Has the Project Development Objective been changed since Board Approval of the Project?
+
+                            Yes           No
+
+                         Component(s)
+                         Component Name                                                                                                          Component Cost
+                         Human skills develoment                                                                                                           38.30
+                         IT clusters strenghthening                                                                                                         9.00
+                         Financing                                                                                                                          2.90
+                         Infrastructure (IT Parks)                                                                                                         10.10
+Public Disclosure Copy
+
+
+
+
+                         Government services outsourcing                                                                                                    2.70
+                         Legal and regulatory framework strenghthening                                                                                      6.10
+                         PROSOFT strenghthening and project                                                                                                 3.60
+
+                         Overall Ratings
+                                                                  Previous Rating                       Current Rating
+                         Progress towards achievement of PDO      Satisfactory                          Moderately Satisfactory
+                         Overall Implementation Progress (IP)     Satisfactory                          Moderately Satisfactory
+                         Overall Risk Rating
+
+
+                         Implementation Status Overview
+
+                                                                                                                                                                                                            Page 1 of 5
+                             The World Bank                                                                                                                                     Report No: ISR1413
+
+
+
+                         Project implementation slow due to changes in counterpart and budget issues to staff the Project Implementation Unit. Ministry of Economy has issued an instruction to change again
+                         the counterpart and new team is coordinating with the Bank to solve all pending bottlenecks and delays. That being said, three components have been active and on track, with
+Public Disclosure Copy
+
+
+
+
+                         disbursements of approximately $3 million.
+
+                         Results
+
+                         Project Development Objective Indicators
+                         Indicator                                                                  Baseline                         Current                             End Target
+                         Indicator Name                                                             Value                            Value                               Value
+                         IT/ITES jobs created by the IT Industry as a result of training programs   0                                0                                   20,000
+                         (jobs)
+                                                                                                    Date                             Date                                Date
+                                                                                                    10-Jul-2008                      07-Nov-2008                         30-Jun-2013
+                         Type                    Unit of Measure                                    Comment                          Comment                             Comment
+                         Custom Indicator        Text
+                         Indicator                                                                  Baseline                         Current                             End Target
+                         Indicator Name                                                             Value                            Value                               Value
+                         IT companies' satisfacton rating with the IT Links Program                 0                                0                                   75%
+                                                                                                    Date                             Date                                Date
+                                                                                                    10-Jul-2008                      07-Nov-2008                         30-Jun-2013
+                         Type                    Unit of Measure                                    Comment                          Comment                             Comment
+                         Custom Indicator        Text
+                         Indicator                                                                  Baseline                         Current                             End Target
+                         Indicator Name                                                             Value                            Value                               Value
+                         Increased overall debt portfolio of IT companieis in the financial system 5.8                               TBD                                 20.0
+                         (US$ million)
+                                                                                                    Date                             Date                                Date
+Public Disclosure Copy
+
+
+
+
+                                                                                                    10-Jul-2008                      07-Nov-2008                         30-Jun-2013
+                         Type                    Unit of Measure                                    Comment                          Comment                             Comment
+                         Custom Indicator        Text
+
+
+                         Intermediate Results Indicators
+
+
+
+
+                                                                                                                                                                                                 Page 2 of 5
+                             The World Bank                                                                                        Report No: ISR1413
+
+
+
+
+                         Indicator                                                              Baseline      Current       End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                         Value         Value         Value
+                         Number of certified persons from MexicoFIRST                           0             TBD           30,000
+                                                                                                Date          Date          Date
+                                                                                                10-Jul-2008   07-Nov-2008   30-Jun-2013
+                         Type                   Unit of Measure                                 Comment       Comment       Comment
+                         Custom Indicator       Text
+                         Indicator                                                              Baseline      Current       End Target
+                         Indicator Name                                                         Value         Value         Value
+                         Local companies associated to the ITLiNKs program                      0             TBD           75
+                                                                                                Date          Date          Date
+                                                                                                10-Jul-2008   07-Nov-2008   30-Jun-2013
+                         Type                   Unit of Measure                                 Comment       Comment       Comment
+                         Custom Indicator       Text
+                         Indicator                                                              Baseline      Current       End Target
+                         Indicator Name                                                         Value         Value         Value
+                         Number of IT Companies that participated in the FIT Accreditation      0             TBD           250
+                         Program
+                                                                                                Date          Date          Date
+                                                                                                10-Jul-2008   07-Nov-2008   30-Jun-2013
+                         Type                   Unit of Measure                                 Comment       Comment       Comment
+                         Custom Indicator       Text
+                         Indicator                                                              Baseline      Current       End Target
+                         Indicator Name                                                         Value         Value         Value
+                         Number of IT Park's projects supported by technical assistance andd/   0             TBD           4
+Public Disclosure Copy
+
+
+
+
+                         or infrastructure
+                                                                                                Date          Date          Date
+                                                                                                10-Jul-2008   07-Nov-2008   30-Jun-2013
+                         Type                   Unit of Measure                                 Comment       Comment       Comment
+                         Custom Indicator       Text
+
+
+
+
+                                                                                                                                                    Page 3 of 5
+                             The World Bank                                                                                                                                              Report No: ISR1413
+
+
+
+
+                         Indicator                                                              Baseline                                 Current                                  End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                         Value                                    Value                                    Value
+                         Outsourcing of Govenrment Services, governement entities trained and 0                                          TBD                                      10 4
+                         feasibility studies
+                                                                                                Date                                     Date                                     Date
+                                                                                                10-Jul-2008                              07-Nov-2008                              30-Jun-2013
+                         Type                   Unit of Measure                                 Comment                                  Comment                                  Comment
+                         Custom Indicator       Text
+                         Indicator                                                              Baseline                                 Current                                  End Target
+                         Indicator Name                                                         Value                                    Value                                    Value
+                         Number of regulations affected by the project (changed or new)         0                                        TBD                                      30
+                                                                                                Date                                     Date                                     Date
+                                                                                                10-Jul-2008                              07-Nov-2008                              30-Jun-2013
+                         Type                   Unit of Measure                                 Comment                                  Comment                                  Comment
+                         Custom Indicator       Text
+
+                         Data on Financial Performance (as of 16-Dec-2010)
+                         Financial Agreement(s) Key Dates
+                         Project              Loan No.                Status                           Approval Date               Signing Date                 Effectiveness Date             Closing Date
+                         P106589              IBRD-75710              Effective                        10-Jul-2008                 21-Apr-2009                  20-Apr-2010                    30-Jun-2013
+
+                         Disbursements (in Millions)
+                         Project              Loan No.                Status              Currency         Original            Revised             Cancelled          Disbursed           Undisbursed         % Disbursed
+                         P106589              IBRD-75710              Effective           USD                          80.00             80.00                 0.00               3.06              76.94            4.00
+
+
+                         Disbursement Graph
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                                                                                              Page 4 of 5
+                             The World Bank                         Report No: ISR1413
+Public Disclosure Copy
+
+
+
+
+                         Key Decisions Regarding Implementation
+                         Not applicable for this ISR.
+
+                         Restructuring History
+                         There has been no restructuring to date.
+
+                         Related Projects
+                         There are no related projects.
+Public Disclosure Copy
+
+
+
+
+                                                                                     Page 5 of 5
+

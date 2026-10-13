@@ -1,0 +1,1705 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 14,
+  "documents": {
+    "D26439224": {
+      "id": "26439224",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08439b9ff_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Foreign Trade Promotion and Regulation,Global Environment,Hydrology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Social Policy,Standards and Technical Regulations,Trade Law,Trade Technology and Productivity,Trade and Standards,Water Law,Water Policy & Governance,Water Resources Law",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR23298",
+      "docdt": "2016-06-06T04:00:00Z",
+      "datestored": "2016-06-06T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "water sector development"
+        },
+        "1": {
+          "keywd": "regional water utility"
+        },
+        "2": {
+          "keywd": "technical assistance loan"
+        },
+        "3": {
+          "keywd": "risk category"
+        },
+        "4": {
+          "keywd": "strategic development"
+        },
+        "5": {
+          "keywd": "organizational structure"
+        },
+        "6": {
+          "keywd": "road map"
+        },
+        "7": {
+          "keywd": "collected data"
+        },
+        "8": {
+          "keywd": "special financing"
+        },
+        "9": {
+          "keywd": "job description"
+        },
+        "10": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2016-06-06T18:04:46Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/454971468175134268/pdf/ISR-Disclosable-P117443-06-06-2016-1465236274107.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/454971468175134268/text/ISR-Disclosable-P117443-06-06-2016-1465236274107.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08439b9ff",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "454971468175134268",
+      "origu": "Water Middle East&N.AfricaRegion (SMNWA)",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/454971468175134268"
+    },
+    "D27529559": {
+      "id": "27529559",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 13"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084c1f66a_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Foreign Trade Promotion and Regulation,Hydrology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Small Private Water Supply Providers,Social Policy,Standards and Technical Regulations,Town Water Supply and Sanitation,Trade Law,Trade Technology and Productivity,Trade and Standards,Water Law,Water Policy & Governance,Water Resources Law,Water Supply and Sanitation Economics,Water and Human Health",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR27986",
+      "docdt": "2017-06-01T04:00:00Z",
+      "datestored": "2017-06-01T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "bulk water supply institution"
+        },
+        "1": {
+          "keywd": "climate change mitigation measures"
+        },
+        "2": {
+          "keywd": "cabinet of minister"
+        },
+        "3": {
+          "keywd": "water sector development"
+        },
+        "4": {
+          "keywd": "road map"
+        },
+        "5": {
+          "keywd": "national water company"
+        },
+        "6": {
+          "keywd": "water utilities"
+        },
+        "7": {
+          "keywd": "water utility"
+        },
+        "8": {
+          "keywd": "individual service providers"
+        },
+        "9": {
+          "keywd": "technical assistance loan"
+        },
+        "10": {
+          "keywd": "water sector restructuring"
+        },
+        "11": {
+          "keywd": "water user association"
+        },
+        "12": {
+          "keywd": "water irrigation"
+        },
+        "13": {
+          "keywd": "water for irrigation"
+        },
+        "14": {
+          "keywd": "communication plan"
+        },
+        "15": {
+          "keywd": "organizational structure"
+        },
+        "16": {
+          "keywd": "job description"
+        },
+        "17": {
+          "keywd": "water law"
+        },
+        "18": {
+          "keywd": "license procedure"
+        },
+        "19": {
+          "keywd": "financial staff"
+        },
+        "20": {
+          "keywd": "internal regulation"
+        },
+        "21": {
+          "keywd": "monitoring procedure"
+        },
+        "22": {
+          "keywd": "resource system"
+        },
+        "23": {
+          "keywd": "Institutional Sustainability"
+        },
+        "24": {
+          "keywd": "house connection"
+        },
+        "25": {
+          "keywd": "inspection procedure"
+        },
+        "26": {
+          "keywd": "monitoring equipment"
+        },
+        "27": {
+          "keywd": "approval process"
+        },
+        "28": {
+          "keywd": "boundary water"
+        },
+        "29": {
+          "keywd": "surface water"
+        },
+        "30": {
+          "keywd": "sustainable financing"
+        },
+        "31": {
+          "keywd": "water facility"
+        },
+        "32": {
+          "keywd": "water tariff"
+        },
+        "33": {
+          "keywd": "special financing"
+        },
+        "34": {
+          "keywd": "legal study"
+        },
+        "35": {
+          "keywd": "development phase"
+        },
+        "36": {
+          "keywd": "collected data"
+        },
+        "37": {
+          "keywd": "financial sustainability"
+        },
+        "38": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 13"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 13",
+      "disclosure_date": "2017-06-01T13:30:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/406271496323801319/pdf/ISR-Disclosable-P117443-06-01-2017-1496323783272.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/406271496323801319/text/ISR-Disclosable-P117443-06-01-2017-1496323783272.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084c1f66a",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "406271496323801319",
+      "origu": "Water Middle East&N.AfricaRegion (SMNWA)",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/406271496323801319"
+    },
+    "D24414134": {
+      "id": "24414134",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082df8d8b_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Climate Change Mitigation and Green House Gases,Disaster Management,Foreign Trade Promotion and Regulation,Hydrology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Social Policy,Standards and Technical Regulations,Trade Law,Trade Technology and Productivity,Trade and Standards,Water Law,Water Policy & Governance,Water Resources Law",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR18664",
+      "docdt": "2015-04-22T04:00:00Z",
+      "datestored": "2015-04-22T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "climate change mitigation measures"
+        },
+        "1": {
+          "keywd": "water sector policy"
+        },
+        "2": {
+          "keywd": "technical assistance loan"
+        },
+        "3": {
+          "keywd": "cabinet of minister"
+        },
+        "4": {
+          "keywd": "water sector reform"
+        },
+        "5": {
+          "keywd": "water sector development"
+        },
+        "6": {
+          "keywd": "consultancy service"
+        },
+        "7": {
+          "keywd": "groundwater surface"
+        },
+        "8": {
+          "keywd": "surface water"
+        },
+        "9": {
+          "keywd": "job training"
+        },
+        "10": {
+          "keywd": "special financing"
+        },
+        "11": {
+          "keywd": "monitoring equipment"
+        },
+        "12": {
+          "keywd": "cabinet approval"
+        },
+        "13": {
+          "keywd": "strategic development"
+        },
+        "14": {
+          "keywd": "job description"
+        },
+        "15": {
+          "keywd": "reform process"
+        },
+        "16": {
+          "keywd": "road map"
+        },
+        "17": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2015-04-23T00:43:42Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/895191468177248096/pdf/ISR-Disclosable-P117443-04-22-2015-1429749809758.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/895191468177248096/text/ISR-Disclosable-P117443-04-22-2015-1429749809758.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082df8d8b",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "895191468177248096",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/895191468177248096"
+    },
+    "D25136604": {
+      "id": "25136604",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b083135140_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Climate Change Mitigation and Green House Gases,Foreign Trade Promotion and Regulation,Hydrology,Judicial System Reform,Labor Markets,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Social Policy,Standards and Technical Regulations,Trade Law,Trade Technology and Productivity,Trade and Standards,Water Law,Water Policy & Governance,Water Resources Law",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR20986",
+      "docdt": "2015-10-09T04:00:00Z",
+      "datestored": "2015-10-09T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "climate change mitigation measures"
+        },
+        "1": {
+          "keywd": "drinking water quality standard"
+        },
+        "2": {
+          "keywd": "water sector policy"
+        },
+        "3": {
+          "keywd": "cabinet for approval"
+        },
+        "4": {
+          "keywd": "cabinet of minister"
+        },
+        "5": {
+          "keywd": "water sector reform"
+        },
+        "6": {
+          "keywd": "water sector development"
+        },
+        "7": {
+          "keywd": "technical assistance loan"
+        },
+        "8": {
+          "keywd": "groundwater surface"
+        },
+        "9": {
+          "keywd": "surface water"
+        },
+        "10": {
+          "keywd": "consultancy service"
+        },
+        "11": {
+          "keywd": "water tariff"
+        },
+        "12": {
+          "keywd": "job description"
+        },
+        "13": {
+          "keywd": "legal specialist"
+        },
+        "14": {
+          "keywd": "sustainable financing"
+        },
+        "15": {
+          "keywd": "sludge disposal"
+        },
+        "16": {
+          "keywd": "monitoring equipment"
+        },
+        "17": {
+          "keywd": "communication plan"
+        },
+        "18": {
+          "keywd": "strategic development"
+        },
+        "19": {
+          "keywd": "road map"
+        },
+        "20": {
+          "keywd": "special financing"
+        },
+        "21": {
+          "keywd": "cabinet approval"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2015-10-09T10:39:04Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/303321468177248673/pdf/ISR-Disclosable-P117443-10-09-2015-1444387133761.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/303321468177248673/text/ISR-Disclosable-P117443-10-09-2015-1444387133761.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b083135140",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "303321468177248673",
+      "origu": "Water - GP (GWADR)",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/303321468177248673"
+    },
+    "D26979070": {
+      "id": "26979070",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08474daca_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Foreign Trade Promotion and Regulation,Hydrology,Judicial System Reform,Labor Markets,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Social Policy,Standards and Technical Regulations,Trade Law,Trade Technology and Productivity,Trade and Standards,Water Law,Water Policy & Governance,Water Resources Law,Water and Food Supply",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR25869",
+      "docdt": "2016-11-28T05:00:00Z",
+      "datestored": "2016-11-28T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "water sector development"
+        },
+        "1": {
+          "keywd": "road map"
+        },
+        "2": {
+          "keywd": "technical assistance loan"
+        },
+        "3": {
+          "keywd": "water service delivery"
+        },
+        "4": {
+          "keywd": "water sector restructuring"
+        },
+        "5": {
+          "keywd": "policy for water"
+        },
+        "6": {
+          "keywd": "job description"
+        },
+        "7": {
+          "keywd": "sustainable financing"
+        },
+        "8": {
+          "keywd": "sludge disposal"
+        },
+        "9": {
+          "keywd": "collected data"
+        },
+        "10": {
+          "keywd": "special financing"
+        },
+        "11": {
+          "keywd": "demand management"
+        },
+        "12": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 12"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 12",
+      "disclosure_date": "2016-11-29T00:52:45Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/411121480380766643/pdf/ISR-Disclosable-P117443-11-28-2016-1480380754450.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/411121480380766643/text/ISR-Disclosable-P117443-11-28-2016-1480380754450.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08474daca",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "411121480380766643",
+      "origu": "Water Middle East&N.AfricaRegion (SMNWA)",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/411121480380766643"
+    },
+    "D29302413": {
+      "id": "29302413",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - GZ-Water Sector Capacity Building - P117443 - Sequence No : 14"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b085491be8_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Foreign Trade Promotion and Regulation,Hydrology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Small Private Water Supply Providers,Social Policy,Standards and Technical Regulations,Town Water Supply and Sanitation,Trade Law,Trade Technology and Productivity,Trade and Standards,Water Law,Water Policy & Governance,Water Resources Law,Water Supply and Sanitation Economics,Water and Human Health",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR30908",
+      "docdt": "2017-12-22T05:00:00Z",
+      "datestored": "2017-12-22T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "payment of license fee"
+        },
+        "1": {
+          "keywd": "road map"
+        },
+        "2": {
+          "keywd": "bulk water supply"
+        },
+        "3": {
+          "keywd": "water for irrigation"
+        },
+        "4": {
+          "keywd": "regional water utility"
+        },
+        "5": {
+          "keywd": "water user association"
+        },
+        "6": {
+          "keywd": "domestic water supply"
+        },
+        "7": {
+          "keywd": "water irrigation"
+        },
+        "8": {
+          "keywd": "water sector development"
+        },
+        "9": {
+          "keywd": "water supply service"
+        },
+        "10": {
+          "keywd": "Investment Project Financing"
+        },
+        "11": {
+          "keywd": "development partner funding"
+        },
+        "12": {
+          "keywd": "water sector restructuring"
+        },
+        "13": {
+          "keywd": "cabinet of minister"
+        },
+        "14": {
+          "keywd": "water utilities"
+        },
+        "15": {
+          "keywd": "job description"
+        },
+        "16": {
+          "keywd": "strategic approach"
+        },
+        "17": {
+          "keywd": "special financing"
+        },
+        "18": {
+          "keywd": "income source"
+        },
+        "19": {
+          "keywd": "water theft"
+        },
+        "20": {
+          "keywd": "internal regulation"
+        },
+        "21": {
+          "keywd": "emergency response"
+        },
+        "22": {
+          "keywd": "sector structure"
+        },
+        "23": {
+          "keywd": "asset valuation"
+        },
+        "24": {
+          "keywd": "local capacity"
+        },
+        "25": {
+          "keywd": "resources management"
+        },
+        "26": {
+          "keywd": "effective water"
+        },
+        "27": {
+          "keywd": "organizational structure"
+        },
+        "28": {
+          "keywd": "reform process"
+        },
+        "29": {
+          "keywd": "independent water"
+        },
+        "30": {
+          "keywd": "financial statement"
+        },
+        "31": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - GZ-Water Sector Capacity Building - P117443 - Sequence No : 14"
+      },
+      "display_title": "Disclosable Version of the ISR - GZ-Water Sector Capacity Building - P117443 - Sequence No : 14",
+      "disclosure_date": "2017-12-22T11:40:45Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/591431513942846151/pdf/Disclosable-Version-of-the-ISR-GZ-Water-Sector-Capacity-Building-P117443-Sequence-No-14.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/591431513942846151/text/Disclosable-Version-of-the-ISR-GZ-Water-Sector-Capacity-Building-P117443-Sequence-No-14.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b085491be8",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "591431513942846151",
+      "origu": "Water Middle East&N.AfricaRegion (SMNWA)",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/591431513942846151"
+    },
+    "D18731627": {
+      "id": "18731627",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08218ca1c_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Global Environment,Hydrology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Small Private Water Supply Providers,Social Policy,Town Water Supply and Sanitation,Water Law,Water Policy & Governance,Water Resources Law,Water Supply and Sanitation Economics,Water and Human Health",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR12908",
+      "docdt": "2013-12-30T05:00:00Z",
+      "datestored": "2013-12-30T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "water law"
+        },
+        "1": {
+          "keywd": "monitoring tool"
+        },
+        "2": {
+          "keywd": "Environmental and Social Impact Assessment"
+        },
+        "3": {
+          "keywd": "technical assistance loan"
+        },
+        "4": {
+          "keywd": "policy strategy"
+        },
+        "5": {
+          "keywd": "reform plan"
+        },
+        "6": {
+          "keywd": "surface water"
+        },
+        "7": {
+          "keywd": "reform implementation"
+        },
+        "8": {
+          "keywd": "capacity building component"
+        },
+        "9": {
+          "keywd": "water sector policy"
+        },
+        "10": {
+          "keywd": "capacity building need"
+        },
+        "11": {
+          "keywd": "water sector reform"
+        },
+        "12": {
+          "keywd": "water sector development"
+        },
+        "13": {
+          "keywd": "job description"
+        },
+        "14": {
+          "keywd": "organizational development"
+        },
+        "15": {
+          "keywd": "wastewater infrastructure"
+        },
+        "16": {
+          "keywd": "efficient management"
+        },
+        "17": {
+          "keywd": "water resource"
+        },
+        "18": {
+          "keywd": "financial agreement"
+        },
+        "19": {
+          "keywd": "job training"
+        },
+        "20": {
+          "keywd": "groundwater surface"
+        },
+        "21": {
+          "keywd": "assessment capacity"
+        },
+        "22": {
+          "keywd": "organization development"
+        },
+        "23": {
+          "keywd": "organizational capacity"
+        },
+        "24": {
+          "keywd": "original work"
+        },
+        "25": {
+          "keywd": "special financing"
+        },
+        "26": {
+          "keywd": "organizational structure"
+        },
+        "27": {
+          "keywd": "reform process"
+        },
+        "28": {
+          "keywd": "results framework"
+        },
+        "29": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2013-12-30T17:24:36Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/248961468328837648/pdf/ISR-Disclosable-P117443-12-30-2013-1388424267846.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/248961468328837648/text/ISR-Disclosable-P117443-12-30-2013-1388424267846.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08218ca1c",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "248961468328837648",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/248961468328837648"
+    },
+    "D17972083": {
+      "id": "17972083",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081cf5681_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Global Environment,Hydrology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Small Private Water Supply Providers,Social Policy,Town Water Supply and Sanitation,Water Law,Water Policy & Governance,Water Resources Law,Water Supply and Sanitation Economics,Water and Human Health",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR10908",
+      "docdt": "2013-07-07T04:00:00Z",
+      "datestored": "2013-07-07T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "water sector"
+        },
+        "2": {
+          "keywd": "integrated water resources management"
+        },
+        "3": {
+          "keywd": "reform plan"
+        },
+        "4": {
+          "keywd": "surface water"
+        },
+        "5": {
+          "keywd": "organizational capacity"
+        },
+        "6": {
+          "keywd": "groundwater surface"
+        },
+        "7": {
+          "keywd": "water sector policy"
+        },
+        "8": {
+          "keywd": "capacity building need"
+        },
+        "9": {
+          "keywd": "water sector development"
+        },
+        "10": {
+          "keywd": "bulk water supply"
+        },
+        "11": {
+          "keywd": "water sector reform"
+        },
+        "12": {
+          "keywd": "job training"
+        },
+        "13": {
+          "keywd": "water law"
+        },
+        "14": {
+          "keywd": "policy strategy"
+        },
+        "15": {
+          "keywd": "approval process"
+        },
+        "16": {
+          "keywd": "monitoring tool"
+        },
+        "17": {
+          "keywd": "organizational development"
+        },
+        "18": {
+          "keywd": "reform implementation"
+        },
+        "19": {
+          "keywd": "efficient management"
+        },
+        "20": {
+          "keywd": "reform process"
+        },
+        "21": {
+          "keywd": "assessment capacity"
+        },
+        "22": {
+          "keywd": "result indicator"
+        },
+        "23": {
+          "keywd": "wastewater infrastructure"
+        },
+        "24": {
+          "keywd": "mitigation measure"
+        },
+        "25": {
+          "keywd": "organizational structure"
+        },
+        "26": {
+          "keywd": "special financing"
+        },
+        "27": {
+          "keywd": "original work"
+        },
+        "28": {
+          "keywd": "organization development"
+        },
+        "29": {
+          "keywd": "job description"
+        },
+        "30": {
+          "keywd": "sustainable financing"
+        },
+        "31": {
+          "keywd": "assessment procedure"
+        },
+        "32": {
+          "keywd": "financial agreement"
+        },
+        "33": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2013-07-07T15:11:35Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/962651468117879476/pdf/ISR-Disclosable-P117443-07-07-2013-1373209884921.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/962651468117879476/text/ISR-Disclosable-P117443-07-07-2013-1373209884921.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b081cf5681",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "962651468117879476",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/962651468117879476"
+    },
+    "D17215061": {
+      "id": "17215061",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0818f1690_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR9193",
+      "docdt": "2013-02-04T05:00:00Z",
+      "datestored": "2013-02-04T05:00:00Z",
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2013-02-04T18:50:36Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/837971468109132524/pdf/ISR-Disclosable-P117443-02-04-2013-1360003827591.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/837971468109132524/text/ISR-Disclosable-P117443-02-04-2013-1360003827591.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0818f1690",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "837971468109132524",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/837971468109132524"
+    },
+    "D20413915": {
+      "id": "20413915",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082882414_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Foreign Trade Promotion and Regulation,Hydrology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Social Policy,Standards and Technical Regulations,Trade Law,Trade Technology and Productivity,Trade and Standards,Water Law,Water Policy & Governance,Water Resources Law",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR17015",
+      "docdt": "2014-11-22T05:00:00Z",
+      "datestored": "2014-11-22T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Partnership for Infrastructure Development"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "water sector policy"
+        },
+        "3": {
+          "keywd": "water sector development"
+        },
+        "4": {
+          "keywd": "job description"
+        },
+        "5": {
+          "keywd": "project approval"
+        },
+        "6": {
+          "keywd": "organization development"
+        },
+        "7": {
+          "keywd": "water law"
+        },
+        "8": {
+          "keywd": "special financing"
+        },
+        "9": {
+          "keywd": "original work"
+        },
+        "10": {
+          "keywd": "strategic development"
+        },
+        "11": {
+          "keywd": "road map"
+        },
+        "12": {
+          "keywd": "procurement process"
+        },
+        "13": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2014-11-22T19:38:53Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/204661468140962342/pdf/ISR-Disclosable-P117443-11-22-2014-1416685125501.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/204661468140962342/text/ISR-Disclosable-P117443-11-22-2014-1416685125501.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082882414",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "204661468140962342",
+      "origu": "Water - GP (GWADR)",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/204661468140962342"
+    },
+    "D19677914": {
+      "id": "19677914",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Rammal, Iyad"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0824fc1d4_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Disaster Management,Hydrology,Judicial System Reform,Labor Markets,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Regulatory Regimes,Social Policy,Water Law,Water Policy & Governance,Water Resources Law",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR13960",
+      "docdt": "2014-06-16T04:00:00Z",
+      "datestored": "2014-06-16T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "capacity building component"
+        },
+        "2": {
+          "keywd": "water sector policy"
+        },
+        "3": {
+          "keywd": "water sector development"
+        },
+        "4": {
+          "keywd": "sludge disposal"
+        },
+        "5": {
+          "keywd": "drinking water quality"
+        },
+        "6": {
+          "keywd": "water law"
+        },
+        "7": {
+          "keywd": "reform plan"
+        },
+        "8": {
+          "keywd": "road map"
+        },
+        "9": {
+          "keywd": "tariff system"
+        },
+        "10": {
+          "keywd": "water tariff"
+        },
+        "11": {
+          "keywd": "sustainable financing"
+        },
+        "12": {
+          "keywd": "monitoring equipment"
+        },
+        "13": {
+          "keywd": "original work"
+        },
+        "14": {
+          "keywd": "special financing"
+        },
+        "15": {
+          "keywd": "restructuring process"
+        },
+        "16": {
+          "keywd": "results framework"
+        },
+        "17": {
+          "keywd": "Water Policy"
+        },
+        "18": {
+          "keywd": "job description"
+        },
+        "19": {
+          "keywd": "job training"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2014-06-16T04:53:39Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/797581468175502953/pdf/ISR-Disclosable-P117443-06-16-2014-1402894408742.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/797581468175502953/text/ISR-Disclosable-P117443-06-16-2014-1402894408742.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0824fc1d4",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "797581468175502953",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/797581468175502953"
+    },
+    "D15589948": {
+      "id": "15589948",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Pollard, Sean Dillon"
+        },
+        "1": {
+          "author": "Richard W."
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012010117083748"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Global Environment,Hydrology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Natural Resources Management,Natural Resources Management and Rural Issues,Poverty and Social Impact Analysis,Quality of Life & Leisure,Regulatory Regimes,Social Analysis,Social Impacts and Poverty Mitigation,Social Policy,Water Law,Water Policy & Governance,Water Resources Law",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR5344",
+      "docdt": "2012-01-01T05:00:00Z",
+      "datestored": "2012-01-01T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "reform plan"
+        },
+        "2": {
+          "keywd": "water sector reform"
+        },
+        "3": {
+          "keywd": "assessment capacity"
+        },
+        "4": {
+          "keywd": "reform implementation"
+        },
+        "5": {
+          "keywd": "special financing"
+        },
+        "6": {
+          "keywd": "financial agreement"
+        },
+        "7": {
+          "keywd": "capacity assessment"
+        },
+        "8": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 02"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 02",
+      "pdfurl": "http://documents.worldbank.org/curated/en/619041468779126140/pdf/P1174430ISR0Di001201201325455716897.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/619041468779126140/text/P1174430ISR0Di001201201325455716897.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08118db4d",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "619041468779126140",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/619041468779126140"
+    },
+    "D16623790": {
+      "id": "16623790",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Pollard, Sean Dillon"
+        },
+        "1": {
+          "author": "Richard W."
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012082110173890"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Educational Sciences,Global Environment,Hydrology,Labor Markets",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR6903",
+      "docdt": "2012-08-21T04:00:00Z",
+      "datestored": "2012-08-21T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "water sector"
+        },
+        "1": {
+          "keywd": "education financial management"
+        },
+        "2": {
+          "keywd": "Wastewater"
+        },
+        "3": {
+          "keywd": "procurement process"
+        },
+        "4": {
+          "keywd": "continuous process"
+        },
+        "5": {
+          "keywd": "reform plan"
+        },
+        "6": {
+          "keywd": "water sector reform"
+        },
+        "7": {
+          "keywd": "water sector development"
+        },
+        "8": {
+          "keywd": "communication technique"
+        },
+        "9": {
+          "keywd": "job training"
+        },
+        "10": {
+          "keywd": "assessment capacity"
+        },
+        "11": {
+          "keywd": "educational certificate"
+        },
+        "12": {
+          "keywd": "original work"
+        },
+        "13": {
+          "keywd": "special financing"
+        },
+        "14": {
+          "keywd": "draft policy"
+        },
+        "15": {
+          "keywd": "reform committee"
+        },
+        "16": {
+          "keywd": "reform process"
+        },
+        "17": {
+          "keywd": "objective process"
+        },
+        "18": {
+          "keywd": "capacity assessment"
+        },
+        "19": {
+          "keywd": "reform implementation"
+        },
+        "20": {
+          "keywd": "fact sheet"
+        },
+        "21": {
+          "keywd": "public-private partnership"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 03",
+      "pdfurl": "http://documents.worldbank.org/curated/en/294731468778231223/pdf/ISR0Disclosabl021201201345558657606.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/294731468778231223/text/ISR0Disclosabl021201201345558657606.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08160dfb8",
+      "totvolnb": "1",
+      "projectid": "P117443",
+      "guid": "294731468778231223",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/294731468778231223"
+    },
+    "D14248027": {
+      "id": "14248027",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Pollard, Richard W."
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-Water Sector Capacity Building -- P117443",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Public Administration - Water, Sanitation and Waste Management",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Rural Development,FY17 - Urban Development,FY17 - Water Institutions, Policies and Reform,FY17 - Water Resource Management,FY17 - Urban Infrastructure and Service Delivery,FY17 - Rural Infrastructure and service delivery,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011052513094427"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Public Sector Management,FY17 - Urban and Rural Development",
+      "subtopic": "Global Environment,Hydrology,Poverty and Social Impact Analysis,Quality of Life & Leisure,Social Analysis,Social Impacts and Poverty Mitigation",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "docdt": "2011-05-25T04:00:00Z",
+      "datestored": "2011-05-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "water sector reform process"
+        },
+        "2": {
+          "keywd": "assessment capacity"
+        },
+        "3": {
+          "keywd": "special financing"
+        },
+        "4": {
+          "keywd": "retroactive financing"
+        },
+        "5": {
+          "keywd": "financial agreement"
+        },
+        "6": {
+          "keywd": "joint activities"
+        },
+        "7": {
+          "keywd": "reform plan"
+        },
+        "8": {
+          "keywd": "reform implementation"
+        },
+        "9": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "West Bank and Gaza - GZ-Water Sector Capacity Building : P117443 - Implementation Status Results Report : Sequence 01",
+      "disclosure_date": "2011-05-25T04:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/617641468779118898/pdf/P1174430ISR0Di025201101306343383609.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/617641468779118898/text/P1174430ISR0Di025201101306343383609.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b080ca98d7",
+      "projectid": "P117443",
+      "guid": "617641468779118898",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/617641468779118898"
+    },
+    "facets": {}
+  }
+}

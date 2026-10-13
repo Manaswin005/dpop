@@ -1,0 +1,921 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 6,
+  "documents": {
+    "D19207507": {
+      "id": "19207507",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Gallegos, Doyle"
+        }
+      },
+      "count": "OECS Countries",
+      "docna": {
+        "0": {
+          "docna": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "6O-OECS E-Government for Regional Integration Program (APL) -- P100635",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Administrative and Civil Service Reform,FY17 - Trade Facilitation,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Regional Integration,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0822ffe2d_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Public Sector Management,FY17 - Economic Policy",
+      "subtopic": "De Facto Governments,Democratic Government,E-Government,E-Government,E-Government,Economics and Finance of Public Institution Development,ICT Applications,Marketing,Pharmaceuticals & Pharmacoeconomics,Pharmaceuticals Industry,Private Sector Development Law,Private Sector Economics,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR13316",
+      "docdt": "2014-03-06T05:00:00Z",
+      "datestored": "2014-03-06T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "adaptable program loan"
+        },
+        "1": {
+          "keywd": "procurement cycle"
+        },
+        "2": {
+          "keywd": "focus group"
+        },
+        "3": {
+          "keywd": "unique id"
+        },
+        "4": {
+          "keywd": "economies of scale"
+        },
+        "5": {
+          "keywd": "tax declaration"
+        },
+        "6": {
+          "keywd": "id number"
+        },
+        "7": {
+          "keywd": "pharmaceutical procurement"
+        },
+        "8": {
+          "keywd": "egovernment system"
+        },
+        "9": {
+          "keywd": "financial agreement"
+        },
+        "10": {
+          "keywd": "tender system"
+        },
+        "11": {
+          "keywd": "procurement system"
+        },
+        "12": {
+          "keywd": "e-government application"
+        },
+        "13": {
+          "keywd": "total tax"
+        },
+        "14": {
+          "keywd": "administrative cost"
+        },
+        "15": {
+          "keywd": "enterprise architecture"
+        },
+        "16": {
+          "keywd": "institutional framework"
+        },
+        "17": {
+          "keywd": "disbursement rate"
+        },
+        "18": {
+          "keywd": "joint implementation"
+        },
+        "19": {
+          "keywd": "Public Services"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2014-03-06T17:10:51Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/692551468298479718/pdf/ISR-Disclosable-P100635-03-06-2014-1394125836751.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/692551468298479718/text/ISR-Disclosable-P100635-03-06-2014-1394125836751.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0822ffe2d",
+      "totvolnb": "1",
+      "projectid": "P100635",
+      "guid": "692551468298479718",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/692551468298479718"
+    },
+    "D17899708": {
+      "id": "17899708",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Gallegos, Doyle"
+        }
+      },
+      "count": "OECS Countries",
+      "docna": {
+        "0": {
+          "docna": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "6O-OECS E-Government for Regional Integration Program (APL) -- P100635",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Administrative and Civil Service Reform,FY17 - Trade Facilitation,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Regional Integration,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081c91348_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Public Sector Management,FY17 - Economic Policy",
+      "subtopic": "De Facto Governments,Democratic Government,E-Government,E-Government,E-Government,Economics and Finance of Public Institution Development,Health Care Services Industry,ICT Applications,Pharmaceuticals & Pharmacoeconomics,Pharmaceuticals Industry,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR9810",
+      "docdt": "2013-06-20T04:00:00Z",
+      "datestored": "2013-06-20T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "adaptable program loan"
+        },
+        "1": {
+          "keywd": "volume of transaction"
+        },
+        "2": {
+          "keywd": "total cost of ownership"
+        },
+        "3": {
+          "keywd": "government service"
+        },
+        "4": {
+          "keywd": "cost of pharmaceuticals"
+        },
+        "5": {
+          "keywd": "public information system"
+        },
+        "6": {
+          "keywd": "strategy implementation plan"
+        },
+        "7": {
+          "keywd": "economies of scale"
+        },
+        "8": {
+          "keywd": "Financial Management System"
+        },
+        "9": {
+          "keywd": "customs information"
+        },
+        "10": {
+          "keywd": "filing system"
+        },
+        "11": {
+          "keywd": "institutional framework"
+        },
+        "12": {
+          "keywd": "ID Systems"
+        },
+        "13": {
+          "keywd": "tender system"
+        },
+        "14": {
+          "keywd": "e-Government"
+        },
+        "15": {
+          "keywd": "focus group"
+        },
+        "16": {
+          "keywd": "e-government application"
+        },
+        "17": {
+          "keywd": "front end"
+        },
+        "18": {
+          "keywd": "regional population"
+        },
+        "19": {
+          "keywd": "id number"
+        },
+        "20": {
+          "keywd": "e-government service"
+        },
+        "21": {
+          "keywd": "quality measure"
+        },
+        "22": {
+          "keywd": "e-government standards"
+        },
+        "23": {
+          "keywd": "enterprise architecture"
+        },
+        "24": {
+          "keywd": "government strategy"
+        },
+        "25": {
+          "keywd": "Management Systems"
+        },
+        "26": {
+          "keywd": "financial agreement"
+        },
+        "27": {
+          "keywd": "Public Services"
+        },
+        "28": {
+          "keywd": "electronic transaction"
+        },
+        "29": {
+          "keywd": "tax filing"
+        },
+        "30": {
+          "keywd": "taxation system"
+        },
+        "31": {
+          "keywd": "economic union"
+        },
+        "32": {
+          "keywd": "e-government system"
+        },
+        "33": {
+          "keywd": "total tax"
+        },
+        "34": {
+          "keywd": "financial saving"
+        },
+        "35": {
+          "keywd": "ict application"
+        },
+        "36": {
+          "keywd": "procurement cycle"
+        },
+        "37": {
+          "keywd": "goods declaration"
+        },
+        "38": {
+          "keywd": "tax declaration"
+        },
+        "39": {
+          "keywd": "egovernment system"
+        },
+        "40": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2013-06-21T01:39:05Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/162831468290732889/pdf/ISR-Disclosable-P100635-06-20-2013-1371778731731.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/162831468290732889/text/ISR-Disclosable-P100635-06-20-2013-1371778731731.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b081c91348",
+      "totvolnb": "1",
+      "projectid": "P100635",
+      "guid": "162831468290732889",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/162831468290732889"
+    },
+    "D16782518": {
+      "id": "16782518",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Navas Sabater, Juan Francisco"
+        },
+        "1": {
+          "author": "Juan"
+        }
+      },
+      "count": "OECS Countries",
+      "docna": {
+        "0": {
+          "docna": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "6O-OECS E-Government for Regional Integration Program (APL) -- P100635",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Administrative and Civil Service Reform,FY17 - Trade Facilitation,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Regional Integration,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012093021522518"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Public Sector Management,FY17 - Economic Policy",
+      "subtopic": "De Facto Governments,Democratic Government,E-Government,E-Government,E-Government,Economics and Finance of Public Institution Development,Health Care Services Industry,ICT Applications,Judicial System Reform,Legal Products,Legal Reform,Legislation,Public Finance Decentralization and Poverty Reduction,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "FY17 - Public Administration"
+        }
+      },
+      "repnb": "ISR7796",
+      "docdt": "2012-09-30T04:00:00Z",
+      "datestored": "2012-09-30T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "adaptable program loan"
+        },
+        "1": {
+          "keywd": "total cost of ownership"
+        },
+        "2": {
+          "keywd": "volume of transaction"
+        },
+        "3": {
+          "keywd": "total tax"
+        },
+        "4": {
+          "keywd": "national budget"
+        },
+        "5": {
+          "keywd": "public information system"
+        },
+        "6": {
+          "keywd": "customs information"
+        },
+        "7": {
+          "keywd": "economies of scale"
+        },
+        "8": {
+          "keywd": "ID Systems"
+        },
+        "9": {
+          "keywd": "e-government service"
+        },
+        "10": {
+          "keywd": "procurement process"
+        },
+        "11": {
+          "keywd": "tender system"
+        },
+        "12": {
+          "keywd": "e-government application"
+        },
+        "13": {
+          "keywd": "filing system"
+        },
+        "14": {
+          "keywd": "procurement system"
+        },
+        "15": {
+          "keywd": "institutional framework"
+        },
+        "16": {
+          "keywd": "government strategy"
+        },
+        "17": {
+          "keywd": "focus group"
+        },
+        "18": {
+          "keywd": "front end"
+        },
+        "19": {
+          "keywd": "tax declaration"
+        },
+        "20": {
+          "keywd": "quality measure"
+        },
+        "21": {
+          "keywd": "institutional staff"
+        },
+        "22": {
+          "keywd": "adequate capacity"
+        },
+        "23": {
+          "keywd": "goods declaration"
+        },
+        "24": {
+          "keywd": "procurement cycle"
+        },
+        "25": {
+          "keywd": "electronic transaction"
+        },
+        "26": {
+          "keywd": "tax filing"
+        },
+        "27": {
+          "keywd": "enterprise architecture"
+        },
+        "28": {
+          "keywd": "id number"
+        },
+        "29": {
+          "keywd": "regional population"
+        },
+        "30": {
+          "keywd": "egovernment system"
+        },
+        "31": {
+          "keywd": "Public Services"
+        },
+        "32": {
+          "keywd": "e-government standards"
+        },
+        "33": {
+          "keywd": "taxation system"
+        },
+        "34": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 08",
+      "pdfurl": "http://documents.worldbank.org/curated/en/541341468775598173/pdf/ISR0Disclosabl030201201349056344497.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/541341468775598173/text/ISR0Disclosabl030201201349056344497.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0816ade52",
+      "totvolnb": "1",
+      "projectid": "P100635",
+      "guid": "541341468775598173",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/541341468775598173"
+    },
+    "D15796749": {
+      "id": "15796749",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Navas Sabater, Juan Francisco"
+        },
+        "1": {
+          "author": "Juan"
+        }
+      },
+      "count": "OECS Countries",
+      "docna": {
+        "0": {
+          "docna": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "6O-OECS E-Government for Regional Integration Program (APL) -- P100635",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Administrative and Civil Service Reform,FY17 - Trade Facilitation,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Regional Integration,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012021213032049"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Public Sector Management,FY17 - Economic Policy",
+      "subtopic": "De Facto Governments,Democratic Government,E-Government,E-Government,E-Government,Economic Adjustment and Lending,Economics and Finance of Public Institution Development,Health Care Services Industry,Macro-Fiscal Policy,Marketing,Private Sector Development Law,Private Sector Economics,Public Finance Decentralization and Poverty Reduction,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Taxation & Subsidies",
+      "sectr": {
+        "0": {
+          "sector": "FY17 - Public Administration"
+        }
+      },
+      "repnb": "ISR5609",
+      "docdt": "2012-02-12T05:00:00Z",
+      "datestored": "2012-02-12T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "adaptable program loan"
+        },
+        "1": {
+          "keywd": "financial saving"
+        },
+        "2": {
+          "keywd": "reduction in time"
+        },
+        "3": {
+          "keywd": "volume of transaction"
+        },
+        "4": {
+          "keywd": "total cost of ownership"
+        },
+        "5": {
+          "keywd": "public information system"
+        },
+        "6": {
+          "keywd": "e-government service"
+        },
+        "7": {
+          "keywd": "economies of scale"
+        },
+        "8": {
+          "keywd": "procurement pharmaceutical"
+        },
+        "9": {
+          "keywd": "reduction of time"
+        },
+        "10": {
+          "keywd": "Public Financial Management"
+        },
+        "11": {
+          "keywd": "piece of legislation"
+        },
+        "12": {
+          "keywd": "institutional framework"
+        },
+        "13": {
+          "keywd": "participating country"
+        },
+        "14": {
+          "keywd": "tax filing"
+        },
+        "15": {
+          "keywd": "average process"
+        },
+        "16": {
+          "keywd": "tax declaration"
+        },
+        "17": {
+          "keywd": "government strategy"
+        },
+        "18": {
+          "keywd": "working day"
+        },
+        "19": {
+          "keywd": "Public Services"
+        },
+        "20": {
+          "keywd": "transaction process"
+        },
+        "21": {
+          "keywd": "saint vincent"
+        },
+        "22": {
+          "keywd": "adequate capacity"
+        },
+        "23": {
+          "keywd": "tax revenue"
+        },
+        "24": {
+          "keywd": "Tax Administration"
+        },
+        "25": {
+          "keywd": "transaction number"
+        },
+        "26": {
+          "keywd": "baseline data"
+        },
+        "27": {
+          "keywd": "evaluation framework"
+        },
+        "28": {
+          "keywd": "financial agreement"
+        },
+        "29": {
+          "keywd": "e-government application"
+        },
+        "30": {
+          "keywd": "financial reporting"
+        },
+        "31": {
+          "keywd": "regional population"
+        },
+        "32": {
+          "keywd": "id number"
+        },
+        "33": {
+          "keywd": "e-government standards"
+        },
+        "34": {
+          "keywd": "e-government system"
+        },
+        "35": {
+          "keywd": "gap analysis"
+        },
+        "36": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 07",
+      "pdfurl": "http://documents.worldbank.org/curated/en/960301468779699145/pdf/P1006350ISR0Di012201201329069799804.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/960301468779699145/text/P1006350ISR0Di012201201329069799804.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081238087",
+      "totvolnb": "1",
+      "projectid": "P100635",
+      "guid": "960301468779699145",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/960301468779699145"
+    },
+    "D13836415": {
+      "id": "13836415",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Navas Sabater, Juan Francisco"
+        }
+      },
+      "count": "OECS Countries",
+      "docna": {
+        "0": {
+          "docna": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "6O-OECS E-Government for Regional Integration Program (APL) -- P100635",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Administrative and Civil Service Reform,FY17 - Trade Facilitation,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Regional Integration,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011022717165315"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Public Sector Management,FY17 - Economic Policy",
+      "subtopic": "De Facto Governments,Democratic Government,E-Government,E-Government,E-Government,Economic Adjustment and Lending,Economics and Finance of Public Institution Development,Health Care Services Industry,Macro-Fiscal Policy,Marketing,Private Sector Development Law,Private Sector Economics,Public Finance Decentralization and Poverty Reduction,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Taxation & Subsidies",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2011-02-27T05:00:00Z",
+      "datestored": "2011-02-27T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Indicator Baseline"
+        },
+        "1": {
+          "keywd": "adaptable program loan"
+        },
+        "2": {
+          "keywd": "volume of transaction"
+        },
+        "3": {
+          "keywd": "reduction in time"
+        },
+        "4": {
+          "keywd": "e-government service"
+        },
+        "5": {
+          "keywd": "total cost of ownership"
+        },
+        "6": {
+          "keywd": "financial saving"
+        },
+        "7": {
+          "keywd": "public information system"
+        },
+        "8": {
+          "keywd": "strategy implementation plan"
+        },
+        "9": {
+          "keywd": "Financial Management System"
+        },
+        "10": {
+          "keywd": "economies of scale"
+        },
+        "11": {
+          "keywd": "filing system"
+        },
+        "12": {
+          "keywd": "online survey"
+        },
+        "13": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2011-02-27T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/565441468759330995/pdf/P1006350ISR0Di022720111298845013022.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/565441468759330995/text/P1006350ISR0Di022720111298845013022.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b080d69b7e",
+      "projectid": "P100635",
+      "guid": "565441468759330995",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/565441468759330995"
+    },
+    "D14503712": {
+      "id": "14503712",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Navas Sabater, Juan Francisco"
+        }
+      },
+      "count": "OECS Countries",
+      "docna": {
+        "0": {
+          "docna": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "6O-OECS E-Government for Regional Integration Program (APL) -- P100635",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Administrative and Civil Service Reform,FY17 - Trade Facilitation,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Regional Integration,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011070512340012"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Public Sector Management,FY17 - Economic Policy",
+      "subtopic": "De Facto Governments,Democratic Government,E-Government,E-Government,E-Government,Economic Adjustment and Lending,Economics and Finance of Public Institution Development,ICT Applications,Macro-Fiscal Policy,Marketing,Private Sector Development Law,Private Sector Economics,Public Finance Decentralization and Poverty Reduction,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Taxation & Subsidies",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2011-07-05T04:00:00Z",
+      "datestored": "2011-07-05T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "adaptable program loan"
+        },
+        "1": {
+          "keywd": "reduction in time"
+        },
+        "2": {
+          "keywd": "volume of transaction"
+        },
+        "3": {
+          "keywd": "total cost of ownership"
+        },
+        "4": {
+          "keywd": "financial saving"
+        },
+        "5": {
+          "keywd": "e-government service"
+        },
+        "6": {
+          "keywd": "public information system"
+        },
+        "7": {
+          "keywd": "Public Financial Management"
+        },
+        "8": {
+          "keywd": "strategy implementation plan"
+        },
+        "9": {
+          "keywd": "reduction of time"
+        },
+        "10": {
+          "keywd": "number of containers"
+        },
+        "11": {
+          "keywd": "economies of scale"
+        },
+        "12": {
+          "keywd": "institutional framework"
+        },
+        "13": {
+          "keywd": "online survey"
+        },
+        "14": {
+          "keywd": "Tax Administration"
+        },
+        "15": {
+          "keywd": "participating country"
+        },
+        "16": {
+          "keywd": "e-government application"
+        },
+        "17": {
+          "keywd": "tax filing"
+        },
+        "18": {
+          "keywd": "gap analysis"
+        },
+        "19": {
+          "keywd": "e-government standards"
+        },
+        "20": {
+          "keywd": "adequate capacity"
+        },
+        "21": {
+          "keywd": "financial agreement"
+        },
+        "22": {
+          "keywd": "pooled procurement"
+        },
+        "23": {
+          "keywd": "id number"
+        },
+        "24": {
+          "keywd": "regional population"
+        },
+        "25": {
+          "keywd": "transaction number"
+        },
+        "26": {
+          "keywd": "goods declaration"
+        },
+        "27": {
+          "keywd": "saint vincent"
+        },
+        "28": {
+          "keywd": "tax revenue"
+        },
+        "29": {
+          "keywd": "e-government system"
+        },
+        "30": {
+          "keywd": "Public Services"
+        },
+        "31": {
+          "keywd": "transaction process"
+        },
+        "32": {
+          "keywd": "Results Page"
+        },
+        "33": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "OECS Countries - OECS E-Government for Regional Integration Program (APL) : P100635 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2011-07-05T04:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/879261468759309277/pdf/P1006350ISR0Di005201101309883639557.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/879261468759309277/text/P1006350ISR0Di005201101309883639557.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b080df3bd5",
+      "projectid": "P100635",
+      "guid": "879261468759309277",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/879261468759309277"
+    },
+    "facets": {}
+  }
+}

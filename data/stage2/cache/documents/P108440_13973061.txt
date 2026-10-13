@@ -1,0 +1,248 @@
+                             The World Bank                                                                                                                                             Report No: ISR2208
+
+
+                                                                                                   Implementation Status & Results
+                                                                                                                 Mali
+Public Disclosure Copy
+
+
+
+
+                                                                                                 Mali Energy Support Project (P108440)
+
+                         Operation Name: Mali Energy Support Project (P108440)                              Project Stage:   Implementation         Seq.No: 3      Status: ARCHIVED    Last Modified Date: 15-Mar-2011
+                                                                               Country: Mali                                         Approval FY:        2009
+                         Product Line: IBRD/IDA                                Region: AFRICA                                        Lending Instrument: Specific Investment Loan
+                         Implementing Agency(ies): Ministe de l'Energie et de l'Eau
+
+                         Key Dates
+                         Board Approval Date      18-Jun-2009           Original Closing Date 30-Sep-2014          Planned Mid Term Review Date                            Last Archived ISR Date 29-Jun-2010
+                         Effectiveness Date       25-Nov-2009           Revised Closing Date 30-Sep-2014           Actual Mid Term Review Date
+
+                         Project Development Objectives
+                         Project Development Objective (from Project Appraisal Document)
+
+                         The project development objective is to improve the access and efficiency of electricity services in Bamako and in other targeted areas of the country.
+
+                         Has the Project Development Objective been changed since Board Approval of the Project?
+
+                            Yes           No
+
+                         Component(s)
+                         Component Name                                                                                                          Component Cost
+                         Transmission and Distribution Reinforcement and Extension                                                                        107.00
+                         Energy Efficiency and Demand-side Management                                                                                       5.00
+                         Capacity and Institutional Strengthening of Key Sector Institutions                                                                8.00
+
+                         Overall Ratings
+Public Disclosure Copy
+
+
+
+
+                                                                   Previous Rating                      Current Rating
+                         Progress towards achievement of PDO       Satisfactory                         Satisfactory
+                         Overall Implementation Progress (IP)      Satisfactory                         Satisfactory
+                         Overall Risk Rating
+
+
+                         Implementation Status Overview
+                         The project development objective is to improve the access and efficiency of electricity services in Bamako and in other targeted areas of the country. Key project activities are
+                         ongoing, including:
+                         - 30 kV distribution network reinforcements (evaluation stage)
+                         - CFLs (bidding documents issued)
+                         - Technical vehicles for EDM-SA (delivered)
+
+
+
+                                                                                                                                                                                                            Page 1 of 5
+                             The World Bank                                                                                      Report No: ISR2208
+
+
+
+                         Results
+Public Disclosure Copy
+
+
+
+
+                         Project Development Objective Indicators
+                         Indicator                                                            Baseline      Current       End Target
+                         Indicator Name                                                       Value         Value         Value
+                         Households connected to electricity provided by EDM SA in Bamako     252000.00     252000.00     382000.00
+                                                                                              Date          Date          Date
+                                                                                              30-Sep-2009   30-Sep-2009   30-Sep-2014
+                         Type                    Unit of Measure                              Comment       Comment       Comment
+                         Custom Indicator        Number
+                         Indicator                                                            Baseline      Current       End Target
+                         Indicator Name                                                       Value         Value         Value
+                         Households connected to electricity provided by EDM SA in other      131000.00     131000.00     182000.00
+                         targeted areas of the country
+                                                                                              Date          Date          Date
+                                                                                              30-Sep-2009   30-Sep-2009   30-Sep-2014
+                         Type                    Unit of Measure                              Comment       Comment       Comment
+                         Custom Indicator        Number
+                         Indicator                                                            Baseline      Current       End Target
+                         Indicator Name                                                       Value         Value         Value
+                         Percentage reduction of technical losses (based on electricity       12.00         12.00         10.00
+                         distributed)
+                                                                                              Date          Date          Date
+                                                                                              30-Sep-2009   19-May-2010   30-Sep-2014
+                         Type                    Unit of Measure                              Comment       Comment       Comment
+                         Custom Indicator        Percentage
+                         Indicator                                                            Baseline      Current       End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                       Value         Value         Value
+                         Percentage reduction of non-technical losses (based on electricity   7.00          7.00          5.00
+                         distributed)
+                                                                                              Date          Date          Date
+                                                                                              30-Sep-2009   19-May-2010   30-Sep-2014
+                         Type                    Unit of Measure                              Comment       Comment       Comment
+                         Custom Indicator        Percentage
+
+
+
+
+                                                                                                                                                  Page 2 of 5
+                             The World Bank                                                                                       Report No: ISR2208
+
+
+
+
+                         Indicator                                                             Baseline      Current       End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                        Value         Value         Value
+                         Peak load reduction in Mawatts                                        0.00          0.00          20.00
+                                                                                               Date          Date          Date
+                                                                                               30-Sep-2009   19-May-2010   30-Sep-2014
+                         Type                    Unit of Measure                               Comment       Comment       Comment
+                         Custom Indicator        Number
+                         Indicator                                                             Baseline      Current       End Target
+                         Indicator Name                                                        Value         Value         Value
+                         Number of people in urban areas provided with access to electricity   0.00          0.00          1086000.00
+                         under the project by household connections
+                                                                                               Date          Date          Date
+                                                                                               30-Sep-2009   29-May-2010   30-Sep-2014
+                         Type                    Unit of Measure                               Comment       Comment       Comment
+                         Core Indicator          Number
+                         Indicator                                                             Baseline      Current       End Target
+                         Indicator Name                                                        Value         Value         Value
+                         Bamako                                                                0.00          0.00          780000.00
+                                                                                               Date          Date          Date
+                                                                                               30-Sep-2009   19-May-2010   30-Sep-2014
+                         Type                    Unit of Measure         Sub-Type              Comment       Comment       Comment
+                         Core Indicator          Number                  Breakdown
+                         Indicator                                                             Baseline      Current       End Target
+                         Indicator Name                                                        Value         Value         Value
+                         Other Targeted Areas                                                  0.00          0.00          306000.00
+Public Disclosure Copy
+
+
+
+
+                                                                                               Date          Date          Date
+                                                                                               30-Sep-2009   19-May-2010   30-Sep-2014
+                         Type                    Unit of Measure         Sub-Type              Comment       Comment       Comment
+                         Core Indicator          Number                  Breakdown
+
+
+                         Intermediate Results Indicators
+
+
+
+
+                                                                                                                                                   Page 3 of 5
+                             The World Bank                                                                                                             Report No: ISR2208
+
+
+
+
+                         Indicator                                                    Baseline                    Current                        End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                               Value                       Value                          Value
+                         New connections established                                  201539.00                   201539.00                      296700.00
+                                                                                      Date                        Date                           Date
+                                                                                      30-Sep-2009                 19-May-2010                    30-Sep-2014
+                         Type                     Unit of Measure                     Comment                     Comment                        Comment
+                         Custom Indicator         Number
+                         Indicator                                                    Baseline                    Current                        End Target
+                         Indicator Name                                               Value                       Value                          Value
+                         CFLsused by households                                       0.00                        0.00                           1000000.00
+                                                                                      Date                        Date                           Date
+                                                                                      30-Sep-2009                 19-May-2010                    30-Sep-2014
+                         Type                     Unit of Measure                     Comment                     Comment                        Comment
+                         Custom Indicator         Number
+                         Indicator                                                    Baseline                    Current                        End Target
+                         Indicator Name                                               Value                       Value                          Value
+                         Number of efficient lamps installed for public lighting      0.00                        0.00                           15000.00
+                                                                                      Date                        Date                           Date
+                                                                                      30-Sep-2009                 19-May-2010                    30-Sep-2014
+                         Type                     Unit of Measure                     Comment                     Comment                        Comment
+                         Custom Indicator         Number
+                         Indicator                                                    Baseline                    Current                        End Target
+                         Indicator Name                                               Value                       Value                          Value
+                         Promotional campaigns organized                              0.00                        0.00                           50.00
+Public Disclosure Copy
+
+
+
+
+                                                                                      Date                        Date                           Date
+                                                                                      30-Sep-2009                 19-May-2010                    30-Sep-2014
+                         Type                     Unit of Measure                     Comment                     Comment                        Comment
+                         Custom Indicator         Number
+
+                         Data on Financial Performance (as of 10-Dec-2010)
+                         Financial Agreement(s) Key Dates
+                         Project                Loan No.                  Status             Approval Date   Signing Date       Effectiveness Date            Closing Date
+                         P108440                IDA-46170                 Effective          18-Jun-2009     26-Jun-2009        25-Nov-2009                   30-Sep-2014
+
+                         Disbursements (in Millions)
+
+
+                                                                                                                                                                             Page 4 of 5
+                              The World Bank                                                                                                                          Report No: ISR2208
+
+
+                         Project               Loan No.             Status      Currency   Original           Revised           Cancelled          Disbursed           Undisbursed      % Disbursed
+                         P108440               IDA-46170            Effective   XDR                   80.70             80.70               0.00               1.02             79.68          1.00
+Public Disclosure Copy
+
+
+
+
+                         Disbursement Graph
+
+
+
+
+                         Key Decisions Regarding Implementation
+                         NA
+
+                         Restructuring History
+                         There has been no restructuring to date.
+Public Disclosure Copy
+
+
+
+
+                         Related Projects
+                         There are no related projects.
+
+
+
+
+                                                                                                                                                                                        Page 5 of 5
+

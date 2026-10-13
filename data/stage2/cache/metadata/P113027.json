@@ -1,0 +1,926 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 7,
+  "documents": {
+    "D17763908": {
+      "id": "17763908",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Nchare, Amadou"
+        }
+      },
+      "count": "Cameroon",
+      "docna": {
+        "0": {
+          "docna": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "CM-CM-Community Development Program Support Project Phase-II -- P113027",
+      "subsc": "FY17 - Water Supply,FY17 - Social Protection,FY17 - Health,FY17 - Other Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Rural Development,FY17 - Air quality management,FY17 - Social Inclusion,FY17 - Municipal Institution Building,FY17 - Participation and Civic Engagement,FY17 - Soil Pollution,FY17 - Active Labor Market Programs,FY17 - Public Administration,FY17 - Labor Market Institutions,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution,FY17 - Labor Market Policy and Programs",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081bf79a3_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Public Sector Management,FY17 - Human Development and Gender,FY17 - Environment and Natural Resource Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Global Environment,Health Care Services Industry,Hydrology,Services & Transfers to Poor",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Social Protection"
+        },
+        "3": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "4": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR10100",
+      "docdt": "2013-05-27T04:00:00Z",
+      "datestored": "2013-05-27T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "adaptable program loan"
+        },
+        "1": {
+          "keywd": "land use and management"
+        },
+        "2": {
+          "keywd": "basic social service"
+        },
+        "3": {
+          "keywd": "land use plan"
+        },
+        "4": {
+          "keywd": "health care facility"
+        },
+        "5": {
+          "keywd": "health care facilities"
+        },
+        "6": {
+          "keywd": "intergovernmental fiscal transfer"
+        },
+        "7": {
+          "keywd": "citizen control"
+        },
+        "8": {
+          "keywd": "draft law"
+        },
+        "9": {
+          "keywd": "counterpart funding"
+        },
+        "10": {
+          "keywd": "communal development"
+        },
+        "11": {
+          "keywd": "health facility"
+        },
+        "12": {
+          "keywd": "financial agreement"
+        },
+        "13": {
+          "keywd": "disbursement rate"
+        },
+        "14": {
+          "keywd": "project's progress"
+        },
+        "15": {
+          "keywd": "government approval"
+        },
+        "16": {
+          "keywd": "education facility"
+        },
+        "17": {
+          "keywd": "Results Page"
+        },
+        "18": {
+          "keywd": "mitigation measure"
+        },
+        "19": {
+          "keywd": "project grant"
+        },
+        "20": {
+          "keywd": "rural area"
+        },
+        "21": {
+          "keywd": "financial staff"
+        },
+        "22": {
+          "keywd": "achievement rate"
+        },
+        "23": {
+          "keywd": "financing instrument"
+        },
+        "24": {
+          "keywd": "project impact"
+        },
+        "25": {
+          "keywd": "management committee"
+        },
+        "26": {
+          "keywd": "unexpected changes"
+        },
+        "27": {
+          "keywd": "decentralization framework"
+        },
+        "28": {
+          "keywd": "Public Services"
+        },
+        "29": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2013-05-28T03:48:36Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/595301468214182848/pdf/ISR-Disclosable-P113027-05-27-2013-1369712908507.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/595301468214182848/text/ISR-Disclosable-P113027-05-27-2013-1369712908507.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081bf79a3",
+      "totvolnb": "1",
+      "projectid": "P113027",
+      "guid": "595301468214182848",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/595301468214182848"
+    },
+    "D16920316": {
+      "id": "16920316",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Nchare, Amadou"
+        }
+      },
+      "count": "Cameroon",
+      "docna": {
+        "0": {
+          "docna": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "CM-CM-Community Development Program Support Project Phase-II -- P113027",
+      "subsc": "FY17 - Water Supply,FY17 - Social Protection,FY17 - Health,FY17 - Other Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Rural Development,FY17 - Air quality management,FY17 - Social Inclusion,FY17 - Municipal Institution Building,FY17 - Participation and Civic Engagement,FY17 - Soil Pollution,FY17 - Active Labor Market Programs,FY17 - Public Administration,FY17 - Labor Market Institutions,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution,FY17 - Labor Market Policy and Programs",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08174cd71_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Public Sector Management,FY17 - Human Development and Gender,FY17 - Environment and Natural Resource Management,FY17 - Social Development and Protection",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Social Protection"
+        },
+        "3": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "4": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR7843",
+      "docdt": "2012-11-06T05:00:00Z",
+      "datestored": "2012-11-06T05:00:00Z",
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2012-11-06T09:55:59Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/745031468222280102/pdf/ISR-Disclosable-P113027-11062012-1352195759061.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/745031468222280102/text/ISR-Disclosable-P113027-11062012-1352195759061.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08174cd71",
+      "totvolnb": "1",
+      "projectid": "P113027",
+      "guid": "745031468222280102",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/745031468222280102"
+    },
+    "D18726332": {
+      "id": "18726332",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Nchare, Amadou"
+        }
+      },
+      "count": "Cameroon",
+      "docna": {
+        "0": {
+          "docna": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "CM-CM-Community Development Program Support Project Phase-II -- P113027",
+      "subsc": "FY17 - Water Supply,FY17 - Social Protection,FY17 - Health,FY17 - Other Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Rural Development,FY17 - Air quality management,FY17 - Social Inclusion,FY17 - Municipal Institution Building,FY17 - Participation and Civic Engagement,FY17 - Soil Pollution,FY17 - Active Labor Market Programs,FY17 - Public Administration,FY17 - Labor Market Institutions,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution,FY17 - Labor Market Policy and Programs",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0821862ac_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Public Sector Management,FY17 - Human Development and Gender,FY17 - Environment and Natural Resource Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Global Environment,Health Care Services Industry,Hydrology,Services & Transfers to Poor",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Social Protection"
+        },
+        "3": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "4": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR12839",
+      "docdt": "2013-12-29T05:00:00Z",
+      "datestored": "2013-12-29T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "adaptable program loan"
+        },
+        "1": {
+          "keywd": "land use and management"
+        },
+        "2": {
+          "keywd": "intergovernmental fiscal transfer"
+        },
+        "3": {
+          "keywd": "health care facility"
+        },
+        "4": {
+          "keywd": "health care facilities"
+        },
+        "5": {
+          "keywd": "land use plan"
+        },
+        "6": {
+          "keywd": "basic social service"
+        },
+        "7": {
+          "keywd": "process of decentralization"
+        },
+        "8": {
+          "keywd": "citizen control"
+        },
+        "9": {
+          "keywd": "health facility"
+        },
+        "10": {
+          "keywd": "achievement rate"
+        },
+        "11": {
+          "keywd": "financial agreement"
+        },
+        "12": {
+          "keywd": "financial staff"
+        },
+        "13": {
+          "keywd": "education facility"
+        },
+        "14": {
+          "keywd": "community water"
+        },
+        "15": {
+          "keywd": "financing agreement"
+        },
+        "16": {
+          "keywd": "disbursement rate"
+        },
+        "17": {
+          "keywd": "counterpart funding"
+        },
+        "18": {
+          "keywd": "draft law"
+        },
+        "19": {
+          "keywd": "government approval"
+        },
+        "20": {
+          "keywd": "communal development"
+        },
+        "21": {
+          "keywd": "decentralization framework"
+        },
+        "22": {
+          "keywd": "rural area"
+        },
+        "23": {
+          "keywd": "result indicator"
+        },
+        "24": {
+          "keywd": "financing instrument"
+        },
+        "25": {
+          "keywd": "project grant"
+        },
+        "26": {
+          "keywd": "community support"
+        },
+        "27": {
+          "keywd": "project impact"
+        },
+        "28": {
+          "keywd": "formal restructuring"
+        },
+        "29": {
+          "keywd": "mitigation measure"
+        },
+        "30": {
+          "keywd": "Public Services"
+        },
+        "31": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2013-12-29T08:26:30Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/246131468011708305/pdf/ISR-Disclosable-P113027-12-29-2013-1388305581481.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/246131468011708305/text/ISR-Disclosable-P113027-12-29-2013-1388305581481.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0821862ac",
+      "totvolnb": "1",
+      "projectid": "P113027",
+      "guid": "246131468011708305",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/246131468011708305"
+    },
+    "D16898556": {
+      "id": "16898556",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Sene"
+        },
+        "1": {
+          "author": "Sene, Manievel"
+        }
+      },
+      "count": "Cameroon",
+      "docna": {
+        "0": {
+          "docna": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "CM-CM-Community Development Program Support Project Phase-II -- P113027",
+      "subsc": "FY17 - Water Supply,FY17 - Social Protection,FY17 - Health,FY17 - Other Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Rural Development,FY17 - Air quality management,FY17 - Social Inclusion,FY17 - Municipal Institution Building,FY17 - Participation and Civic Engagement,FY17 - Soil Pollution,FY17 - Active Labor Market Programs,FY17 - Public Administration,FY17 - Labor Market Institutions,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution,FY17 - Labor Market Policy and Programs",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081268a0c_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Public Sector Management,FY17 - Human Development and Gender,FY17 - Environment and Natural Resource Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Crime and Society,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Hydrology,Services & Transfers to Poor",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Social Protection"
+        },
+        "3": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "4": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR5939",
+      "docdt": "2012-02-24T05:00:00Z",
+      "datestored": "2012-02-24T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "adaptable program loan"
+        },
+        "1": {
+          "keywd": "land use and management"
+        },
+        "2": {
+          "keywd": "basic social service"
+        },
+        "3": {
+          "keywd": "health care facilities"
+        },
+        "4": {
+          "keywd": "land use plan"
+        },
+        "5": {
+          "keywd": "health care facility"
+        },
+        "6": {
+          "keywd": "education facility"
+        },
+        "7": {
+          "keywd": "rural area"
+        },
+        "8": {
+          "keywd": "counterpart funding"
+        },
+        "9": {
+          "keywd": "disbursement rate"
+        },
+        "10": {
+          "keywd": "financial staff"
+        },
+        "11": {
+          "keywd": "Public Services"
+        },
+        "12": {
+          "keywd": "official rules"
+        },
+        "13": {
+          "keywd": "sectoral ministries"
+        },
+        "14": {
+          "keywd": "citizen control"
+        },
+        "15": {
+          "keywd": "unexpected changes"
+        },
+        "16": {
+          "keywd": "project grant"
+        },
+        "17": {
+          "keywd": "financial agreement"
+        },
+        "18": {
+          "keywd": "decentralization framework"
+        },
+        "19": {
+          "keywd": "financing instrument"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 06",
+      "pdfurl": "http://documents.worldbank.org/curated/en/146181468769444057/pdf/P1130270ISR0Di024201201330078016752.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/146181468769444057/text/P1130270ISR0Di024201201330078016752.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081268a0c",
+      "totvolnb": "1",
+      "projectid": "P113027",
+      "guid": "146181468769444057",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/146181468769444057"
+    },
+    "D13746148": {
+      "id": "13746148",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Sene, Manievel"
+        }
+      },
+      "count": "Cameroon",
+      "docna": {
+        "0": {
+          "docna": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "CM-CM-Community Development Program Support Project Phase-II -- P113027",
+      "subsc": "FY17 - Water Supply,FY17 - Social Protection,FY17 - Health,FY17 - Other Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Rural Development,FY17 - Air quality management,FY17 - Social Inclusion,FY17 - Municipal Institution Building,FY17 - Participation and Civic Engagement,FY17 - Soil Pollution,FY17 - Active Labor Market Programs,FY17 - Public Administration,FY17 - Labor Market Institutions,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution,FY17 - Labor Market Policy and Programs",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011020811260048"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Public Sector Management,FY17 - Human Development and Gender,FY17 - Environment and Natural Resource Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Global Environment,Health Care Services Industry,Hydrology,Services & Transfers to Poor",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Social Protection"
+        },
+        "3": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "4": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2011-02-08T05:00:00Z",
+      "datestored": "2011-02-08T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "access to health care facility"
+        },
+        "1": {
+          "keywd": "adaptable program loan"
+        },
+        "2": {
+          "keywd": "local service provider"
+        },
+        "3": {
+          "keywd": "Access to Education"
+        },
+        "4": {
+          "keywd": "process of decentralization"
+        },
+        "5": {
+          "keywd": "basic social service"
+        },
+        "6": {
+          "keywd": "counterpart funding"
+        },
+        "7": {
+          "keywd": "rural area"
+        },
+        "8": {
+          "keywd": "project grant"
+        },
+        "9": {
+          "keywd": "communal development"
+        },
+        "10": {
+          "keywd": "financial agreement"
+        },
+        "11": {
+          "keywd": "disbursement rate"
+        },
+        "12": {
+          "keywd": "mitigation measure"
+        },
+        "13": {
+          "keywd": "citizen control"
+        },
+        "14": {
+          "keywd": "decentralization framework"
+        },
+        "15": {
+          "keywd": "community support"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2011-02-08T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/319701468768847183/pdf/P1130270ISR0Di020820111297182359731.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/319701468768847183/text/P1130270ISR0Di020820111297182359731.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b080a64c96",
+      "projectid": "P113027",
+      "guid": "319701468768847183",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/319701468768847183"
+    },
+    "D14701409": {
+      "id": "14701409",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Sene, Manievel"
+        }
+      },
+      "count": "Cameroon",
+      "docna": {
+        "0": {
+          "docna": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "CM-CM-Community Development Program Support Project Phase-II -- P113027",
+      "subsc": "FY17 - Water Supply,FY17 - Social Protection,FY17 - Health,FY17 - Other Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Rural Development,FY17 - Air quality management,FY17 - Social Inclusion,FY17 - Municipal Institution Building,FY17 - Participation and Civic Engagement,FY17 - Soil Pollution,FY17 - Active Labor Market Programs,FY17 - Public Administration,FY17 - Labor Market Institutions,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution,FY17 - Labor Market Policy and Programs",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011080118250709"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Public Sector Management,FY17 - Human Development and Gender,FY17 - Environment and Natural Resource Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Global Environment,Health Care Services Industry,Hydrology,Services & Transfers to Poor",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Social Protection"
+        },
+        "3": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "4": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2011-08-01T04:00:00Z",
+      "datestored": "2011-08-01T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "adaptable program loan"
+        },
+        "1": {
+          "keywd": "land use and management"
+        },
+        "2": {
+          "keywd": "basic social service"
+        },
+        "3": {
+          "keywd": "health care facilities"
+        },
+        "4": {
+          "keywd": "local service provider"
+        },
+        "5": {
+          "keywd": "health care facility"
+        },
+        "6": {
+          "keywd": "education facility"
+        },
+        "7": {
+          "keywd": "project grant"
+        },
+        "8": {
+          "keywd": "communal development"
+        },
+        "9": {
+          "keywd": "rural area"
+        },
+        "10": {
+          "keywd": "mitigation measure"
+        },
+        "11": {
+          "keywd": "citizen control"
+        },
+        "12": {
+          "keywd": "counterpart funding"
+        },
+        "13": {
+          "keywd": "disbursement rate"
+        },
+        "14": {
+          "keywd": "decentralization framework"
+        },
+        "15": {
+          "keywd": "financial agreement"
+        },
+        "16": {
+          "keywd": "health facility"
+        },
+        "17": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 05",
+      "pdfurl": "http://documents.worldbank.org/curated/en/254521468770468955/pdf/P1130270ISR0Di001201101312237506358.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/254521468770468955/text/P1130270ISR0Di001201101312237506358.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b080e91549",
+      "projectid": "P113027",
+      "guid": "254521468770468955",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/254521468770468955"
+    },
+    "D13256776": {
+      "id": "13256776",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Sene, Manievel"
+        }
+      },
+      "count": "Cameroon",
+      "docna": {
+        "0": {
+          "docna": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "CM-CM-Community Development Program Support Project Phase-II -- P113027",
+      "subsc": "FY17 - Water Supply,FY17 - Social Protection,FY17 - Health,FY17 - Other Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Rural Development,FY17 - Air quality management,FY17 - Social Inclusion,FY17 - Municipal Institution Building,FY17 - Participation and Civic Engagement,FY17 - Soil Pollution,FY17 - Active Labor Market Programs,FY17 - Public Administration,FY17 - Labor Market Institutions,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution,FY17 - Labor Market Policy and Programs",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2010121808120676"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Public Sector Management,FY17 - Human Development and Gender,FY17 - Environment and Natural Resource Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Global Environment,Health Care Services Industry,Hydrology,Services & Transfers to Poor",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Social Protection"
+        },
+        "3": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "4": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2010-12-18T05:00:00Z",
+      "datestored": "2010-12-18T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Indicator Baseline"
+        },
+        "1": {
+          "keywd": "access to health care facility"
+        },
+        "2": {
+          "keywd": "adaptable program loan"
+        },
+        "3": {
+          "keywd": "Environmental and Social Safeguard"
+        },
+        "4": {
+          "keywd": "basic social service"
+        },
+        "5": {
+          "keywd": "Access to Education"
+        },
+        "6": {
+          "keywd": "process of decentralization"
+        },
+        "7": {
+          "keywd": "rural area"
+        },
+        "8": {
+          "keywd": "communal development"
+        },
+        "9": {
+          "keywd": "project grant"
+        },
+        "10": {
+          "keywd": "community council"
+        },
+        "11": {
+          "keywd": "mitigation measure"
+        },
+        "12": {
+          "keywd": "citizen control"
+        },
+        "13": {
+          "keywd": "counterpart funding"
+        },
+        "14": {
+          "keywd": "disbursement rate"
+        },
+        "15": {
+          "keywd": "local planning"
+        },
+        "16": {
+          "keywd": "decentralization framework"
+        },
+        "17": {
+          "keywd": "community support"
+        },
+        "18": {
+          "keywd": "procurement procedure"
+        },
+        "19": {
+          "keywd": "financial agreement"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Cameroon - CM-Community Development Program Support Project Phase-II : P113027 - Implementation Status Results Report : Sequence 03",
+      "disclosure_date": "2010-12-18T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/989541468769467305/pdf/P1130270ISR0Di021820101292677925797.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/989541468769467305/text/P1130270ISR0Di021820101292677925797.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08034fb53",
+      "projectid": "P113027",
+      "guid": "989541468769467305",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/989541468769467305"
+    },
+    "facets": {}
+  }
+}

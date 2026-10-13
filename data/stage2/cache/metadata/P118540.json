@@ -1,0 +1,1762 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 15,
+  "documents": {
+    "D26409356": {
+      "id": "26409356",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08436c200_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Cholera,Communicable Diseases,Food Security,Health and Sanitation,Hydrology,Leprosy,Rural Roads & Transport,Tuberculosis",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR23656",
+      "docdt": "2016-05-26T04:00:00Z",
+      "datestored": "2016-05-26T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "risk category"
+        },
+        "2": {
+          "keywd": "public service activity"
+        },
+        "3": {
+          "keywd": "public program"
+        },
+        "4": {
+          "keywd": "water resource"
+        },
+        "5": {
+          "keywd": "participatory planning"
+        },
+        "6": {
+          "keywd": "sustainable production"
+        },
+        "7": {
+          "keywd": "public financing"
+        },
+        "8": {
+          "keywd": "rural business"
+        },
+        "9": {
+          "keywd": "legal instrument"
+        },
+        "10": {
+          "keywd": "forest production"
+        },
+        "11": {
+          "keywd": "annual sale"
+        },
+        "12": {
+          "keywd": "sanitary standard"
+        },
+        "13": {
+          "keywd": "Education Policy"
+        },
+        "14": {
+          "keywd": "investment loan"
+        },
+        "15": {
+          "keywd": "average revenue"
+        },
+        "16": {
+          "keywd": "borrower's territory"
+        },
+        "17": {
+          "keywd": "agriculture technology"
+        },
+        "18": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 12"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 12",
+      "disclosure_date": "2016-05-26T20:31:45Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/445951468225591037/pdf/ISR-Disclosable-P118540-05-26-2016-1464294691733.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/445951468225591037/text/ISR-Disclosable-P118540-05-26-2016-1464294691733.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08436c200",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "445951468225591037",
+      "origu": "Agriculture and Food PG LAC (SLCAG)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/445951468225591037"
+    },
+    "D23174312": {
+      "id": "23174312",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082987b93_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Cholera,Communicable Diseases,Food Security,Health and Sanitation,Hydrology,Leprosy,Rural Roads & Transport,Tuberculosis",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR17288",
+      "docdt": "2015-01-06T05:00:00Z",
+      "datestored": "2015-01-06T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "Water Resource Management"
+        },
+        "2": {
+          "keywd": "public service activity"
+        },
+        "3": {
+          "keywd": "Linked to Disbursement"
+        },
+        "4": {
+          "keywd": "annual sale"
+        },
+        "5": {
+          "keywd": "road investment"
+        },
+        "6": {
+          "keywd": "Education Policy"
+        },
+        "7": {
+          "keywd": "rural business"
+        },
+        "8": {
+          "keywd": "public program"
+        },
+        "9": {
+          "keywd": "participatory planning"
+        },
+        "10": {
+          "keywd": "sustainable production"
+        },
+        "11": {
+          "keywd": "public financing"
+        },
+        "12": {
+          "keywd": "restructuring process"
+        },
+        "13": {
+          "keywd": "financial targets"
+        },
+        "14": {
+          "keywd": "borrower's territory"
+        },
+        "15": {
+          "keywd": "project indicator"
+        },
+        "16": {
+          "keywd": "average revenue"
+        },
+        "17": {
+          "keywd": "forest production"
+        },
+        "18": {
+          "keywd": "agriculture technology"
+        },
+        "19": {
+          "keywd": "sanitary standard"
+        },
+        "20": {
+          "keywd": "investment loan"
+        },
+        "21": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2015-01-06T22:28:33Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/116041468020399152/pdf/ISR-Disclosable-P118540-01-06-2015-1420583302488.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/116041468020399152/text/ISR-Disclosable-P118540-01-06-2015-1420583302488.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082987b93",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "116041468020399152",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/116041468020399152"
+    },
+    "D19758810": {
+      "id": "19758810",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08255356b_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Educational Sciences,Food Security,Health and Sanitation,Hydrology,Rural Roads & Transport",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR14699",
+      "docdt": "2014-07-02T04:00:00Z",
+      "datestored": "2014-07-02T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "Linked to Disbursement"
+        },
+        "2": {
+          "keywd": "Water Resource Management"
+        },
+        "3": {
+          "keywd": "rural development fund"
+        },
+        "4": {
+          "keywd": "public service activity"
+        },
+        "5": {
+          "keywd": "participatory planning"
+        },
+        "6": {
+          "keywd": "rural business"
+        },
+        "7": {
+          "keywd": "sustainable production"
+        },
+        "8": {
+          "keywd": "public financing"
+        },
+        "9": {
+          "keywd": "financial targets"
+        },
+        "10": {
+          "keywd": "average revenue"
+        },
+        "11": {
+          "keywd": "forest production"
+        },
+        "12": {
+          "keywd": "agriculture technology"
+        },
+        "13": {
+          "keywd": "sanitary standard"
+        },
+        "14": {
+          "keywd": "borrower's territory"
+        },
+        "15": {
+          "keywd": "annual sale"
+        },
+        "16": {
+          "keywd": "financial agreement"
+        },
+        "17": {
+          "keywd": "small entrepreneur"
+        },
+        "18": {
+          "keywd": "Indigenous Peoples"
+        },
+        "19": {
+          "keywd": "farmer"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2014-07-02T23:17:01Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/176141468229487963/pdf/ISR-Disclosable-P118540-07-02-2014-1404342989129.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/176141468229487963/text/ISR-Disclosable-P118540-07-02-2014-1404342989129.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08255356b",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "176141468229487963",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/176141468229487963"
+    },
+    "D18670853": {
+      "id": "18670853",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08214906e_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Educational Sciences,Food Security,Global Environment,Hydrology,Rural Roads & Transport",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR12815",
+      "docdt": "2013-12-17T05:00:00Z",
+      "datestored": "2013-12-17T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Water Resource Management"
+        },
+        "1": {
+          "keywd": "share of state"
+        },
+        "2": {
+          "keywd": "public service activity"
+        },
+        "3": {
+          "keywd": "rural development fund"
+        },
+        "4": {
+          "keywd": "disbursement linked indicators"
+        },
+        "5": {
+          "keywd": "participatory planning"
+        },
+        "6": {
+          "keywd": "loan proceeds"
+        },
+        "7": {
+          "keywd": "forest production"
+        },
+        "8": {
+          "keywd": "environmental conservation"
+        },
+        "9": {
+          "keywd": "public program"
+        },
+        "10": {
+          "keywd": "rural business"
+        },
+        "11": {
+          "keywd": "physical indicator"
+        },
+        "12": {
+          "keywd": "financial statement"
+        },
+        "13": {
+          "keywd": "Water Management"
+        },
+        "14": {
+          "keywd": "sustainable production"
+        },
+        "15": {
+          "keywd": "public financing"
+        },
+        "16": {
+          "keywd": "borrower's territory"
+        },
+        "17": {
+          "keywd": "annual sale"
+        },
+        "18": {
+          "keywd": "financial agreement"
+        },
+        "19": {
+          "keywd": "results framework"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2013-12-18T01:12:08Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/420361468013845225/pdf/ISR-Disclosable-P118540-12-17-2013-1387329115780.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/420361468013845225/text/ISR-Disclosable-P118540-12-17-2013-1387329115780.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08214906e",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "420361468013845225",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/420361468013845225"
+    },
+    "D17891509": {
+      "id": "17891509",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081c8872d_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Educational Sciences,Food Security,Hydrology,Law and Justice Institutions,Rural Roads & Transport",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR10485",
+      "docdt": "2013-06-19T04:00:00Z",
+      "datestored": "2013-06-19T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "participatory planning"
+        },
+        "1": {
+          "keywd": "share of state"
+        },
+        "2": {
+          "keywd": "public service activity"
+        },
+        "3": {
+          "keywd": "funding share"
+        },
+        "4": {
+          "keywd": "annual sale"
+        },
+        "5": {
+          "keywd": "contingency plan"
+        },
+        "6": {
+          "keywd": "financial agreement"
+        },
+        "7": {
+          "keywd": "resources management"
+        },
+        "8": {
+          "keywd": "autonomous institute"
+        },
+        "9": {
+          "keywd": "borrower's territory"
+        },
+        "10": {
+          "keywd": "rural business"
+        },
+        "11": {
+          "keywd": "public financing"
+        },
+        "12": {
+          "keywd": "forest production"
+        },
+        "13": {
+          "keywd": "sustainable production"
+        },
+        "14": {
+          "keywd": "water resource"
+        },
+        "15": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2013-06-19T19:49:40Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/677721468239992039/pdf/ISR-Disclosable-P118540-06-19-2013-1371671370064.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/677721468239992039/text/ISR-Disclosable-P118540-06-19-2013-1371671370064.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081c8872d",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "677721468239992039",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/677721468239992039"
+    },
+    "D26986320": {
+      "id": "26986320",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 13"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084761935_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Cholera,Communicable Diseases,Food Security,Health and Sanitation,Hydrology,Leprosy,Rural Roads & Transport,Tuberculosis",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR25794",
+      "docdt": "2016-11-30T05:00:00Z",
+      "datestored": "2016-11-30T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "risk category"
+        },
+        "2": {
+          "keywd": "public service activity"
+        },
+        "3": {
+          "keywd": "public program"
+        },
+        "4": {
+          "keywd": "water resource"
+        },
+        "5": {
+          "keywd": "participatory planning"
+        },
+        "6": {
+          "keywd": "sustainable production"
+        },
+        "7": {
+          "keywd": "public financing"
+        },
+        "8": {
+          "keywd": "rural business"
+        },
+        "9": {
+          "keywd": "legal instrument"
+        },
+        "10": {
+          "keywd": "forest production"
+        },
+        "11": {
+          "keywd": "annual sale"
+        },
+        "12": {
+          "keywd": "sanitary standard"
+        },
+        "13": {
+          "keywd": "Education Policy"
+        },
+        "14": {
+          "keywd": "investment loan"
+        },
+        "15": {
+          "keywd": "average revenue"
+        },
+        "16": {
+          "keywd": "borrower's territory"
+        },
+        "17": {
+          "keywd": "agriculture technology"
+        },
+        "18": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 13"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 13",
+      "disclosure_date": "2016-11-30T22:56:19Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/180861480546580708/pdf/ISR-Disclosable-P118540-11-30-2016-1480546557141.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/180861480546580708/text/ISR-Disclosable-P118540-11-30-2016-1480546557141.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084761935",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "180861480546580708",
+      "origu": "Agriculture and Food PG LAC (SLCAG)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/180861480546580708"
+    },
+    "D27538629": {
+      "id": "27538629",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 14"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084c337d4_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Cholera,Communicable Diseases,Food Security,Health and Sanitation,Hydrology,Leprosy,Rural Roads & Transport,Tuberculosis",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR27801",
+      "docdt": "2017-06-03T04:00:00Z",
+      "datestored": "2017-06-03T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "public service activity"
+        },
+        "2": {
+          "keywd": "public financing"
+        },
+        "3": {
+          "keywd": "annual sale"
+        },
+        "4": {
+          "keywd": "agriculture technology"
+        },
+        "5": {
+          "keywd": "sustainable production"
+        },
+        "6": {
+          "keywd": "Education Policy"
+        },
+        "7": {
+          "keywd": "average revenue"
+        },
+        "8": {
+          "keywd": "participatory planning"
+        },
+        "9": {
+          "keywd": "legal instrument"
+        },
+        "10": {
+          "keywd": "forest production"
+        },
+        "11": {
+          "keywd": "sanitary standard"
+        },
+        "12": {
+          "keywd": "borrower's territory"
+        },
+        "13": {
+          "keywd": "investment loan"
+        },
+        "14": {
+          "keywd": "water resource"
+        },
+        "15": {
+          "keywd": "rural business"
+        },
+        "16": {
+          "keywd": "public program"
+        },
+        "17": {
+          "keywd": "Agricultural Technology"
+        },
+        "18": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 14"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 14",
+      "disclosure_date": "2017-06-03T20:36:22Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/900791496522183725/pdf/ISR-Disclosable-P118540-06-03-2017-1496522172611.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/900791496522183725/text/ISR-Disclosable-P118540-06-03-2017-1496522172611.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084c337d4",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "900791496522183725",
+      "origu": "Agriculture and Food PG AFR2 (SAEA2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/900791496522183725"
+    },
+    "D24733096": {
+      "id": "24733096",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082fa644f_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Cholera,Communicable Diseases,Food Security,Health and Sanitation,Hydrology,Leprosy,Rural Roads & Transport,Tuberculosis",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR19736",
+      "docdt": "2015-06-29T04:00:00Z",
+      "datestored": "2015-06-29T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "public service activity"
+        },
+        "2": {
+          "keywd": "Linked to Disbursement"
+        },
+        "3": {
+          "keywd": "Water Resource Management"
+        },
+        "4": {
+          "keywd": "project indicator"
+        },
+        "5": {
+          "keywd": "financial targets"
+        },
+        "6": {
+          "keywd": "rural business"
+        },
+        "7": {
+          "keywd": "public program"
+        },
+        "8": {
+          "keywd": "agriculture technology"
+        },
+        "9": {
+          "keywd": "public financing"
+        },
+        "10": {
+          "keywd": "sustainable production"
+        },
+        "11": {
+          "keywd": "participatory planning"
+        },
+        "12": {
+          "keywd": "sanitary standard"
+        },
+        "13": {
+          "keywd": "Education Policy"
+        },
+        "14": {
+          "keywd": "investment loan"
+        },
+        "15": {
+          "keywd": "borrower's territory"
+        },
+        "16": {
+          "keywd": "average revenue"
+        },
+        "17": {
+          "keywd": "forest production"
+        },
+        "18": {
+          "keywd": "annual sale"
+        },
+        "19": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2015-06-29T22:35:34Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/960241468233068138/pdf/ISR-Disclosable-P118540-06-29-2015-1435617320347.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/960241468233068138/text/ISR-Disclosable-P118540-06-29-2015-1435617320347.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082fa644f",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "960241468233068138",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/960241468233068138"
+    },
+    "D17328890": {
+      "id": "17328890",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0818cab67_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR8828",
+      "docdt": "2013-01-27T05:00:00Z",
+      "datestored": "2013-01-27T05:00:00Z",
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2013-01-28T02:45:44Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/167101468224698787/pdf/ISR-Disclosable-P118540-01-27-2013-1359341135002.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/167101468224698787/text/ISR-Disclosable-P118540-01-27-2013-1359341135002.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0818cab67",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "167101468224698787",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/167101468224698787"
+    },
+    "D28206413": {
+      "id": "28206413",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Santa Catarina Rural Competitiveness - P118540 - Sequence No : 15"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b085360fe0_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Agricultural Economics,Business Cycles and Stabilization Policies,Common Carriers Industry,Food & Beverage Industry,Food Security,Hydrology,Livestock and Animal Husbandry,Plastics & Rubber Industry,Pulp & Paper Industry",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR30396",
+      "docdt": "2017-11-21T05:00:00Z",
+      "datestored": "2017-11-21T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "public service activity"
+        },
+        "2": {
+          "keywd": "Investment Project Financing"
+        },
+        "3": {
+          "keywd": "tourism plan"
+        },
+        "4": {
+          "keywd": "rural extension"
+        },
+        "5": {
+          "keywd": "legal instrument"
+        },
+        "6": {
+          "keywd": "annual sale"
+        },
+        "7": {
+          "keywd": "land use"
+        },
+        "8": {
+          "keywd": "production system"
+        },
+        "9": {
+          "keywd": "water user"
+        },
+        "10": {
+          "keywd": "agriculture technology"
+        },
+        "11": {
+          "keywd": "public program"
+        },
+        "12": {
+          "keywd": "average revenue"
+        },
+        "13": {
+          "keywd": "rural business"
+        },
+        "14": {
+          "keywd": "borrower's territory"
+        },
+        "15": {
+          "keywd": "participatory planning"
+        },
+        "16": {
+          "keywd": "sustainable production"
+        },
+        "17": {
+          "keywd": "water resource"
+        },
+        "18": {
+          "keywd": "public financing"
+        },
+        "19": {
+          "keywd": "Education Policy"
+        },
+        "20": {
+          "keywd": "sanitary standard"
+        },
+        "21": {
+          "keywd": "internet connection"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Santa Catarina Rural Competitiveness - P118540 - Sequence No : 15"
+      },
+      "display_title": "Disclosable Version of the ISR - Santa Catarina Rural Competitiveness - P118540 - Sequence No : 15",
+      "disclosure_date": "2017-11-21T14:27:47Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/391101511274468131/pdf/Disclosable-Version-of-the-ISR-Santa-Catarina-Rural-Competitiveness-P118540-Sequence-No-15.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/391101511274468131/text/Disclosable-Version-of-the-ISR-Santa-Catarina-Rural-Competitiveness-P118540-Sequence-No-15.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b085360fe0",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "391101511274468131",
+      "origu": "Agriculture and Food PG AFR2 (SAEA2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/391101511274468131"
+    },
+    "D25661977": {
+      "id": "25661977",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b083c428c8_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Cholera,Communicable Diseases,Food Security,Health and Sanitation,Hydrology,Leprosy,Rural Roads & Transport,Tuberculosis",
+      "teratopic": "Agriculture,Health, Nutrition and Population,Rural Development,Water Resources",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR21771",
+      "docdt": "2015-12-09T05:00:00Z",
+      "datestored": "2015-12-09T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "public service activity"
+        },
+        "2": {
+          "keywd": "management of watershed"
+        },
+        "3": {
+          "keywd": "forest production"
+        },
+        "4": {
+          "keywd": "agriculture technology"
+        },
+        "5": {
+          "keywd": "average revenue"
+        },
+        "6": {
+          "keywd": "sanitary standard"
+        },
+        "7": {
+          "keywd": "annual sale"
+        },
+        "8": {
+          "keywd": "rural business"
+        },
+        "9": {
+          "keywd": "public program"
+        },
+        "10": {
+          "keywd": "water resource"
+        },
+        "11": {
+          "keywd": "participatory planning"
+        },
+        "12": {
+          "keywd": "public financing"
+        },
+        "13": {
+          "keywd": "borrower's territory"
+        },
+        "14": {
+          "keywd": "Education Policy"
+        },
+        "15": {
+          "keywd": "investment loan"
+        },
+        "16": {
+          "keywd": "sustainable production"
+        },
+        "17": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2015-12-09T23:37:18Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/642171468231539064/pdf/Brazil-Santa-Catarina-Rural-Competitiveness-P118540-Implementation-Status-Results-Report-Sequence-11.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/642171468231539064/text/Brazil-Santa-Catarina-Rural-Competitiveness-P118540-Implementation-Status-Results-Report-Sequence-11.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b083c428c8",
+      "totvolnb": "1",
+      "historic_topic": "Agriculture,Health, Nutrition and Population,Rural Development,Water Resources",
+      "projectid": "P118540",
+      "guid": "642171468231539064",
+      "origu": "Agriculture - GP (GFADR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/642171468231539064"
+    },
+    "D16488517": {
+      "id": "16488517",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        },
+        "1": {
+          "author": "Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012071021192117"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Educational Sciences,Food Security,Hydrology,Law and Justice Institutions,Rural Roads & Transport",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR7419",
+      "docdt": "2012-07-10T04:00:00Z",
+      "datestored": "2012-07-10T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "public service activity"
+        },
+        "2": {
+          "keywd": "participatory planning"
+        },
+        "3": {
+          "keywd": "public financing"
+        },
+        "4": {
+          "keywd": "borrower's territory"
+        },
+        "5": {
+          "keywd": "annual sale"
+        },
+        "6": {
+          "keywd": "water resource"
+        },
+        "7": {
+          "keywd": "forest production"
+        },
+        "8": {
+          "keywd": "financial agreement"
+        },
+        "9": {
+          "keywd": "public fund"
+        },
+        "10": {
+          "keywd": "sustainable production"
+        },
+        "11": {
+          "keywd": "rural business"
+        },
+        "12": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 04",
+      "pdfurl": "http://documents.worldbank.org/curated/en/508101468769860570/pdf/ISR0Disclosabl010201201341969560897.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/508101468769860570/text/ISR0Disclosabl010201201341969560897.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08154b5f5",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "508101468769860570",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/508101468769860570"
+    },
+    "D15623495": {
+      "id": "15623495",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        },
+        "1": {
+          "author": "Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012011111162495"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Educational Institutions & Facilities,Educational Policy and Planning,Educational Policy and Planning - Institutional Development,Educational Policy and Planning - Ministry of Education,Food Security,Hydrology,Rural Roads & Transport,Water and Food Supply",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR5664",
+      "docdt": "2012-01-11T05:00:00Z",
+      "datestored": "2012-01-11T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "participatory planning"
+        },
+        "2": {
+          "keywd": "Water Resource Management"
+        },
+        "3": {
+          "keywd": "public service activity"
+        },
+        "4": {
+          "keywd": "sustainable production"
+        },
+        "5": {
+          "keywd": "public financing"
+        },
+        "6": {
+          "keywd": "rural business"
+        },
+        "7": {
+          "keywd": "Education Policy"
+        },
+        "8": {
+          "keywd": "forest production"
+        },
+        "9": {
+          "keywd": "digital inclusion"
+        },
+        "10": {
+          "keywd": "annual sale"
+        },
+        "11": {
+          "keywd": "financial agreement"
+        },
+        "12": {
+          "keywd": "borrower's territory"
+        },
+        "13": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 03",
+      "pdfurl": "http://documents.worldbank.org/curated/en/676201468742539737/pdf/P1185400ISR0Di011201201326298583264.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/676201468742539737/text/P1185400ISR0Di011201201326298583264.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0811b81e8",
+      "totvolnb": "1",
+      "projectid": "P118540",
+      "guid": "676201468742539737",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/676201468742539737"
+    },
+    "D15221924": {
+      "id": "15221924",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Arias Carballo, Diego"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011100514274624"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Educational Institutions & Facilities,Educational Policy and Planning,Educational Policy and Planning - Institutional Development,Educational Policy and Planning - Ministry of Education,Food Security,Hydrology,Law and Justice Institutions,Rural Roads & Transport",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "docdt": "2011-10-05T04:00:00Z",
+      "datestored": "2011-10-05T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "rural business"
+        },
+        "2": {
+          "keywd": "participatory planning"
+        },
+        "3": {
+          "keywd": "water resource"
+        },
+        "4": {
+          "keywd": "sustainable production"
+        },
+        "5": {
+          "keywd": "public financing"
+        },
+        "6": {
+          "keywd": "forest production"
+        },
+        "7": {
+          "keywd": "Education Policy"
+        },
+        "8": {
+          "keywd": "annual sale"
+        },
+        "9": {
+          "keywd": "financial agreement"
+        },
+        "10": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 02",
+      "pdfurl": "http://documents.worldbank.org/curated/en/629161468743816547/pdf/P1185400ISR0Di005201101317839265857.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/629161468743816547/text/P1185400ISR0Di005201101317839265857.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b080fab4d7",
+      "projectid": "P118540",
+      "guid": "629161468743816547",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/629161468743816547"
+    },
+    "D13849049": {
+      "id": "13849049",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Soler Bavosi, Alvaro Juan"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Santa Catarina Rural Competitiveness -- P118540",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Other Agriculture, Fishing and Forestry",
+      "theme": "FY17 - Finance for Development,FY17 - Environmental Health and Pollution Management,FY17 - Climate change,FY17 - Rural Development,FY17 - Adaptation,FY17 - Agriculture Finance,FY17 - Water Resource Management,FY17 - Air quality management,FY17 - Rural Markets,FY17 - Soil Pollution,FY17 - Water Institutions, Policies and Reform,FY17 - Mitigation,FY17 - Rural Infrastructure and service delivery,FY17 - Water Pollution",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011030200133349"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management,FY17 - Finance",
+      "subtopic": "Educational Institutions & Facilities,Educational Policy and Planning,Educational Policy and Planning - Institutional Development,Educational Policy and Planning - Ministry of Education,Food Security,Hydrology,Law and Justice Institutions,Rural Roads & Transport",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "2": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "docdt": "2011-03-02T05:00:00Z",
+      "datestored": "2011-03-02T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "share of state"
+        },
+        "1": {
+          "keywd": "public program"
+        },
+        "2": {
+          "keywd": "public financing"
+        },
+        "3": {
+          "keywd": "sustainable production"
+        },
+        "4": {
+          "keywd": "water resource"
+        },
+        "5": {
+          "keywd": "rural business"
+        },
+        "6": {
+          "keywd": "annual sale"
+        },
+        "7": {
+          "keywd": "Education Policy"
+        },
+        "8": {
+          "keywd": "financial agreement"
+        },
+        "9": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Brazil - Santa Catarina Rural Competitiveness : P118540 - Implementation Status Results Report : Sequence 01",
+      "disclosure_date": "2011-03-02T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/946251468770379507/pdf/P1185400ISR0Di030220111299042813035.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/946251468770379507/text/P1185400ISR0Di030220111299042813035.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08085ab8a",
+      "projectid": "P118540",
+      "guid": "946251468770379507",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/946251468770379507"
+    },
+    "facets": {}
+  }
+}

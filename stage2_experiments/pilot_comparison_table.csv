@@ -1,0 +1,15 @@
+project_id,snapshot_date,sequence,pdo_rating_current,ip_rating_current,disbursement_percentage,schedule_delay_months,actual_outcome,stage1_pred,stage1_p_successful,stage1_p_partially,stage1_p_unsuccessful
+P100968,2011-06-27,,,,,,Partially Successful,Successful,0.493,0.447,0.059
+P101614,2011-05-28,2.0,Moderately Unsatisfactory,Moderately Satisfactory,0.0,0.0,Partially Successful,Partially Successful,0.154,0.663,0.183
+P106752,2011-01-02,5.0,Moderately Satisfactory,Moderately Satisfactory,10.0,0.0,Partially Successful,Partially Successful,0.196,0.581,0.223
+P108440,2011-03-28,3.0,Satisfactory,Satisfactory,1.0,0.0,Partially Successful,Partially Successful,0.126,0.619,0.254
+P118560,2011-02-13,2.0,Satisfactory,Satisfactory,31.0,0.0,Partially Successful,Partially Successful,0.152,0.543,0.305
+P121328,2012-01-08,2.0,Satisfactory,Satisfactory,49.0,0.0,Partially Successful,Partially Successful,0.18,0.62,0.2
+P126033,2013-12-17,2.0,Satisfactory,Moderately Satisfactory,76.0,0.0,Partially Successful,Partially Successful,0.304,0.588,0.108
+P126364,2012-10-22,2.0,Satisfactory,Moderately Satisfactory,0.0,0.0,Partially Successful,Partially Successful,0.358,0.538,0.104
+P132101,2013-11-05,2.0,Satisfactory,Satisfactory,19.0,0.0,Partially Successful,Partially Successful,0.267,0.568,0.165
+P106589,2011-02-26,6.0,Moderately Satisfactory,Moderately Satisfactory,4.0,0.0,Successful,Partially Successful,0.315,0.615,0.07
+P113184,2012-12-14,2.0,Moderately Satisfactory,Satisfactory,8.0,0.0,Successful,Partially Successful,0.332,0.584,0.084
+P118540,2011-10-05,2.0,,Moderately Satisfactory,2.0,0.0,Successful,Partially Successful,0.214,0.603,0.183
+P126576,2012-12-15,2.0,Moderately Satisfactory,Moderately Satisfactory,0.0,0.0,Unsuccessful,Partially Successful,0.197,0.542,0.262
+P126791,2014-06-21,2.0,Moderately Satisfactory,Moderately Satisfactory,22.0,0.0,Unsuccessful,Partially Successful,0.312,0.573,0.115

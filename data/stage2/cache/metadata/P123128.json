@@ -1,0 +1,1647 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 13,
+  "documents": {
+    "D25671072": {
+      "id": "25671072",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Plevko, Snjezana"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b083c56dde_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Municipal Management and Reform,Services & Transfers to Poor,Social Development & Poverty,Social Protections & Assistance,Urban Governance and Management,Urban Housing,Urban Housing and Land Settlements",
+      "teratopic": "Communities and Human Settlements,Education,Macroeconomics and Economic Growth,Poverty Reduction,Public Sector Development,Social Protections and Labor,Urban Development",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR21824",
+      "docdt": "2015-12-14T05:00:00Z",
+      "datestored": "2015-12-14T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Social Protection & Labor Global"
+        },
+        "1": {
+          "keywd": "poor household"
+        },
+        "2": {
+          "keywd": "cash transfer program"
+        },
+        "3": {
+          "keywd": "targeting tool"
+        },
+        "4": {
+          "keywd": "vulnerable household"
+        },
+        "5": {
+          "keywd": "health monitoring"
+        },
+        "6": {
+          "keywd": "poor child"
+        },
+        "7": {
+          "keywd": "education outcome"
+        },
+        "8": {
+          "keywd": "public education"
+        },
+        "9": {
+          "keywd": "separate budget"
+        },
+        "10": {
+          "keywd": "cabinet approval"
+        },
+        "11": {
+          "keywd": "beneficiary list"
+        },
+        "12": {
+          "keywd": "payment method"
+        },
+        "13": {
+          "keywd": "investment loan"
+        },
+        "14": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2015-12-15T02:06:32Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/917871468030348398/pdf/Grenada-Grenada-Safety-Net-Advancement-Project-P123128-Implementation-Status-Results-Report-Sequence-08.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/917871468030348398/text/Grenada-Grenada-Safety-Net-Advancement-Project-P123128-Implementation-Status-Results-Report-Sequence-08.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b083c56dde",
+      "totvolnb": "1",
+      "historic_topic": "Communities and Human Settlements,Education,Macroeconomics and Economic Growth,Poverty Reduction,Public Sector Development,Social Protections and Labor,Urban Development",
+      "projectid": "P123128",
+      "guid": "917871468030348398",
+      "origu": "GSPDR - Social Protect &  Labor - GP",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/917871468030348398"
+    },
+    "D29521512": {
+      "id": "29521512",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Plevko, Snjezana"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Grenada Safety Net Advancement Project - P123128 - Sequence No : 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08557c5a6_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Municipal Management and Reform,Services & Transfers to Poor,Social Development & Poverty,Urban Governance and Management,Urban Housing,Urban Housing and Land Settlements",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR31052",
+      "docdt": "2018-01-19T05:00:00Z",
+      "datestored": "2018-01-19T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Social Protection & Labor Global"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "conditional cash transfer program"
+        },
+        "3": {
+          "keywd": "service delivery system"
+        },
+        "4": {
+          "keywd": "Investment Project Financing"
+        },
+        "5": {
+          "keywd": "program evaluation plan"
+        },
+        "6": {
+          "keywd": "operational framework"
+        },
+        "7": {
+          "keywd": "targeting tool"
+        },
+        "8": {
+          "keywd": "poor household"
+        },
+        "9": {
+          "keywd": "commercial bank"
+        },
+        "10": {
+          "keywd": "education campaign"
+        },
+        "11": {
+          "keywd": "legal framework"
+        },
+        "12": {
+          "keywd": "elderly household"
+        },
+        "13": {
+          "keywd": "Electronic Payment"
+        },
+        "14": {
+          "keywd": "credit union"
+        },
+        "15": {
+          "keywd": "payment method"
+        },
+        "16": {
+          "keywd": "beneficiary list"
+        },
+        "17": {
+          "keywd": "cabinet approval"
+        },
+        "18": {
+          "keywd": "health monitoring"
+        },
+        "19": {
+          "keywd": "poor child"
+        },
+        "20": {
+          "keywd": "education outcome"
+        },
+        "21": {
+          "keywd": "separate budget"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Grenada Safety Net Advancement Project - P123128 - Sequence No : 12"
+      },
+      "display_title": "Disclosable Version of the ISR - Grenada Safety Net Advancement Project - P123128 - Sequence No : 12",
+      "disclosure_date": "2018-01-19T21:57:04Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/659761516399025037/pdf/Disclosable-Version-of-the-ISR-Grenada-Safety-Net-Advancement-Project-P123128-Sequence-No-12.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/659761516399025037/text/Disclosable-Version-of-the-ISR-Grenada-Safety-Net-Advancement-Project-P123128-Sequence-No-12.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08557c5a6",
+      "totvolnb": "1",
+      "projectid": "P123128",
+      "guid": "659761516399025037",
+      "origu": "Social Protection & Labor LCR (HLCSP)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/659761516399025037"
+    },
+    "D26913995": {
+      "id": "26913995",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Plevko, Snjezana"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0846b32b0_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Municipal Management and Reform,Services & Transfers to Poor,Social Development & Poverty,Social Protections & Assistance,Urban Governance and Management,Urban Housing,Urban Housing and Land Settlements",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR25634",
+      "docdt": "2016-11-04T04:00:00Z",
+      "datestored": "2016-11-04T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Social Protection & Labor Global"
+        },
+        "1": {
+          "keywd": "cash transfer program"
+        },
+        "2": {
+          "keywd": "conditional cash transfer"
+        },
+        "3": {
+          "keywd": "poor household"
+        },
+        "4": {
+          "keywd": "targeting tool"
+        },
+        "5": {
+          "keywd": "program evaluation"
+        },
+        "6": {
+          "keywd": "education outcome"
+        },
+        "7": {
+          "keywd": "poor child"
+        },
+        "8": {
+          "keywd": "health monitoring"
+        },
+        "9": {
+          "keywd": "beneficiary household"
+        },
+        "10": {
+          "keywd": "separate budget"
+        },
+        "11": {
+          "keywd": "cabinet approval"
+        },
+        "12": {
+          "keywd": "beneficiary list"
+        },
+        "13": {
+          "keywd": "payment method"
+        },
+        "14": {
+          "keywd": "investment loan"
+        },
+        "15": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2016-11-04T14:10:43Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/706961479715947861/pdf/1478268643445-0000A8056-ISR-Disclosable-P123128-11-04-2016-1478268627432.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/706961479715947861/text/1478268643445-0000A8056-ISR-Disclosable-P123128-11-04-2016-1478268627432.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0846b32b0",
+      "totvolnb": "1",
+      "projectid": "P123128",
+      "guid": "706961479715947861",
+      "origu": "Social Protection & Labor LCR (HLCSP)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/706961479715947861"
+    },
+    "D20447266": {
+      "id": "20447266",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Plevko, Snjezana"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0828a249c_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Services & Transfers to Poor,Social Development & Poverty,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR15730",
+      "docdt": "2014-11-29T05:00:00Z",
+      "datestored": "2014-11-29T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Cash Transfer"
+        },
+        "1": {
+          "keywd": "Medical care"
+        },
+        "2": {
+          "keywd": "cash transfer program"
+        },
+        "3": {
+          "keywd": "school attendance rate"
+        },
+        "4": {
+          "keywd": "health condition"
+        },
+        "5": {
+          "keywd": "results framework"
+        },
+        "6": {
+          "keywd": "targeting tool"
+        },
+        "7": {
+          "keywd": "vulnerable household"
+        },
+        "8": {
+          "keywd": "health monitoring"
+        },
+        "9": {
+          "keywd": "household data"
+        },
+        "10": {
+          "keywd": "poor child"
+        },
+        "11": {
+          "keywd": "institutional assessment"
+        },
+        "12": {
+          "keywd": "poor household"
+        },
+        "13": {
+          "keywd": "financial agreement"
+        },
+        "14": {
+          "keywd": "beneficiary household"
+        },
+        "15": {
+          "keywd": "payment method"
+        },
+        "16": {
+          "keywd": "beneficiary list"
+        },
+        "17": {
+          "keywd": "separate budget"
+        },
+        "18": {
+          "keywd": "primary health"
+        },
+        "19": {
+          "keywd": "beneficiary child"
+        },
+        "20": {
+          "keywd": "education outcome"
+        },
+        "21": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2014-11-29T23:12:36Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/535651468257663810/pdf/ISR-Disclosable-P123128-11-29-2014-1417302748569.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/535651468257663810/text/ISR-Disclosable-P123128-11-29-2014-1417302748569.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0828a249c",
+      "totvolnb": "1",
+      "projectid": "P123128",
+      "guid": "535651468257663810",
+      "origu": "Director (GSJD1)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/535651468257663810"
+    },
+    "D19299227": {
+      "id": "19299227",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Gonzalez, Sarah Berger"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082372b5f_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Conditional Cash Transfers,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Services & Transfers to Poor,Social Development & Poverty",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR12433",
+      "docdt": "2014-03-26T04:00:00Z",
+      "datestored": "2014-03-26T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Cash Transfer"
+        },
+        "1": {
+          "keywd": "social safety net program"
+        },
+        "2": {
+          "keywd": "Medical care"
+        },
+        "3": {
+          "keywd": "school attendance rate"
+        },
+        "4": {
+          "keywd": "cash transfer program"
+        },
+        "5": {
+          "keywd": "disbursement linked indicators"
+        },
+        "6": {
+          "keywd": "procurement process"
+        },
+        "7": {
+          "keywd": "primary health"
+        },
+        "8": {
+          "keywd": "targeting tool"
+        },
+        "9": {
+          "keywd": "separate budget"
+        },
+        "10": {
+          "keywd": "beneficiary list"
+        },
+        "11": {
+          "keywd": "payment method"
+        },
+        "12": {
+          "keywd": "beneficiary child"
+        },
+        "13": {
+          "keywd": "health condition"
+        },
+        "14": {
+          "keywd": "financial agreement"
+        },
+        "15": {
+          "keywd": "poor household"
+        },
+        "16": {
+          "keywd": "education outcome"
+        },
+        "17": {
+          "keywd": "poor child"
+        },
+        "18": {
+          "keywd": "health monitoring"
+        },
+        "19": {
+          "keywd": "vulnerable household"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2014-03-26T17:13:01Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/393031468250307432/pdf/ISR-Disclosable-P123128-03-26-2014-1395853968284.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/393031468250307432/text/ISR-Disclosable-P123128-03-26-2014-1395853968284.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082372b5f",
+      "totvolnb": "1",
+      "projectid": "P123128",
+      "guid": "393031468250307432",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/393031468250307432"
+    },
+    "D26354183": {
+      "id": "26354183",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Plevko, Snjezana"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0843023e4_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Municipal Management and Reform,Services & Transfers to Poor,Social Development & Poverty,Social Protections & Assistance,Urban Governance and Management,Urban Housing,Urban Housing and Land Settlements",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR22357",
+      "docdt": "2016-05-05T04:00:00Z",
+      "datestored": "2016-05-05T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Social Protection & Labor Global"
+        },
+        "1": {
+          "keywd": "data quality"
+        },
+        "2": {
+          "keywd": "data entry process"
+        },
+        "3": {
+          "keywd": "cash transfer program"
+        },
+        "4": {
+          "keywd": "conditional cash transfer"
+        },
+        "5": {
+          "keywd": "poor household"
+        },
+        "6": {
+          "keywd": "separate budget"
+        },
+        "7": {
+          "keywd": "cabinet approval"
+        },
+        "8": {
+          "keywd": "health monitoring"
+        },
+        "9": {
+          "keywd": "poor child"
+        },
+        "10": {
+          "keywd": "beneficiary list"
+        },
+        "11": {
+          "keywd": "education outcome"
+        },
+        "12": {
+          "keywd": "payment method"
+        },
+        "13": {
+          "keywd": "import data"
+        },
+        "14": {
+          "keywd": "targeting tool"
+        },
+        "15": {
+          "keywd": "awareness event"
+        },
+        "16": {
+          "keywd": "investment loan"
+        },
+        "17": {
+          "keywd": "Housing"
+        },
+        "18": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2016-05-05T21:46:22Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/173011468032108768/pdf/ISR-Disclosable-P123128-05-05-2016-1462484772180.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/173011468032108768/text/ISR-Disclosable-P123128-05-05-2016-1462484772180.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0843023e4",
+      "totvolnb": "1",
+      "projectid": "P123128",
+      "guid": "173011468032108768",
+      "origu": "Social Protection & Labor LCR (HLCSP)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/173011468032108768"
+    },
+    "D24638312": {
+      "id": "24638312",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082f32b12_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Municipal Management and Reform,Services & Transfers to Poor,Social Development & Poverty,Urban Governance and Management,Urban Housing,Urban Housing and Land Settlements",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR19552",
+      "docdt": "2015-06-15T04:00:00Z",
+      "datestored": "2015-06-15T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Cash Transfer"
+        },
+        "1": {
+          "keywd": "school attendance rate"
+        },
+        "2": {
+          "keywd": "primary health service"
+        },
+        "3": {
+          "keywd": "cash transfer program"
+        },
+        "4": {
+          "keywd": "chronic health condition"
+        },
+        "5": {
+          "keywd": "share of transfer"
+        },
+        "6": {
+          "keywd": "targeting tool"
+        },
+        "7": {
+          "keywd": "Medical care"
+        },
+        "8": {
+          "keywd": "health monitoring"
+        },
+        "9": {
+          "keywd": "payment method"
+        },
+        "10": {
+          "keywd": "Social Protection"
+        },
+        "11": {
+          "keywd": "investment loan"
+        },
+        "12": {
+          "keywd": "beneficiary child"
+        },
+        "13": {
+          "keywd": "beneficiary list"
+        },
+        "14": {
+          "keywd": "separate budget"
+        },
+        "15": {
+          "keywd": "poor household"
+        },
+        "16": {
+          "keywd": "education outcome"
+        },
+        "17": {
+          "keywd": "vulnerable household"
+        },
+        "18": {
+          "keywd": "poor child"
+        },
+        "19": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2015-06-15T20:14:06Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/627091468029702856/pdf/ISR-Disclosable-P123128-06-15-2015-1434399237562.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/627091468029702856/text/ISR-Disclosable-P123128-06-15-2015-1434399237562.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082f32b12",
+      "totvolnb": "1",
+      "projectid": "P123128",
+      "guid": "627091468029702856",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/627091468029702856"
+    },
+    "D18180082": {
+      "id": "18180082",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Gonzalez, Sarah Berger"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081e6af5d_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Conditional Cash Transfers,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Services & Transfers to Poor,Social Development & Poverty",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR11648",
+      "docdt": "2013-09-01T04:00:00Z",
+      "datestored": "2013-09-01T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Cash Transfer"
+        },
+        "1": {
+          "keywd": "school attendance rate"
+        },
+        "2": {
+          "keywd": "cash transfer program"
+        },
+        "3": {
+          "keywd": "targeting tool"
+        },
+        "4": {
+          "keywd": "beneficiary list"
+        },
+        "5": {
+          "keywd": "disbursement linked indicators"
+        },
+        "6": {
+          "keywd": "Medical care"
+        },
+        "7": {
+          "keywd": "health condition"
+        },
+        "8": {
+          "keywd": "operational process"
+        },
+        "9": {
+          "keywd": "beneficiary child"
+        },
+        "10": {
+          "keywd": "total credit"
+        },
+        "11": {
+          "keywd": "payment method"
+        },
+        "12": {
+          "keywd": "financial agreement"
+        },
+        "13": {
+          "keywd": "appeals system"
+        },
+        "14": {
+          "keywd": "communications campaign"
+        },
+        "15": {
+          "keywd": "separate budget"
+        },
+        "16": {
+          "keywd": "result indicator"
+        },
+        "17": {
+          "keywd": "poor household"
+        },
+        "18": {
+          "keywd": "education outcome"
+        },
+        "19": {
+          "keywd": "poor child"
+        },
+        "20": {
+          "keywd": "health monitoring"
+        },
+        "21": {
+          "keywd": "vulnerable household"
+        },
+        "22": {
+          "keywd": "primary health"
+        },
+        "23": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2013-09-01T22:45:21Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/458011468029701186/pdf/ISR-Disclosable-P123128-09-01-2013-1378075513734.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/458011468029701186/text/ISR-Disclosable-P123128-09-01-2013-1378075513734.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b081e6af5d",
+      "totvolnb": "1",
+      "projectid": "P123128",
+      "guid": "458011468029701186",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/458011468029701186"
+    },
+    "D17277190": {
+      "id": "17277190",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Gonzalez, Sarah Berger"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08190e342_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Conditional Cash Transfers,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Services & Transfers to Poor,Social Development & Poverty",
+      "teratopic": "Education,Industry,Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR9358",
+      "docdt": "2013-02-10T05:00:00Z",
+      "datestored": "2013-02-10T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Cash Transfer"
+        },
+        "1": {
+          "keywd": "Information"
+        },
+        "2": {
+          "keywd": " Education and Communication"
+        },
+        "3": {
+          "keywd": "financial management responsibility"
+        },
+        "4": {
+          "keywd": "Medical care"
+        },
+        "5": {
+          "keywd": "household survey data"
+        },
+        "6": {
+          "keywd": "disbursement linked indicators"
+        },
+        "7": {
+          "keywd": "school attendance rate"
+        },
+        "8": {
+          "keywd": "cash transfer program"
+        },
+        "9": {
+          "keywd": "beneficiary list"
+        },
+        "10": {
+          "keywd": "communications campaign"
+        },
+        "11": {
+          "keywd": "payment method"
+        },
+        "12": {
+          "keywd": "separate budget"
+        },
+        "13": {
+          "keywd": "health condition"
+        },
+        "14": {
+          "keywd": "result indicator"
+        },
+        "15": {
+          "keywd": "primary health"
+        },
+        "16": {
+          "keywd": "poor household"
+        },
+        "17": {
+          "keywd": "operational process"
+        },
+        "18": {
+          "keywd": "appeals system"
+        },
+        "19": {
+          "keywd": "financial agreement"
+        },
+        "20": {
+          "keywd": "total credit"
+        },
+        "21": {
+          "keywd": "beneficiary child"
+        },
+        "22": {
+          "keywd": "vulnerable household"
+        },
+        "23": {
+          "keywd": "health monitoring"
+        },
+        "24": {
+          "keywd": "poor child"
+        },
+        "25": {
+          "keywd": "education outcome"
+        },
+        "26": {
+          "keywd": "operational detail"
+        },
+        "27": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 03",
+      "disclosure_date": "2013-02-10T20:52:40Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/405371468251950561/pdf/ISR-Disclosable-P123128-02-10-2013-1360529551483.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/405371468251950561/text/ISR-Disclosable-P123128-02-10-2013-1360529551483.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08190e342",
+      "totvolnb": "1",
+      "historic_topic": "Education,Industry,Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "projectid": "P123128",
+      "guid": "405371468251950561",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/405371468251950561"
+    },
+    "D27677225": {
+      "id": "27677225",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Plevko, Snjezana"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084d1b65e_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Municipal Management and Reform,Services & Transfers to Poor,Social Development & Poverty,Urban Governance and Management,Urban Housing,Urban Housing and Land Settlements",
+      "teratopic": "Communities and Human Settlements,Education,Industry,Macroeconomics and Economic Growth,Poverty Reduction,Public Sector Development,Social Protections and Labor,Urban Development",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR28285",
+      "docdt": "2017-06-23T04:00:00Z",
+      "datestored": "2017-06-23T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Social Protection & Labor Global"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "conditional cash transfer"
+        },
+        "3": {
+          "keywd": "cash transfer program"
+        },
+        "4": {
+          "keywd": "targeting tool"
+        },
+        "5": {
+          "keywd": "program evaluation"
+        },
+        "6": {
+          "keywd": "poor household"
+        },
+        "7": {
+          "keywd": "operational framework"
+        },
+        "8": {
+          "keywd": "payment method"
+        },
+        "9": {
+          "keywd": "beneficiary list"
+        },
+        "10": {
+          "keywd": "investment loan"
+        },
+        "11": {
+          "keywd": "cabinet approval"
+        },
+        "12": {
+          "keywd": "separate budget"
+        },
+        "13": {
+          "keywd": "elderly household"
+        },
+        "14": {
+          "keywd": "legal framework"
+        },
+        "15": {
+          "keywd": "education campaign"
+        },
+        "16": {
+          "keywd": "commercial bank"
+        },
+        "17": {
+          "keywd": "Electronic Payment"
+        },
+        "18": {
+          "keywd": "credit union"
+        },
+        "19": {
+          "keywd": "education outcome"
+        },
+        "20": {
+          "keywd": "poor child"
+        },
+        "21": {
+          "keywd": "health monitoring"
+        },
+        "22": {
+          "keywd": "Housing"
+        },
+        "23": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2017-06-23T21:50:43Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/767921498254645456/pdf/Grenada-Grenada-Safety-Net-Advancement-Project-P123128-Implementation-Status-Results-Report-Sequence-11.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/767921498254645456/text/Grenada-Grenada-Safety-Net-Advancement-Project-P123128-Implementation-Status-Results-Report-Sequence-11.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084d1b65e",
+      "totvolnb": "1",
+      "historic_topic": "Communities and Human Settlements,Education,Industry,Macroeconomics and Economic Growth,Poverty Reduction,Public Sector Development,Social Protections and Labor,Urban Development",
+      "projectid": "P123128",
+      "guid": "767921498254645456",
+      "origu": "Social Protection & Labor LCR (HLCSP)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/767921498254645456"
+    },
+    "D16625292": {
+      "id": "16625292",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Gonzalez"
+        },
+        "1": {
+          "author": "Gonzalez, Sarah Berger"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012082118381692"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Conditional Cash Transfers,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Services & Transfers to Poor,Social Development & Poverty",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR7777",
+      "docdt": "2012-08-21T04:00:00Z",
+      "datestored": "2012-08-21T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Cash Transfer"
+        },
+        "1": {
+          "keywd": "Medical care"
+        },
+        "2": {
+          "keywd": "cash transfer program"
+        },
+        "3": {
+          "keywd": "school attendance rate"
+        },
+        "4": {
+          "keywd": "health condition"
+        },
+        "5": {
+          "keywd": "separate budget"
+        },
+        "6": {
+          "keywd": "beneficiary list"
+        },
+        "7": {
+          "keywd": "field work"
+        },
+        "8": {
+          "keywd": "payment method"
+        },
+        "9": {
+          "keywd": "beneficiary child"
+        },
+        "10": {
+          "keywd": "total credit"
+        },
+        "11": {
+          "keywd": "primary health"
+        },
+        "12": {
+          "keywd": "health monitoring"
+        },
+        "13": {
+          "keywd": "poor child"
+        },
+        "14": {
+          "keywd": "vulnerable household"
+        },
+        "15": {
+          "keywd": "education outcome"
+        },
+        "16": {
+          "keywd": "poor household"
+        },
+        "17": {
+          "keywd": "financial agreement"
+        },
+        "18": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 02"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 02",
+      "pdfurl": "http://documents.worldbank.org/curated/en/712871468750323501/pdf/ISR0Disclosabl021201201345588695196.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/712871468750323501/text/ISR0Disclosabl021201201345588695196.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08160dede",
+      "totvolnb": "1",
+      "projectid": "P123128",
+      "guid": "712871468750323501",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/712871468750323501"
+    },
+    "D30507656": {
+      "id": "30507656",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Plevko, Snjezana"
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Grenada Safety Net Advancement Project - P123128 - Sequence No : 13"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b086464d76_1_0"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Conditional Cash Transfers,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Services & Transfers to Poor,Social Development & Poverty",
+      "teratopic": "Education,Industry,Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR34235",
+      "docdt": "2018-10-18T04:00:00Z",
+      "datestored": "2018-10-17T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Social Protection & Labor Global"
+        },
+        "1": {
+          "keywd": " beneficiary household"
+        },
+        "2": {
+          "keywd": " conditional cash transfer program"
+        },
+        "3": {
+          "keywd": " targeting tool"
+        },
+        "4": {
+          "keywd": " Investment Project Financing"
+        },
+        "5": {
+          "keywd": " service delivery system"
+        },
+        "6": {
+          "keywd": " poor household"
+        },
+        "7": {
+          "keywd": " evaluation result"
+        },
+        "8": {
+          "keywd": " Electronic Payment"
+        },
+        "9": {
+          "keywd": " commercial bank"
+        },
+        "10": {
+          "keywd": " separate budget"
+        },
+        "11": {
+          "keywd": " education campaign"
+        },
+        "12": {
+          "keywd": " credit union"
+        },
+        "13": {
+          "keywd": " operational framework"
+        },
+        "14": {
+          "keywd": " legal framework"
+        },
+        "15": {
+          "keywd": " intermediate indicator"
+        },
+        "16": {
+          "keywd": " health monitoring"
+        },
+        "17": {
+          "keywd": " poor child"
+        },
+        "18": {
+          "keywd": " education outcome"
+        },
+        "19": {
+          "keywd": " payment method"
+        },
+        "20": {
+          "keywd": " beneficiary list"
+        },
+        "21": {
+          "keywd": " cabinet approval"
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Grenada Safety Net Advancement Project - P123128 - Sequence No : 13"
+      },
+      "display_title": "Disclosable Version of the ISR - Grenada Safety Net Advancement Project - P123128 - Sequence No : 13",
+      "disclosure_date": "2018-10-19T01:49:15Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/932271539827357398/pdf/Disclosable-Version-of-the-ISR-Grenada-Safety-Net-Advancement-Project-P123128-Sequence-No-13.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/932271539827357398/text/Disclosable-Version-of-the-ISR-Grenada-Safety-Net-Advancement-Project-P123128-Sequence-No-13.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b086464d76",
+      "totvolnb": "1",
+      "historic_topic": "Education,Industry,Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "projectid": "P123128",
+      "guid": "932271539827357398",
+      "origu": "Social Protection & Labor LCR (HLCSP)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/932271539827357398"
+    },
+    "D15796754": {
+      "id": "15796754",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Mcevoy, Karla J."
+        }
+      },
+      "count": "Grenada",
+      "docna": {
+        "0": {
+          "docna": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GD-Grenada Safety Net Advancement Project -- P123128",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Social Protection,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012021213320854"
+      },
+      "majtheme": "FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Conditional Cash Transfers,Disability,Economic Assistance,Educational Sciences,Health Care Services Industry,Services & Transfers to Poor,Social Development & Poverty",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR4490",
+      "docdt": "2012-02-12T05:00:00Z",
+      "datestored": "2012-02-12T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Cash Transfer"
+        },
+        "1": {
+          "keywd": "Medical care"
+        },
+        "2": {
+          "keywd": "beneficiary list"
+        },
+        "3": {
+          "keywd": "payment system"
+        },
+        "4": {
+          "keywd": "cash transfer program"
+        },
+        "5": {
+          "keywd": "school attendance rate"
+        },
+        "6": {
+          "keywd": "poor household"
+        },
+        "7": {
+          "keywd": "effectiveness condition"
+        },
+        "8": {
+          "keywd": "financial agreement"
+        },
+        "9": {
+          "keywd": "payment method"
+        },
+        "10": {
+          "keywd": "health condition"
+        },
+        "11": {
+          "keywd": "budget line"
+        },
+        "12": {
+          "keywd": "separate budget"
+        },
+        "13": {
+          "keywd": "primary health"
+        },
+        "14": {
+          "keywd": "vulnerable household"
+        },
+        "15": {
+          "keywd": "health monitoring"
+        },
+        "16": {
+          "keywd": "poor child"
+        },
+        "17": {
+          "keywd": "education outcome"
+        },
+        "18": {
+          "keywd": "beneficiary child"
+        },
+        "19": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 01"
+      },
+      "display_title": "Grenada - Grenada Safety Net Advancement Project : P123128 - Implementation Status Results Report : Sequence 01",
+      "pdfurl": "http://documents.worldbank.org/curated/en/159851468752064142/pdf/P1231280ISR0Di012201201329071527564.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/159851468752064142/text/P1231280ISR0Di012201201329071527564.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081237f9b",
+      "totvolnb": "1",
+      "projectid": "P123128",
+      "guid": "159851468752064142",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/159851468752064142"
+    },
+    "facets": {}
+  }
+}

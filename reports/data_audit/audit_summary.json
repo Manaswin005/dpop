@@ -1,0 +1,172 @@
+{
+  "environment": {
+    "python": "3.11.17",
+    "platform": "Linux-6.18.44-fc-v114-x86_64-with-glibc2.39",
+    "pandas": "2.2.3",
+    "numpy": "2.1.3"
+  },
+  "dataset": {
+    "rows": 12932,
+    "columns": 35,
+    "total_missing_cells": 0
+  },
+  "raw_outcome_counts": {
+    "Satisfactory": 6081,
+    "Moderately Satisfactory": 2853,
+    "Unsatisfactory": 2127,
+    "Moderately Unsatisfactory": 1108,
+    "Highly Satisfactory": 405,
+    "Highly Unsatisfactory": 178,
+    "Not Rated": 162,
+    "Not Available": 9,
+    "Not Applicable": 9
+  },
+  "target_mapping": {
+    "rows_in": 12932,
+    "rows_kept": 12752,
+    "excluded_counts": {
+      "Not Rated": 162,
+      "Not Available": 9,
+      "Not Applicable": 9
+    }
+  },
+  "repeated_project_ids": {
+    "exact_duplicate_rows": 0,
+    "rows_with_repeated_id": 4059,
+    "repeated_ids": 2026,
+    "group_sizes": {
+      "2": 2019,
+      "3": 7
+    },
+    "eval_type_patterns_top": {
+      "ES|PAR": 1019,
+      "PAR|PCR": 750,
+      "EVM|PAR": 219,
+      "ES|ES": 28,
+      "ES|ES|PAR": 3,
+      "ES|ES|ES": 3
+    },
+    "groups_with_conflicting_raw_outcome": 775,
+    "columns_differing_within_groups": {
+      "IEG_EvalDate": 2017,
+      "IEG_EvalType": 1995,
+      "IEG_EvalFY": 1708,
+      "IEG_ICRQuality": 1487,
+      "IEG_SourceDocumentURL": 1461,
+      "IEG_GovernmentPerf": 899,
+      "(disc)IEG_BorrPrep": 839,
+      "IEG_ImplementingAgencyPerf": 822,
+      "IEG_BankQualityOfSupervision": 797,
+      "IEG_Outcome": 775,
+      "IEG_BankQualityAtEntry": 747,
+      "(disc)IEG_IDImpact": 680,
+      "(disc)IEG_Sustainability": 632,
+      "IEG_OverallBorrPerf": 528,
+      "IEG_OverallBankPerf": 517,
+      "ERR at Completion": 455,
+      "ERR at Appraisal": 391,
+      "IEG_MEQuality": 204,
+      "Exit FY": 2
+    }
+  },
+  "record_selection": {
+    "rows_in": 12752,
+    "unique_projects": 10750,
+    "projects_with_multiple_rated_evaluations": 1995,
+    "rows_removed": 2002
+  },
+  "label_selection_sensitivity": {
+    "multi_evaluation_projects": 1995,
+    "three_class_label_differs_latest_vs_earliest": 564,
+    "unparsed_eval_dates": 0
+  },
+  "approval_fy_repair": {
+    "invalid_replaced": 1,
+    "date_fy_mismatch_kept": 24
+  },
+  "suspected_upstream_fill_values": [
+    {
+      "column": "Lending Project Cost",
+      "top_value": 55700000.0,
+      "top_value_share": 0.4267
+    },
+    {
+      "column": "ERR at Appraisal",
+      "top_value": 21.0,
+      "top_value_share": 0.6584
+    },
+    {
+      "column": "ERR at Completion",
+      "top_value": 17.0,
+      "top_value_share": 0.6988
+    }
+  ],
+  "lending_cost_reported_share_after_selection": 0.5788,
+  "net_commitment_evidence": {
+    "negative_values": 269,
+    "zero_values": 531,
+    "share_below_project_cost": 0.7621,
+    "share_non_round_10k": 0.2555,
+    "project_cost_share_non_round_10k": 0.0268
+  },
+  "err_at_appraisal_evidence": {
+    "reported_missing": 0,
+    "most_common_value": 21.0,
+    "most_common_share": 0.6584,
+    "second_value_share": 0.0145,
+    "projects_where_value_differs_between_evaluations": 391
+  },
+  "redundancy": {
+    "Country Code <-> Country Name one-to-one": false,
+    "Country codes shared by several countries": {
+      "IN": [
+        "India",
+        "Namibia"
+      ]
+    },
+    "Product Line Code <-> Product Line one-to-one": true
+  },
+  "region_counts_after_harmonisation": {
+    "AFR": 3199,
+    "LCR": 2123,
+    "EAP": 1734,
+    "ECA": 1473,
+    "SAR": 1264,
+    "MNA": 951,
+    "OTH": 6
+  },
+  "modelling_dataset": {
+    "rows": 10750,
+    "class_counts": {
+      "Successful": 5316,
+      "Partially Successful": 3446,
+      "Unsuccessful": 1988
+    },
+    "class_shares": {
+      "Successful": 0.4945,
+      "Partially Successful": 0.3206,
+      "Unsuccessful": 0.1849
+    },
+    "approval_fy_range": [
+      1948,
+      2019
+    ]
+  },
+  "included_features": [
+    "Region",
+    "Country Name",
+    "Approval FY",
+    "Sector Board",
+    "Agreement Type",
+    "Lending Project Cost",
+    "Lending Instrument Type",
+    "Lending Instrument",
+    "Product Line Code"
+  ],
+  "eligibility_decision_counts": {
+    "EXCLUDE": 21,
+    "INCLUDE": 9,
+    "AUDIT_ONLY": 4,
+    "TARGET": 1
+  }
+}

@@ -1,0 +1,1615 @@
+{
+  "PRJ-F8D9148E": {
+    "project_id": "PRJ-F8D9148E",
+    "title": "Untitled Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-F01516A2": {
+    "project_id": "PRJ-F01516A2",
+    "title": "Test Irrigation Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-15463AB2": {
+    "project_id": "PRJ-15463AB2",
+    "title": "Health Clinic Upgrades",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": null,
+    "stage1_prediction": null,
+    "monitoring_records": [
+      {
+        "record_id": "REC-BF9547",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-7D49CF0D": {
+    "project_id": "PRJ-7D49CF0D",
+    "title": "Test Irrigation Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-26BA3D49": {
+    "project_id": "PRJ-26BA3D49",
+    "title": "Health Clinic Upgrades",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": null,
+    "stage1_prediction": null,
+    "monitoring_records": [
+      {
+        "record_id": "REC-763ABD",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-5B320D54": {
+    "project_id": "PRJ-5B320D54",
+    "title": "Untitled Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-45DB85CB": {
+    "project_id": "PRJ-45DB85CB",
+    "title": "Rural drinking water scheme",
+    "description": "Drinking water tank",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Africa",
+      "Sector Board": "Urban Development",
+      "Agreement Type": "MONT",
+      "Lending Instrument": "FIL",
+      "Approval FY": 2018,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Africa",
+        "Sector Board": "Urban Development",
+        "Agreement Type": "MONT",
+        "Lending Instrument": "FIL",
+        "Approval FY": 2018,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.383,
+        "Partially Successful": 0.51,
+        "Unsuccessful": 0.107
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.617,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Agreement Type": -0.252,
+        "Approval FY": 0.128,
+        "Country Name": 0.101,
+        "lending_cost_reported": 0.034,
+        "Lending Project Cost": -0.028,
+        "Lending Instrument": -0.006,
+        "Sector Board": -0.005
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.128,
+            "note": "The approval year (2018) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.101,
+            "note": "Projects in Africa were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Africa."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-E22E84B3": {
+    "project_id": "PRJ-E22E84B3",
+    "title": "Agriculture",
+    "description": "New seedling crop",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Andean Countries",
+      "Sector Board": "Agriculture and Rural Development",
+      "Agreement Type": "MONT",
+      "Lending Instrument": "FIL",
+      "Approval FY": 2016,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Andean Countries",
+        "Sector Board": "Agriculture and Rural Development",
+        "Agreement Type": "MONT",
+        "Lending Instrument": "FIL",
+        "Approval FY": 2016,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.411,
+        "Partially Successful": 0.523,
+        "Unsuccessful": 0.066
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.589,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Agreement Type": -0.245,
+        "Approval FY": 0.149,
+        "Sector Board": 0.054,
+        "lending_cost_reported": 0.038,
+        "Lending Project Cost": -0.029,
+        "Country Name": -0.014,
+        "Lending Instrument": -0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.149,
+            "note": "The approval year (2016) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.054,
+            "note": "The Agriculture and Rural Development sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": [
+      {
+        "record_id": "REC-2321A3",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-83D19754": {
+    "project_id": "PRJ-83D19754",
+    "title": "Test Irrigation Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-29B3260C": {
+    "project_id": "PRJ-29B3260C",
+    "title": "Health Clinic Upgrades",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": null,
+    "stage1_prediction": null,
+    "monitoring_records": [
+      {
+        "record_id": "REC-A24C0C",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-53D6E9CF": {
+    "project_id": "PRJ-53D6E9CF",
+    "title": "Test Irrigation Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-9DB0795A": {
+    "project_id": "PRJ-9DB0795A",
+    "title": "Health Clinic Upgrades",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": null,
+    "stage1_prediction": null,
+    "monitoring_records": [
+      {
+        "record_id": "REC-5D488E",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-3DDCCA82": {
+    "project_id": "PRJ-3DDCCA82",
+    "title": "Untitled Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-69019D2B": {
+    "project_id": "PRJ-69019D2B",
+    "title": "Rural Irrigation and Agricultural Development Project",
+    "description": "Improve agricultural productivity in a rural community by providing irrigation facilities, reliable water access, and support for local farmers. The project aims to increase crop yields, improve water availability, and reach small-scale farming households.",
+    "created_date": "2026-10-13",
+    "stage1_inputs": null,
+    "stage1_prediction": null,
+    "monitoring_records": [
+      {
+        "record_id": "REC-5408A5",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 20.0,
+          "beneficiary_participation_pct": 35.0,
+          "project_completion_pct": 20.0,
+          "implementation_delay_months": 6.0,
+          "resource_availability": "Low / Severe Shortage",
+          "beneficiary_coverage_pct": 20.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "High Implementation Alert",
+          "interim_signals_summary": "PDO rating downgraded to Moderately Unsatisfactory; Closing date extended by 6 months"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-3294DD99": {
+    "project_id": "PRJ-3294DD99",
+    "title": "Untitled Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-C6520B82": {
+    "project_id": "PRJ-C6520B82",
+    "title": "Test Irrigation Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-0944BA04": {
+    "project_id": "PRJ-0944BA04",
+    "title": "Health Clinic Upgrades",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": null,
+    "stage1_prediction": null,
+    "monitoring_records": [
+      {
+        "record_id": "REC-70C13F",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-FAA68654": {
+    "project_id": "PRJ-FAA68654",
+    "title": "Untitled Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-E6AB0C7F": {
+    "project_id": "PRJ-E6AB0C7F",
+    "title": "Test Irrigation Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-2B11CDB2": {
+    "project_id": "PRJ-2B11CDB2",
+    "title": "Health Clinic Upgrades",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": null,
+    "stage1_prediction": null,
+    "monitoring_records": [
+      {
+        "record_id": "REC-99389E",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-C0781CC9": {
+    "project_id": "PRJ-C0781CC9",
+    "title": "Rural Irrigation and Agricultural Development Project",
+    "description": "Improve agricultural productivity in a rural community by providing irrigation facilities, reliable water access, and support for local farmers. The project aims to increase crop yields, improve water availability, and reach small-scale farming households.",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Algeria",
+      "Sector Board": "Financial Sector",
+      "Agreement Type": "MONT",
+      "Lending Instrument": "ERL",
+      "Approval FY": 2016,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Algeria",
+        "Sector Board": "Financial Sector",
+        "Agreement Type": "MONT",
+        "Lending Instrument": "ERL",
+        "Approval FY": 2016,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.367,
+        "Partially Successful": 0.569,
+        "Unsuccessful": 0.063
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.633,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Agreement Type": -0.234,
+        "Approval FY": 0.149,
+        "Country Name": 0.132,
+        "Lending Instrument": -0.11,
+        "Sector Board": 0.039,
+        "lending_cost_reported": 0.038,
+        "Lending Project Cost": -0.028
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.149,
+            "note": "The approval year (2016) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.132,
+            "note": "Projects in Algeria were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Algeria."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.039,
+            "note": "The Financial Sector sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": [
+      {
+        "record_id": "REC-E07B62",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-ADFCAE77": {
+    "project_id": "PRJ-ADFCAE77",
+    "title": "Rural Irrigation and Agricultural Development Project",
+    "description": "Improve agricultural productivity in a rural community by providing irrigation facilities, reliable water access, and support for local farmers. The project aims to increase crop yields, improve water availability, and reach small-scale farming households.",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Algeria",
+      "Sector Board": "Competitive Industries Practice",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "DRL",
+      "Approval FY": 2018,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Algeria",
+        "Sector Board": "Competitive Industries Practice",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "DRL",
+        "Approval FY": 2018,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.457,
+        "Partially Successful": 0.337,
+        "Unsuccessful": 0.206
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.543,
+      "predicted_outcome": "Successful",
+      "reason": "The model predicts Successful, but only with a weak lead (score 0.46 < 0.50).",
+      "risk_contributions": {
+        "Lending Instrument": -0.28,
+        "Country Name": 0.158,
+        "Approval FY": 0.097,
+        "Sector Board": -0.091,
+        "Lending Project Cost": -0.027,
+        "lending_cost_reported": 0.023,
+        "Agreement Type": 0.017
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Country Name",
+            "contribution": 0.158,
+            "note": "Projects in Algeria were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Algeria."
+          },
+          {
+            "feature": "Approval FY",
+            "contribution": 0.097,
+            "note": "The approval year (2018) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-2BB6D384": {
+    "project_id": "PRJ-2BB6D384",
+    "title": "Untitled Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-444ADE20": {
+    "project_id": "PRJ-444ADE20",
+    "title": "Test Irrigation Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-9A8D9E9E": {
+    "project_id": "PRJ-9A8D9E9E",
+    "title": "Health Clinic Upgrades",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": null,
+    "stage1_prediction": null,
+    "monitoring_records": [
+      {
+        "record_id": "REC-5B377A",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  },
+  "PRJ-79D48E30": {
+    "project_id": "PRJ-79D48E30",
+    "title": "Untitled Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-F04C33AD": {
+    "project_id": "PRJ-F04C33AD",
+    "title": "Test Irrigation Project",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": {
+      "Country Name": "Kenya",
+      "Sector Board": "Water",
+      "Agreement Type": "IDA",
+      "Lending Instrument": "SIL",
+      "Approval FY": 2010,
+      "Lending Project Cost": 50000000.0
+    },
+    "stage1_prediction": {
+      "inputs": {
+        "Country Name": "Kenya",
+        "Sector Board": "Water",
+        "Agreement Type": "IDA",
+        "Lending Instrument": "SIL",
+        "Approval FY": 2010,
+        "Lending Project Cost": 50000000.0,
+        "lending_cost_reported": 1
+      },
+      "scores": {
+        "Successful": 0.101,
+        "Partially Successful": 0.608,
+        "Unsuccessful": 0.291
+      },
+      "risk_level": "Medium",
+      "risk_score": 0.899,
+      "predicted_outcome": "Partially Successful",
+      "reason": "The model predicts Partially Successful.",
+      "risk_contributions": {
+        "Approval FY": 0.109,
+        "Country Name": 0.094,
+        "Sector Board": 0.03,
+        "Lending Project Cost": -0.019,
+        "lending_cost_reported": 0.015,
+        "Agreement Type": 0.013,
+        "Lending Instrument": 0.01
+      },
+      "recommendations": {
+        "actions": [
+          "Review implementation readiness (agency capacity, procurement and staffing plans) before approval.",
+          "Agree a results framework with clear mid-term review triggers.",
+          "Schedule more frequent supervision during the first two years."
+        ],
+        "feature_notes": [
+          {
+            "feature": "Approval FY",
+            "contribution": 0.109,
+            "note": "The approval year (2010) raised the model risk score. This mostly reflects historical rating patterns, so treat it as context rather than something to act on."
+          },
+          {
+            "feature": "Country Name",
+            "contribution": 0.094,
+            "note": "Projects in Kenya were associated with a higher model risk score. Review country-level implementation capacity and results of earlier projects in Kenya."
+          },
+          {
+            "feature": "Sector Board",
+            "contribution": 0.03,
+            "note": "The Water sector was associated with a higher model risk score. Draw on sector specialists and on evaluations of comparable sector projects."
+          }
+        ],
+        "disclaimer": "These are decision-support prompts based on patterns in historical World Bank projects. They are not causal findings, and final decisions need expert human review."
+      },
+      "warnings": [],
+      "model": "EBM"
+    },
+    "monitoring_records": []
+  },
+  "PRJ-B42420F6": {
+    "project_id": "PRJ-B42420F6",
+    "title": "Health Clinic Upgrades",
+    "description": "",
+    "created_date": "2026-10-13",
+    "stage1_inputs": null,
+    "stage1_prediction": null,
+    "monitoring_records": [
+      {
+        "record_id": "REC-93DE3B",
+        "record_date": "2026-10-13",
+        "indicators": {
+          "budget_utilization_pct": 25.0,
+          "beneficiary_participation_pct": 60.0,
+          "project_completion_pct": 30.0,
+          "implementation_delay_months": 0.0,
+          "resource_availability": "High / Adequate",
+          "beneficiary_coverage_pct": 40.0
+        },
+        "interim_assessment": {
+          "interim_risk_stance": "Moderate Implementation Attention",
+          "interim_signals_summary": "No adverse flags identified"
+        },
+        "notes": ""
+      }
+    ]
+  }
+}

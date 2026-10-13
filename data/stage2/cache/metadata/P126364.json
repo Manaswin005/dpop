@@ -1,0 +1,1492 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 14,
+  "documents": {
+    "D18160609": {
+      "id": "18160609",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081e474a7_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR10152",
+      "docdt": "2013-08-27T04:00:00Z",
+      "datestored": "2013-08-27T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "educational material"
+        },
+        "1": {
+          "keywd": "primary teacher"
+        },
+        "2": {
+          "keywd": "project intervention"
+        },
+        "3": {
+          "keywd": "cluster level"
+        },
+        "4": {
+          "keywd": "graduation rate"
+        },
+        "5": {
+          "keywd": "communication strategy"
+        },
+        "6": {
+          "keywd": "school teacher"
+        },
+        "7": {
+          "keywd": "governance system"
+        },
+        "8": {
+          "keywd": "financial agreement"
+        },
+        "9": {
+          "keywd": "Municipalities"
+        },
+        "10": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2013-08-27T13:34:46Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/185901468273295864/pdf/ISR-Disclosable-P126364-08-27-2013-1377610477360.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/185901468273295864/text/ISR-Disclosable-P126364-08-27-2013-1377610477360.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081e474a7",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "185901468273295864",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/185901468273295864"
+    },
+    "D29260491": {
+      "id": "29260491",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Education Quality Improvement Project - P126364 - Sequence No : 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b085413c86_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR29421",
+      "docdt": "2017-12-08T05:00:00Z",
+      "datestored": "2017-12-08T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "upper secondary education"
+        },
+        "1": {
+          "keywd": "Investment Project Financing"
+        },
+        "2": {
+          "keywd": "certified teacher"
+        },
+        "3": {
+          "keywd": "baseline survey"
+        },
+        "4": {
+          "keywd": "communication strategy"
+        },
+        "5": {
+          "keywd": "subsequent phase"
+        },
+        "6": {
+          "keywd": "educational material"
+        },
+        "7": {
+          "keywd": "governance system"
+        },
+        "8": {
+          "keywd": "graduation rate"
+        },
+        "9": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Education Quality Improvement Project - P126364 - Sequence No : 12"
+      },
+      "display_title": "Disclosable Version of the ISR - Education Quality Improvement Project - P126364 - Sequence No : 12",
+      "disclosure_date": "2017-12-08T22:43:27Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/795451512773008170/pdf/Disclosable-Version-of-the-ISR-Education-Quality-Improvement-Project-P126364-Sequence-No-12.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/795451512773008170/text/Disclosable-Version-of-the-ISR-Education-Quality-Improvement-Project-P126364-Sequence-No-12.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b085413c86",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "795451512773008170",
+      "origu": "Education LCR (HLCED)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/795451512773008170"
+    },
+    "D26965474": {
+      "id": "26965474",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08472cb1d_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR25841",
+      "docdt": "2016-11-22T05:00:00Z",
+      "datestored": "2016-11-22T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "upper secondary education"
+        },
+        "1": {
+          "keywd": "integrated system"
+        },
+        "2": {
+          "keywd": "certified teacher"
+        },
+        "3": {
+          "keywd": "governance system"
+        },
+        "4": {
+          "keywd": "educational material"
+        },
+        "5": {
+          "keywd": "graduation rate"
+        },
+        "6": {
+          "keywd": "investment loan"
+        },
+        "7": {
+          "keywd": "baseline survey"
+        },
+        "8": {
+          "keywd": "communication strategy"
+        },
+        "9": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2016-11-23T00:51:18Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/944701479862279260/pdf/ISR-Disclosable-P126364-11-22-2016-1479862251475.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/944701479862279260/text/ISR-Disclosable-P126364-11-22-2016-1479862251475.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08472cb1d",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "944701479862279260",
+      "origu": "Education LCR (HLCED)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/944701479862279260"
+    },
+    "D24102577": {
+      "id": "24102577",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082be1a01_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR17210",
+      "docdt": "2015-03-06T05:00:00Z",
+      "datestored": "2015-03-06T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "qualified secondary school teacher"
+        },
+        "1": {
+          "keywd": "upper secondary education"
+        },
+        "2": {
+          "keywd": "small Works"
+        },
+        "3": {
+          "keywd": "educational material"
+        },
+        "4": {
+          "keywd": "Municipalities"
+        },
+        "5": {
+          "keywd": "infrastructure component"
+        },
+        "6": {
+          "keywd": "project intervention"
+        },
+        "7": {
+          "keywd": "baseline data"
+        },
+        "8": {
+          "keywd": "primary teacher"
+        },
+        "9": {
+          "keywd": "investment loan"
+        },
+        "10": {
+          "keywd": "cluster level"
+        },
+        "11": {
+          "keywd": "governance system"
+        },
+        "12": {
+          "keywd": "graduation rate"
+        },
+        "13": {
+          "keywd": "teacher capacity"
+        },
+        "14": {
+          "keywd": "communication strategy"
+        },
+        "15": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2015-03-06T19:40:45Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/433761468247448695/pdf/ISR-Disclosable-P126364-03-06-2015-1425670813189.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/433761468247448695/text/ISR-Disclosable-P126364-03-06-2015-1425670813189.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082be1a01",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "433761468247448695",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/433761468247448695"
+    },
+    "D26258376": {
+      "id": "26258376",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0842b8a22_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR23061",
+      "docdt": "2016-04-21T04:00:00Z",
+      "datestored": "2016-04-21T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "upper secondary education"
+        },
+        "1": {
+          "keywd": "certified teacher"
+        },
+        "2": {
+          "keywd": "integrated system"
+        },
+        "3": {
+          "keywd": "baseline survey"
+        },
+        "4": {
+          "keywd": "educational material"
+        },
+        "5": {
+          "keywd": "graduation rate"
+        },
+        "6": {
+          "keywd": "communication strategy"
+        },
+        "7": {
+          "keywd": "investment loan"
+        },
+        "8": {
+          "keywd": "governance system"
+        },
+        "9": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2016-04-21T16:38:51Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/130561468236077684/pdf/ISR-Disclosable-P126364-04-21-2016-1461256721596.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/130561468236077684/text/ISR-Disclosable-P126364-04-21-2016-1461256721596.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0842b8a22",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "130561468236077684",
+      "origu": "Education LCR (HLCED)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/130561468236077684"
+    },
+    "D27700140": {
+      "id": "27700140",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084d7af74_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR26929",
+      "docdt": "2017-06-30T04:00:00Z",
+      "datestored": "2017-06-30T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "upper secondary education"
+        },
+        "1": {
+          "keywd": "integrated system"
+        },
+        "2": {
+          "keywd": "certified teacher"
+        },
+        "3": {
+          "keywd": "educational material"
+        },
+        "4": {
+          "keywd": "communication strategy"
+        },
+        "5": {
+          "keywd": "subsequent phase"
+        },
+        "6": {
+          "keywd": "graduation rate"
+        },
+        "7": {
+          "keywd": "governance system"
+        },
+        "8": {
+          "keywd": "baseline survey"
+        },
+        "9": {
+          "keywd": "investment loan"
+        },
+        "10": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2017-06-30T19:39:51Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/370011498851592057/pdf/ISR-Disclosable-P126364-06-30-2017-1498851580892.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/370011498851592057/text/ISR-Disclosable-P126364-06-30-2017-1498851580892.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084d7af74",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "370011498851592057",
+      "origu": "Education LCR (HLCED)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/370011498851592057"
+    },
+    "D20327662": {
+      "id": "20327662",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0827f9713_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR15906",
+      "docdt": "2014-10-27T04:00:00Z",
+      "datestored": "2014-10-27T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Municipalities"
+        },
+        "1": {
+          "keywd": "communication strategy"
+        },
+        "2": {
+          "keywd": "cluster level"
+        },
+        "3": {
+          "keywd": "infrastructure component"
+        },
+        "4": {
+          "keywd": "baseline data"
+        },
+        "5": {
+          "keywd": "primary teacher"
+        },
+        "6": {
+          "keywd": "project intervention"
+        },
+        "7": {
+          "keywd": "school teacher"
+        },
+        "8": {
+          "keywd": "educational material"
+        },
+        "9": {
+          "keywd": "financial agreement"
+        },
+        "10": {
+          "keywd": "treatment group"
+        },
+        "11": {
+          "keywd": "governance system"
+        },
+        "12": {
+          "keywd": "development phase"
+        },
+        "13": {
+          "keywd": "graduation rate"
+        },
+        "14": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2014-10-27T22:19:33Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/637371468022449338/pdf/ISR-Disclosable-P126364-10-27-2014-1414448353112.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/637371468022449338/text/ISR-Disclosable-P126364-10-27-2014-1414448353112.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0827f9713",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "637371468022449338",
+      "origu": "Education - GP (GEDDR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/637371468022449338"
+    },
+    "D30140406": {
+      "id": "30140406",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Education Quality Improvement Project - P126364 - Sequence No : 13"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b085c24dc2_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "teratopic": "Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR33011",
+      "docdt": "2018-06-19T04:00:00Z",
+      "datestored": "2018-06-18T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "upper secondary education"
+        },
+        "1": {
+          "keywd": " Investment Project Financing"
+        },
+        "2": {
+          "keywd": " certified teacher"
+        },
+        "3": {
+          "keywd": " integrated system"
+        },
+        "4": {
+          "keywd": " baseline survey"
+        },
+        "5": {
+          "keywd": " communication strategy"
+        },
+        "6": {
+          "keywd": " subsequent phase"
+        },
+        "7": {
+          "keywd": " educational material"
+        },
+        "8": {
+          "keywd": " graduation rate"
+        },
+        "9": {
+          "keywd": " governance system"
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Education Quality Improvement Project - P126364 - Sequence No : 13"
+      },
+      "display_title": "Disclosable Version of the ISR - Education Quality Improvement Project - P126364 - Sequence No : 13",
+      "disclosure_date": "2018-06-20T02:05:07Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/529741529373913728/pdf/Disclosable-Version-of-the-ISR-Education-Quality-Improvement-Project-P126364-Sequence-No-13.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/529741529373913728/text/Disclosable-Version-of-the-ISR-Education-Quality-Improvement-Project-P126364-Sequence-No-13.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b085c24dc2",
+      "totvolnb": "1",
+      "historic_topic": "Education",
+      "projectid": "P126364",
+      "guid": "529741529373913728",
+      "origu": "Education LCR (HLCED)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/529741529373913728"
+    },
+    "D19241238": {
+      "id": "19241238",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08232a672_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR12242",
+      "docdt": "2014-03-13T04:00:00Z",
+      "datestored": "2014-03-13T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "capacity development activity"
+        },
+        "1": {
+          "keywd": "Teacher Professional Development"
+        },
+        "2": {
+          "keywd": "learning module"
+        },
+        "3": {
+          "keywd": "infrastructure component"
+        },
+        "4": {
+          "keywd": "instrument development"
+        },
+        "5": {
+          "keywd": "primary teacher"
+        },
+        "6": {
+          "keywd": "project intervention"
+        },
+        "7": {
+          "keywd": "educational material"
+        },
+        "8": {
+          "keywd": "cluster level"
+        },
+        "9": {
+          "keywd": "graduation rate"
+        },
+        "10": {
+          "keywd": "communication strategy"
+        },
+        "11": {
+          "keywd": "school teacher"
+        },
+        "12": {
+          "keywd": "governance system"
+        },
+        "13": {
+          "keywd": "financial agreement"
+        },
+        "14": {
+          "keywd": "Municipalities"
+        },
+        "15": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2014-03-13T17:16:39Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/252141468247207697/pdf/ISR-Disclosable-P126364-03-13-2014-1394730986936.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/252141468247207697/text/ISR-Disclosable-P126364-03-13-2014-1394730986936.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08232a672",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "252141468247207697",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/252141468247207697"
+    },
+    "D24999818": {
+      "id": "24999818",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0830bc3e1_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR20323",
+      "docdt": "2015-09-05T04:00:00Z",
+      "datestored": "2015-09-05T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "upper secondary education"
+        },
+        "1": {
+          "keywd": "intermediate indicator"
+        },
+        "2": {
+          "keywd": "graduation rate"
+        },
+        "3": {
+          "keywd": "number of beneficiaries"
+        },
+        "4": {
+          "keywd": "crime and violence"
+        },
+        "5": {
+          "keywd": "teacher training model"
+        },
+        "6": {
+          "keywd": "capacity for implementation"
+        },
+        "7": {
+          "keywd": "primary teacher certification"
+        },
+        "8": {
+          "keywd": "upper secondary level"
+        },
+        "9": {
+          "keywd": "local service provider"
+        },
+        "10": {
+          "keywd": "number of teachers"
+        },
+        "11": {
+          "keywd": "disadvantaged student"
+        },
+        "12": {
+          "keywd": "class hour"
+        },
+        "13": {
+          "keywd": "risk category"
+        },
+        "14": {
+          "keywd": "overtime pay"
+        },
+        "15": {
+          "keywd": "school day"
+        },
+        "16": {
+          "keywd": "Teacher Compensation"
+        },
+        "17": {
+          "keywd": "land title"
+        },
+        "18": {
+          "keywd": "certified teacher"
+        },
+        "19": {
+          "keywd": "transportation cost"
+        },
+        "20": {
+          "keywd": "integrated system"
+        },
+        "21": {
+          "keywd": "target school"
+        },
+        "22": {
+          "keywd": "delivery strategy"
+        },
+        "23": {
+          "keywd": "mine capacity"
+        },
+        "24": {
+          "keywd": "female participation"
+        },
+        "25": {
+          "keywd": "Work Transfer"
+        },
+        "26": {
+          "keywd": "retention rates"
+        },
+        "27": {
+          "keywd": "secondary teacher"
+        },
+        "28": {
+          "keywd": "infrastructure activities"
+        },
+        "29": {
+          "keywd": "demographic trend"
+        },
+        "30": {
+          "keywd": "economic instability"
+        },
+        "31": {
+          "keywd": "financing plan"
+        },
+        "32": {
+          "keywd": "governance system"
+        },
+        "33": {
+          "keywd": "school feeding"
+        },
+        "34": {
+          "keywd": "communication strategy"
+        },
+        "35": {
+          "keywd": "school access"
+        },
+        "36": {
+          "keywd": "infrastructure component"
+        },
+        "37": {
+          "keywd": "Financing plans"
+        },
+        "38": {
+          "keywd": "macroeconomic risk"
+        },
+        "39": {
+          "keywd": "baseline survey"
+        },
+        "40": {
+          "keywd": "investment loan"
+        },
+        "41": {
+          "keywd": "educational material"
+        },
+        "42": {
+          "keywd": "unallocated fund"
+        },
+        "43": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2015-09-05T12:45:21Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/999951468247448400/pdf/ISR-Disclosable-P126364-09-05-2015-1441457108109.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/999951468247448400/text/ISR-Disclosable-P126364-09-05-2015-1441457108109.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0830bc3e1",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "999951468247448400",
+      "origu": "Education - GP (GEDDR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/999951468247448400"
+    },
+    "D16862888": {
+      "id": "16862888",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins"
+        },
+        "1": {
+          "author": "Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012102211505588"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR7994",
+      "docdt": "2012-10-22T04:00:00Z",
+      "datestored": "2012-10-22T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "primary teacher"
+        },
+        "1": {
+          "keywd": "project intervention"
+        },
+        "2": {
+          "keywd": "school teacher"
+        },
+        "3": {
+          "keywd": "educational material"
+        },
+        "4": {
+          "keywd": "cluster level"
+        },
+        "5": {
+          "keywd": "communication strategy"
+        },
+        "6": {
+          "keywd": "graduation rate"
+        },
+        "7": {
+          "keywd": "governance system"
+        },
+        "8": {
+          "keywd": "financial agreement"
+        },
+        "9": {
+          "keywd": "Municipalities"
+        },
+        "10": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 02"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 02",
+      "pdfurl": "http://documents.worldbank.org/curated/en/453551468770942662/pdf/ISR0Disclosabl022201201350921055024.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/453551468770942662/text/ISR0Disclosabl022201201350921055024.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08171249b",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "453551468770942662",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/453551468770942662"
+    },
+    "D17418817": {
+      "id": "17418817",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08198c0ad_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR9222",
+      "docdt": "2013-03-06T05:00:00Z",
+      "datestored": "2013-03-06T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Municipalities"
+        },
+        "1": {
+          "keywd": "cluster level"
+        },
+        "2": {
+          "keywd": "communication strategy"
+        },
+        "3": {
+          "keywd": "governance system"
+        },
+        "4": {
+          "keywd": "educational material"
+        },
+        "5": {
+          "keywd": "financial agreement"
+        },
+        "6": {
+          "keywd": "school teacher"
+        },
+        "7": {
+          "keywd": "project intervention"
+        },
+        "8": {
+          "keywd": "primary teacher"
+        },
+        "9": {
+          "keywd": "organizational change"
+        },
+        "10": {
+          "keywd": "school rehabilitation"
+        },
+        "11": {
+          "keywd": "pedagogical model"
+        },
+        "12": {
+          "keywd": "graduation rate"
+        },
+        "13": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 03",
+      "disclosure_date": "2013-03-06T22:34:49Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/857761468248715992/pdf/ISR-Disclosable-P126364-03-06-2013-1362609279701.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/857761468248715992/text/ISR-Disclosable-P126364-03-06-2013-1362609279701.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08198c0ad",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "857761468248715992",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/857761468248715992"
+    },
+    "D30742231": {
+      "id": "30742231",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Hawkins, Robert J."
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Education Quality Improvement Project - P126364 - Sequence No : 14"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08683643c_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "teratopic": "Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR34864",
+      "docdt": "2019-01-07T05:00:00Z",
+      "datestored": "2019-01-07T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "upper secondary education"
+        },
+        "1": {
+          "keywd": " Investment Project Financing"
+        },
+        "2": {
+          "keywd": " integrated system"
+        },
+        "3": {
+          "keywd": " certified teacher"
+        },
+        "4": {
+          "keywd": " graduation rate"
+        },
+        "5": {
+          "keywd": " educational outcome"
+        },
+        "6": {
+          "keywd": " school census"
+        },
+        "7": {
+          "keywd": " educational material"
+        },
+        "8": {
+          "keywd": " communication strategy"
+        },
+        "9": {
+          "keywd": " governance system"
+        },
+        "10": {
+          "keywd": " baseline survey"
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Education Quality Improvement Project - P126364 - Sequence No : 14"
+      },
+      "display_title": "Disclosable Version of the ISR - Education Quality Improvement Project - P126364 - Sequence No : 14",
+      "disclosure_date": "2019-01-07T18:04:54Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/937671546884296912/pdf/Disclosable-Version-of-the-ISR-Education-Quality-Improvement-Project-P126364-Sequence-No-14.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/937671546884296912/text/Disclosable-Version-of-the-ISR-Education-Quality-Improvement-Project-P126364-Sequence-No-14.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08683643c",
+      "totvolnb": "1",
+      "historic_topic": "Education",
+      "projectid": "P126364",
+      "guid": "937671546884296912",
+      "origu": "Education Global (HEDGE)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/937671546884296912"
+    },
+    "D16184442": {
+      "id": "16184442",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Ambasz, Diego"
+        },
+        "1": {
+          "author": "Diego"
+        }
+      },
+      "count": "El Salvador",
+      "docna": {
+        "0": {
+          "docna": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SV-Education Quality Improvement Project -- P126364",
+      "subsc": "FY17 - Tertiary Education,FY17 - Secondary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education Financing,FY17 - Education,FY17 - Science and Technology,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012032912405042"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Institutions & Facilities,Educational Populations,Educational Sciences,Effective Schools and Teachers,Secondary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR5862",
+      "docdt": "2012-03-29T04:00:00Z",
+      "datestored": "2012-03-29T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "primary teacher"
+        },
+        "1": {
+          "keywd": "project intervention"
+        },
+        "2": {
+          "keywd": "cluster level"
+        },
+        "3": {
+          "keywd": "communication strategy"
+        },
+        "4": {
+          "keywd": "school teacher"
+        },
+        "5": {
+          "keywd": "education authority"
+        },
+        "6": {
+          "keywd": "governance system"
+        },
+        "7": {
+          "keywd": "graduation rate"
+        },
+        "8": {
+          "keywd": "financial agreement"
+        },
+        "9": {
+          "keywd": "educational material"
+        },
+        "10": {
+          "keywd": "Municipalities"
+        },
+        "11": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 01"
+      },
+      "display_title": "El Salvador - Education Quality Improvement Project : P126364 - Implementation Status Results Report : Sequence 01",
+      "pdfurl": "http://documents.worldbank.org/curated/en/879411468746350079/pdf/ISR0Disclosabl029201201333039249675.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/879411468746350079/text/ISR0Disclosabl029201201333039249675.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081326026",
+      "totvolnb": "1",
+      "projectid": "P126364",
+      "guid": "879411468746350079",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/879411468746350079"
+    },
+    "facets": {}
+  }
+}

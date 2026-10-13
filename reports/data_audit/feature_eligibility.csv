@@ -1,0 +1,36 @@
+column,decision,rationale,timing_evidence
+Project ID,AUDIT_ONLY,Identifier. Used for project-aware grouping and traceability.,Assigned at concept stage; carries no outcome information by design.
+Project Name,EXCLUDE,Free-text identifier; would let a model memorise specific projects.,"Known at approval, but not a legitimate generalisable predictor."
+Region,INCLUDE,Geographic context. AFE/AFW harmonised to AFR (post-2020 sub-region codes applied unevenly by era).,"Known at approval. Audit: AFE/AFW appear mainly on post-1990 projects, AFR on older ones in the same countries."
+Country Code,EXCLUDE,Corrupted upstream: Namibia's ISO code 'NA' was read as missing and filled with 'IN' (India).,"Known at approval, but unreliable in this file. Country Name carries the same information correctly."
+Country Name,INCLUDE,Borrower country context (182 countries; rare levels grouped later on training data).,Known at approval.
+Approval Date,AUDIT_ONLY,Used only to repair one invalid Approval FY value.,Known at approval. Approval FY carries the same timing information.
+Approval FY,INCLUDE,Approval era: lending practices and evaluation standards changed over time.,Known at approval. One invalid value (0) repaired from Approval Date.
+Sector Board,INCLUDE,Sector of the operation (rare categories grouped later on training data).,"Assigned at approval; taxonomy changed over eras, which is noted as a limitation."
+Agreement Type,INCLUDE,"Financing source (IBRD, IDA, trust funds).",Known at approval. Overlaps strongly with Product Line Code; redundancy assessed in feature selection.
+Lending Project Cost,INCLUDE,Planned total project cost at approval (log scale later).,"Planned figure. Audit: 42.7% of rows hold one identical value (55,700,000) = upstream fill; converted to missing + indicator `lending_cost_reported`. Nearly all pre-1990 projects are affected."
+Net Commitment,EXCLUDE,Timing NOT established; evidence indicates post-approval adjustment.,"Audit: 269 negative values, 76% below project cost, 25.5% non-round amounts. Consistent with net-of-cancellation figures recorded after implementation."
+Lending Instrument Type,INCLUDE,IPF / DPF / PforR.,Known at approval.
+Lending Instrument,INCLUDE,"Detailed instrument (SIL, DPL, TAL ...).",Known at approval.
+Product Line Code,INCLUDE,"Product line (IBRD/IDA, GEF, ...).",Known at approval.
+Product Line,EXCLUDE,One-to-one duplicate of Product Line Code.,Known at approval; redundant.
+Deactivation Date,EXCLUDE,Project closing date.,Post-completion.
+Exit FY,EXCLUDE,Fiscal year of exit; implies duration.,Post-completion.
+ERR at Appraisal,EXCLUDE,"Unreliable in this file: 65.8% of rows hold one identical value (21.0) = upstream fill, and values differ between evaluations of the same project.","Concept is appraisal-time, but values here are transcribed from later IEG evaluation records; genuine values cannot be separated from filled ones. Excluded from the primary model."
+ERR at Completion,EXCLUDE,Economic return measured at completion.,Post-completion (69.9% upstream-filled with 17.0).
+IEG_EvalDate,AUDIT_ONLY,Selects the latest evaluation per project.,Post-completion evaluation.
+IEG_EvalFY,EXCLUDE,Evaluation year.,Post-completion evaluation.
+IEG_EvalType,AUDIT_ONLY,Tie-breaker for record selection.,Post-completion evaluation.
+IEG_Outcome,TARGET,Mapped to three outcome classes.,Post-completion evaluation.
+(disc)IEG_IDImpact,EXCLUDE,IEG performance rating.,Post-completion evaluation.
+IEG_BankQualityAtEntry,EXCLUDE,Rated retrospectively by IEG even though it describes preparation quality.,Post-completion evaluation.
+IEG_BankQualityOfSupervision,EXCLUDE,IEG performance rating.,Post-completion evaluation.
+IEG_OverallBankPerf,EXCLUDE,IEG performance rating.,Post-completion evaluation.
+(disc)IEG_BorrPrep,EXCLUDE,Rated retrospectively by IEG even though it describes preparation quality.,Post-completion evaluation.
+IEG_ImplementingAgencyPerf,EXCLUDE,IEG performance rating.,Post-completion evaluation.
+IEG_GovernmentPerf,EXCLUDE,IEG performance rating.,Post-completion evaluation.
+IEG_OverallBorrPerf,EXCLUDE,IEG performance rating.,Post-completion evaluation.
+IEG_ICRQuality,EXCLUDE,IEG performance rating.,Post-completion evaluation.
+(disc)IEG_Sustainability,EXCLUDE,IEG performance rating.,Post-completion evaluation.
+IEG_MEQuality,EXCLUDE,IEG performance rating.,Post-completion evaluation.
+IEG_SourceDocumentURL,EXCLUDE,Link to the evaluation document.,Post-completion evaluation.

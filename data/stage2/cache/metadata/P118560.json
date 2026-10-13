@@ -1,0 +1,1602 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 12,
+  "documents": {
+    "D16927244": {
+      "id": "16927244",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Assaf, Nabila"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08175523a_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "repnb": "ISR8308",
+      "docdt": "2012-11-07T05:00:00Z",
+      "datestored": "2012-11-07T05:00:00Z",
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2012-11-07T18:42:12Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/683081468175129692/pdf/ISR-Disclosable-P118560-11072012-1352313732600.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/683081468175129692/text/ISR-Disclosable-P118560-11072012-1352313732600.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08175523a",
+      "totvolnb": "1",
+      "projectid": "P118560",
+      "guid": "683081468175129692",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/683081468175129692"
+    },
+    "D25761319": {
+      "id": "25761319",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Khatib, Abdalwahab"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08404414e_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banking Law,Banks & Banking Reform,Deposit Insurance,Financial Law,Financial Regulation & Supervision,Financial Sector Policy,Inequality,Judicial System Reform,Law Finance and Growth,Legal Products,Legal Reform,Legislation,Regulatory Regimes,Social Policy",
+      "teratopic": "Finance and Financial Sector Development,Governance,Law and Development,Poverty Reduction,Public Sector Development,Social Development",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "repnb": "ISR22354",
+      "docdt": "2016-01-11T05:00:00Z",
+      "datestored": "2016-01-11T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "procurement manual"
+        },
+        "1": {
+          "keywd": "general ledger"
+        },
+        "2": {
+          "keywd": "technical assistance loan"
+        },
+        "3": {
+          "keywd": "quality management system"
+        },
+        "4": {
+          "keywd": "public procurement procedure"
+        },
+        "5": {
+          "keywd": "public procurement reform"
+        },
+        "6": {
+          "keywd": "capacity in place"
+        },
+        "7": {
+          "keywd": "deposit insurance regulation"
+        },
+        "8": {
+          "keywd": "insurance scheme"
+        },
+        "9": {
+          "keywd": "awareness campaign"
+        },
+        "10": {
+          "keywd": "pension system"
+        },
+        "11": {
+          "keywd": "regulatory institution"
+        },
+        "12": {
+          "keywd": "ledger system"
+        },
+        "13": {
+          "keywd": "improved public"
+        },
+        "14": {
+          "keywd": "procurement documents"
+        },
+        "15": {
+          "keywd": "procurement process"
+        },
+        "16": {
+          "keywd": "Financial Sector"
+        },
+        "17": {
+          "keywd": "insurance value"
+        },
+        "18": {
+          "keywd": "international consultant"
+        },
+        "19": {
+          "keywd": "poverty estimate"
+        },
+        "20": {
+          "keywd": "management capacity"
+        },
+        "21": {
+          "keywd": "train activity"
+        },
+        "22": {
+          "keywd": "future pension"
+        },
+        "23": {
+          "keywd": "special financing"
+        },
+        "24": {
+          "keywd": "digital archive"
+        },
+        "25": {
+          "keywd": "standard bidding"
+        },
+        "26": {
+          "keywd": "pension reform"
+        },
+        "27": {
+          "keywd": "project's progress"
+        },
+        "28": {
+          "keywd": "turn-around time"
+        },
+        "29": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2016-01-11T09:22:07Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/723751468338338633/pdf/West-Bank-and-Gaza-Capacity-Building-for-Palestinian-Economic-and-Regulatory-Institutions-P118560-Implementation-Status-Results-Report-Sequence-11.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/723751468338338633/text/West-Bank-and-Gaza-Capacity-Building-for-Palestinian-Economic-and-Regulatory-Institutions-P118560-Implementation-Status-Results-Report-Sequence-11.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08404414e",
+      "totvolnb": "1",
+      "historic_topic": "Finance and Financial Sector Development,Governance,Law and Development,Poverty Reduction,Public Sector Development,Social Development",
+      "projectid": "P118560",
+      "guid": "723751468338338633",
+      "origu": "F&M GP MNA-2 - IBRD (GFM11)",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/723751468338338633"
+    },
+    "D24633071": {
+      "id": "24633071",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082f2b6ef_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banking Law,Banks & Banking Reform,Deposit Insurance,Economic Adjustment and Lending,Financial Law,Financial Regulation & Supervision,Financial Sector Policy,Judicial System Reform,Law Finance and Growth,Legal Products,Legal Reform,Legislation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Regulatory Regimes,Social Policy,Tax Administration,Tax Law,Taxation & Subsidies",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "repnb": "ISR19635",
+      "docdt": "2015-06-15T04:00:00Z",
+      "datestored": "2015-06-15T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "quality management system"
+        },
+        "1": {
+          "keywd": "capacity in place"
+        },
+        "2": {
+          "keywd": "personal income tax"
+        },
+        "3": {
+          "keywd": "public procurement procedure"
+        },
+        "4": {
+          "keywd": "technical assistance loan"
+        },
+        "5": {
+          "keywd": "deposit insurance regulation"
+        },
+        "6": {
+          "keywd": "general ledger"
+        },
+        "7": {
+          "keywd": "procurement manual"
+        },
+        "8": {
+          "keywd": "awareness campaign"
+        },
+        "9": {
+          "keywd": "management capacity"
+        },
+        "10": {
+          "keywd": "insurance scheme"
+        },
+        "11": {
+          "keywd": "tax base"
+        },
+        "12": {
+          "keywd": "regulatory institution"
+        },
+        "13": {
+          "keywd": "pension system"
+        },
+        "14": {
+          "keywd": "poverty estimate"
+        },
+        "15": {
+          "keywd": "debt auction"
+        },
+        "16": {
+          "keywd": "reserve management"
+        },
+        "17": {
+          "keywd": "development system"
+        },
+        "18": {
+          "keywd": "future pension"
+        },
+        "19": {
+          "keywd": "pension reform"
+        },
+        "20": {
+          "keywd": "standard bidding"
+        },
+        "21": {
+          "keywd": "ongoing work"
+        },
+        "22": {
+          "keywd": "special financing"
+        },
+        "23": {
+          "keywd": "project's progress"
+        },
+        "24": {
+          "keywd": "Financial Sector"
+        },
+        "25": {
+          "keywd": "improved public"
+        },
+        "26": {
+          "keywd": "Tax Administration"
+        },
+        "27": {
+          "keywd": "corrective action"
+        },
+        "28": {
+          "keywd": "procuring entity"
+        },
+        "29": {
+          "keywd": "bidding work"
+        },
+        "30": {
+          "keywd": "development work"
+        },
+        "31": {
+          "keywd": "ledger system"
+        },
+        "32": {
+          "keywd": "general management"
+        },
+        "33": {
+          "keywd": "Tax Reform"
+        },
+        "34": {
+          "keywd": "insurance value"
+        },
+        "35": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2015-06-15T08:06:28Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/277081468109134425/pdf/ISR-Disclosable-P118560-06-15-2015-1434355573646.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/277081468109134425/text/ISR-Disclosable-P118560-06-15-2015-1434355573646.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082f2b6ef",
+      "totvolnb": "1",
+      "projectid": "P118560",
+      "guid": "277081468109134425",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/277081468109134425"
+    },
+    "D26561780": {
+      "id": "26561780",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Khatib, Abdalwahab"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084445965_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banking Law,Banks & Banking Reform,Deposit Insurance,Financial Law,Financial Regulation & Supervision,Financial Sector Policy,ICT Applications,Inequality,Judicial System Reform,Law Finance and Growth,Legal Products,Legal Reform,Legislation,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "repnb": "ISR24421",
+      "docdt": "2016-07-11T04:00:00Z",
+      "datestored": "2016-07-11T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "law and regulation"
+        },
+        "1": {
+          "keywd": "procurement manual"
+        },
+        "2": {
+          "keywd": "public procurement reform"
+        },
+        "3": {
+          "keywd": "public procurement procedure"
+        },
+        "4": {
+          "keywd": "deposit insurance regulation"
+        },
+        "5": {
+          "keywd": "national development plan"
+        },
+        "6": {
+          "keywd": "technical assistance loan"
+        },
+        "7": {
+          "keywd": "insurance value"
+        },
+        "8": {
+          "keywd": "capacity in place"
+        },
+        "9": {
+          "keywd": "insurance scheme"
+        },
+        "10": {
+          "keywd": "standard bidding"
+        },
+        "11": {
+          "keywd": "regulatory institution"
+        },
+        "12": {
+          "keywd": "pension system"
+        },
+        "13": {
+          "keywd": "general ledger"
+        },
+        "14": {
+          "keywd": "train activity"
+        },
+        "15": {
+          "keywd": "awareness campaign"
+        },
+        "16": {
+          "keywd": "poverty estimate"
+        },
+        "17": {
+          "keywd": "future pension"
+        },
+        "18": {
+          "keywd": "supply use"
+        },
+        "19": {
+          "keywd": "input use"
+        },
+        "20": {
+          "keywd": "international expert"
+        },
+        "21": {
+          "keywd": "international consultant"
+        },
+        "22": {
+          "keywd": "Financial Sector"
+        },
+        "23": {
+          "keywd": "core banking"
+        },
+        "24": {
+          "keywd": "pension reform"
+        },
+        "25": {
+          "keywd": "strategic objective"
+        },
+        "26": {
+          "keywd": "procurement documents"
+        },
+        "27": {
+          "keywd": "improved public"
+        },
+        "28": {
+          "keywd": "ledger system"
+        },
+        "29": {
+          "keywd": "procedure manual"
+        },
+        "30": {
+          "keywd": "governance reform"
+        },
+        "31": {
+          "keywd": "institution building"
+        },
+        "32": {
+          "keywd": "special financing"
+        },
+        "33": {
+          "keywd": "investment function"
+        },
+        "34": {
+          "keywd": "management capacity"
+        },
+        "35": {
+          "keywd": "deposit base"
+        },
+        "36": {
+          "keywd": "census data"
+        },
+        "37": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 12"
+      },
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 12",
+      "disclosure_date": "2016-07-11T17:21:32Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/225671468257693845/pdf/ISR-Disclosable-P118560-07-11-2016-1468257682383.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/225671468257693845/text/ISR-Disclosable-P118560-07-11-2016-1468257682383.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b084445965",
+      "totvolnb": "1",
+      "projectid": "P118560",
+      "guid": "225671468257693845",
+      "origu": "EFI-MNA-FCI-Finance-1 (EMNF1)",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/225671468257693845"
+    },
+    "D17551188": {
+      "id": "17551188",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Assaf, Nabila"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081a5e237_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banking Law,Banks & Banking Reform,Deposit Insurance,Economic Growth,Financial Law,Financial Regulation & Supervision,Financial Sector Policy,Judicial System Reform,Law Finance and Growth,Legal Products,Legal Reform,Legislation,Macroeconomic Management,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "repnb": "ISR9896",
+      "docdt": "2013-04-08T04:00:00Z",
+      "datestored": "2013-04-08T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "pension reform"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "reserve management"
+        },
+        "3": {
+          "keywd": "deposit insurance scheme"
+        },
+        "4": {
+          "keywd": "procurement of consultant"
+        },
+        "5": {
+          "keywd": "regulatory institution"
+        },
+        "6": {
+          "keywd": "expressions of interest"
+        },
+        "7": {
+          "keywd": "partner institution"
+        },
+        "8": {
+          "keywd": "investment policy"
+        },
+        "9": {
+          "keywd": "archive management"
+        },
+        "10": {
+          "keywd": "financial agreement"
+        },
+        "11": {
+          "keywd": "future pension"
+        },
+        "12": {
+          "keywd": "general ledger"
+        },
+        "13": {
+          "keywd": "dam contract"
+        },
+        "14": {
+          "keywd": "pension scheme"
+        },
+        "15": {
+          "keywd": "financial impact"
+        },
+        "16": {
+          "keywd": "poverty estimate"
+        },
+        "17": {
+          "keywd": "agricultural census"
+        },
+        "18": {
+          "keywd": "Financial Sector"
+        },
+        "19": {
+          "keywd": "data management"
+        },
+        "20": {
+          "keywd": "research department"
+        },
+        "21": {
+          "keywd": "Financial Stability"
+        },
+        "22": {
+          "keywd": "macroeconomic forecast"
+        },
+        "23": {
+          "keywd": "monitoring techniques"
+        },
+        "24": {
+          "keywd": "sole source"
+        },
+        "25": {
+          "keywd": "management capacity"
+        },
+        "26": {
+          "keywd": "special financing"
+        },
+        "27": {
+          "keywd": "committee approval"
+        },
+        "28": {
+          "keywd": "law"
+        },
+        "29": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2013-04-08T18:53:21Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/429211468317062512/pdf/ISR-Disclosable-P118560-04-08-2013-1365447192358.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/429211468317062512/text/ISR-Disclosable-P118560-04-08-2013-1365447192358.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b081a5e237",
+      "totvolnb": "1",
+      "projectid": "P118560",
+      "guid": "429211468317062512",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/429211468317062512"
+    },
+    "D18650272": {
+      "id": "18650272",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Assaf, Nabila"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08210b456_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banks & Banking Reform,Deposit Insurance,Economic Growth,Inequality,Macroeconomic Management",
+      "teratopic": "Finance and Financial Sector Development,Macroeconomics and Economic Growth,Poverty Reduction",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "repnb": "ISR12468",
+      "docdt": "2013-12-13T05:00:00Z",
+      "datestored": "2013-12-13T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "regulatory institution"
+        },
+        "2": {
+          "keywd": "pension reform"
+        },
+        "3": {
+          "keywd": "reserve management"
+        },
+        "4": {
+          "keywd": "reallocation of fund"
+        },
+        "5": {
+          "keywd": "deposit insurance scheme"
+        },
+        "6": {
+          "keywd": "result indicator"
+        },
+        "7": {
+          "keywd": "future pension"
+        },
+        "8": {
+          "keywd": "management capacity"
+        },
+        "9": {
+          "keywd": "train service"
+        },
+        "10": {
+          "keywd": "poverty estimate"
+        },
+        "11": {
+          "keywd": "consultancy service"
+        },
+        "12": {
+          "keywd": "sole source"
+        },
+        "13": {
+          "keywd": "pension scheme"
+        },
+        "14": {
+          "keywd": "monitoring techniques"
+        },
+        "15": {
+          "keywd": "financial impact"
+        },
+        "16": {
+          "keywd": "investment policy"
+        },
+        "17": {
+          "keywd": "Financial Sector"
+        },
+        "18": {
+          "keywd": "forecasting model"
+        },
+        "19": {
+          "keywd": "special financing"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2013-12-13T23:29:44Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/442371468137968968/pdf/ISR-Disclosable-P118560-12-13-2013-1386977373208.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/442371468137968968/text/ISR-Disclosable-P118560-12-13-2013-1386977373208.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08210b456",
+      "totvolnb": "1",
+      "historic_topic": "Finance and Financial Sector Development,Macroeconomics and Economic Growth,Poverty Reduction",
+      "projectid": "P118560",
+      "guid": "442371468137968968",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/442371468137968968"
+    },
+    "D19722933": {
+      "id": "19722933",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Assaf, Nabila"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08252b813_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banks & Banking Reform,Deposit Insurance,Economic Adjustment and Lending,Inequality,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Tax Administration,Tax Law,Taxation & Subsidies",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "repnb": "ISR14248",
+      "docdt": "2014-06-24T04:00:00Z",
+      "datestored": "2014-06-24T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "regulatory institution"
+        },
+        "2": {
+          "keywd": "reserve management"
+        },
+        "3": {
+          "keywd": "personal income tax"
+        },
+        "4": {
+          "keywd": "quality management system"
+        },
+        "5": {
+          "keywd": "deposit insurance scheme"
+        },
+        "6": {
+          "keywd": "capacity in place"
+        },
+        "7": {
+          "keywd": "procurement procedure"
+        },
+        "8": {
+          "keywd": "procurement manual"
+        },
+        "9": {
+          "keywd": "general ledger"
+        },
+        "10": {
+          "keywd": "reform plan"
+        },
+        "11": {
+          "keywd": "procuring entity"
+        },
+        "12": {
+          "keywd": "bidding work"
+        },
+        "13": {
+          "keywd": "agricultural census"
+        },
+        "14": {
+          "keywd": "survey methodology"
+        },
+        "15": {
+          "keywd": "management capacity"
+        },
+        "16": {
+          "keywd": "Financial Sector"
+        },
+        "17": {
+          "keywd": "poverty estimate"
+        },
+        "18": {
+          "keywd": "special financing"
+        },
+        "19": {
+          "keywd": "pension system"
+        },
+        "20": {
+          "keywd": "debt auction"
+        },
+        "21": {
+          "keywd": "future pension"
+        },
+        "22": {
+          "keywd": "operational capacity"
+        },
+        "23": {
+          "keywd": "tax base"
+        },
+        "24": {
+          "keywd": "financial agreement"
+        },
+        "25": {
+          "keywd": "project's progress"
+        },
+        "26": {
+          "keywd": "awareness campaign"
+        },
+        "27": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2014-06-24T18:34:23Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/689701468142489882/pdf/ISR-Disclosable-P118560-06-24-2014-1403634848988.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/689701468142489882/text/ISR-Disclosable-P118560-06-24-2014-1403634848988.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08252b813",
+      "totvolnb": "1",
+      "projectid": "P118560",
+      "guid": "689701468142489882",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/689701468142489882"
+    },
+    "D23165579": {
+      "id": "23165579",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082981899_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banking Law,Banks & Banking Reform,Deposit Insurance,Economic Adjustment and Lending,Financial Law,Financial Regulation & Supervision,Financial Sector Policy,Judicial System Reform,Law Finance and Growth,Legal Products,Legal Reform,Legislation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Regulatory Regimes,Social Policy,Tax Administration,Tax Law,Taxation & Subsidies",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "repnb": "ISR17672",
+      "docdt": "2015-01-05T05:00:00Z",
+      "datestored": "2015-01-05T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "deposit insurance regulation"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "public procurement procedure"
+        },
+        "3": {
+          "keywd": "personal income tax"
+        },
+        "4": {
+          "keywd": "capacity in place"
+        },
+        "5": {
+          "keywd": "quality management system"
+        },
+        "6": {
+          "keywd": "general ledger"
+        },
+        "7": {
+          "keywd": "procurement manual"
+        },
+        "8": {
+          "keywd": "management capacity"
+        },
+        "9": {
+          "keywd": "insurance scheme"
+        },
+        "10": {
+          "keywd": "regulatory institution"
+        },
+        "11": {
+          "keywd": "tax base"
+        },
+        "12": {
+          "keywd": "pension system"
+        },
+        "13": {
+          "keywd": "awareness campaign"
+        },
+        "14": {
+          "keywd": "special financing"
+        },
+        "15": {
+          "keywd": "development system"
+        },
+        "16": {
+          "keywd": "improved public"
+        },
+        "17": {
+          "keywd": "future pension"
+        },
+        "18": {
+          "keywd": "debt auction"
+        },
+        "19": {
+          "keywd": "reserve management"
+        },
+        "20": {
+          "keywd": "poverty estimate"
+        },
+        "21": {
+          "keywd": "pension reform"
+        },
+        "22": {
+          "keywd": "standard bidding"
+        },
+        "23": {
+          "keywd": "insurance value"
+        },
+        "24": {
+          "keywd": "Tax Administration"
+        },
+        "25": {
+          "keywd": "ledger system"
+        },
+        "26": {
+          "keywd": "procuring entity"
+        },
+        "27": {
+          "keywd": "bidding work"
+        },
+        "28": {
+          "keywd": "development work"
+        },
+        "29": {
+          "keywd": "general development"
+        },
+        "30": {
+          "keywd": "Tax Reform"
+        },
+        "31": {
+          "keywd": "project's progress"
+        },
+        "32": {
+          "keywd": "Financial Sector"
+        },
+        "33": {
+          "keywd": "corrective action"
+        },
+        "34": {
+          "keywd": "ongoing work"
+        },
+        "35": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2015-01-05T20:52:26Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/355051468337823831/pdf/ISR-Disclosable-P118560-01-05-2015-1420491133363.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/355051468337823831/text/ISR-Disclosable-P118560-01-05-2015-1420491133363.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082981899",
+      "totvolnb": "1",
+      "projectid": "P118560",
+      "guid": "355051468337823831",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/355051468337823831"
+    },
+    "D16195219": {
+      "id": "16195219",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Sophastienphong, Kiatchai"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012040211120019"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banks & Banking Reform,Deposit Insurance,Food Security,Inequality,Macroeconomic Management",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "repnb": "ISR6024",
+      "docdt": "2012-04-02T04:00:00Z",
+      "datestored": "2012-04-02T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "national account"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "reserve management"
+        },
+        "3": {
+          "keywd": "deposit insurance scheme"
+        },
+        "4": {
+          "keywd": "technical assistance mission"
+        },
+        "5": {
+          "keywd": "regulatory institution"
+        },
+        "6": {
+          "keywd": "qualified consultant"
+        },
+        "7": {
+          "keywd": "corporate governance structure"
+        },
+        "8": {
+          "keywd": "content management system"
+        },
+        "9": {
+          "keywd": "special financing"
+        },
+        "10": {
+          "keywd": "pension scheme"
+        },
+        "11": {
+          "keywd": "internal procedure"
+        },
+        "12": {
+          "keywd": "monitoring techniques"
+        },
+        "13": {
+          "keywd": "poverty estimate"
+        },
+        "14": {
+          "keywd": "bank assistance"
+        },
+        "15": {
+          "keywd": "procurement process"
+        },
+        "16": {
+          "keywd": "regulation work"
+        },
+        "17": {
+          "keywd": "Financial Sector"
+        },
+        "18": {
+          "keywd": "release date"
+        },
+        "19": {
+          "keywd": "international expert"
+        },
+        "20": {
+          "keywd": "business strategy"
+        },
+        "21": {
+          "keywd": "future pension"
+        },
+        "22": {
+          "keywd": "financial impact"
+        },
+        "23": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 04",
+      "pdfurl": "http://documents.worldbank.org/curated/en/824301468781755883/pdf/ISR0Disclosabl002201201333379519684.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/824301468781755883/text/ISR0Disclosabl002201201333379519684.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08133d5e8",
+      "totvolnb": "1",
+      "projectid": "P118560",
+      "guid": "824301468781755883",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/824301468781755883"
+    },
+    "D13771273": {
+      "id": "13771273",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Pearce, Douglas"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011021318363073"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banking Law,Banks & Banking Reform,Deposit Insurance,Economic Growth,Financial Law,Financial Regulation & Supervision,Financial Sector Policy,Judicial System Reform,Law Finance and Growth,Legal Products,Legal Reform,Legislation,Macroeconomic Management,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "docdt": "2011-02-13T05:00:00Z",
+      "datestored": "2011-02-13T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "deposit insurance scheme"
+        },
+        "2": {
+          "keywd": "regulatory institution"
+        },
+        "3": {
+          "keywd": "reserve management"
+        },
+        "4": {
+          "keywd": "core banking"
+        },
+        "5": {
+          "keywd": "survey methodology"
+        },
+        "6": {
+          "keywd": "pension reform"
+        },
+        "7": {
+          "keywd": "future pension"
+        },
+        "8": {
+          "keywd": "Financial Sector"
+        },
+        "9": {
+          "keywd": "pension scheme"
+        },
+        "10": {
+          "keywd": "monitoring techniques"
+        },
+        "11": {
+          "keywd": "financial impact"
+        },
+        "12": {
+          "keywd": "special financing"
+        },
+        "13": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 02",
+      "disclosure_date": "2011-02-13T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/801101468762918531/pdf/P1185600ISR0Di021320111297640189970.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/801101468762918531/text/P1185600ISR0Di021320111297640189970.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b080a290c7",
+      "projectid": "P118560",
+      "guid": "801101468762918531",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/801101468762918531"
+    },
+    "D12804134": {
+      "id": "12804134",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Pearce, Douglas"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2010092509433834"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Construction Industry,Educational Technology and Distance Education,Information Security & Privacy,Information and Records Management,Knowledge for Development",
+      "teratopic": "Education,Industry,Information and Communication Technologies",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "docdt": "2010-09-25T04:00:00Z",
+      "datestored": "2010-09-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Adobe"
+        },
+        "1": {
+          "keywd": "contents"
+        },
+        "2": {
+          "keywd": "html"
+        },
+        "3": {
+          "keywd": "latest version"
+        },
+        "4": {
+          "keywd": "upgrade"
+        },
+        "5": {
+          "keywd": "version"
+        },
+        "6": {
+          "keywd": "view"
+        },
+        "7": {
+          "keywd": "viewer"
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 01",
+      "disclosure_date": "2010-09-25T04:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/903621468765292751/pdf/P1185600ISR0Di092520101285422217985.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/903621468765292751/text/P1185600ISR0Di092520101285422217985.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b080763a1c",
+      "historic_topic": "Education,Industry,Information and Communication Technologies",
+      "projectid": "P118560",
+      "guid": "903621468765292751",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/903621468765292751"
+    },
+    "D15551349": {
+      "id": "15551349",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Nasir, John L."
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-Capacity-Building for Palestinian Economic and Regulatory Institutions -- P118560",
+      "subsc": "FY17 - Public Administration - Financial Sector,FY17 - Other Non-bank Financial Institutions",
+      "theme": "FY17 - External Finance,FY17 - Monetary and Credit Policies,FY17 - Fiscal Policy,FY17 - Data production, accessibility and use,FY17 - Macro-financial policies,FY17 - Fiscal sustainability,FY17 - Legal Institutions for a Market Economy,FY17 - Social Protection,FY17 - Data Development and Capacity Building,FY17 - Macroeconomic Resilience,FY17 - Social Safety Nets,FY17 - Tax policy,FY17 - Rule of Law,FY17 - Public Expenditure Policy",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011121411075249"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Banking Law,Banks & Banking Reform,Economic Growth,Financial Law,Financial Regulation & Supervision,Financial Sector Policy,Inequality,Judicial System Reform,Law Finance and Growth,Legal Products,Legal Reform,Legislation,Macroeconomic Management,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Financial Sector"
+        }
+      },
+      "docdt": "2011-12-14T05:00:00Z",
+      "datestored": "2011-12-14T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance mission"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "reserve management"
+        },
+        "3": {
+          "keywd": "qualified consultant"
+        },
+        "4": {
+          "keywd": "national account"
+        },
+        "5": {
+          "keywd": "regulatory institution"
+        },
+        "6": {
+          "keywd": "poverty estimate"
+        },
+        "7": {
+          "keywd": "deposit insurance scheme"
+        },
+        "8": {
+          "keywd": "macro economic analysis"
+        },
+        "9": {
+          "keywd": "content management system"
+        },
+        "10": {
+          "keywd": "deposit regulation"
+        },
+        "11": {
+          "keywd": "deposit insurance regulation"
+        },
+        "12": {
+          "keywd": "Financial Sector"
+        },
+        "13": {
+          "keywd": "special financing"
+        },
+        "14": {
+          "keywd": "release date"
+        },
+        "15": {
+          "keywd": "Financial Stability"
+        },
+        "16": {
+          "keywd": "legislative change"
+        },
+        "17": {
+          "keywd": "future pension"
+        },
+        "18": {
+          "keywd": "pension scheme"
+        },
+        "19": {
+          "keywd": "financial impact"
+        },
+        "20": {
+          "keywd": "management capacity"
+        },
+        "21": {
+          "keywd": "monitoring techniques"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "West Bank and Gaza - Capacity-Building for Palestinian Economic and Regulatory Institutions : P118560 - Implementation Status Results Report : Sequence 03",
+      "pdfurl": "http://documents.worldbank.org/curated/en/804591468781783335/pdf/P1185600ISR0Di014201101323878871532.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/804591468781783335/text/P1185600ISR0Di014201101323878871532.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081108b61",
+      "projectid": "P118560",
+      "guid": "804591468781783335",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/804591468781783335"
+    },
+    "facets": {}
+  }
+}

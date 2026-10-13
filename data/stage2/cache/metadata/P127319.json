@@ -1,0 +1,2066 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 11,
+  "documents": {
+    "D25867182": {
+      "id": "25867182",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Mphande, Donald Herrings"
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08414006d_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Economic Adjustment and Lending,Energy Demand,Energy and Environment,Energy and Mining,Inflation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR22555",
+      "docdt": "2016-02-03T05:00:00Z",
+      "datestored": "2016-02-03T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public financial management reform"
+        },
+        "1": {
+          "keywd": "customs revenue collection"
+        },
+        "2": {
+          "keywd": "strengthening budget execution"
+        },
+        "3": {
+          "keywd": "commercial bank account"
+        },
+        "4": {
+          "keywd": "Public Finance Management"
+        },
+        "5": {
+          "keywd": "implementation of reform"
+        },
+        "6": {
+          "keywd": "accounting and reporting"
+        },
+        "7": {
+          "keywd": "fiscal policy management"
+        },
+        "8": {
+          "keywd": "human resource capacity"
+        },
+        "9": {
+          "keywd": "technical assistance loan"
+        },
+        "10": {
+          "keywd": "Vendor Registration"
+        },
+        "11": {
+          "keywd": "financial statement"
+        },
+        "12": {
+          "keywd": "bank reconciliation"
+        },
+        "13": {
+          "keywd": "legal framework"
+        },
+        "14": {
+          "keywd": "enhancing transparency"
+        },
+        "15": {
+          "keywd": "budget coverage"
+        },
+        "16": {
+          "keywd": "monthly expenditure"
+        },
+        "17": {
+          "keywd": "customs official"
+        },
+        "18": {
+          "keywd": "test result"
+        },
+        "19": {
+          "keywd": "commitment authority"
+        },
+        "20": {
+          "keywd": "government operation"
+        },
+        "21": {
+          "keywd": "legislative scrutiny"
+        },
+        "22": {
+          "keywd": "procurement staff"
+        },
+        "23": {
+          "keywd": "fiscal operation"
+        },
+        "24": {
+          "keywd": "internal control"
+        },
+        "25": {
+          "keywd": "expenditure commitment"
+        },
+        "26": {
+          "keywd": "budgetary fund"
+        },
+        "27": {
+          "keywd": "delivery efficiency"
+        },
+        "28": {
+          "keywd": "payroll control"
+        },
+        "29": {
+          "keywd": "institutional foundation"
+        },
+        "30": {
+          "keywd": "legislative instrument"
+        },
+        "31": {
+          "keywd": "functional requirements"
+        },
+        "32": {
+          "keywd": "online procurement"
+        },
+        "33": {
+          "keywd": "financial control"
+        },
+        "34": {
+          "keywd": "web portal"
+        },
+        "35": {
+          "keywd": "procurement function"
+        },
+        "36": {
+          "keywd": "budget credibility"
+        },
+        "37": {
+          "keywd": "audit staff"
+        },
+        "38": {
+          "keywd": "budget information"
+        },
+        "39": {
+          "keywd": "transaction process"
+        },
+        "40": {
+          "keywd": "development partner"
+        },
+        "41": {
+          "keywd": "financial reporting"
+        },
+        "42": {
+          "keywd": "Budget Management"
+        },
+        "43": {
+          "keywd": "administrative capacity"
+        },
+        "44": {
+          "keywd": "local training"
+        },
+        "45": {
+          "keywd": "professional certification"
+        },
+        "46": {
+          "keywd": "fiscal planning"
+        },
+        "47": {
+          "keywd": "internal revenue"
+        },
+        "48": {
+          "keywd": "expenditure policy"
+        },
+        "49": {
+          "keywd": "budget planning"
+        },
+        "50": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2016-02-03T16:57:10Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/232171468046729692/pdf/ISR-Disclosable-P127319-02-03-2016-1454518620539.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/232171468046729692/text/ISR-Disclosable-P127319-02-03-2016-1454518620539.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08414006d",
+      "totvolnb": "1",
+      "projectid": "P127319",
+      "guid": "232171468046729692",
+      "origu": "GOV FAR - AFR 6 (GGO31)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/232171468046729692"
+    },
+    "D17449406": {
+      "id": "17449406",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Ceesay, Ismaila B."
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0819e778a_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Economic Adjustment and Lending,Inflation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR9780",
+      "docdt": "2013-03-15T04:00:00Z",
+      "datestored": "2013-03-15T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public financial management reform"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "legal framework"
+        },
+        "3": {
+          "keywd": "financial statement"
+        },
+        "4": {
+          "keywd": "enhancing transparency"
+        },
+        "5": {
+          "keywd": "budget coverage"
+        },
+        "6": {
+          "keywd": "accounting and reporting"
+        },
+        "7": {
+          "keywd": "fiscal policy management"
+        },
+        "8": {
+          "keywd": "implementation of reform"
+        },
+        "9": {
+          "keywd": "customs revenue collection"
+        },
+        "10": {
+          "keywd": "human resource capacity"
+        },
+        "11": {
+          "keywd": "strengthening budget execution"
+        },
+        "12": {
+          "keywd": "financial reporting"
+        },
+        "13": {
+          "keywd": "fiscal operation"
+        },
+        "14": {
+          "keywd": "Budget Management"
+        },
+        "15": {
+          "keywd": "administrative capacity"
+        },
+        "16": {
+          "keywd": "internal control"
+        },
+        "17": {
+          "keywd": "payroll control"
+        },
+        "18": {
+          "keywd": "legislative scrutiny"
+        },
+        "19": {
+          "keywd": "expenditure policy"
+        },
+        "20": {
+          "keywd": "budget planning"
+        },
+        "21": {
+          "keywd": "audit staff"
+        },
+        "22": {
+          "keywd": "financial control"
+        },
+        "23": {
+          "keywd": "budget information"
+        },
+        "24": {
+          "keywd": "internal revenue"
+        },
+        "25": {
+          "keywd": "budget credibility"
+        },
+        "26": {
+          "keywd": "financial agreement"
+        },
+        "27": {
+          "keywd": "monthly expenditure"
+        },
+        "28": {
+          "keywd": "transaction process"
+        },
+        "29": {
+          "keywd": "procurement staff"
+        },
+        "30": {
+          "keywd": "inflation"
+        },
+        "31": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 02"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 02",
+      "disclosure_date": "2013-03-15T18:43:34Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/772351468270040655/pdf/ISR-Disclosable-P127319-03-15-2013-1363373004362.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/772351468270040655/text/ISR-Disclosable-P127319-03-15-2013-1363373004362.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0819e778a",
+      "totvolnb": "1",
+      "projectid": "P127319",
+      "guid": "772351468270040655",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/772351468270040655"
+    },
+    "D26586340": {
+      "id": "26586340",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Mphande, Donald Herrings"
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084477a64_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Economic Adjustment and Lending,Fiscal & Monetary Policy,Inflation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR24495",
+      "docdt": "2016-07-20T04:00:00Z",
+      "datestored": "2016-07-20T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "information account"
+        },
+        "1": {
+          "keywd": "human resource capacity"
+        },
+        "2": {
+          "keywd": "customs revenue collection"
+        },
+        "3": {
+          "keywd": "accounting and reporting"
+        },
+        "4": {
+          "keywd": "strengthening budget execution"
+        },
+        "5": {
+          "keywd": "cost of finance"
+        },
+        "6": {
+          "keywd": "implementation of reform"
+        },
+        "7": {
+          "keywd": "fiscal policy management"
+        },
+        "8": {
+          "keywd": "budget management system"
+        },
+        "9": {
+          "keywd": "technical assistance loan"
+        },
+        "10": {
+          "keywd": "budget information"
+        },
+        "11": {
+          "keywd": "financial statement"
+        },
+        "12": {
+          "keywd": "cash management"
+        },
+        "13": {
+          "keywd": "budgetary fund"
+        },
+        "14": {
+          "keywd": "treasury account"
+        },
+        "15": {
+          "keywd": "commitment authority"
+        },
+        "16": {
+          "keywd": "enhancing transparency"
+        },
+        "17": {
+          "keywd": "budget coverage"
+        },
+        "18": {
+          "keywd": "legal framework"
+        },
+        "19": {
+          "keywd": "fact sheet"
+        },
+        "20": {
+          "keywd": "fiscal planning"
+        },
+        "21": {
+          "keywd": "tax revenue"
+        },
+        "22": {
+          "keywd": "professional certification"
+        },
+        "23": {
+          "keywd": "budget deficit"
+        },
+        "24": {
+          "keywd": "professional certificate"
+        },
+        "25": {
+          "keywd": "reform strategy"
+        },
+        "26": {
+          "keywd": "audit staff"
+        },
+        "27": {
+          "keywd": "legacy system"
+        },
+        "28": {
+          "keywd": "business process"
+        },
+        "29": {
+          "keywd": "perceived risk"
+        },
+        "30": {
+          "keywd": "expenditure commitment"
+        },
+        "31": {
+          "keywd": "certification program"
+        },
+        "32": {
+          "keywd": "expenditure policy"
+        },
+        "33": {
+          "keywd": "government operation"
+        },
+        "34": {
+          "keywd": "legislative scrutiny"
+        },
+        "35": {
+          "keywd": "payroll control"
+        },
+        "36": {
+          "keywd": "internal control"
+        },
+        "37": {
+          "keywd": "internal revenue"
+        },
+        "38": {
+          "keywd": "fiscal operation"
+        },
+        "39": {
+          "keywd": "procurement staff"
+        },
+        "40": {
+          "keywd": "monthly expenditure"
+        },
+        "41": {
+          "keywd": "domestic revenue"
+        },
+        "42": {
+          "keywd": "domestic borrowing"
+        },
+        "43": {
+          "keywd": "commercial bank"
+        },
+        "44": {
+          "keywd": "budget planning"
+        },
+        "45": {
+          "keywd": "financial resource"
+        },
+        "46": {
+          "keywd": "administrative capacity"
+        },
+        "47": {
+          "keywd": "financial reporting"
+        },
+        "48": {
+          "keywd": "preparatory work"
+        },
+        "49": {
+          "keywd": "transaction process"
+        },
+        "50": {
+          "keywd": "budget credibility"
+        },
+        "51": {
+          "keywd": "financial control"
+        },
+        "52": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2016-07-21T00:49:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/754381469062141527/pdf/ISR-Disclosable-P127319-07-20-2016-1469062128412.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/754381469062141527/text/ISR-Disclosable-P127319-07-20-2016-1469062128412.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b084477a64",
+      "totvolnb": "1",
+      "projectid": "P127319",
+      "guid": "754381469062141527",
+      "origu": "GOV FAR - AFR 6 (GGO31)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/754381469062141527"
+    },
+    "D24248764": {
+      "id": "24248764",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082d220cd_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Communicable Diseases,Economic Adjustment and Lending,Inflation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR18088",
+      "docdt": "2015-04-01T04:00:00Z",
+      "datestored": "2015-04-01T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public financial management reform"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "accounting and reporting"
+        },
+        "3": {
+          "keywd": "annual budget process"
+        },
+        "4": {
+          "keywd": "tax collection functions"
+        },
+        "5": {
+          "keywd": "tax policy function"
+        },
+        "6": {
+          "keywd": "human resource capacity"
+        },
+        "7": {
+          "keywd": "strengthening budget execution"
+        },
+        "8": {
+          "keywd": "implementation of reform"
+        },
+        "9": {
+          "keywd": "fiscal policy management"
+        },
+        "10": {
+          "keywd": "customs revenue collection"
+        },
+        "11": {
+          "keywd": "enhancing transparency"
+        },
+        "12": {
+          "keywd": "financial statement"
+        },
+        "13": {
+          "keywd": "legal framework"
+        },
+        "14": {
+          "keywd": "government operation"
+        },
+        "15": {
+          "keywd": "budget coverage"
+        },
+        "16": {
+          "keywd": "expenditure estimates"
+        },
+        "17": {
+          "keywd": "operational budget"
+        },
+        "18": {
+          "keywd": "budget information"
+        },
+        "19": {
+          "keywd": "medium-term expenditure"
+        },
+        "20": {
+          "keywd": "government's commitment"
+        },
+        "21": {
+          "keywd": "fiscal planning"
+        },
+        "22": {
+          "keywd": "audit staff"
+        },
+        "23": {
+          "keywd": "accountability institution"
+        },
+        "24": {
+          "keywd": "professional certification"
+        },
+        "25": {
+          "keywd": "development partner"
+        },
+        "26": {
+          "keywd": "monthly expenditure"
+        },
+        "27": {
+          "keywd": "expenditure policy"
+        },
+        "28": {
+          "keywd": "internal revenue"
+        },
+        "29": {
+          "keywd": "legislative scrutiny"
+        },
+        "30": {
+          "keywd": "payroll control"
+        },
+        "31": {
+          "keywd": "internal control"
+        },
+        "32": {
+          "keywd": "fiscal operation"
+        },
+        "33": {
+          "keywd": "procurement staff"
+        },
+        "34": {
+          "keywd": "budget credibility"
+        },
+        "35": {
+          "keywd": "financial control"
+        },
+        "36": {
+          "keywd": "budget planning"
+        },
+        "37": {
+          "keywd": "Budget Management"
+        },
+        "38": {
+          "keywd": "financial reporting"
+        },
+        "39": {
+          "keywd": "transaction process"
+        },
+        "40": {
+          "keywd": "administrative capacity"
+        },
+        "41": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2015-04-01T13:08:28Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/427911468088153559/pdf/ISR-Disclosable-P127319-04-01-2015-1427893697648.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/427911468088153559/text/ISR-Disclosable-P127319-04-01-2015-1427893697648.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082d220cd",
+      "totvolnb": "1",
+      "projectid": "P127319",
+      "guid": "427911468088153559",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/427911468088153559"
+    },
+    "D19120813": {
+      "id": "19120813",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Ceesay, Ismaila B."
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0822c1170_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Economic Adjustment and Lending,Government Policies,Inflation,Macro-Fiscal Policy,National Governance,Parliamentary Government,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics,Youth and Governance",
+      "teratopic": "Governance,Macroeconomics and Economic Growth,Public Sector Development",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR13556",
+      "docdt": "2014-02-24T05:00:00Z",
+      "datestored": "2014-02-24T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "public financial management reform"
+        },
+        "2": {
+          "keywd": "enhancing transparency"
+        },
+        "3": {
+          "keywd": "internal control"
+        },
+        "4": {
+          "keywd": "legal framework"
+        },
+        "5": {
+          "keywd": "budget coverage"
+        },
+        "6": {
+          "keywd": "budget execution"
+        },
+        "7": {
+          "keywd": "financial statement"
+        },
+        "8": {
+          "keywd": "budget planning"
+        },
+        "9": {
+          "keywd": "fiscal policy management"
+        },
+        "10": {
+          "keywd": "accounting and reporting"
+        },
+        "11": {
+          "keywd": "senior government official"
+        },
+        "12": {
+          "keywd": "human resource capacity"
+        },
+        "13": {
+          "keywd": "implementation of reform"
+        },
+        "14": {
+          "keywd": "strengthening budget execution"
+        },
+        "15": {
+          "keywd": "customs revenue collection"
+        },
+        "16": {
+          "keywd": "public hearing"
+        },
+        "17": {
+          "keywd": "fiscal reporting"
+        },
+        "18": {
+          "keywd": "donor finance"
+        },
+        "19": {
+          "keywd": "public finance"
+        },
+        "20": {
+          "keywd": "financial audits"
+        },
+        "21": {
+          "keywd": "component managers"
+        },
+        "22": {
+          "keywd": "expenditure policy"
+        },
+        "23": {
+          "keywd": "legislative scrutiny"
+        },
+        "24": {
+          "keywd": "procurement staff"
+        },
+        "25": {
+          "keywd": "internal revenue"
+        },
+        "26": {
+          "keywd": "financial control"
+        },
+        "27": {
+          "keywd": "budget information"
+        },
+        "28": {
+          "keywd": "audit staff"
+        },
+        "29": {
+          "keywd": "budget credibility"
+        },
+        "30": {
+          "keywd": "monthly expenditure"
+        },
+        "31": {
+          "keywd": "transaction process"
+        },
+        "32": {
+          "keywd": "fiscal operation"
+        },
+        "33": {
+          "keywd": "payroll control"
+        },
+        "34": {
+          "keywd": "financial reporting"
+        },
+        "35": {
+          "keywd": "Budget Management"
+        },
+        "36": {
+          "keywd": "administrative capacity"
+        },
+        "37": {
+          "keywd": "inflation"
+        },
+        "38": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2014-02-24T17:14:56Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/243811468056430145/pdf/ISR-Disclosable-P127319-02-24-2014-1393262076618.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/243811468056430145/text/ISR-Disclosable-P127319-02-24-2014-1393262076618.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0822c1170",
+      "totvolnb": "1",
+      "historic_topic": "Governance,Macroeconomics and Economic Growth,Public Sector Development",
+      "projectid": "P127319",
+      "guid": "243811468056430145",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/243811468056430145"
+    },
+    "D24645597": {
+      "id": "24645597",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082f3a6d6_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "De Facto Governments,Democratic Government,Economics and Finance of Public Institution Development,Inflation,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Health Promotion,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,State Owned Enterprise Reform",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR19583",
+      "docdt": "2015-06-16T04:00:00Z",
+      "datestored": "2015-06-16T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public financial management reform"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "budget execution report"
+        },
+        "3": {
+          "keywd": "budget preparation process"
+        },
+        "4": {
+          "keywd": "annual budget process"
+        },
+        "5": {
+          "keywd": "accounting and reporting"
+        },
+        "6": {
+          "keywd": "customs revenue collection"
+        },
+        "7": {
+          "keywd": "human resource capacity"
+        },
+        "8": {
+          "keywd": "strengthening budget execution"
+        },
+        "9": {
+          "keywd": "fiscal policy management"
+        },
+        "10": {
+          "keywd": "implementation of reform"
+        },
+        "11": {
+          "keywd": "enhancing transparency"
+        },
+        "12": {
+          "keywd": "indicator value"
+        },
+        "13": {
+          "keywd": "legal framework"
+        },
+        "14": {
+          "keywd": "budget coverage"
+        },
+        "15": {
+          "keywd": "financial statement"
+        },
+        "16": {
+          "keywd": "payroll control"
+        },
+        "17": {
+          "keywd": "government operation"
+        },
+        "18": {
+          "keywd": "departmental revenues"
+        },
+        "19": {
+          "keywd": "national account"
+        },
+        "20": {
+          "keywd": "quality datum"
+        },
+        "21": {
+          "keywd": "internal control"
+        },
+        "22": {
+          "keywd": "medium-term expenditure"
+        },
+        "23": {
+          "keywd": "government's commitment"
+        },
+        "24": {
+          "keywd": "expenditure estimates"
+        },
+        "25": {
+          "keywd": "performance data"
+        },
+        "26": {
+          "keywd": "financial datum"
+        },
+        "27": {
+          "keywd": "legislative scrutiny"
+        },
+        "28": {
+          "keywd": "budget credibility"
+        },
+        "29": {
+          "keywd": "satisfactory completion"
+        },
+        "30": {
+          "keywd": "expenditure policy"
+        },
+        "31": {
+          "keywd": "fiscal period"
+        },
+        "32": {
+          "keywd": "organizational arrangement"
+        },
+        "33": {
+          "keywd": "budgetary allocation"
+        },
+        "34": {
+          "keywd": "fiscal planning"
+        },
+        "35": {
+          "keywd": "oversight function"
+        },
+        "36": {
+          "keywd": "financial independence"
+        },
+        "37": {
+          "keywd": "fiscal operation"
+        },
+        "38": {
+          "keywd": "administrative capacity"
+        },
+        "39": {
+          "keywd": "professional certification"
+        },
+        "40": {
+          "keywd": "internal revenue"
+        },
+        "41": {
+          "keywd": "independent assessment"
+        },
+        "42": {
+          "keywd": "Budget Management"
+        },
+        "43": {
+          "keywd": "financial reporting"
+        },
+        "44": {
+          "keywd": "development partner"
+        },
+        "45": {
+          "keywd": "budget information"
+        },
+        "46": {
+          "keywd": "monthly expenditure"
+        },
+        "47": {
+          "keywd": "budget planning"
+        },
+        "48": {
+          "keywd": "financial control"
+        },
+        "49": {
+          "keywd": "transaction process"
+        },
+        "50": {
+          "keywd": "audit staff"
+        },
+        "51": {
+          "keywd": "procurement staff"
+        },
+        "52": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2015-06-16T21:27:47Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/883881468276542688/pdf/ISR-Disclosable-P127319-06-16-2015-1434490057756.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/883881468276542688/text/ISR-Disclosable-P127319-06-16-2015-1434490057756.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082f3a6d6",
+      "totvolnb": "1",
+      "projectid": "P127319",
+      "guid": "883881468276542688",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/883881468276542688"
+    },
+    "D18214549": {
+      "id": "18214549",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Ceesay, Ismaila B."
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081dba873_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Economic Adjustment and Lending,Government Policies,Inflation,Macro-Fiscal Policy,National Governance,Parliamentary Government,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics,Youth and Governance",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR11434",
+      "docdt": "2013-08-06T04:00:00Z",
+      "datestored": "2013-08-06T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "public financial management reform"
+        },
+        "2": {
+          "keywd": "budget planning"
+        },
+        "3": {
+          "keywd": "budget execution"
+        },
+        "4": {
+          "keywd": "internal control"
+        },
+        "5": {
+          "keywd": "budget coverage"
+        },
+        "6": {
+          "keywd": "enhancing transparency"
+        },
+        "7": {
+          "keywd": "legal framework"
+        },
+        "8": {
+          "keywd": "financial statement"
+        },
+        "9": {
+          "keywd": "senior government official"
+        },
+        "10": {
+          "keywd": "strengthening budget execution"
+        },
+        "11": {
+          "keywd": "fiscal policy management"
+        },
+        "12": {
+          "keywd": "accounting and reporting"
+        },
+        "13": {
+          "keywd": "customs revenue collection"
+        },
+        "14": {
+          "keywd": "implementation of reform"
+        },
+        "15": {
+          "keywd": "human resource capacity"
+        },
+        "16": {
+          "keywd": "public finance"
+        },
+        "17": {
+          "keywd": "component managers"
+        },
+        "18": {
+          "keywd": "fiscal reporting"
+        },
+        "19": {
+          "keywd": "donor finance"
+        },
+        "20": {
+          "keywd": "joint implementation"
+        },
+        "21": {
+          "keywd": "expenditure policy"
+        },
+        "22": {
+          "keywd": "payroll control"
+        },
+        "23": {
+          "keywd": "legislative scrutiny"
+        },
+        "24": {
+          "keywd": "audit staff"
+        },
+        "25": {
+          "keywd": "budget information"
+        },
+        "26": {
+          "keywd": "internal revenue"
+        },
+        "27": {
+          "keywd": "financial control"
+        },
+        "28": {
+          "keywd": "monthly expenditure"
+        },
+        "29": {
+          "keywd": "procurement staff"
+        },
+        "30": {
+          "keywd": "budget credibility"
+        },
+        "31": {
+          "keywd": "fiscal operation"
+        },
+        "32": {
+          "keywd": "transaction process"
+        },
+        "33": {
+          "keywd": "financial reporting"
+        },
+        "34": {
+          "keywd": "Budget Management"
+        },
+        "35": {
+          "keywd": "administrative capacity"
+        },
+        "36": {
+          "keywd": "inflation"
+        },
+        "37": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 03",
+      "disclosure_date": "2013-08-06T14:34:38Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/747191468299954770/pdf/ISR-Disclosable-P127319-08-06-2013-1375799669047.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/747191468299954770/text/ISR-Disclosable-P127319-08-06-2013-1375799669047.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b081dba873",
+      "totvolnb": "1",
+      "projectid": "P127319",
+      "guid": "747191468299954770",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/747191468299954770"
+    },
+    "D27091706": {
+      "id": "27091706",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Mphande, Donald Herrings"
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08486b61a_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Economic Adjustment and Lending,Inflation,Judicial System Reform,Legal Products,Legal Reform,Legislation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR26696",
+      "docdt": "2017-01-12T05:00:00Z",
+      "datestored": "2017-01-12T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public financial management reform"
+        },
+        "1": {
+          "keywd": "accounting and reporting"
+        },
+        "2": {
+          "keywd": "fiscal policy management"
+        },
+        "3": {
+          "keywd": "implementation of reform"
+        },
+        "4": {
+          "keywd": "human resource capacity"
+        },
+        "5": {
+          "keywd": "technical assistance loan"
+        },
+        "6": {
+          "keywd": "strengthening budget execution"
+        },
+        "7": {
+          "keywd": "customs revenue collection"
+        },
+        "8": {
+          "keywd": "cost of finance"
+        },
+        "9": {
+          "keywd": "legal framework"
+        },
+        "10": {
+          "keywd": "financial statement"
+        },
+        "11": {
+          "keywd": "enhancing transparency"
+        },
+        "12": {
+          "keywd": "budget coverage"
+        },
+        "13": {
+          "keywd": "cash management"
+        },
+        "14": {
+          "keywd": "budget planning"
+        },
+        "15": {
+          "keywd": "expenditure commitment"
+        },
+        "16": {
+          "keywd": "business process"
+        },
+        "17": {
+          "keywd": "government operation"
+        },
+        "18": {
+          "keywd": "legacy system"
+        },
+        "19": {
+          "keywd": "reform strategy"
+        },
+        "20": {
+          "keywd": "commitment authority"
+        },
+        "21": {
+          "keywd": "core indicator"
+        },
+        "22": {
+          "keywd": "expenditure policy"
+        },
+        "23": {
+          "keywd": "fiscal planning"
+        },
+        "24": {
+          "keywd": "budget deficit"
+        },
+        "25": {
+          "keywd": "financial reporting"
+        },
+        "26": {
+          "keywd": "financial control"
+        },
+        "27": {
+          "keywd": "audit staff"
+        },
+        "28": {
+          "keywd": "budget information"
+        },
+        "29": {
+          "keywd": "budget credibility"
+        },
+        "30": {
+          "keywd": "professional certification"
+        },
+        "31": {
+          "keywd": "internal revenue"
+        },
+        "32": {
+          "keywd": "transaction process"
+        },
+        "33": {
+          "keywd": "monthly expenditure"
+        },
+        "34": {
+          "keywd": "procurement staff"
+        },
+        "35": {
+          "keywd": "Budget Management"
+        },
+        "36": {
+          "keywd": "administrative capacity"
+        },
+        "37": {
+          "keywd": "fiscal operation"
+        },
+        "38": {
+          "keywd": "internal control"
+        },
+        "39": {
+          "keywd": "payroll control"
+        },
+        "40": {
+          "keywd": "legislative scrutiny"
+        },
+        "41": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2017-01-12T11:41:43Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/478571484221305019/pdf/ISR-Disclosable-P127319-01-12-2017-1484221295594.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/478571484221305019/text/ISR-Disclosable-P127319-01-12-2017-1484221295594.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08486b61a",
+      "totvolnb": "1",
+      "projectid": "P127319",
+      "guid": "478571484221305019",
+      "origu": "GOV FAR - AFR 6 (GGO31)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/478571484221305019"
+    },
+    "D27051014": {
+      "id": "27051014",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Mphande, Donald Herrings"
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084801cdb_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Economic Adjustment and Lending,Inflation,Judicial System Reform,Legal Products,Legal Reform,Legislation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR25985",
+      "docdt": "2016-12-23T05:00:00Z",
+      "datestored": "2016-12-23T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "technical assistance loan"
+        },
+        "1": {
+          "keywd": "accounting and reporting"
+        },
+        "2": {
+          "keywd": "fiscal policy management"
+        },
+        "3": {
+          "keywd": "human resource capacity"
+        },
+        "4": {
+          "keywd": "implementation of reform"
+        },
+        "5": {
+          "keywd": "cost of finance"
+        },
+        "6": {
+          "keywd": "customs revenue collection"
+        },
+        "7": {
+          "keywd": "strengthening budget execution"
+        },
+        "8": {
+          "keywd": "legal framework"
+        },
+        "9": {
+          "keywd": "financial statement"
+        },
+        "10": {
+          "keywd": "enhancing transparency"
+        },
+        "11": {
+          "keywd": "budget coverage"
+        },
+        "12": {
+          "keywd": "cash management"
+        },
+        "13": {
+          "keywd": "legacy system"
+        },
+        "14": {
+          "keywd": "expenditure commitment"
+        },
+        "15": {
+          "keywd": "budget planning"
+        },
+        "16": {
+          "keywd": "commitment authority"
+        },
+        "17": {
+          "keywd": "expenditure policy"
+        },
+        "18": {
+          "keywd": "audit inspection"
+        },
+        "19": {
+          "keywd": "business process"
+        },
+        "20": {
+          "keywd": "fiscal planning"
+        },
+        "21": {
+          "keywd": "financial resource"
+        },
+        "22": {
+          "keywd": "budget deficit"
+        },
+        "23": {
+          "keywd": "reform strategy"
+        },
+        "24": {
+          "keywd": "audit staff"
+        },
+        "25": {
+          "keywd": "legislative scrutiny"
+        },
+        "26": {
+          "keywd": "financial control"
+        },
+        "27": {
+          "keywd": "budget information"
+        },
+        "28": {
+          "keywd": "professional certification"
+        },
+        "29": {
+          "keywd": "budget credibility"
+        },
+        "30": {
+          "keywd": "internal revenue"
+        },
+        "31": {
+          "keywd": "transaction process"
+        },
+        "32": {
+          "keywd": "monthly expenditure"
+        },
+        "33": {
+          "keywd": "procurement staff"
+        },
+        "34": {
+          "keywd": "fiscal operation"
+        },
+        "35": {
+          "keywd": "financial reporting"
+        },
+        "36": {
+          "keywd": "Budget Management"
+        },
+        "37": {
+          "keywd": "administrative capacity"
+        },
+        "38": {
+          "keywd": "internal control"
+        },
+        "39": {
+          "keywd": "payroll control"
+        },
+        "40": {
+          "keywd": "government operation"
+        },
+        "41": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2016-12-23T22:54:51Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/147611482533692239/pdf/ISR-Disclosable-P127319-12-23-2016-1482533675197.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/147611482533692239/text/ISR-Disclosable-P127319-12-23-2016-1482533675197.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084801cdb",
+      "totvolnb": "1",
+      "projectid": "P127319",
+      "guid": "147611482533692239",
+      "origu": "GOV FAR - AFR 6 (GGO31)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/147611482533692239"
+    },
+    "D16584364": {
+      "id": "16584364",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Ceesay"
+        },
+        "1": {
+          "author": "Ceesay, Ismaila B."
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012080806091664"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Economic Adjustment and Lending,Inflation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR5963",
+      "docdt": "2012-08-08T04:00:00Z",
+      "datestored": "2012-08-08T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public financial management reform"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "legal framework"
+        },
+        "3": {
+          "keywd": "enhancing transparency"
+        },
+        "4": {
+          "keywd": "financial statement"
+        },
+        "5": {
+          "keywd": "budget coverage"
+        },
+        "6": {
+          "keywd": "accounting and reporting"
+        },
+        "7": {
+          "keywd": "customs revenue collection"
+        },
+        "8": {
+          "keywd": "fiscal policy management"
+        },
+        "9": {
+          "keywd": "house of representative"
+        },
+        "10": {
+          "keywd": "instrument of ratification"
+        },
+        "11": {
+          "keywd": "implementation of reform"
+        },
+        "12": {
+          "keywd": "human resource capacity"
+        },
+        "13": {
+          "keywd": "strengthening budget execution"
+        },
+        "14": {
+          "keywd": "budget planning"
+        },
+        "15": {
+          "keywd": "internal control"
+        },
+        "16": {
+          "keywd": "payroll control"
+        },
+        "17": {
+          "keywd": "legislative scrutiny"
+        },
+        "18": {
+          "keywd": "expenditure policy"
+        },
+        "19": {
+          "keywd": "audit staff"
+        },
+        "20": {
+          "keywd": "budget information"
+        },
+        "21": {
+          "keywd": "internal revenue"
+        },
+        "22": {
+          "keywd": "monthly expenditure"
+        },
+        "23": {
+          "keywd": "procurement staff"
+        },
+        "24": {
+          "keywd": "fiscal operation"
+        },
+        "25": {
+          "keywd": "financial agreement"
+        },
+        "26": {
+          "keywd": "budget credibility"
+        },
+        "27": {
+          "keywd": "financial reporting"
+        },
+        "28": {
+          "keywd": "Budget Management"
+        },
+        "29": {
+          "keywd": "financial control"
+        },
+        "30": {
+          "keywd": "administrative capacity"
+        },
+        "31": {
+          "keywd": "transaction process"
+        },
+        "32": {
+          "keywd": "inflation"
+        },
+        "33": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 01"
+      },
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 01",
+      "pdfurl": "http://documents.worldbank.org/curated/en/881491468758719714/pdf/ISR0Disclosabl008201201344420555440.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/881491468758719714/text/ISR0Disclosabl008201201344420555440.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0815d0b90",
+      "totvolnb": "1",
+      "projectid": "P127319",
+      "guid": "881491468758719714",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/881491468758719714"
+    },
+    "D20295478": {
+      "id": "20295478",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Ceesay, Ismaila B."
+        }
+      },
+      "count": "Liberia",
+      "docna": {
+        "0": {
+          "docna": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "LR-Liberia Integrated Public Financial Management Reform Project -- P127319",
+      "subsc": "FY17 - Other Public Administration",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Fiscal Policy,FY17 - Trade Facilitation,FY17 - Fiscal sustainability,FY17 - Public Administration,FY17 - Debt Management,FY17 - Public Finance Management,FY17 - Trade,FY17 - Transparency, Accountability and Good Governance,FY17 - Tax policy,FY17 - Domestic Revenue Administration",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0827ce150_1_0"
+      },
+      "majtheme": "FY17 - Economic Policy,FY17 - Public Sector Management",
+      "subtopic": "Economic Adjustment and Lending,Inflation,Macro-Fiscal Policy,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics,Revenue Administration,Tax Administration,Tax Law",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2014-10-15T04:00:00Z",
+      "datestored": "2014-10-15T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public financial management reform"
+        },
+        "1": {
+          "keywd": "technical assistance loan"
+        },
+        "2": {
+          "keywd": "accounting and reporting"
+        },
+        "3": {
+          "keywd": "internal audit staff"
+        },
+        "4": {
+          "keywd": "enhancing transparency"
+        },
+        "5": {
+          "keywd": "budget coverage"
+        },
+        "6": {
+          "keywd": "budget credibility"
+        },
+        "7": {
+          "keywd": "financial statement"
+        },
+        "8": {
+          "keywd": "legal framework"
+        },
+        "9": {
+          "keywd": "senior government official"
+        },
+        "10": {
+          "keywd": "fiscal policy management"
+        },
+        "11": {
+          "keywd": "strengthening budget execution"
+        },
+        "12": {
+          "keywd": "human resource capacity"
+        },
+        "13": {
+          "keywd": "implementation of reform"
+        },
+        "14": {
+          "keywd": "customs revenue collection"
+        },
+        "15": {
+          "keywd": "administrative capacity"
+        },
+        "16": {
+          "keywd": "payroll control"
+        },
+        "17": {
+          "keywd": "Budget Management"
+        },
+        "18": {
+          "keywd": "internal control"
+        },
+        "19": {
+          "keywd": "component managers"
+        },
+        "20": {
+          "keywd": "budget approval"
+        },
+        "21": {
+          "keywd": "legislative scrutiny"
+        },
+        "22": {
+          "keywd": "expenditure policy"
+        },
+        "23": {
+          "keywd": "fiscal operation"
+        },
+        "24": {
+          "keywd": "procurement staff"
+        },
+        "25": {
+          "keywd": "monthly expenditure"
+        },
+        "26": {
+          "keywd": "transaction process"
+        },
+        "27": {
+          "keywd": "financial reporting"
+        },
+        "28": {
+          "keywd": "internal revenue"
+        },
+        "29": {
+          "keywd": "budget information"
+        },
+        "30": {
+          "keywd": "financial agreement"
+        },
+        "31": {
+          "keywd": "financial control"
+        },
+        "32": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Liberia - Liberia Integrated Public Financial Management Reform Project : P127319 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2014-10-15T13:06:42Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/801601468263727374/pdf/ISR-Disclosable-P127319-10-15-2014-1413378390137.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/801601468263727374/text/ISR-Disclosable-P127319-10-15-2014-1413378390137.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0827ce150",
+      "projectid": "P127319",
+      "guid": "801601468263727374",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/801601468263727374"
+    },
+    "facets": {}
+  }
+}

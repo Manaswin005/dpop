@@ -1,0 +1,1824 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 13,
+  "documents": {
+    "D26581787": {
+      "id": "26581787",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Kamil, Hamoud Abdel Wedoud"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08446eadb_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Educational Sciences,Effective Schools and Teachers,Information Technology,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR24530",
+      "docdt": "2016-07-19T04:00:00Z",
+      "datestored": "2016-07-19T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "information and communication technology"
+        },
+        "1": {
+          "keywd": "minimum quality standard"
+        },
+        "2": {
+          "keywd": "tertiary education institution"
+        },
+        "3": {
+          "keywd": "higher education system"
+        },
+        "4": {
+          "keywd": "efficiency and quality"
+        },
+        "5": {
+          "keywd": "higher education institution"
+        },
+        "6": {
+          "keywd": "tertiary education system"
+        },
+        "7": {
+          "keywd": "management of university"
+        },
+        "8": {
+          "keywd": "higher education sector"
+        },
+        "9": {
+          "keywd": "government reform program"
+        },
+        "10": {
+          "keywd": "private institution"
+        },
+        "11": {
+          "keywd": "financial law"
+        },
+        "12": {
+          "keywd": "teacher strike"
+        },
+        "13": {
+          "keywd": "saint louis"
+        },
+        "14": {
+          "keywd": "student strike"
+        },
+        "15": {
+          "keywd": "pass rate"
+        },
+        "16": {
+          "keywd": "institutional evaluation"
+        },
+        "17": {
+          "keywd": "learning environment"
+        },
+        "18": {
+          "keywd": "investment loan"
+        },
+        "19": {
+          "keywd": "digital library"
+        },
+        "20": {
+          "keywd": "undergraduate program"
+        },
+        "21": {
+          "keywd": "budget allocation"
+        },
+        "22": {
+          "keywd": "promotion rate"
+        },
+        "23": {
+          "keywd": "annual target"
+        },
+        "24": {
+          "keywd": "tertiary institution"
+        },
+        "25": {
+          "keywd": "annual budget"
+        },
+        "26": {
+          "keywd": "academic program"
+        },
+        "27": {
+          "keywd": "short period"
+        },
+        "28": {
+          "keywd": "Law Reform"
+        },
+        "29": {
+          "keywd": "civil works"
+        },
+        "30": {
+          "keywd": "Teachers"
+        },
+        "31": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2016-07-19T15:09:21Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/852111468940962174/pdf/ISR-Disclosable-P123673-07-19-2016-1468940949688.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/852111468940962174/text/ISR-Disclosable-P123673-07-19-2016-1468940949688.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08446eadb",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "852111468940962174",
+      "origu": "Education AFR 2 (HAWE2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/852111468940962174"
+    },
+    "D24679224": {
+      "id": "24679224",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082f720a3_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Educational Sciences,Effective Schools and Teachers,Information Technology,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR18167",
+      "docdt": "2015-06-22T04:00:00Z",
+      "datestored": "2015-06-22T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "minimum quality standard"
+        },
+        "1": {
+          "keywd": "higher education system"
+        },
+        "2": {
+          "keywd": "tertiary education institution"
+        },
+        "3": {
+          "keywd": "higher education sector"
+        },
+        "4": {
+          "keywd": "management of university"
+        },
+        "5": {
+          "keywd": "government reform program"
+        },
+        "6": {
+          "keywd": "tertiary education system"
+        },
+        "7": {
+          "keywd": "higher education institution"
+        },
+        "8": {
+          "keywd": "efficiency and quality"
+        },
+        "9": {
+          "keywd": "pass rate"
+        },
+        "10": {
+          "keywd": "student strike"
+        },
+        "11": {
+          "keywd": "budget allocation"
+        },
+        "12": {
+          "keywd": "private institution"
+        },
+        "13": {
+          "keywd": "saint louis"
+        },
+        "14": {
+          "keywd": "teacher strike"
+        },
+        "15": {
+          "keywd": "undergraduate program"
+        },
+        "16": {
+          "keywd": "annual budget"
+        },
+        "17": {
+          "keywd": "tertiary institution"
+        },
+        "18": {
+          "keywd": "learning environment"
+        },
+        "19": {
+          "keywd": "digital library"
+        },
+        "20": {
+          "keywd": "procurement process"
+        },
+        "21": {
+          "keywd": "financial law"
+        },
+        "22": {
+          "keywd": "academic program"
+        },
+        "23": {
+          "keywd": "annual target"
+        },
+        "24": {
+          "keywd": "promotion rate"
+        },
+        "25": {
+          "keywd": "internal composition"
+        },
+        "26": {
+          "keywd": "investment loan"
+        },
+        "27": {
+          "keywd": "Law Reform"
+        },
+        "28": {
+          "keywd": "short period"
+        },
+        "29": {
+          "keywd": "Teachers"
+        },
+        "30": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2015-06-22T12:54:10Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/832281468145765461/pdf/ISR-Disclosable-P123673-06-22-2015-1434977635645.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/832281468145765461/text/ISR-Disclosable-P123673-06-22-2015-1434977635645.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082f720a3",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "832281468145765461",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/832281468145765461"
+    },
+    "D23086865": {
+      "id": "23086865",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0829547fe_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Educational Sciences,Effective Schools and Teachers,Information Technology,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR17500",
+      "docdt": "2014-12-25T05:00:00Z",
+      "datestored": "2014-12-25T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "tertiary education institution"
+        },
+        "1": {
+          "keywd": "students per year"
+        },
+        "2": {
+          "keywd": "government reform program"
+        },
+        "3": {
+          "keywd": "higher education sector"
+        },
+        "4": {
+          "keywd": "tertiary education system"
+        },
+        "5": {
+          "keywd": "higher education institution"
+        },
+        "6": {
+          "keywd": "higher education system"
+        },
+        "7": {
+          "keywd": "efficiency and quality"
+        },
+        "8": {
+          "keywd": "minimum quality standard"
+        },
+        "9": {
+          "keywd": "tertiary institution"
+        },
+        "10": {
+          "keywd": "teacher union"
+        },
+        "11": {
+          "keywd": "annual budget"
+        },
+        "12": {
+          "keywd": "national assembly"
+        },
+        "13": {
+          "keywd": "procurement process"
+        },
+        "14": {
+          "keywd": "financial law"
+        },
+        "15": {
+          "keywd": "draft law"
+        },
+        "16": {
+          "keywd": "promotion rate"
+        },
+        "17": {
+          "keywd": "annual target"
+        },
+        "18": {
+          "keywd": "academic program"
+        },
+        "19": {
+          "keywd": "governance reform"
+        },
+        "20": {
+          "keywd": "investment loan"
+        },
+        "21": {
+          "keywd": "undergraduate program"
+        },
+        "22": {
+          "keywd": "private institution"
+        },
+        "23": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2014-12-25T13:40:36Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/881341468113091787/pdf/ISR-Disclosable-P123673-12-25-2014-1419514825582.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/881341468113091787/text/ISR-Disclosable-P123673-12-25-2014-1419514825582.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0829547fe",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "881341468113091787",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/881341468113091787"
+    },
+    "D25937994": {
+      "id": "25937994",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08418ecd8_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Educational Sciences,Effective Schools and Teachers,Information Technology,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR22298",
+      "docdt": "2016-02-18T05:00:00Z",
+      "datestored": "2016-02-18T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "information and communication technology"
+        },
+        "1": {
+          "keywd": "minimum quality standard"
+        },
+        "2": {
+          "keywd": "higher education system"
+        },
+        "3": {
+          "keywd": "tertiary education institution"
+        },
+        "4": {
+          "keywd": "management of university"
+        },
+        "5": {
+          "keywd": "government reform program"
+        },
+        "6": {
+          "keywd": "higher education sector"
+        },
+        "7": {
+          "keywd": "tertiary education system"
+        },
+        "8": {
+          "keywd": "higher education institution"
+        },
+        "9": {
+          "keywd": "efficiency and quality"
+        },
+        "10": {
+          "keywd": "student strike"
+        },
+        "11": {
+          "keywd": "saint louis"
+        },
+        "12": {
+          "keywd": "institutional evaluation"
+        },
+        "13": {
+          "keywd": "short period"
+        },
+        "14": {
+          "keywd": "Law Reform"
+        },
+        "15": {
+          "keywd": "pass rate"
+        },
+        "16": {
+          "keywd": "learning environment"
+        },
+        "17": {
+          "keywd": "private institution"
+        },
+        "18": {
+          "keywd": "digital library"
+        },
+        "19": {
+          "keywd": "investment loan"
+        },
+        "20": {
+          "keywd": "undergraduate program"
+        },
+        "21": {
+          "keywd": "annual budget"
+        },
+        "22": {
+          "keywd": "tertiary institution"
+        },
+        "23": {
+          "keywd": "financial law"
+        },
+        "24": {
+          "keywd": "promotion rate"
+        },
+        "25": {
+          "keywd": "budget allocation"
+        },
+        "26": {
+          "keywd": "annual target"
+        },
+        "27": {
+          "keywd": "academic program"
+        },
+        "28": {
+          "keywd": "procurement process"
+        },
+        "29": {
+          "keywd": "Teachers"
+        },
+        "30": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2016-02-18T05:20:35Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/829941468145766991/pdf/ISR-Disclosable-P123673-02-18-2016-1455772826193.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/829941468145766991/text/ISR-Disclosable-P123673-02-18-2016-1455772826193.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08418ecd8",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "829941468145766991",
+      "origu": "Education AFR 2 (HAWE2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/829941468145766991"
+    },
+    "D29979258": {
+      "id": "29979258",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Kamil, Hamoud Abdel Wedoud"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Senegal Tertiary Education Governance and Financing For Results - P123673 - Sequence No : 13"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b085bd5ab0_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Climate Change Mitigation and Green House Gases,Educational Institutions & Facilities,Educational Sciences,Effective Schools and Teachers,Tertiary Education,Transport Economics Policy & Planning",
+      "teratopic": "Education,Environment,Transport",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR31669",
+      "docdt": "2018-06-12T04:00:00Z",
+      "datestored": "2018-06-12T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "higher education institution"
+        },
+        "1": {
+          "keywd": " efficiency and quality"
+        },
+        "2": {
+          "keywd": " higher education system"
+        },
+        "3": {
+          "keywd": " tertiary education system"
+        },
+        "4": {
+          "keywd": " tertiary education institution"
+        },
+        "5": {
+          "keywd": " risk category"
+        },
+        "6": {
+          "keywd": " higher education sector"
+        },
+        "7": {
+          "keywd": " higher education reform"
+        },
+        "8": {
+          "keywd": " quality and relevance"
+        },
+        "9": {
+          "keywd": " Investment Project Financing"
+        },
+        "10": {
+          "keywd": " minimum quality standard"
+        },
+        "11": {
+          "keywd": " terms of performance"
+        },
+        "12": {
+          "keywd": " counterpart funding"
+        },
+        "13": {
+          "keywd": " promotion rate"
+        },
+        "14": {
+          "keywd": " student intake"
+        },
+        "15": {
+          "keywd": " civil works"
+        },
+        "16": {
+          "keywd": " annual target"
+        },
+        "17": {
+          "keywd": " education community"
+        },
+        "18": {
+          "keywd": " internal evaluation"
+        },
+        "19": {
+          "keywd": " communication plan"
+        },
+        "20": {
+          "keywd": " annual budget"
+        },
+        "21": {
+          "keywd": " Law Reform"
+        },
+        "22": {
+          "keywd": " subsequent years"
+        },
+        "23": {
+          "keywd": " tertiary institution"
+        },
+        "24": {
+          "keywd": " repetition rate"
+        },
+        "25": {
+          "keywd": " intake capacity"
+        },
+        "26": {
+          "keywd": " financial law"
+        },
+        "27": {
+          "keywd": " student strike"
+        },
+        "28": {
+          "keywd": " academic program"
+        },
+        "29": {
+          "keywd": " undergraduate program"
+        },
+        "30": {
+          "keywd": " private institution"
+        },
+        "31": {
+          "keywd": " program evaluation"
+        },
+        "32": {
+          "keywd": " project's progress"
+        },
+        "33": {
+          "keywd": " effective partnerships"
+        },
+        "34": {
+          "keywd": " mitigation mechanism"
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Senegal Tertiary Education Governance and Financing For Results - P123673 - Sequence No : 13"
+      },
+      "display_title": "Disclosable Version of the ISR - Senegal Tertiary Education Governance and Financing For Results - P123673 - Sequence No : 13",
+      "disclosure_date": "2018-06-12T11:45:10Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/221861528803911435/pdf/Disclosable-Version-of-the-ISR-Senegal-Tertiary-Education-Governance-and-Financing-For-Results-P123673-Sequence-No-13.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/221861528803911435/text/Disclosable-Version-of-the-ISR-Senegal-Tertiary-Education-Governance-and-Financing-For-Results-P123673-Sequence-No-13.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b085bd5ab0",
+      "totvolnb": "1",
+      "historic_topic": "Education,Environment,Transport",
+      "projectid": "P123673",
+      "guid": "221861528803911435",
+      "origu": "Dev. Effect. AFR West & Central (AFWDE)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/221861528803911435"
+    },
+    "D17907435": {
+      "id": "17907435",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081c9c5c1_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Effective Schools and Teachers,Information Technology,Private Sector Economics,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR10656",
+      "docdt": "2013-06-22T04:00:00Z",
+      "datestored": "2013-06-22T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "higher education institution"
+        },
+        "1": {
+          "keywd": "performance contract"
+        },
+        "2": {
+          "keywd": "tertiary education institution"
+        },
+        "3": {
+          "keywd": "higher education sector"
+        },
+        "4": {
+          "keywd": "cohort of student"
+        },
+        "5": {
+          "keywd": "construction and equipment"
+        },
+        "6": {
+          "keywd": "efficiency and quality"
+        },
+        "7": {
+          "keywd": "higher education system"
+        },
+        "8": {
+          "keywd": "tertiary education system"
+        },
+        "9": {
+          "keywd": "call for bids"
+        },
+        "10": {
+          "keywd": "government reform program"
+        },
+        "11": {
+          "keywd": "annual target"
+        },
+        "12": {
+          "keywd": "undergraduate program"
+        },
+        "13": {
+          "keywd": "joint mission"
+        },
+        "14": {
+          "keywd": "Law Reform"
+        },
+        "15": {
+          "keywd": "architectural design"
+        },
+        "16": {
+          "keywd": "regular meetings"
+        },
+        "17": {
+          "keywd": "architectural firms"
+        },
+        "18": {
+          "keywd": "promotion rate"
+        },
+        "19": {
+          "keywd": "annual budget"
+        },
+        "20": {
+          "keywd": "university performance"
+        },
+        "21": {
+          "keywd": "tertiary institution"
+        },
+        "22": {
+          "keywd": "civil works"
+        },
+        "23": {
+          "keywd": "financial law"
+        },
+        "24": {
+          "keywd": "disbursement delay"
+        },
+        "25": {
+          "keywd": "governance reform"
+        },
+        "26": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2013-06-22T23:42:24Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/268301468058477573/pdf/ISR-Disclosable-P123673-06-22-2013-1371944536039.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/268301468058477573/text/ISR-Disclosable-P123673-06-22-2013-1371944536039.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081c9c5c1",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "268301468058477573",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/268301468058477573"
+    },
+    "D19748364": {
+      "id": "19748364",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082545c40_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Effective Schools and Teachers,Information Technology,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR15291",
+      "docdt": "2014-06-30T04:00:00Z",
+      "datestored": "2014-06-30T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "higher education institution"
+        },
+        "1": {
+          "keywd": "tertiary education institution"
+        },
+        "2": {
+          "keywd": "procurement process"
+        },
+        "3": {
+          "keywd": "government reform program"
+        },
+        "4": {
+          "keywd": "higher education sector"
+        },
+        "5": {
+          "keywd": "tertiary education system"
+        },
+        "6": {
+          "keywd": "higher education system"
+        },
+        "7": {
+          "keywd": "efficiency and quality"
+        },
+        "8": {
+          "keywd": "annual target"
+        },
+        "9": {
+          "keywd": "repetition rate"
+        },
+        "10": {
+          "keywd": "undergraduate program"
+        },
+        "11": {
+          "keywd": "annual budget"
+        },
+        "12": {
+          "keywd": "financial law"
+        },
+        "13": {
+          "keywd": "draft law"
+        },
+        "14": {
+          "keywd": "promotion rate"
+        },
+        "15": {
+          "keywd": "private institution"
+        },
+        "16": {
+          "keywd": "financial agreement"
+        },
+        "17": {
+          "keywd": "governance reform"
+        },
+        "18": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2014-06-30T13:29:14Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/193191468168568988/pdf/ISR-Disclosable-P123673-06-30-2014-1404134931026.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/193191468168568988/text/ISR-Disclosable-P123673-06-30-2014-1404134931026.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082545c40",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "193191468168568988",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/193191468168568988"
+    },
+    "D28122664": {
+      "id": "28122664",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Kamil, Hamoud Abdel Wedoud"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Senegal Tertiary Education Governance and Financing For Results - P123673 - Sequence No : 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b085187b5d_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Educational Sciences,Effective Schools and Teachers,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR29757",
+      "docdt": "2017-10-31T04:00:00Z",
+      "datestored": "2017-10-31T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "private higher education institution"
+        },
+        "1": {
+          "keywd": "tertiary education institution"
+        },
+        "2": {
+          "keywd": "higher education system"
+        },
+        "3": {
+          "keywd": "public university"
+        },
+        "4": {
+          "keywd": "efficiency and quality"
+        },
+        "5": {
+          "keywd": "data collection process"
+        },
+        "6": {
+          "keywd": "tertiary education system"
+        },
+        "7": {
+          "keywd": "higher educational institution"
+        },
+        "8": {
+          "keywd": "Investment Project Financing"
+        },
+        "9": {
+          "keywd": "minimum quality standard"
+        },
+        "10": {
+          "keywd": "academic program"
+        },
+        "11": {
+          "keywd": "promotion rate"
+        },
+        "12": {
+          "keywd": "pending issues"
+        },
+        "13": {
+          "keywd": "annual target"
+        },
+        "14": {
+          "keywd": "repetition rate"
+        },
+        "15": {
+          "keywd": "financial law"
+        },
+        "16": {
+          "keywd": "tertiary institution"
+        },
+        "17": {
+          "keywd": "disbursement rate"
+        },
+        "18": {
+          "keywd": "annual budget"
+        },
+        "19": {
+          "keywd": "budget monitoring"
+        },
+        "20": {
+          "keywd": "Indicator Target"
+        },
+        "21": {
+          "keywd": "undergraduate program"
+        },
+        "22": {
+          "keywd": "Teachers"
+        },
+        "23": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Senegal Tertiary Education Governance and Financing For Results - P123673 - Sequence No : 12"
+      },
+      "display_title": "Disclosable Version of the ISR - Senegal Tertiary Education Governance and Financing For Results - P123673 - Sequence No : 12",
+      "disclosure_date": "2017-10-31T18:35:04Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/293551509474905361/pdf/Disclosable-Version-of-the-ISR-Senegal-Tertiary-Education-Governance-and-Financing-For-Results-P123673-Sequence-No-12.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/293551509474905361/text/Disclosable-Version-of-the-ISR-Senegal-Tertiary-Education-Governance-and-Financing-For-Results-P123673-Sequence-No-12.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b085187b5d",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "293551509474905361",
+      "origu": "Education AFR 2 (HAWE2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/293551509474905361"
+    },
+    "D16938628": {
+      "id": "16938628",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081761d70_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Educational Sciences,Effective Schools and Teachers,Municipal Management and Reform,Tertiary Education,Transport Economics Policy & Planning,Urban Governance and Management,Urban Housing,Urban Housing and Land Settlements",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR8424",
+      "docdt": "2012-11-10T05:00:00Z",
+      "datestored": "2012-11-10T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "performance contract"
+        },
+        "1": {
+          "keywd": "higher education institution"
+        },
+        "2": {
+          "keywd": "tertiary education institution"
+        },
+        "3": {
+          "keywd": "cohort of student"
+        },
+        "4": {
+          "keywd": "efficiency and quality"
+        },
+        "5": {
+          "keywd": "higher education system"
+        },
+        "6": {
+          "keywd": "tertiary education system"
+        },
+        "7": {
+          "keywd": "higher education sector"
+        },
+        "8": {
+          "keywd": "financial law"
+        },
+        "9": {
+          "keywd": "architectural firms"
+        },
+        "10": {
+          "keywd": "student housing"
+        },
+        "11": {
+          "keywd": "civil works"
+        },
+        "12": {
+          "keywd": "architectural design"
+        },
+        "13": {
+          "keywd": "joint mission"
+        },
+        "14": {
+          "keywd": "annual target"
+        },
+        "15": {
+          "keywd": "financial agreement"
+        },
+        "16": {
+          "keywd": "promotion rate"
+        },
+        "17": {
+          "keywd": "tertiary institution"
+        },
+        "18": {
+          "keywd": "annual budget"
+        },
+        "19": {
+          "keywd": "undergraduate program"
+        },
+        "20": {
+          "keywd": "political situation"
+        },
+        "21": {
+          "keywd": "governance reform"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 03",
+      "disclosure_date": "2012-11-10T20:47:26Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/219381468296703950/pdf/ISR-Disclosable-P123673-11102012-1352580446024.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/219381468296703950/text/ISR-Disclosable-P123673-11102012-1352580446024.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081761d70",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "219381468296703950",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/219381468296703950"
+    },
+    "D18724812": {
+      "id": "18724812",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0821859e2_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Effective Schools and Teachers,Information Technology,Private Sector Economics,Tertiary Education,Transport Economics Policy & Planning",
+      "teratopic": "Education,Information and Communication Technologies,Private Sector Development,Transport",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR13088",
+      "docdt": "2013-12-28T05:00:00Z",
+      "datestored": "2013-12-28T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "performance contract"
+        },
+        "1": {
+          "keywd": "higher education institution"
+        },
+        "2": {
+          "keywd": "tertiary education institution"
+        },
+        "3": {
+          "keywd": "government reform program"
+        },
+        "4": {
+          "keywd": "higher education sector"
+        },
+        "5": {
+          "keywd": "cohort of student"
+        },
+        "6": {
+          "keywd": "tertiary education system"
+        },
+        "7": {
+          "keywd": "higher education system"
+        },
+        "8": {
+          "keywd": "efficiency and quality"
+        },
+        "9": {
+          "keywd": "promotion rate"
+        },
+        "10": {
+          "keywd": "annual target"
+        },
+        "11": {
+          "keywd": "financial law"
+        },
+        "12": {
+          "keywd": "tertiary institution"
+        },
+        "13": {
+          "keywd": "annual budget"
+        },
+        "14": {
+          "keywd": "architectural design"
+        },
+        "15": {
+          "keywd": "civil works"
+        },
+        "16": {
+          "keywd": "architectural firms"
+        },
+        "17": {
+          "keywd": "approval system"
+        },
+        "18": {
+          "keywd": "disbursement delay"
+        },
+        "19": {
+          "keywd": "financial agreement"
+        },
+        "20": {
+          "keywd": "governance reform"
+        },
+        "21": {
+          "keywd": "draft law"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2013-12-28T22:08:08Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/471681468107674903/pdf/ISR-Disclosable-P123673-12-28-2013-1388268481067.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/471681468107674903/text/ISR-Disclosable-P123673-12-28-2013-1388268481067.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0821859e2",
+      "totvolnb": "1",
+      "historic_topic": "Education,Information and Communication Technologies,Private Sector Development,Transport",
+      "projectid": "P123673",
+      "guid": "471681468107674903",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/471681468107674903"
+    },
+    "D27291564": {
+      "id": "27291564",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Kamil, Hamoud Abdel Wedoud"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084a2d5e5_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Educational Sciences,Effective Schools and Teachers,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR27068",
+      "docdt": "2017-03-22T04:00:00Z",
+      "datestored": "2017-03-22T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public higher education"
+        },
+        "1": {
+          "keywd": "tertiary education institution"
+        },
+        "2": {
+          "keywd": "minimum quality standard"
+        },
+        "3": {
+          "keywd": "private higher education institution"
+        },
+        "4": {
+          "keywd": "improvement in governance"
+        },
+        "5": {
+          "keywd": "tertiary education system"
+        },
+        "6": {
+          "keywd": "management of university"
+        },
+        "7": {
+          "keywd": "higher education sector"
+        },
+        "8": {
+          "keywd": "government reform program"
+        },
+        "9": {
+          "keywd": "academic program"
+        },
+        "10": {
+          "keywd": "higher education system"
+        },
+        "11": {
+          "keywd": "tertiary education sector"
+        },
+        "12": {
+          "keywd": "construction and rehabilitation"
+        },
+        "13": {
+          "keywd": "efficiency and quality"
+        },
+        "14": {
+          "keywd": "subsequent years"
+        },
+        "15": {
+          "keywd": "annual target"
+        },
+        "16": {
+          "keywd": "public resource"
+        },
+        "17": {
+          "keywd": "promotion rate"
+        },
+        "18": {
+          "keywd": "pass rate"
+        },
+        "19": {
+          "keywd": "disbursement rate"
+        },
+        "20": {
+          "keywd": "limited capacity"
+        },
+        "21": {
+          "keywd": "counterpart funding"
+        },
+        "22": {
+          "keywd": "learning environment"
+        },
+        "23": {
+          "keywd": "civil works"
+        },
+        "24": {
+          "keywd": "digital library"
+        },
+        "25": {
+          "keywd": "annual budget"
+        },
+        "26": {
+          "keywd": "investment loan"
+        },
+        "27": {
+          "keywd": "teaching staff"
+        },
+        "28": {
+          "keywd": "undergraduate program"
+        },
+        "29": {
+          "keywd": "budget allocation"
+        },
+        "30": {
+          "keywd": "budget cover"
+        },
+        "31": {
+          "keywd": "tertiary institution"
+        },
+        "32": {
+          "keywd": "government support"
+        },
+        "33": {
+          "keywd": "financial law"
+        },
+        "34": {
+          "keywd": "private institution"
+        },
+        "35": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2017-03-22T14:49:31Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/133911490194172704/pdf/ISR-Disclosable-P123673-03-22-2017-1490194159963.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/133911490194172704/text/ISR-Disclosable-P123673-03-22-2017-1490194159963.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084a2d5e5",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "133911490194172704",
+      "origu": "Education AFR 2 (HAWE2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/133911490194172704"
+    },
+    "D16214085": {
+      "id": "16214085",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck"
+        },
+        "1": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08171e04b_2_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Access & Equity in Basic Education,Education For All,Educational Institutions & Facilities,Effective Schools and Teachers,Gender and Education,Investment and Investment Climate,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR6223",
+      "docdt": "2012-04-07T04:00:00Z",
+      "datestored": "2012-04-21T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "higher education institution"
+        },
+        "1": {
+          "keywd": "tertiary education institution"
+        },
+        "2": {
+          "keywd": "higher education sector"
+        },
+        "3": {
+          "keywd": "efficiency and quality"
+        },
+        "4": {
+          "keywd": "higher education system"
+        },
+        "5": {
+          "keywd": "tertiary education system"
+        },
+        "6": {
+          "keywd": "architectural firms"
+        },
+        "7": {
+          "keywd": "promotion rate"
+        },
+        "8": {
+          "keywd": "annual target"
+        },
+        "9": {
+          "keywd": "tertiary institution"
+        },
+        "10": {
+          "keywd": "annual budget"
+        },
+        "11": {
+          "keywd": "financial law"
+        },
+        "12": {
+          "keywd": "financial agreement"
+        },
+        "13": {
+          "keywd": "governance reform"
+        },
+        "14": {
+          "keywd": "draft law"
+        },
+        "15": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 02"
+      },
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 02",
+      "disclosure_date": "2012-04-07T04:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/661621468757528124/pdf/ISR0Disclosabl021201201335018905707.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/661621468757528124/text/ISR0Disclosabl021201201335018905707.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08134f521",
+      "totvolnb": "1",
+      "projectid": "P123673",
+      "guid": "661621468757528124",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/661621468757528124"
+    },
+    "D15104597": {
+      "id": "15104597",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-SENEGAL Tertiary Education Governance and Financing For Results -- P123673",
+      "subsc": "FY17 - Workforce Development and Vocational Education,FY17 - Tertiary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Education,FY17 - Science and Technology,FY17 - Jobs,FY17 - Standards, Curriculum and Textbooks,FY17 - Teachers",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011092118344997"
+      },
+      "majtheme": "FY17 - Human Development and Gender,FY17 - Private Sector Development",
+      "subtopic": "Educational Institutions & Facilities,Educational Sciences,Effective Schools and Teachers,Tertiary Education,Transport Economics Policy & Planning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "docdt": "2011-09-21T04:00:00Z",
+      "datestored": "2011-09-21T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "tertiary education institution"
+        },
+        "1": {
+          "keywd": "financial agreement"
+        },
+        "2": {
+          "keywd": "efficiency and quality"
+        },
+        "3": {
+          "keywd": "higher education system"
+        },
+        "4": {
+          "keywd": "higher education institution"
+        },
+        "5": {
+          "keywd": "annual target"
+        },
+        "6": {
+          "keywd": "financial law"
+        },
+        "7": {
+          "keywd": "procurement process"
+        },
+        "8": {
+          "keywd": "university level"
+        },
+        "9": {
+          "keywd": "account management"
+        },
+        "10": {
+          "keywd": "tertiary institution"
+        },
+        "11": {
+          "keywd": "annual budget"
+        },
+        "12": {
+          "keywd": "effectiveness condition"
+        },
+        "13": {
+          "keywd": "architecture firms"
+        },
+        "14": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Senegal - Senegal Tertiary Education Governance and Financing For Results : P123673 - Implementation Status Results Report : Sequence 01",
+      "pdfurl": "http://documents.worldbank.org/curated/en/477921468776105838/pdf/P1236730ISR0Di021201101316644488401.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/477921468776105838/text/P1236730ISR0Di021201101316644488401.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b080f80f04",
+      "projectid": "P123673",
+      "guid": "477921468776105838",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/477921468776105838"
+    },
+    "facets": {}
+  }
+}

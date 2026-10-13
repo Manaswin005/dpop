@@ -1,0 +1,1684 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 11,
+  "documents": {
+    "D24708184": {
+      "id": "24708184",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082f8dee5_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Agricultural Irrigation and Drainage,Irrigation and Drainage,Natural Disasters,Pest Management,Rural Roads & Transport,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR17126",
+      "docdt": "2015-06-25T04:00:00Z",
+      "datestored": "2015-06-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "irrigation and drainage"
+        },
+        "1": {
+          "keywd": "early warning system"
+        },
+        "2": {
+          "keywd": "response to disaster"
+        },
+        "3": {
+          "keywd": "income generating opportunity"
+        },
+        "4": {
+          "keywd": "availability of finance"
+        },
+        "5": {
+          "keywd": "standard of living"
+        },
+        "6": {
+          "keywd": "flood warning system"
+        },
+        "7": {
+          "keywd": "watershed protection activity"
+        },
+        "8": {
+          "keywd": "consultation activity"
+        },
+        "9": {
+          "keywd": "axle load"
+        },
+        "10": {
+          "keywd": "average yield"
+        },
+        "11": {
+          "keywd": "construction standard"
+        },
+        "12": {
+          "keywd": "direct beneficiaries"
+        },
+        "13": {
+          "keywd": "irrigation site"
+        },
+        "14": {
+          "keywd": "concrete bridge"
+        },
+        "15": {
+          "keywd": "vulnerable population"
+        },
+        "16": {
+          "keywd": "productive capacity"
+        },
+        "17": {
+          "keywd": "rice production"
+        },
+        "18": {
+          "keywd": "communal infrastructure"
+        },
+        "19": {
+          "keywd": "vulnerability reduction"
+        },
+        "20": {
+          "keywd": "hydro-meteorological network"
+        },
+        "21": {
+          "keywd": "unit price"
+        },
+        "22": {
+          "keywd": "infrastructure rehabilitation"
+        },
+        "23": {
+          "keywd": "payment system"
+        },
+        "24": {
+          "keywd": "climate disaster"
+        },
+        "25": {
+          "keywd": "environmental issue"
+        },
+        "26": {
+          "keywd": "Safeguard Policies"
+        },
+        "27": {
+          "keywd": "safeguard policy"
+        },
+        "28": {
+          "keywd": "environmental audit"
+        },
+        "29": {
+          "keywd": "operational objectives"
+        },
+        "30": {
+          "keywd": "contingency fund"
+        },
+        "31": {
+          "keywd": "adequate training"
+        },
+        "32": {
+          "keywd": "resilient infrastructure"
+        },
+        "33": {
+          "keywd": "emergency intervention"
+        },
+        "34": {
+          "keywd": "restructuring process"
+        },
+        "35": {
+          "keywd": "technical department"
+        },
+        "36": {
+          "keywd": "satisfactory manner"
+        },
+        "37": {
+          "keywd": "pending issues"
+        },
+        "38": {
+          "keywd": "household vulnerability"
+        },
+        "39": {
+          "keywd": "rolling basis"
+        },
+        "40": {
+          "keywd": "agricultural infrastructure"
+        },
+        "41": {
+          "keywd": "emergency works"
+        },
+        "42": {
+          "keywd": "food production"
+        },
+        "43": {
+          "keywd": "capacity strengthening"
+        },
+        "44": {
+          "keywd": "community group"
+        },
+        "45": {
+          "keywd": "irrigation infrastructure"
+        },
+        "46": {
+          "keywd": "improved seed"
+        },
+        "47": {
+          "keywd": "flight time"
+        },
+        "48": {
+          "keywd": "project intervention"
+        },
+        "49": {
+          "keywd": "excess weight"
+        },
+        "50": {
+          "keywd": "rural population"
+        },
+        "51": {
+          "keywd": "initial value"
+        },
+        "52": {
+          "keywd": "primary level"
+        },
+        "53": {
+          "keywd": "health facility"
+        },
+        "54": {
+          "keywd": "emergency response"
+        },
+        "55": {
+          "keywd": "emergency aid"
+        },
+        "56": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2015-06-25T18:58:08Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/944191468086644927/pdf/ISR-Disclosable-P132101-06-25-2015-1435258674162.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/944191468086644927/text/ISR-Disclosable-P132101-06-25-2015-1435258674162.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082f8dee5",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "944191468086644927",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/944191468086644927"
+    },
+    "D25860317": {
+      "id": "25860317",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08412eb26_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Agricultural Irrigation and Drainage,Disaster Management,Food Security,Hazard Risk Management,Irrigation and Drainage,Pest Management,Social Risk Management,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR22475",
+      "docdt": "2016-02-02T05:00:00Z",
+      "datestored": "2016-02-02T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "irrigation and drainage"
+        },
+        "1": {
+          "keywd": "early warning system"
+        },
+        "2": {
+          "keywd": "consultation activity"
+        },
+        "3": {
+          "keywd": "watershed protection activity"
+        },
+        "4": {
+          "keywd": "cash for work"
+        },
+        "5": {
+          "keywd": "Transport and ICT"
+        },
+        "6": {
+          "keywd": "response to disaster"
+        },
+        "7": {
+          "keywd": "acquisition of equipment"
+        },
+        "8": {
+          "keywd": "income generating opportunity"
+        },
+        "9": {
+          "keywd": "vulnerability reduction"
+        },
+        "10": {
+          "keywd": "productive capacity"
+        },
+        "11": {
+          "keywd": "weighing station"
+        },
+        "12": {
+          "keywd": "contingency fund"
+        },
+        "13": {
+          "keywd": "pesticide management"
+        },
+        "14": {
+          "keywd": "hydro-meteorological network"
+        },
+        "15": {
+          "keywd": "resilient infrastructure"
+        },
+        "16": {
+          "keywd": "construction standard"
+        },
+        "17": {
+          "keywd": "community group"
+        },
+        "18": {
+          "keywd": "infrastructure rehabilitation"
+        },
+        "19": {
+          "keywd": "communal infrastructure"
+        },
+        "20": {
+          "keywd": "financial audits"
+        },
+        "21": {
+          "keywd": "project intervention"
+        },
+        "22": {
+          "keywd": "primary level"
+        },
+        "23": {
+          "keywd": "health facility"
+        },
+        "24": {
+          "keywd": "rural population"
+        },
+        "25": {
+          "keywd": "irrigation site"
+        },
+        "26": {
+          "keywd": "rice production"
+        },
+        "27": {
+          "keywd": "average yield"
+        },
+        "28": {
+          "keywd": "improved seed"
+        },
+        "29": {
+          "keywd": "irrigation infrastructure"
+        },
+        "30": {
+          "keywd": "capacity strengthening"
+        },
+        "31": {
+          "keywd": "agricultural infrastructure"
+        },
+        "32": {
+          "keywd": "food production"
+        },
+        "33": {
+          "keywd": "civil works"
+        },
+        "34": {
+          "keywd": "household vulnerability"
+        },
+        "35": {
+          "keywd": "small Works"
+        },
+        "36": {
+          "keywd": "rainy season"
+        },
+        "37": {
+          "keywd": "concrete bridge"
+        },
+        "38": {
+          "keywd": "excess weight"
+        },
+        "39": {
+          "keywd": "axle load"
+        },
+        "40": {
+          "keywd": "social infrastructure"
+        },
+        "41": {
+          "keywd": "emergency works"
+        },
+        "42": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2016-02-02T14:22:43Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/896911468277142552/pdf/ISR-Disclosable-P132101-02-02-2016-1454422940320.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/896911468277142552/text/ISR-Disclosable-P132101-02-02-2016-1454422940320.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08412eb26",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "896911468277142552",
+      "origu": "Transport-East Africa (IAET1)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/896911468277142552"
+    },
+    "D29792093": {
+      "id": "29792093",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b085899abd_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Climate and Meteorology,Food Security,Natural Disasters,Pest Management,Transport Services",
+      "teratopic": "Agriculture,Environment,Science and Technology Development,Transport",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR32112",
+      "docdt": "2018-04-09T04:00:00Z",
+      "datestored": "2018-04-09T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "early warning system"
+        },
+        "1": {
+          "keywd": "social safety net program"
+        },
+        "2": {
+          "keywd": "Investment Project Financing"
+        },
+        "3": {
+          "keywd": "disaster risk management"
+        },
+        "4": {
+          "keywd": "irrigation and drainage"
+        },
+        "5": {
+          "keywd": "cash for work"
+        },
+        "6": {
+          "keywd": "capacity for implementation"
+        },
+        "7": {
+          "keywd": "consultation activity"
+        },
+        "8": {
+          "keywd": "emergency infrastructure"
+        },
+        "9": {
+          "keywd": "vulnerability reduction"
+        },
+        "10": {
+          "keywd": "rural area"
+        },
+        "11": {
+          "keywd": "health facility"
+        },
+        "12": {
+          "keywd": "emergency intervention"
+        },
+        "13": {
+          "keywd": "weighing station"
+        },
+        "14": {
+          "keywd": "primary level"
+        },
+        "15": {
+          "keywd": "project intervention"
+        },
+        "16": {
+          "keywd": "basic infrastructure"
+        },
+        "17": {
+          "keywd": "average yield"
+        },
+        "18": {
+          "keywd": "rice production"
+        },
+        "19": {
+          "keywd": "irrigation site"
+        },
+        "20": {
+          "keywd": "urban drainage"
+        },
+        "21": {
+          "keywd": "digital development"
+        },
+        "22": {
+          "keywd": "household vulnerability"
+        },
+        "23": {
+          "keywd": "disbursement rate"
+        },
+        "24": {
+          "keywd": "citizen engagement"
+        },
+        "25": {
+          "keywd": "high traffic"
+        },
+        "26": {
+          "keywd": "axle load"
+        },
+        "27": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 10"
+      },
+      "display_title": "Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 10",
+      "disclosure_date": "2018-04-09T19:16:05Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/776731523301368940/pdf/Disclosable-Version-of-the-ISR-Emergency-Infrastructure-Preservation-Vulnerability-Reduction-Project-P132101-Sequence-No-10.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/776731523301368940/text/Disclosable-Version-of-the-ISR-Emergency-Infrastructure-Preservation-Vulnerability-Reduction-Project-P132101-Sequence-No-10.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b085899abd",
+      "totvolnb": "1",
+      "historic_topic": "Agriculture,Environment,Science and Technology Development,Transport",
+      "projectid": "P132101",
+      "guid": "776731523301368940",
+      "origu": "GTD02 - Transport-SEAP",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/776731523301368940"
+    },
+    "D26740002": {
+      "id": "26740002",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08452c93d_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Climate and Meteorology,Food Security,Pest Management,Social Protections & Assistance,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR24342",
+      "docdt": "2016-08-30T04:00:00Z",
+      "datestored": "2016-08-30T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "early warning system"
+        },
+        "1": {
+          "keywd": "emergency recovery loan"
+        },
+        "2": {
+          "keywd": "disaster risk management"
+        },
+        "3": {
+          "keywd": "cash for work"
+        },
+        "4": {
+          "keywd": "irrigation and drainage"
+        },
+        "5": {
+          "keywd": "Transport and ICT"
+        },
+        "6": {
+          "keywd": "vulnerability reduction"
+        },
+        "7": {
+          "keywd": "consultation activity"
+        },
+        "8": {
+          "keywd": "emergency infrastructure"
+        },
+        "9": {
+          "keywd": "rice production"
+        },
+        "10": {
+          "keywd": "irrigation site"
+        },
+        "11": {
+          "keywd": "rural area"
+        },
+        "12": {
+          "keywd": "primary level"
+        },
+        "13": {
+          "keywd": "weighing station"
+        },
+        "14": {
+          "keywd": "health facility"
+        },
+        "15": {
+          "keywd": "emergency intervention"
+        },
+        "16": {
+          "keywd": "average yield"
+        },
+        "17": {
+          "keywd": "project intervention"
+        },
+        "18": {
+          "keywd": "basic infrastructure"
+        },
+        "19": {
+          "keywd": "citizen engagement"
+        },
+        "20": {
+          "keywd": "infrastructure rehabilitation"
+        },
+        "21": {
+          "keywd": "activity schedule"
+        },
+        "22": {
+          "keywd": "household vulnerability"
+        },
+        "23": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2016-08-30T22:00:04Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/408061472594405718/pdf/ISR-Disclosable-P132101-08-30-2016-1472594388702.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/408061472594405718/text/ISR-Disclosable-P132101-08-30-2016-1472594388702.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08452c93d",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "408061472594405718",
+      "origu": "Transport-So. Africa + Ethiopia (IAET2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/408061472594405718"
+    },
+    "D20386993": {
+      "id": "20386993",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082862c3f_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Agricultural Irrigation and Drainage,Global Environment,Irrigation and Drainage,Labor Markets,Labor Policies,Pest Management,Rural Labor Markets,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR15952",
+      "docdt": "2014-11-16T05:00:00Z",
+      "datestored": "2014-11-16T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "early warning system"
+        },
+        "1": {
+          "keywd": "emergency recovery loan"
+        },
+        "2": {
+          "keywd": "consultation activity"
+        },
+        "3": {
+          "keywd": "emergency response agencies"
+        },
+        "4": {
+          "keywd": "irrigation and drainage"
+        },
+        "5": {
+          "keywd": "emergency infrastructure"
+        },
+        "6": {
+          "keywd": "axle load"
+        },
+        "7": {
+          "keywd": "procurement process"
+        },
+        "8": {
+          "keywd": "financial agreement"
+        },
+        "9": {
+          "keywd": "irrigation site"
+        },
+        "10": {
+          "keywd": "project intervention"
+        },
+        "11": {
+          "keywd": "rural population"
+        },
+        "12": {
+          "keywd": "primary level"
+        },
+        "13": {
+          "keywd": "health facility"
+        },
+        "14": {
+          "keywd": "mission area"
+        },
+        "15": {
+          "keywd": "vulnerability reduction"
+        },
+        "16": {
+          "keywd": "government entity"
+        },
+        "17": {
+          "keywd": "emergency works"
+        },
+        "18": {
+          "keywd": "locust control"
+        },
+        "19": {
+          "keywd": "household vulnerability"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2014-11-16T20:46:51Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/319101468054872336/pdf/ISR-Disclosable-P132101-11-16-2014-1416170799592.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/319101468054872336/text/ISR-Disclosable-P132101-11-16-2014-1416170799592.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082862c3f",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "319101468054872336",
+      "origu": "Transport Global Practice (GTRTR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/319101468054872336"
+    },
+    "D27217533": {
+      "id": "27217533",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08497add2_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Climate and Meteorology,Health Care Services Industry,Natural Disasters,Pest Management,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR26851",
+      "docdt": "2017-02-23T05:00:00Z",
+      "datestored": "2017-02-23T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "early warning system"
+        },
+        "1": {
+          "keywd": "safety net program"
+        },
+        "2": {
+          "keywd": "irrigation and drainage"
+        },
+        "3": {
+          "keywd": "cash for work"
+        },
+        "4": {
+          "keywd": "bridge construction work"
+        },
+        "5": {
+          "keywd": "emergency recovery loan"
+        },
+        "6": {
+          "keywd": "Transport and ICT"
+        },
+        "7": {
+          "keywd": "consultation activity"
+        },
+        "8": {
+          "keywd": "vulnerability reduction"
+        },
+        "9": {
+          "keywd": "emergency infrastructure"
+        },
+        "10": {
+          "keywd": "basic infrastructure"
+        },
+        "11": {
+          "keywd": "primary level"
+        },
+        "12": {
+          "keywd": "irrigation site"
+        },
+        "13": {
+          "keywd": "rice production"
+        },
+        "14": {
+          "keywd": "average yield"
+        },
+        "15": {
+          "keywd": "rural area"
+        },
+        "16": {
+          "keywd": "project intervention"
+        },
+        "17": {
+          "keywd": "weighing station"
+        },
+        "18": {
+          "keywd": "health facility"
+        },
+        "19": {
+          "keywd": "Drainage Rehabilitation"
+        },
+        "20": {
+          "keywd": "result indicator"
+        },
+        "21": {
+          "keywd": "citizen engagement"
+        },
+        "22": {
+          "keywd": "household vulnerability"
+        },
+        "23": {
+          "keywd": "urban roads"
+        },
+        "24": {
+          "keywd": "emergency intervention"
+        },
+        "25": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2017-02-23T13:29:32Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/663221487856573832/pdf/ISR-Disclosable-P132101-02-23-2017-1487856561118.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/663221487856573832/text/ISR-Disclosable-P132101-02-23-2017-1487856561118.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08497add2",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "663221487856573832",
+      "origu": "Transport-So. Africa + Ethiopia (IAET2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/663221487856573832"
+    },
+    "D28021959": {
+      "id": "28021959",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b085045cd4_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Climate and Meteorology,Food Security,Labor Markets,Labor Policies,Rural Labor Markets,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR29504",
+      "docdt": "2017-10-02T04:00:00Z",
+      "datestored": "2017-10-02T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "social safety net program"
+        },
+        "1": {
+          "keywd": "early warning system"
+        },
+        "2": {
+          "keywd": "irrigation and drainage"
+        },
+        "3": {
+          "keywd": "cash for work"
+        },
+        "4": {
+          "keywd": "Transport and ICT"
+        },
+        "5": {
+          "keywd": "emergency recovery loan"
+        },
+        "6": {
+          "keywd": "disaster risk management"
+        },
+        "7": {
+          "keywd": "weighing station"
+        },
+        "8": {
+          "keywd": "consultation activity"
+        },
+        "9": {
+          "keywd": "vulnerability reduction"
+        },
+        "10": {
+          "keywd": "emergency infrastructure"
+        },
+        "11": {
+          "keywd": "irrigation site"
+        },
+        "12": {
+          "keywd": "emergency intervention"
+        },
+        "13": {
+          "keywd": "health facility"
+        },
+        "14": {
+          "keywd": "rural area"
+        },
+        "15": {
+          "keywd": "primary level"
+        },
+        "16": {
+          "keywd": "project intervention"
+        },
+        "17": {
+          "keywd": "rice production"
+        },
+        "18": {
+          "keywd": "basic infrastructure"
+        },
+        "19": {
+          "keywd": "average yield"
+        },
+        "20": {
+          "keywd": "urban drainage"
+        },
+        "21": {
+          "keywd": "Infrastructure Finance"
+        },
+        "22": {
+          "keywd": "citizen engagement"
+        },
+        "23": {
+          "keywd": "household vulnerability"
+        },
+        "24": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 09"
+      },
+      "display_title": "Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 09",
+      "disclosure_date": "2017-10-02T16:41:05Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/799081506962465857/pdf/Disclosable-Version-of-the-ISR-Emergency-Infrastructure-Preservation-Vulnerability-Reduction-Project-P132101-Sequence-No-09.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/799081506962465857/text/Disclosable-Version-of-the-ISR-Emergency-Infrastructure-Preservation-Vulnerability-Reduction-Project-P132101-Sequence-No-09.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b085045cd4",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "799081506962465857",
+      "origu": "INF-EAP-Transport (IEAT1)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/799081506962465857"
+    },
+    "D30237597": {
+      "id": "30237597",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b085d3ec98_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR32112",
+      "docdt": "2018-07-05T04:00:00Z",
+      "datestored": "2018-07-05T04:00:00Z",
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 10"
+      },
+      "display_title": "Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 10 : Disclosable Version of the ISR - Emergency Infrastructure Preservation   Vulnerability Reduction Project - P132101 - Sequence No : 11",
+      "disclosure_date": "2018-07-05T20:16:44Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/999361530821804816/pdf/Disclosable-Version-of-the-ISR-Emergency-Infrastructure-Preservation-Vulnerability-Reduction-Project-P132101-Sequence-No-11.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/999361530821804816/text/Disclosable-Version-of-the-ISR-Emergency-Infrastructure-Preservation-Vulnerability-Reduction-Project-P132101-Sequence-No-11.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b085d3ec98",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "999361530821804816",
+      "origu": "INF-EAP-Transport (IEAT1)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/999361530821804816"
+    },
+    "D18481438": {
+      "id": "18481438",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082037ed7_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Access of Poor to Social Services,Agricultural Irrigation and Drainage,Disability,Economic Assistance,Irrigation and Drainage,Labor Markets,Labor Policies,Pest Management,Rural Labor Markets,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR11489",
+      "docdt": "2013-11-05T05:00:00Z",
+      "datestored": "2013-11-05T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "emergency recovery loan"
+        },
+        "1": {
+          "keywd": "early warning system"
+        },
+        "2": {
+          "keywd": "consultation activity"
+        },
+        "3": {
+          "keywd": "emergency response agencies"
+        },
+        "4": {
+          "keywd": "irrigation and drainage"
+        },
+        "5": {
+          "keywd": "small scale irrigation"
+        },
+        "6": {
+          "keywd": "project financing"
+        },
+        "7": {
+          "keywd": "emergency infrastructure"
+        },
+        "8": {
+          "keywd": "rainy season"
+        },
+        "9": {
+          "keywd": "project intervention"
+        },
+        "10": {
+          "keywd": "financial agreement"
+        },
+        "11": {
+          "keywd": "primary level"
+        },
+        "12": {
+          "keywd": "disbursement rate"
+        },
+        "13": {
+          "keywd": "health facility"
+        },
+        "14": {
+          "keywd": "average yield"
+        },
+        "15": {
+          "keywd": "vulnerability reduction"
+        },
+        "16": {
+          "keywd": "rural population"
+        },
+        "17": {
+          "keywd": "household vulnerability"
+        },
+        "18": {
+          "keywd": "irrigation site"
+        },
+        "19": {
+          "keywd": "agreed schedule"
+        },
+        "20": {
+          "keywd": "road infrastructure"
+        },
+        "21": {
+          "keywd": "Social Protection"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 02"
+      },
+      "display_title": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 02",
+      "disclosure_date": "2013-11-05T23:58:47Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/977861468263736592/pdf/ISR-Disclosable-P132101-11-05-2013-1383695916560.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/977861468263736592/text/ISR-Disclosable-P132101-11-05-2013-1383695916560.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082037ed7",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "977861468263736592",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/977861468263736592"
+    },
+    "D17830635": {
+      "id": "17830635",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081c44b26_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Access of Poor to Social Services,Agricultural Irrigation and Drainage,Disability,Economic Assistance,Food Security,Irrigation and Drainage,Labor Markets,Labor Policies,Rural Labor Markets,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR10486",
+      "docdt": "2013-06-10T04:00:00Z",
+      "datestored": "2013-06-10T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "early warning system"
+        },
+        "1": {
+          "keywd": "consultation activity"
+        },
+        "2": {
+          "keywd": "irrigation and drainage"
+        },
+        "3": {
+          "keywd": "rice production"
+        },
+        "4": {
+          "keywd": "emergency works"
+        },
+        "5": {
+          "keywd": "primary level"
+        },
+        "6": {
+          "keywd": "axle load"
+        },
+        "7": {
+          "keywd": "road corridor"
+        },
+        "8": {
+          "keywd": "rural population"
+        },
+        "9": {
+          "keywd": "irrigation site"
+        },
+        "10": {
+          "keywd": "vulnerability reduction"
+        },
+        "11": {
+          "keywd": "project intervention"
+        },
+        "12": {
+          "keywd": "financial agreement"
+        },
+        "13": {
+          "keywd": "household vulnerability"
+        },
+        "14": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 01"
+      },
+      "display_title": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 01",
+      "disclosure_date": "2013-06-10T11:14:08Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/787151468053037079/pdf/ISR-Disclosable-P132101-06-10-2013-1370862837759.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/787151468053037079/text/ISR-Disclosable-P132101-06-10-2013-1370862837759.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081c44b26",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "787151468053037079",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/787151468053037079"
+    },
+    "D19508390": {
+      "id": "19508390",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Rabefaniraka, Noroarisoa"
+        }
+      },
+      "count": "Madagascar",
+      "docna": {
+        "0": {
+          "docna": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MG-Emergency Infrastructure Preservation & Vulnerability Reduction Project -- P132101",
+      "subsc": "FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Rural and Inter-Urban Roads,FY17 - Social Protection,FY17 - Other Education,FY17 - Irrigation and Drainage",
+      "theme": "FY17 - Social Insurance and Pensions,FY17 - Disaster Response and Recovery,FY17 - Disaster Risk Management,FY17 - Biodiversity,FY17 - Finance for Development,FY17 - Rural Development,FY17 - Renewable Natural Resources Asset Management,FY17 - Disaster Preparedness,FY17 - Social Protection,FY17 - Disaster Risk Reduction,FY17 - Social Safety Nets,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management,FY17 - Disaster Risk Finance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08242fc60_1_0"
+      },
+      "majtheme": "FY17 - Finance,FY17 - Urban and Rural Development,FY17 - Social Development and Protection,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Access of Poor to Social Services,Agricultural Irrigation and Drainage,Disability,Economic Assistance,Global Environment,Health Care Services Industry,Irrigation and Drainage,Pest Management,Services & Transfers to Poor",
+      "sectr": {
+        "0": {
+          "sector": "Agriculture, Fishing and Forestry"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        },
+        "3": {
+          "sector": "Social Protection"
+        },
+        "4": {
+          "sector": "Water, Sanitation and Waste Management"
+        }
+      },
+      "repnb": "ISR14355",
+      "docdt": "2014-05-04T04:00:00Z",
+      "datestored": "2014-05-04T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "consultation activity"
+        },
+        "1": {
+          "keywd": "early warning system"
+        },
+        "2": {
+          "keywd": "emergency recovery loan"
+        },
+        "3": {
+          "keywd": "emergency response agencies"
+        },
+        "4": {
+          "keywd": "irrigation and drainage"
+        },
+        "5": {
+          "keywd": "emergency infrastructure"
+        },
+        "6": {
+          "keywd": "construction of bridges"
+        },
+        "7": {
+          "keywd": "construction of school"
+        },
+        "8": {
+          "keywd": "vulnerability reduction"
+        },
+        "9": {
+          "keywd": "rural population"
+        },
+        "10": {
+          "keywd": "irrigation site"
+        },
+        "11": {
+          "keywd": "road work"
+        },
+        "12": {
+          "keywd": "procurement process"
+        },
+        "13": {
+          "keywd": "control infrastructure"
+        },
+        "14": {
+          "keywd": "health facility"
+        },
+        "15": {
+          "keywd": "financial agreement"
+        },
+        "16": {
+          "keywd": "household vulnerability"
+        },
+        "17": {
+          "keywd": "agreed schedule"
+        },
+        "18": {
+          "keywd": "rainy season"
+        },
+        "19": {
+          "keywd": "project intervention"
+        },
+        "20": {
+          "keywd": "primary level"
+        },
+        "21": {
+          "keywd": "road infrastructure"
+        },
+        "22": {
+          "keywd": "work contracts"
+        },
+        "23": {
+          "keywd": "axle load"
+        },
+        "24": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "Madagascar - Emergency Infrastructure Preservation & Vulnerability Reduction Project : P132101 - Implementation Status Results Report : Sequence 03",
+      "disclosure_date": "2014-05-04T14:14:52Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/148211468270597329/pdf/ISR-Disclosable-P132101-05-04-2014-1399212879437.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/148211468270597329/text/ISR-Disclosable-P132101-05-04-2014-1399212879437.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08242fc60",
+      "totvolnb": "1",
+      "projectid": "P132101",
+      "guid": "148211468270597329",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/148211468270597329"
+    },
+    "facets": {}
+  }
+}

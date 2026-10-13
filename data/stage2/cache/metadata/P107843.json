@@ -1,0 +1,622 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 5,
+  "documents": {
+    "D16936129": {
+      "id": "16936129",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Silveira, Ricardo Rocha"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Federal District Multisector Management -- P107843",
+      "subsc": "FY17 - Public Administration - Transportation,FY17 - Health,FY17 - Public Administration - Health,FY17 - Other Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Health System Strengthening,FY17 - Access to Education,FY17 - Health Systems and Policies,FY17 - Reproductive and Maternal Health,FY17 - Child Health,FY17 - Education,FY17 - Education Financing,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08175feb1_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Human Development and Gender",
+      "subtopic": "Economics and Institutions,Educational Sciences,Health Care Services Industry,Non Governmental Organizations,Primary Education,Public Sector Management and Reform,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        }
+      },
+      "repnb": "ISR8218",
+      "docdt": "2012-11-09T05:00:00Z",
+      "datestored": "2012-11-09T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "level of health care"
+        },
+        "1": {
+          "keywd": "fare revenue"
+        },
+        "2": {
+          "keywd": "bus service"
+        },
+        "3": {
+          "keywd": "early childhood program"
+        },
+        "4": {
+          "keywd": "public transport sector"
+        },
+        "5": {
+          "keywd": "quality and efficiency"
+        },
+        "6": {
+          "keywd": "control of information"
+        },
+        "7": {
+          "keywd": "public transport service"
+        },
+        "8": {
+          "keywd": "basic education activity"
+        },
+        "9": {
+          "keywd": "low-income area"
+        },
+        "10": {
+          "keywd": "financial agreement"
+        },
+        "11": {
+          "keywd": "result indicator"
+        },
+        "12": {
+          "keywd": "pregnant woman"
+        },
+        "13": {
+          "keywd": "Operational Risk and Control"
+        },
+        "14": {
+          "keywd": "federal district"
+        },
+        "15": {
+          "keywd": "operational capacity"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2012-11-09T19:14:22Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/322711468236370520/pdf/ISR-Disclosable-P107843-11092012-1352488461962.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/322711468236370520/text/ISR-Disclosable-P107843-11092012-1352488461962.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08175feb1",
+      "totvolnb": "1",
+      "projectid": "P107843",
+      "guid": "322711468236370520",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/322711468236370520"
+    },
+    "D17119576": {
+      "id": "17119576",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Silveira, Ricardo Rocha"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Federal District Multisector Management -- P107843",
+      "subsc": "FY17 - Public Administration - Transportation,FY17 - Health,FY17 - Public Administration - Health,FY17 - Other Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Health System Strengthening,FY17 - Access to Education,FY17 - Health Systems and Policies,FY17 - Reproductive and Maternal Health,FY17 - Child Health,FY17 - Education,FY17 - Education Financing,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081841b72_1_0"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Human Development and Gender",
+      "subtopic": "Economics and Institutions,Educational Sciences,Health Care Services Industry,Non Governmental Organizations,Primary Education,Public Sector Management and Reform,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        }
+      },
+      "repnb": "ISR9123",
+      "docdt": "2012-12-26T05:00:00Z",
+      "datestored": "2012-12-26T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "level of health care"
+        },
+        "1": {
+          "keywd": "fare revenue"
+        },
+        "2": {
+          "keywd": "bus service"
+        },
+        "3": {
+          "keywd": "federal district"
+        },
+        "4": {
+          "keywd": "basic education activity"
+        },
+        "5": {
+          "keywd": "early childhood program"
+        },
+        "6": {
+          "keywd": "public transport sector"
+        },
+        "7": {
+          "keywd": "control of information"
+        },
+        "8": {
+          "keywd": "public transport service"
+        },
+        "9": {
+          "keywd": "quality and efficiency"
+        },
+        "10": {
+          "keywd": "Operational Risk and Control"
+        },
+        "11": {
+          "keywd": "pregnant woman"
+        },
+        "12": {
+          "keywd": "low-income area"
+        },
+        "13": {
+          "keywd": "operational capacity"
+        },
+        "14": {
+          "keywd": "financial agreement"
+        },
+        "15": {
+          "keywd": "grace period"
+        },
+        "16": {
+          "keywd": "loan disbursement"
+        },
+        "17": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2012-12-26T21:27:45Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/550871468222886036/pdf/ISR-Disclosable-P107843-12262012-1356557264774.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/550871468222886036/text/ISR-Disclosable-P107843-12262012-1356557264774.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b081841b72",
+      "totvolnb": "1",
+      "projectid": "P107843",
+      "guid": "550871468222886036",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/550871468222886036"
+    },
+    "D15931112": {
+      "id": "15931112",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Silveira"
+        },
+        "1": {
+          "author": "Silveira, Ricardo Rocha"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Federal District Multisector Management -- P107843",
+      "subsc": "FY17 - Public Administration - Transportation,FY17 - Health,FY17 - Public Administration - Health,FY17 - Other Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Health System Strengthening,FY17 - Access to Education,FY17 - Health Systems and Policies,FY17 - Reproductive and Maternal Health,FY17 - Child Health,FY17 - Education,FY17 - Education Financing,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "015931112_2012031320113612"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Human Development and Gender",
+      "subtopic": "Economics and Institutions,Educational Sciences,Health Care Services Industry,Non Governmental Organizations,Primary Education,Public Sector Management and Reform,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        }
+      },
+      "repnb": "ISR5015",
+      "docdt": "2012-03-13T04:00:00Z",
+      "datestored": "2012-03-13T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "fare revenue"
+        },
+        "1": {
+          "keywd": "bus service"
+        },
+        "2": {
+          "keywd": "level of health care"
+        },
+        "3": {
+          "keywd": "quality and efficiency"
+        },
+        "4": {
+          "keywd": "public transport sector"
+        },
+        "5": {
+          "keywd": "early childhood program"
+        },
+        "6": {
+          "keywd": "public transport service"
+        },
+        "7": {
+          "keywd": "basic education activity"
+        },
+        "8": {
+          "keywd": "control of information"
+        },
+        "9": {
+          "keywd": "operational capacity"
+        },
+        "10": {
+          "keywd": "low-income area"
+        },
+        "11": {
+          "keywd": "Operational Risk and Control"
+        },
+        "12": {
+          "keywd": "pregnant woman"
+        },
+        "13": {
+          "keywd": "satisfactory progress"
+        },
+        "14": {
+          "keywd": "federal district"
+        },
+        "15": {
+          "keywd": "financial agreement"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 06",
+      "pdfurl": "http://documents.worldbank.org/curated/en/979521468743690703/pdf/P1078430ISR0Di013201201331652820402.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/979521468743690703/text/P1078430ISR0Di013201201331652820402.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0812d4880",
+      "totvolnb": "1",
+      "projectid": "P107843",
+      "guid": "979521468743690703",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/979521468743690703"
+    },
+    "D13474146": {
+      "id": "13474146",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Silveira, Ricardo Rocha"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Federal District Multisector Management -- P107843",
+      "subsc": "FY17 - Public Administration - Transportation,FY17 - Health,FY17 - Public Administration - Health,FY17 - Other Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Health System Strengthening,FY17 - Access to Education,FY17 - Health Systems and Policies,FY17 - Reproductive and Maternal Health,FY17 - Child Health,FY17 - Education,FY17 - Education Financing,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011011301164046"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Human Development and Gender",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Economics and Institutions,Educational Sciences,Health Care Services Industry,Non Governmental Organizations,Public Sector Management and Reform,Services & Transfers to Poor,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        }
+      },
+      "docdt": "2011-01-13T05:00:00Z",
+      "datestored": "2011-01-13T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "level of health care"
+        },
+        "1": {
+          "keywd": "fare revenue"
+        },
+        "2": {
+          "keywd": "basic education activity"
+        },
+        "3": {
+          "keywd": "early childhood program"
+        },
+        "4": {
+          "keywd": "Indicator Baseline"
+        },
+        "5": {
+          "keywd": "urban transport plan"
+        },
+        "6": {
+          "keywd": "Early childhood education"
+        },
+        "7": {
+          "keywd": "evaluation of results"
+        },
+        "8": {
+          "keywd": "public transport sector"
+        },
+        "9": {
+          "keywd": "public transport service"
+        },
+        "10": {
+          "keywd": "quality and efficiency"
+        },
+        "11": {
+          "keywd": "pregnant woman"
+        },
+        "12": {
+          "keywd": "Operational Risk and Control"
+        },
+        "13": {
+          "keywd": "sector programs"
+        },
+        "14": {
+          "keywd": "low-income area"
+        },
+        "15": {
+          "keywd": "incentive system"
+        },
+        "16": {
+          "keywd": "children of ages"
+        },
+        "17": {
+          "keywd": "primary service"
+        },
+        "18": {
+          "keywd": "project indicator"
+        },
+        "19": {
+          "keywd": "target indicator"
+        },
+        "20": {
+          "keywd": "financial agreement"
+        },
+        "21": {
+          "keywd": "operational capacity"
+        },
+        "22": {
+          "keywd": "bus service"
+        },
+        "23": {
+          "keywd": "federal district"
+        },
+        "24": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2011-01-13T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/311291468769480289/pdf/P1078430ISR0Di011320111294899399175.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/311291468769480289/text/P1078430ISR0Di011320111294899399175.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08083a850",
+      "projectid": "P107843",
+      "guid": "311291468769480289",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/311291468769480289"
+    },
+    "D14586526": {
+      "id": "14586526",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Silveira, Ricardo Rocha"
+        }
+      },
+      "count": "Brazil",
+      "docna": {
+        "0": {
+          "docna": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "BR-Federal District Multisector Management -- P107843",
+      "subsc": "FY17 - Public Administration - Transportation,FY17 - Health,FY17 - Public Administration - Health,FY17 - Other Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Health System Strengthening,FY17 - Access to Education,FY17 - Health Systems and Policies,FY17 - Reproductive and Maternal Health,FY17 - Child Health,FY17 - Education,FY17 - Education Financing,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011071512041826"
+      },
+      "majtheme": "FY17 - Urban and Rural Development,FY17 - Human Development and Gender",
+      "subtopic": "Economics and Institutions,Educational Sciences,Health Care Services Industry,Non Governmental Organizations,Primary Education,Public Sector Management and Reform,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Health"
+        },
+        "1": {
+          "sector": "Education"
+        },
+        "2": {
+          "sector": "Transportation"
+        }
+      },
+      "docdt": "2011-07-15T04:00:00Z",
+      "datestored": "2011-07-15T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "level of health care"
+        },
+        "1": {
+          "keywd": "bus service"
+        },
+        "2": {
+          "keywd": "fare revenue"
+        },
+        "3": {
+          "keywd": "early childhood program"
+        },
+        "4": {
+          "keywd": "public transport sector"
+        },
+        "5": {
+          "keywd": "public transport service"
+        },
+        "6": {
+          "keywd": "quality and efficiency"
+        },
+        "7": {
+          "keywd": "basic education activity"
+        },
+        "8": {
+          "keywd": "low-income area"
+        },
+        "9": {
+          "keywd": "children of ages"
+        },
+        "10": {
+          "keywd": "Operational Risk and Control"
+        },
+        "11": {
+          "keywd": "pregnant woman"
+        },
+        "12": {
+          "keywd": "result indicator"
+        },
+        "13": {
+          "keywd": "operational capacity"
+        },
+        "14": {
+          "keywd": "federal district"
+        },
+        "15": {
+          "keywd": "financial agreement"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Brazil - Federal District Multisector Management : P107843 - Implementation Status Results Report : Sequence 05",
+      "pdfurl": "http://documents.worldbank.org/curated/en/432181468769441130/pdf/P1078430ISR0Di015201101310745857767.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/432181468769441130/text/P1078430ISR0Di015201101310745857767.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b080e28e30",
+      "projectid": "P107843",
+      "guid": "432181468769441130",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/432181468769441130"
+    },
+    "facets": {}
+  }
+}

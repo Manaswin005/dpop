@@ -1,0 +1,1302 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 12,
+  "documents": {
+    "D19565676": {
+      "id": "19565676",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Bertholet, Fabrice Karl"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08249aefa_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Electric Power,Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR14594",
+      "docdt": "2014-05-25T04:00:00Z",
+      "datestored": "2014-05-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "transmission and distribution network"
+        },
+        "1": {
+          "keywd": "people in urban area"
+        },
+        "2": {
+          "keywd": "Access to Electricity"
+        },
+        "3": {
+          "keywd": "distribution line"
+        },
+        "4": {
+          "keywd": "transmission line"
+        },
+        "5": {
+          "keywd": "efficiency of electricity"
+        },
+        "6": {
+          "keywd": "number of connections"
+        },
+        "7": {
+          "keywd": "household connection"
+        },
+        "8": {
+          "keywd": "public lighting"
+        },
+        "9": {
+          "keywd": "electricity connection"
+        },
+        "10": {
+          "keywd": "survey data"
+        },
+        "11": {
+          "keywd": "time average"
+        },
+        "12": {
+          "keywd": "household size"
+        },
+        "13": {
+          "keywd": "peak load"
+        },
+        "14": {
+          "keywd": "financial agreement"
+        },
+        "15": {
+          "keywd": "result indicator"
+        },
+        "16": {
+          "keywd": "construction work"
+        },
+        "17": {
+          "keywd": "missing data"
+        },
+        "18": {
+          "keywd": "solar lamps"
+        },
+        "19": {
+          "keywd": "kv line"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2014-05-25T21:24:13Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/509131468281960142/pdf/ISR-Disclosable-P108440-05-25-2014-1401053045065.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/509131468281960142/text/ISR-Disclosable-P108440-05-25-2014-1401053045065.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08249aefa",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "509131468281960142",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/509131468281960142"
+    },
+    "D26946279": {
+      "id": "26946279",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Bah, Thierno"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084704944_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR24570",
+      "docdt": "2016-11-16T05:00:00Z",
+      "datestored": "2016-11-16T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "efficiency of electricity"
+        },
+        "1": {
+          "keywd": "number of connections"
+        },
+        "2": {
+          "keywd": "national electricity company"
+        },
+        "3": {
+          "keywd": "interconnected grid"
+        },
+        "4": {
+          "keywd": "distribution loss"
+        },
+        "5": {
+          "keywd": "distribution line"
+        },
+        "6": {
+          "keywd": "investment loan"
+        },
+        "7": {
+          "keywd": "project indicator"
+        },
+        "8": {
+          "keywd": "medium voltage"
+        },
+        "9": {
+          "keywd": "peak load"
+        },
+        "10": {
+          "keywd": "protection program"
+        },
+        "11": {
+          "keywd": "commercial performance"
+        },
+        "12": {
+          "keywd": "transmission line"
+        },
+        "13": {
+          "keywd": "disbursement rate"
+        },
+        "14": {
+          "keywd": "solar lamps"
+        },
+        "15": {
+          "keywd": "large consumer"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 12"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 12",
+      "disclosure_date": "2016-11-16T23:59:28Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/381831479340769641/pdf/ISR-Disclosable-P108440-11-16-2016-1479340747534.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/381831479340769641/text/ISR-Disclosable-P108440-11-16-2016-1479340747534.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b084704944",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "381831479340769641",
+      "origu": "Infra AFR Energy 2 (IAWE2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/381831479340769641"
+    },
+    "D17483413": {
+      "id": "17483413",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Bertholet, Fabrice Karl"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081a18771_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Electric Power,Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR9766",
+      "docdt": "2013-03-25T04:00:00Z",
+      "datestored": "2013-03-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "transmission and distribution network"
+        },
+        "2": {
+          "keywd": "core sector indicator"
+        },
+        "3": {
+          "keywd": "efficiency of electricity"
+        },
+        "4": {
+          "keywd": "Access to Electricity"
+        },
+        "5": {
+          "keywd": "distribution loss"
+        },
+        "6": {
+          "keywd": "promotional campaign"
+        },
+        "7": {
+          "keywd": "household connection"
+        },
+        "8": {
+          "keywd": "result indicator"
+        },
+        "9": {
+          "keywd": "peak load"
+        },
+        "10": {
+          "keywd": "efficient lamp"
+        },
+        "11": {
+          "keywd": "interconnected grid"
+        },
+        "12": {
+          "keywd": "lamp post"
+        },
+        "13": {
+          "keywd": "construction work"
+        },
+        "14": {
+          "keywd": "survey data"
+        },
+        "15": {
+          "keywd": "electricity connection"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2013-03-25T17:04:20Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/755511468055504078/pdf/ISR-Disclosable-P108440-03-25-2013-1364231051108.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/755511468055504078/text/ISR-Disclosable-P108440-03-25-2013-1364231051108.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081a18771",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "755511468055504078",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/755511468055504078"
+    },
+    "D25892863": {
+      "id": "25892863",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Berlengiero, Manuel"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08416d2ae_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Electric Power,Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR22432",
+      "docdt": "2016-02-10T05:00:00Z",
+      "datestored": "2016-02-10T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Access to Electricity"
+        },
+        "1": {
+          "keywd": "distribution line"
+        },
+        "2": {
+          "keywd": "number of connections"
+        },
+        "3": {
+          "keywd": "efficiency of electricity"
+        },
+        "4": {
+          "keywd": "transmission line"
+        },
+        "5": {
+          "keywd": "solar lamps"
+        },
+        "6": {
+          "keywd": "household connection"
+        },
+        "7": {
+          "keywd": "disbursement rate"
+        },
+        "8": {
+          "keywd": "peak load"
+        },
+        "9": {
+          "keywd": "procurement process"
+        },
+        "10": {
+          "keywd": "investment loan"
+        },
+        "11": {
+          "keywd": "Energy"
+        },
+        "12": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2016-02-10T23:00:12Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/571901468054263590/pdf/ISR-Disclosable-P108440-02-10-2016-1455145199436.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/571901468054263590/text/ISR-Disclosable-P108440-02-10-2016-1455145199436.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08416d2ae",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "571901468054263590",
+      "origu": "Infra AFR Energy 2 (IAWE2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/571901468054263590"
+    },
+    "D23016627": {
+      "id": "23016627",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Bertholet, Fabrice Karl"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082908480_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Electric Power,Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR17214",
+      "docdt": "2014-12-12T05:00:00Z",
+      "datestored": "2014-12-12T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "transmission and distribution network"
+        },
+        "1": {
+          "keywd": "people in urban area"
+        },
+        "2": {
+          "keywd": "Access to Electricity"
+        },
+        "3": {
+          "keywd": "distribution line"
+        },
+        "4": {
+          "keywd": "number of connections"
+        },
+        "5": {
+          "keywd": "transmission line"
+        },
+        "6": {
+          "keywd": "efficiency of electricity"
+        },
+        "7": {
+          "keywd": "Energy and Mining"
+        },
+        "8": {
+          "keywd": "household connection"
+        },
+        "9": {
+          "keywd": "utility connection"
+        },
+        "10": {
+          "keywd": "connection targets"
+        },
+        "11": {
+          "keywd": "public lighting"
+        },
+        "12": {
+          "keywd": "solar lamps"
+        },
+        "13": {
+          "keywd": "time average"
+        },
+        "14": {
+          "keywd": "household size"
+        },
+        "15": {
+          "keywd": "regional breakdown"
+        },
+        "16": {
+          "keywd": "peak load"
+        },
+        "17": {
+          "keywd": "investment loan"
+        },
+        "18": {
+          "keywd": "construction work"
+        },
+        "19": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2014-12-12T19:44:26Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/189031468278727015/pdf/ISR-Disclosable-P108440-12-12-2014-1418413456791.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/189031468278727015/text/ISR-Disclosable-P108440-12-12-2014-1418413456791.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082908480",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "189031468278727015",
+      "origu": "GEEDR - Energy & Extractives - GP",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/189031468278727015"
+    },
+    "D16491725": {
+      "id": "16491725",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Bertholet, Fabrice Karl"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012071112572825"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Electric Power,Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR6842",
+      "docdt": "2012-07-11T04:00:00Z",
+      "datestored": "2012-07-11T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "efficiency of electricity"
+        },
+        "2": {
+          "keywd": "Access to Electricity"
+        },
+        "3": {
+          "keywd": "construction work"
+        },
+        "4": {
+          "keywd": "interconnected grid"
+        },
+        "5": {
+          "keywd": "distribution network"
+        },
+        "6": {
+          "keywd": "peak load"
+        },
+        "7": {
+          "keywd": "household connection"
+        },
+        "8": {
+          "keywd": "efficient lamp"
+        },
+        "9": {
+          "keywd": "promotional campaign"
+        },
+        "10": {
+          "keywd": "financial agreement"
+        },
+        "11": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 05",
+      "pdfurl": "http://documents.worldbank.org/curated/en/704661468756946826/pdf/ISR0Disclosabl011201201342025847820.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/704661468756946826/text/ISR0Disclosabl011201201342025847820.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0815512c3",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "704661468756946826",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/704661468756946826"
+    },
+    "D27532207": {
+      "id": "27532207",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Bah, Thierno"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 13"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084c25b89_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency,School Health",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR27172",
+      "docdt": "2017-06-01T04:00:00Z",
+      "datestored": "2017-06-01T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "efficiency of electricity"
+        },
+        "1": {
+          "keywd": "number of connections"
+        },
+        "2": {
+          "keywd": "Enterprise Resource Planning"
+        },
+        "3": {
+          "keywd": "national electricity company"
+        },
+        "4": {
+          "keywd": "distribution line"
+        },
+        "5": {
+          "keywd": "distribution loss"
+        },
+        "6": {
+          "keywd": "transmission line"
+        },
+        "7": {
+          "keywd": "protection program"
+        },
+        "8": {
+          "keywd": "commercial performance"
+        },
+        "9": {
+          "keywd": "solar lamps"
+        },
+        "10": {
+          "keywd": "interconnected grid"
+        },
+        "11": {
+          "keywd": "grant funding"
+        },
+        "12": {
+          "keywd": "peak load"
+        },
+        "13": {
+          "keywd": "investment loan"
+        },
+        "14": {
+          "keywd": "Energy"
+        },
+        "15": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 13"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 13",
+      "disclosure_date": "2017-06-01T22:28:02Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/694411496356084314/pdf/ISR-Disclosable-P108440-06-01-2017-1496356071930.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/694411496356084314/text/ISR-Disclosable-P108440-06-01-2017-1496356071930.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084c25b89",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "694411496356084314",
+      "origu": "Infra AFR Energy 2 (IAWE2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/694411496356084314"
+    },
+    "D24733252": {
+      "id": "24733252",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082fa71a0_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Electric Power,Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR20110",
+      "docdt": "2015-06-29T04:00:00Z",
+      "datestored": "2015-06-29T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "Access to Electricity"
+        },
+        "2": {
+          "keywd": "distribution line"
+        },
+        "3": {
+          "keywd": "transmission line"
+        },
+        "4": {
+          "keywd": "number of connections"
+        },
+        "5": {
+          "keywd": "efficiency of electricity"
+        },
+        "6": {
+          "keywd": "household connection"
+        },
+        "7": {
+          "keywd": "disbursement rate"
+        },
+        "8": {
+          "keywd": "public lighting"
+        },
+        "9": {
+          "keywd": "time average"
+        },
+        "10": {
+          "keywd": "household size"
+        },
+        "11": {
+          "keywd": "peak load"
+        },
+        "12": {
+          "keywd": "solar lamps"
+        },
+        "13": {
+          "keywd": "electricity connection"
+        },
+        "14": {
+          "keywd": "survey data"
+        },
+        "15": {
+          "keywd": "investment loan"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2015-06-30T01:59:19Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/300501468054600521/pdf/ISR-Disclosable-P108440-06-29-2015-1435629547835.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/300501468054600521/text/ISR-Disclosable-P108440-06-29-2015-1435629547835.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082fa71a0",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "300501468054600521",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/300501468054600521"
+    },
+    "D18579211": {
+      "id": "18579211",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Bertholet, Fabrice Karl"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0820da006_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Electric Power,Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR12248",
+      "docdt": "2013-11-29T05:00:00Z",
+      "datestored": "2013-11-29T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "transmission and distribution network"
+        },
+        "1": {
+          "keywd": "people in urban area"
+        },
+        "2": {
+          "keywd": "Access to Electricity"
+        },
+        "3": {
+          "keywd": "transmission line"
+        },
+        "4": {
+          "keywd": "distribution line"
+        },
+        "5": {
+          "keywd": "number of connections"
+        },
+        "6": {
+          "keywd": "efficiency of electricity"
+        },
+        "7": {
+          "keywd": "household connection"
+        },
+        "8": {
+          "keywd": "peak load"
+        },
+        "9": {
+          "keywd": "household size"
+        },
+        "10": {
+          "keywd": "time average"
+        },
+        "11": {
+          "keywd": "construction work"
+        },
+        "12": {
+          "keywd": "electricity connection"
+        },
+        "13": {
+          "keywd": "survey data"
+        },
+        "14": {
+          "keywd": "result indicator"
+        },
+        "15": {
+          "keywd": "financial agreement"
+        },
+        "16": {
+          "keywd": "solar lamps"
+        },
+        "17": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2013-11-29T18:47:22Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/971371468048868742/pdf/ISR-Disclosable-P108440-11-29-2013-1385750831211.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/971371468048868742/text/ISR-Disclosable-P108440-11-29-2013-1385750831211.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0820da006",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "971371468048868742",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/971371468048868742"
+    },
+    "D29536910": {
+      "id": "29536910",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Gbedey, Franklin Koffi S.W."
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Mali Energy Support Project - P108440 - Sequence No : 14"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0855b3322_1_0"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency,School Health",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR30649",
+      "docdt": "2018-01-25T05:00:00Z",
+      "datestored": "2018-01-25T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "efficiency of electricity"
+        },
+        "1": {
+          "keywd": "Investment Project Financing"
+        },
+        "2": {
+          "keywd": "Enterprise Resource Planning"
+        },
+        "3": {
+          "keywd": "number of connections"
+        },
+        "4": {
+          "keywd": "distribution line"
+        },
+        "5": {
+          "keywd": "solar lamps"
+        },
+        "6": {
+          "keywd": "peak load"
+        },
+        "7": {
+          "keywd": "distribution loss"
+        },
+        "8": {
+          "keywd": "interconnected grid"
+        },
+        "9": {
+          "keywd": "transmission line"
+        },
+        "10": {
+          "keywd": "Energy"
+        },
+        "11": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Mali Energy Support Project - P108440 - Sequence No : 14"
+      },
+      "display_title": "Disclosable Version of the ISR - Mali Energy Support Project - P108440 - Sequence No : 14",
+      "disclosure_date": "2018-01-25T20:25:27Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/611571516911928531/pdf/Disclosable-Version-of-the-ISR-Mali-Energy-Support-Project-P108440-Sequence-No-14.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/611571516911928531/text/Disclosable-Version-of-the-ISR-Mali-Energy-Support-Project-P108440-Sequence-No-14.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0855b3322",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "611571516911928531",
+      "origu": "Infra AFR Energy 2 (IAWE2)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/611571516911928531"
+    },
+    "D15576398": {
+      "id": "15576398",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Bertholet, Fabrice Karl"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011122308212098"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Electric Power,Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "repnb": "ISR4629",
+      "docdt": "2011-12-23T05:00:00Z",
+      "datestored": "2011-12-23T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "efficiency of electricity"
+        },
+        "2": {
+          "keywd": "Access to Electricity"
+        },
+        "3": {
+          "keywd": "household connection"
+        },
+        "4": {
+          "keywd": "distribution network"
+        },
+        "5": {
+          "keywd": "interconnected grid"
+        },
+        "6": {
+          "keywd": "peak load"
+        },
+        "7": {
+          "keywd": "efficient lamp"
+        },
+        "8": {
+          "keywd": "promotional campaign"
+        },
+        "9": {
+          "keywd": "financial agreement"
+        },
+        "10": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 04",
+      "pdfurl": "http://documents.worldbank.org/curated/en/643801468772188426/pdf/P1084400ISR0Di023201101324646479058.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/643801468772188426/text/P1084400ISR0Di023201101324646479058.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08117ae76",
+      "totvolnb": "1",
+      "projectid": "P108440",
+      "guid": "643801468772188426",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/643801468772188426"
+    },
+    "D13973061": {
+      "id": "13973061",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Bertholet, Fabrice Karl"
+        }
+      },
+      "count": "Mali",
+      "docna": {
+        "0": {
+          "docna": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "ML-Mali Energy Support Project -- P108440",
+      "subsc": "FY17 - Other Energy and Extractives,FY17 - Energy Transmission and Distribution,FY17 - Public Administration - Energy and Extractives",
+      "theme": "FY17 - Job Creation,FY17 - Biodiversity,FY17 - Services and Housing for the Poor,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Renewable Natural Resources Asset Management,FY17 - Rural Infrastructure and service delivery,FY17 - Land Administration and Management,FY17 - Landscape Management",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011032808301061"
+      },
+      "majtheme": "FY17 - Environment and Natural Resource Management,FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Electric Power,Energy Conservation & Efficiency,Energy Consumption,Energy Demand,Energy Policies & Economics,Energy and Environment,Energy and Mining,Environment and Energy Efficiency",
+      "sectr": {
+        "0": {
+          "sector": "Energy and Extractives"
+        }
+      },
+      "docdt": "2011-03-28T04:00:00Z",
+      "datestored": "2011-03-28T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Electricity"
+        },
+        "1": {
+          "keywd": "efficiency of electricity"
+        },
+        "2": {
+          "keywd": "people in urban area"
+        },
+        "3": {
+          "keywd": "Access to Electricity"
+        },
+        "4": {
+          "keywd": "distribution network"
+        },
+        "5": {
+          "keywd": "financial agreement"
+        },
+        "6": {
+          "keywd": "household connection"
+        },
+        "7": {
+          "keywd": "public lighting"
+        },
+        "8": {
+          "keywd": "efficient lamp"
+        },
+        "9": {
+          "keywd": "Energy"
+        },
+        "10": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Mali - Mali Energy Support Project : P108440 - Implementation Status Results Report : Sequence 03",
+      "disclosure_date": "2011-03-28T04:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/958311468753368338/pdf/P1084400ISR0Di028201101301315410005.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/958311468753368338/text/P1084400ISR0Di028201101301315410005.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b080a76428",
+      "projectid": "P108440",
+      "guid": "958311468753368338",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/958311468753368338"
+    },
+    "facets": {}
+  }
+}

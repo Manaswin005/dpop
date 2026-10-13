@@ -1,0 +1,31 @@
+Project ID,Region,Country Name,Sector Board,Agreement Type,Lending Instrument Type,Lending Instrument,Product Line Code,Approval FY,Lending Project Cost,lending_cost_reported,outcome_class,Approval Date,Deactivation Date,IEG_EvalDate
+P100635,LCR,OECS Countries,Global Information/Communications Technology,IDA,IPF,APL,PE,2008.0,7200000.0,1,Partially Successful,5/27/2008,2/28/2014,6/28/2016
+P100968,EAP,China,Energy and Mining,IBRD,IPF,IPF,PE,2009.0,204300000.0,1,Partially Successful,5/19/2009,6/30/2017,12/14/2018
+P101614,ECA,Kosovo,Public Sector Governance,IDA,IPF,SIL,PE,2010.0,8000000.0,1,Partially Successful,2/4/2010,12/31/2016,1/23/2018
+P106752,LCR,Argentina,Financial and Private Sector Development,IBRD,IPF,IPF,PE,2009.0,230000000.0,1,Partially Successful,9/25/2008,9/25/2019,6/22/2020
+P108440,AFR,Mali,Agriculture and Rural Development,IDA,IPF,IPF,PE,2009.0,120000000.0,1,Partially Successful,6/18/2009,6/30/2018,5/6/2020
+P113027,AFR,Cameroon,Poverty Reduction,IDA,IPF,APL,PE,2009.0,103000000.0,1,Partially Successful,6/18/2009,11/30/2013,2/25/2015
+P113337,MNA,Iraq,Financial and Private Sector Development,RETF,IPF,ERL,RE,2009.0,10000000.0,1,Partially Successful,4/14/2009,6/30/2013,2/9/2015
+P116783,AFR,Senegal,Education,RETF,IPF,SIL,RE,2010.0,81500000.0,1,Partially Successful,7/9/2009,9/30/2014,3/8/2016
+P117443,MNA,West Bank and Gaza,Water,SPF,IPF,IPF,SF,2011.0,3000000.0,1,Partially Successful,3/31/2011,12/31/2017,9/21/2018
+P118560,MNA,West Bank and Gaza,Financial and Private Sector Development,SPF,IPF,TAL,SF,2010.0,3700000.0,1,Partially Successful,6/24/2010,6/29/2016,6/16/2017
+P121328,SAR,Sri Lanka,Financial and Private Sector Development,IDA,IPF,FIL,PE,2011.0,57400000.0,1,Partially Successful,9/7/2010,9/30/2015,10/17/2016
+P123128,LCR,Grenada,Social Protection,IDA,IPF,IPF,PE,2012.0,5000000.0,1,Partially Successful,7/5/2011,9/30/2018,10/28/2019
+P123673,AFR,Senegal,Education,IDA,IPF,IPF,PE,2011.0,127300000.0,1,Partially Successful,5/26/2011,12/30/2018,1/28/2020
+P126033,ECA,Georgia,Urban Development,IBRD,IPF,IPF,PE,2012.0,75000000.0,1,Partially Successful,3/20/2012,12/31/2017,9/21/2018
+P126364,LCR,El Salvador,Education,IBRD,IPF,IPF,PE,2012.0,70400000.0,1,Partially Successful,12/13/2011,12/31/2018,2/24/2020
+P127319,AFR,Liberia,Financial Management,IDA,IPF,TAL,PE,2012.0,28549000.0,1,Partially Successful,12/15/2011,6/30/2017,4/25/2018
+P132101,AFR,Madagascar,Transport,IDA,IPF,IPF,PE,2013.0,102000000.0,1,Partially Successful,11/29/2012,6/30/2018,43712
+P105404,MNA,West Bank and Gaza,Urban Development,SPF,IPF,SIL,SF,2009.0,20000000.0,1,Successful,5/14/2009,6/30/2016,5/22/2017
+P106589,LCR,Mexico,Global Information/Communications Technology,IBRD,IPF,SIL,PE,2009.0,80000000.0,1,Successful,7/10/2008,12/31/2015,11/29/2016
+P111545,AFR,Kenya,Social Protection,IDA,IPF,IPF,PE,2009.0,126000000.0,1,Successful,3/31/2009,6/30/1979,1/10/2020
+P112033,SAR,India,Agriculture and Rural Development,IDA,IPF,IPF,PE,2009.0,272000000.0,1,Successful,6/30/2009,12/29/2018,10/22/2019
+P113184,EAP,Tonga,Global Information/Communications Technology,IDA,IPF,IPF,PE,2012.0,34000000.0,1,Successful,8/30/2011,7/23/2018,6/14/2019
+P118540,LCR,Brazil,Agriculture and Rural Development,IBRD,IPF,IPF,PE,2011.0,180000000.0,1,Successful,9/2/2010,6/30/2017,6/15/2018
+P120909,EAP,Lao People's Democratic Republic,Agriculture and Rural Development,IDA,IPF,ERL,PE,2010.0,14970000.0,1,Successful,4/27/2010,12/31/2014,11/18/2015
+P123457,SAR,Bangladesh,Agriculture and Rural Development,RETF,IPF,SIL,RE,2012.0,63550000.0,1,Successful,8/15/2011,12/31/2016,9/25/2017
+P131709,LCR,Mexico,Environment,GEF,IPF,IPF,GE,2014.0,,0,Successful,11/21/2013,6/28/2019,43995
+P144447,SAR,India,Education,IDA,IPF,IPF,PE,2014.0,29833300000.0,1,Successful,5/16/2014,2/28/2018,43469
+P107843,LCR,Brazil,"Health, Nutrition and Population",IBRD,IPF,SIL,PE,2009.0,400000000.0,1,Unsuccessful,4/9/2009,12/31/2012,8/27/2013
+P126576,AFR,Chad,Agriculture and Rural Development,IDA,IPF,ERL,PE,2012.0,29629600.0,1,Unsuccessful,5/17/2012,6/30/2017,4/13/2018
+P126791,LCR,Antigua and Barbuda,Social Protection,IBRD,IPF,SIL,PE,2013.0,10000000.0,1,Unsuccessful,6/5/2013,9/30/2017,11/26/2018

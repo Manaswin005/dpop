@@ -1,0 +1,937 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 10,
+  "documents": {
+    "D19349240": {
+      "id": "19349240",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Forero Ramirez, Henry"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0823aa55e_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Biotechnology,General Technology,Information Technology,Innovation,Labor Markets,Science Education,Science Mathematics and Technology,Science Policies,Scientific Information & Communications Technologies,Scientific Research & Science Parks,Skills Development and Labor Force Training,Technology Industry,Technology Innovation",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "repnb": "ISR13782",
+      "docdt": "2014-04-05T04:00:00Z",
+      "datestored": "2014-04-05T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "disbursement rate"
+        },
+        "1": {
+          "keywd": "information technology development"
+        },
+        "2": {
+          "keywd": "law and regulation"
+        },
+        "3": {
+          "keywd": "capacity building training"
+        },
+        "4": {
+          "keywd": "international good practice"
+        },
+        "5": {
+          "keywd": "global market"
+        },
+        "6": {
+          "keywd": "multinational corporation"
+        },
+        "7": {
+          "keywd": "private debt"
+        },
+        "8": {
+          "keywd": "certified company"
+        },
+        "9": {
+          "keywd": "financial system"
+        },
+        "10": {
+          "keywd": "government entity"
+        },
+        "11": {
+          "keywd": "financial agreement"
+        },
+        "12": {
+          "keywd": "alternative strategy"
+        },
+        "13": {
+          "keywd": "public official"
+        },
+        "14": {
+          "keywd": "borrower's territory"
+        },
+        "15": {
+          "keywd": "public-private partnership"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 12"
+      },
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 12",
+      "disclosure_date": "2014-04-06T00:17:53Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/909471468280749750/pdf/ISR-Disclosable-P106589-04-05-2014-1396743462811.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/909471468280749750/text/ISR-Disclosable-P106589-04-05-2014-1396743462811.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0823aa55e",
+      "totvolnb": "1",
+      "projectid": "P106589",
+      "guid": "909471468280749750",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/909471468280749750"
+    },
+    "D17136905": {
+      "id": "17136905",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Forero Ramirez, Henry"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0818555c9_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Biotechnology,General Technology,Information Technology,Innovation,Labor Markets,Science Education,Science Mathematics and Technology,Science Policies,Scientific Information & Communications Technologies,Scientific Research & Science Parks,Skills Development and Labor Force Training,Technology Industry,Technology Innovation",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "repnb": "ISR8984",
+      "docdt": "2013-01-02T05:00:00Z",
+      "datestored": "2013-01-02T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "information technology development"
+        },
+        "1": {
+          "keywd": "financial system"
+        },
+        "2": {
+          "keywd": "private debt"
+        },
+        "3": {
+          "keywd": "multinational corporation"
+        },
+        "4": {
+          "keywd": "global market"
+        },
+        "5": {
+          "keywd": "borrower's territory"
+        },
+        "6": {
+          "keywd": "alternative strategy"
+        },
+        "7": {
+          "keywd": "financial agreement"
+        },
+        "8": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2013-01-02T14:45:24Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/982471468056394788/pdf/ISR-Disclosable-P106589-01022013-1357137923999.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/982471468056394788/text/ISR-Disclosable-P106589-01022013-1357137923999.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0818555c9",
+      "totvolnb": "1",
+      "projectid": "P106589",
+      "guid": "982471468056394788",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/982471468056394788"
+    },
+    "D23029090": {
+      "id": "23029090",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Muente Kunigami, Arturo"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 13"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08291298d_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Biotechnology,General Technology,Information Technology,Innovation,Judicial System Reform,Legal Products,Legal Reform,Legislation,Regulatory Regimes,Science Education,Science Mathematics and Technology,Science Policies,Scientific Information & Communications Technologies,Scientific Research & Science Parks,Skills Development and Labor Force Training,Social Policy,Technology Industry,Technology Innovation",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "repnb": "ISR16692",
+      "docdt": "2014-12-16T05:00:00Z",
+      "datestored": "2014-12-16T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "international good practice"
+        },
+        "1": {
+          "keywd": "information technology development"
+        },
+        "2": {
+          "keywd": "law and regulation"
+        },
+        "3": {
+          "keywd": "government entity"
+        },
+        "4": {
+          "keywd": "certified company"
+        },
+        "5": {
+          "keywd": "financial system"
+        },
+        "6": {
+          "keywd": "disbursement rate"
+        },
+        "7": {
+          "keywd": "global companies"
+        },
+        "8": {
+          "keywd": "human skill"
+        },
+        "9": {
+          "keywd": "public official"
+        },
+        "10": {
+          "keywd": "financial agreement"
+        },
+        "11": {
+          "keywd": "public-private partnership"
+        },
+        "12": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 13"
+      },
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 13",
+      "disclosure_date": "2014-12-16T05:44:03Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/363561468273698992/pdf/ISR-Disclosable-P106589-12-16-2014-1418708634295.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/363561468273698992/text/ISR-Disclosable-P106589-12-16-2014-1418708634295.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08291298d",
+      "totvolnb": "1",
+      "projectid": "P106589",
+      "guid": "363561468273698992",
+      "origu": "Transport Global Practice (GTRTR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/363561468273698992"
+    },
+    "D17989896": {
+      "id": "17989896",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Forero Ramirez, Henry"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081d0f2b4_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Biotechnology,General Technology,Information Technology,Innovation,Labor Markets,Science Education,Science Mathematics and Technology,Science Policies,Scientific Information & Communications Technologies,Scientific Research & Science Parks,Skills Development and Labor Force Training,Technology Industry,Technology Innovation",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "repnb": "ISR11083",
+      "docdt": "2013-07-10T04:00:00Z",
+      "datestored": "2013-07-10T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "information technology development"
+        },
+        "1": {
+          "keywd": "law and regulation"
+        },
+        "2": {
+          "keywd": "private debt"
+        },
+        "3": {
+          "keywd": "multinational corporation"
+        },
+        "4": {
+          "keywd": "global market"
+        },
+        "5": {
+          "keywd": "borrower's territory"
+        },
+        "6": {
+          "keywd": "alternative strategy"
+        },
+        "7": {
+          "keywd": "financial agreement"
+        },
+        "8": {
+          "keywd": "financial system"
+        },
+        "9": {
+          "keywd": "public-private partnership"
+        },
+        "10": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2013-07-10T21:16:21Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/521041468271561635/pdf/ISR-Disclosable-P106589-07-10-2013-1373490973757.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/521041468271561635/text/ISR-Disclosable-P106589-07-10-2013-1373490973757.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081d0f2b4",
+      "totvolnb": "1",
+      "projectid": "P106589",
+      "guid": "521041468271561635",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/521041468271561635"
+    },
+    "D24806783": {
+      "id": "24806783",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Muente Kunigami, Arturo"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 14"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b083011a3e_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Information Technology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Regulatory Regimes,Skills Development and Labor Force Training,Social Policy,Transport Services",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "repnb": "ISR19821",
+      "docdt": "2015-07-20T04:00:00Z",
+      "datestored": "2015-07-20T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "capacity building training"
+        },
+        "1": {
+          "keywd": "Transport and ICT"
+        },
+        "2": {
+          "keywd": "law and regulation"
+        },
+        "3": {
+          "keywd": "government entity"
+        },
+        "4": {
+          "keywd": "target indicator"
+        },
+        "5": {
+          "keywd": "certified company"
+        },
+        "6": {
+          "keywd": "banking system"
+        },
+        "7": {
+          "keywd": "disbursement rate"
+        },
+        "8": {
+          "keywd": "global companies"
+        },
+        "9": {
+          "keywd": "human skill"
+        },
+        "10": {
+          "keywd": "financial system"
+        },
+        "11": {
+          "keywd": "investment loan"
+        },
+        "12": {
+          "keywd": "public official"
+        },
+        "13": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 14"
+      },
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 14",
+      "disclosure_date": "2015-07-21T02:42:33Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/773711468057232681/pdf/ISR-Disclosable-P106589-07-20-2015-1437446543543.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/773711468057232681/text/ISR-Disclosable-P106589-07-20-2015-1437446543543.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b083011a3e",
+      "totvolnb": "1",
+      "projectid": "P106589",
+      "guid": "773711468057232681",
+      "origu": "Transport Global Practice (GTRTR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/773711468057232681"
+    },
+    "D25738630": {
+      "id": "25738630",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Muente Kunigami, Arturo"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 15"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084010295_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Information Technology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Regulatory Regimes,Skills Development and Labor Force Training,Social Policy,Transport Services",
+      "teratopic": "Governance,Information and Communication Technologies,Law and Development,Public Sector Development,Social Development,Social Protections and Labor,Transport",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "repnb": "ISR22287",
+      "docdt": "2016-01-05T05:00:00Z",
+      "datestored": "2016-01-05T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "capacity building training"
+        },
+        "1": {
+          "keywd": "law and regulation"
+        },
+        "2": {
+          "keywd": "Transport and ICT"
+        },
+        "3": {
+          "keywd": "human skill"
+        },
+        "4": {
+          "keywd": "financial system"
+        },
+        "5": {
+          "keywd": "global companies"
+        },
+        "6": {
+          "keywd": "investment loan"
+        },
+        "7": {
+          "keywd": "public official"
+        },
+        "8": {
+          "keywd": "government entity"
+        },
+        "9": {
+          "keywd": "banking system"
+        },
+        "10": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 15"
+      },
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 15",
+      "disclosure_date": "2016-01-05T19:22:37Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/171501468273700873/pdf/Mexico-Information-Technology-Development-P106589-Implementation-Status-Results-Report-Sequence-15.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/171501468273700873/text/Mexico-Information-Technology-Development-P106589-Implementation-Status-Results-Report-Sequence-15.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084010295",
+      "totvolnb": "1",
+      "historic_topic": "Governance,Information and Communication Technologies,Law and Development,Public Sector Development,Social Development,Social Protections and Labor,Transport",
+      "projectid": "P106589",
+      "guid": "171501468273700873",
+      "origu": "GTI09 - GTIDR  ICT - ECA/EAP/LCR/SAR",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/171501468273700873"
+    },
+    "D15949131": {
+      "id": "15949131",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Forero Ramirez, Henry"
+        },
+        "1": {
+          "author": "Henry"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012031910322231"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Information Technology,Judicial System Reform,Labor Markets,Legal Products,Legal Reform,Legislation,Regulatory Regimes,Skills Development and Labor Force Training,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "repnb": "ISR6115",
+      "docdt": "2012-03-19T04:00:00Z",
+      "datestored": "2012-03-19T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "information technology development"
+        },
+        "1": {
+          "keywd": "financial agreement"
+        },
+        "2": {
+          "keywd": "financial system"
+        },
+        "3": {
+          "keywd": "human skill"
+        },
+        "4": {
+          "keywd": "global companies"
+        },
+        "5": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 08",
+      "pdfurl": "http://documents.worldbank.org/curated/en/217581468757250530/pdf/P1065890ISR0Di019201201332167541085.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/217581468757250530/text/P1065890ISR0Di019201201332167541085.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0812f33ee",
+      "totvolnb": "1",
+      "projectid": "P106589",
+      "guid": "217581468757250530",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/217581468757250530"
+    },
+    "D16335020": {
+      "id": "16335020",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Forero Ramirez, Henry"
+        },
+        "1": {
+          "author": "Henry"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012060519384120"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Biotechnology,General Technology,Information Technology,Innovation,Labor Markets,Science Education,Science Mathematics and Technology,Science Policies,Scientific Information & Communications Technologies,Scientific Research & Science Parks,Skills Development and Labor Force Training,Technology Industry,Technology Innovation",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "repnb": "ISR6604",
+      "docdt": "2012-06-05T04:00:00Z",
+      "datestored": "2012-06-05T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "information technology development"
+        },
+        "1": {
+          "keywd": "global market"
+        },
+        "2": {
+          "keywd": "financial system"
+        },
+        "3": {
+          "keywd": "borrower's territory"
+        },
+        "4": {
+          "keywd": "alternative strategy"
+        },
+        "5": {
+          "keywd": "multinational corporation"
+        },
+        "6": {
+          "keywd": "financial agreement"
+        },
+        "7": {
+          "keywd": "private debt"
+        },
+        "8": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 09",
+      "pdfurl": "http://documents.worldbank.org/curated/en/795021468773077002/pdf/ISR0Disclosabl005201201338939520425.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/795021468773077002/text/ISR0Disclosabl005201201338939520425.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08147c793",
+      "totvolnb": "1",
+      "projectid": "P106589",
+      "guid": "795021468773077002",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/795021468773077002"
+    },
+    "D13835158": {
+      "id": "13835158",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Forero Ramirez, Henry"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011022613565658"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Information Technology,Judicial System Reform,Labor Markets,Legal Products,Legal Reform,Legislation,Regulatory Regimes,Skills Development and Labor Force Training,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "docdt": "2011-02-26T05:00:00Z",
+      "datestored": "2011-02-26T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "information technology development"
+        },
+        "1": {
+          "keywd": "financial system"
+        },
+        "2": {
+          "keywd": "global companies"
+        },
+        "3": {
+          "keywd": "human skill"
+        },
+        "4": {
+          "keywd": "financial agreement"
+        },
+        "5": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2011-02-26T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/261831468773077330/pdf/P1065890ISR0Di022620111298746615324.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/261831468773077330/text/P1065890ISR0Di022620111298746615324.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b080d693a5",
+      "projectid": "P106589",
+      "guid": "261831468773077330",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/261831468773077330"
+    },
+    "D14692797": {
+      "id": "14692797",
+      "admreg": "Latin America and Caribbean",
+      "authors": {
+        "0": {
+          "author": "Forero Ramirez, Henry"
+        }
+      },
+      "count": "Mexico",
+      "docna": {
+        "0": {
+          "docna": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "MX-Information Technology Development -- P106589",
+      "subsc": "FY17 - Other Information and Communications Technologies,FY17 - ICT Services,FY17 - Public Administration - Information and Communications Technologies",
+      "theme": "FY17 - Enterprise Development,FY17 - Financial Sector oversight and policy/banking regulation & restructuring,FY17 - Financial Infrastructure and Access,FY17 - MSME Finance,FY17 - Jobs,FY17 - Investment and Business Climate,FY17 - Financial Stability,FY17 - MSME Development,FY17 - Business Enabling Environment",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011073116381797"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Finance",
+      "subtopic": "Information Technology,Judicial System Reform,Labor Markets,Legal Products,Legal Reform,Legislation,Regulatory Regimes,Skills Development and Labor Force Training,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Information and Communications Technologies"
+        }
+      },
+      "docdt": "2011-07-31T04:00:00Z",
+      "datestored": "2011-07-31T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "human skill"
+        },
+        "1": {
+          "keywd": "information technology development"
+        },
+        "2": {
+          "keywd": "financial system"
+        },
+        "3": {
+          "keywd": "multinational company"
+        },
+        "4": {
+          "keywd": "multinational companies"
+        },
+        "5": {
+          "keywd": "global companies"
+        },
+        "6": {
+          "keywd": "financial agreement"
+        },
+        "7": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Mexico - Information Technology Development : P106589 - Implementation Status Results Report : Sequence 07",
+      "pdfurl": "http://documents.worldbank.org/curated/en/837971468773078728/pdf/P1065890ISR0Di031201101312144696646.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/837971468773078728/text/P1065890ISR0Di031201101312144696646.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b080e85014",
+      "projectid": "P106589",
+      "guid": "837971468773078728",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/837971468773078728"
+    },
+    "facets": {}
+  }
+}

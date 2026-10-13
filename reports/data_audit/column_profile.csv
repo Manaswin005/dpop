@@ -1,0 +1,36 @@
+column,dtype,n_missing,n_unique,top_value,top_value_share,suspected_fill_value
+Project ID,object,0,10899,P077452,0.0002,False
+Project Name,object,0,9275,EDUCATION II,0.0053,False
+Region,object,0,9,LCR,0.1972,False
+Country Code,object,0,181,IN,0.0455,False
+Country Name,object,0,182,India,0.0452,False
+Approval Date,object,0,3340,12/15/2005,0.0036,False
+Approval FY,float64,0,64,1998.0,0.0282,False
+Sector Board,object,0,28,Agriculture and Rural Development,0.2243,False
+Agreement Type,object,0,9,IBRD,0.4855,False
+Lending Project Cost,float64,0,2731,55700000.0,0.4267,True
+Net Commitment,float64,0,3951,30000000.0,0.0857,False
+Deactivation Date,object,0,1696,6/30/1979,0.0225,False
+Exit FY,float64,0,57,2012.0,0.0294,False
+Lending Instrument Type,object,0,3,IPF,0.8546,False
+Lending Instrument,object,0,17,SIL,0.5196,False
+Product Line Code,object,0,11,PE,0.9398,False
+Product Line,object,0,11,IBRD/IDA,0.9398,False
+IEG_EvalDate,object,0,4654,12/29/1995,0.0069,False
+IEG_EvalFY,float64,0,49,2015.0,0.0347,False
+IEG_EvalType,object,0,7,ES,0.4875,False
+ERR at Appraisal,float64,0,450,21.0,0.6584,True
+ERR at Completion,float64,0,502,17.0,0.6988,True
+IEG_Outcome,object,0,9,Satisfactory,0.4702,False
+(disc)IEG_IDImpact,object,0,7,MODEST,0.555,False
+IEG_BankQualityAtEntry,object,0,8,SATISFACTORY,0.321,False
+IEG_BankQualityOfSupervision,object,0,10,SATISFACTORY,0.457,False
+IEG_OverallBankPerf,object,0,9,NOT RATED,0.3857,False
+(disc)IEG_BorrPrep,object,0,9,NOT RATED,0.7044,False
+IEG_ImplementingAgencyPerf,object,0,10,SATISFACTORY,0.3809,False
+IEG_GovernmentPerf,object,0,9,SATISFACTORY,0.3916,False
+IEG_OverallBorrPerf,object,0,9,NOT RATED,0.4262,False
+IEG_ICRQuality,object,0,11,NOT RATED,0.4606,False
+(disc)IEG_Sustainability,object,0,8,LIKELY,0.5951,False
+IEG_MEQuality,object,0,6,MODEST,0.8451,False
+IEG_SourceDocumentURL,object,0,5198,{'url': 'http://lnweb90.worldbank.org/oed/oeddoclib.nsf/DocUNIDViewForJavaSearch/22E6E2DFB8E9CC9B85257BB1006D737F/$FILE/PPAR-78188-P074072_Tanzania_PRSCs_1-8.pdf'},0.5728,False

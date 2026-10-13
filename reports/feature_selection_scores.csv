@@ -1,0 +1,11 @@
+feature,type,n_levels,mutual_info,chi2_p_value,decision,reason
+Approval FY,numerical,63,0.1634,0.0,KEEP,
+Lending Project Cost,numerical,2273,0.1163,3.0188999834905956e-149,KEEP,
+lending_cost_reported,numerical,2,0.1086,0.0,KEEP,
+Country Name,categorical,179,0.084,1.4913561354270183e-118,KEEP,
+Lending Instrument,categorical,17,0.048,4.637245728615957e-146,KEEP,
+Sector Board,categorical,27,0.0416,2.2482000003607503e-112,KEEP,
+Agreement Type,categorical,9,0.0224,4.1887953222133126e-73,KEEP,
+Region,categorical,7,0.0165,7.88453994652298e-53,DROP,redundant with Country Name (Cramér's V=1.00)
+Product Line Code,categorical,10,0.0124,4.705873632367989e-37,DROP,redundant with Agreement Type (Cramér's V=0.94)
+Lending Instrument Type,categorical,3,0.0066,5.486544257075694e-24,DROP,redundant with Lending Instrument (Cramér's V=1.00)

@@ -1,0 +1,1460 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 10,
+  "documents": {
+    "D17506871": {
+      "id": "17506871",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Eiweida, Ahmed A. R."
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081a32322_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,Cultural Heritage & Preservation,Cultural Heritage & Urban Revitalization,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Hydrology,Inter-Urban Roads and Passenger Transport,Literature & Folklore,Roads & Highways,Roads and Highways Performance,Transport in Urban Areas,Urban Transport",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR7088",
+      "docdt": "2013-03-30T04:00:00Z",
+      "datestored": "2013-03-30T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "subproject appraisal"
+        },
+        "2": {
+          "keywd": "points of sale"
+        },
+        "3": {
+          "keywd": "development of tourism"
+        },
+        "4": {
+          "keywd": "weighted average"
+        },
+        "5": {
+          "keywd": "culture heritage"
+        },
+        "6": {
+          "keywd": "urban regeneration"
+        },
+        "7": {
+          "keywd": "household water"
+        },
+        "8": {
+          "keywd": "financial agreement"
+        },
+        "9": {
+          "keywd": "private investment"
+        },
+        "10": {
+          "keywd": "infrastructure needs"
+        },
+        "11": {
+          "keywd": "investment proposal"
+        },
+        "12": {
+          "keywd": "investment amount"
+        },
+        "13": {
+          "keywd": "urban roads"
+        },
+        "14": {
+          "keywd": "vehicle operating"
+        },
+        "15": {
+          "keywd": "piped water"
+        },
+        "16": {
+          "keywd": "Cultural Heritage"
+        },
+        "17": {
+          "keywd": "infrastructure service"
+        },
+        "18": {
+          "keywd": "retroactive financing"
+        },
+        "19": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 01"
+      },
+      "display_title": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 01",
+      "disclosure_date": "2013-03-30T15:20:26Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/547931468024332305/pdf/ISR-Disclosable-P126033-03-30-2013-1364656819598.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/547931468024332305/text/ISR-Disclosable-P126033-03-30-2013-1364656819598.txt",
+      "EnvironmentalCategory": "F",
+      "chronical_docm_id": "090224b081a32322",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "547931468024332305",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/547931468024332305"
+    },
+    "D23977723": {
+      "id": "23977723",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082a7e4dd_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,City to City Alliances,Cultural Heritage & Preservation,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Hydrology,Inter-Urban Roads and Passenger Transport,Literature & Folklore,National Urban Development Policies & Strategies,Regional Urban Development,Roads & Highways,Roads and Highways Performance,Transport in Urban Areas,Urban Communities,Urban Economic Development,Urban Economics,Urban Transport",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR16295",
+      "docdt": "2015-02-09T05:00:00Z",
+      "datestored": "2015-02-09T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "vehicle operating cost"
+        },
+        "2": {
+          "keywd": "quality of supervision"
+        },
+        "3": {
+          "keywd": "points of sale"
+        },
+        "4": {
+          "keywd": "development of tourism"
+        },
+        "5": {
+          "keywd": "culture heritage"
+        },
+        "6": {
+          "keywd": "weighted average"
+        },
+        "7": {
+          "keywd": "Cultural Heritage"
+        },
+        "8": {
+          "keywd": "private investment"
+        },
+        "9": {
+          "keywd": "resident population"
+        },
+        "10": {
+          "keywd": "piped water"
+        },
+        "11": {
+          "keywd": "urban development"
+        },
+        "12": {
+          "keywd": "permanent job"
+        },
+        "13": {
+          "keywd": "urban roads"
+        },
+        "14": {
+          "keywd": "investment loan"
+        },
+        "15": {
+          "keywd": "souvenir shops"
+        },
+        "16": {
+          "keywd": "infrastructure service"
+        },
+        "17": {
+          "keywd": "household water"
+        },
+        "18": {
+          "keywd": "reorganization process"
+        },
+        "19": {
+          "keywd": "contract management"
+        },
+        "20": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2015-02-09T22:44:25Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/934041468029959246/pdf/ISR-Disclosable-P126033-02-09-2015-1423521849761.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/934041468029959246/text/ISR-Disclosable-P126033-02-09-2015-1423521849761.txt",
+      "EnvironmentalCategory": "F",
+      "chronical_docm_id": "090224b082a7e4dd",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "934041468029959246",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/934041468029959246"
+    },
+    "D18668597": {
+      "id": "18668597",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Eiweida, Ahmed A. R."
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0821450d3_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,Business Cycles and Stabilization Policies,Common Carriers Industry,Cultural Heritage & Preservation,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Food & Beverage Industry,Hydrology,Literature & Folklore,Marketing,Plastics & Rubber Industry,Private Sector Development Law,Private Sector Economics,Pulp & Paper Industry",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR11256",
+      "docdt": "2013-12-17T05:00:00Z",
+      "datestored": "2013-12-17T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "cultural heritage site"
+        },
+        "1": {
+          "keywd": "people in urban area"
+        },
+        "2": {
+          "keywd": "culture heritage"
+        },
+        "3": {
+          "keywd": "weighted average"
+        },
+        "4": {
+          "keywd": "private investment"
+        },
+        "5": {
+          "keywd": "quality of supervision"
+        },
+        "6": {
+          "keywd": "Environmental Management Plan"
+        },
+        "7": {
+          "keywd": "points of sale"
+        },
+        "8": {
+          "keywd": "development of tourism"
+        },
+        "9": {
+          "keywd": "historic city core"
+        },
+        "10": {
+          "keywd": "Environmental Assessment"
+        },
+        "11": {
+          "keywd": "construction waste"
+        },
+        "12": {
+          "keywd": "main road"
+        },
+        "13": {
+          "keywd": "financial agreement"
+        },
+        "14": {
+          "keywd": "infrastructure service"
+        },
+        "15": {
+          "keywd": "public space"
+        },
+        "16": {
+          "keywd": "household water"
+        },
+        "17": {
+          "keywd": "public park"
+        },
+        "18": {
+          "keywd": "public building"
+        },
+        "19": {
+          "keywd": "conservation work"
+        },
+        "20": {
+          "keywd": "vernacular architecture"
+        },
+        "21": {
+          "keywd": "involuntary resettlement"
+        },
+        "22": {
+          "keywd": "access road"
+        },
+        "23": {
+          "keywd": "public toilet"
+        },
+        "24": {
+          "keywd": "urban landscape"
+        },
+        "25": {
+          "keywd": "urban regeneration"
+        },
+        "26": {
+          "keywd": "tourism facilities"
+        },
+        "27": {
+          "keywd": "conservation plan"
+        },
+        "28": {
+          "keywd": "investment amount"
+        },
+        "29": {
+          "keywd": "piped water"
+        },
+        "30": {
+          "keywd": "contract management"
+        },
+        "31": {
+          "keywd": "urban roads"
+        },
+        "32": {
+          "keywd": "vehicle operating"
+        },
+        "33": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 02"
+      },
+      "display_title": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 02",
+      "disclosure_date": "2013-12-17T15:49:44Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/269891468251130856/pdf/ISR-Disclosable-P126033-12-17-2013-1387295372810.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/269891468251130856/text/ISR-Disclosable-P126033-12-17-2013-1387295372810.txt",
+      "EnvironmentalCategory": "F",
+      "chronical_docm_id": "090224b0821450d3",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "269891468251130856",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/269891468251130856"
+    },
+    "D24957338": {
+      "id": "24957338",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Eiweida, Ahmed A. R."
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08309cab9_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,Cultural Heritage & Preservation,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Hydrology,Infrastructure Economics,Infrastructure Finance,Infrastructure Regulation,Infrastructure and Law,Literature & Folklore",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR20169",
+      "docdt": "2015-08-26T04:00:00Z",
+      "datestored": "2015-08-26T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "historic city core"
+        },
+        "2": {
+          "keywd": "vehicle operating cost"
+        },
+        "3": {
+          "keywd": "development of tourism"
+        },
+        "4": {
+          "keywd": "points of sale"
+        },
+        "5": {
+          "keywd": "weighted average"
+        },
+        "6": {
+          "keywd": "private investment"
+        },
+        "7": {
+          "keywd": "culture heritage"
+        },
+        "8": {
+          "keywd": "Cultural Heritage"
+        },
+        "9": {
+          "keywd": "household water"
+        },
+        "10": {
+          "keywd": "piped water"
+        },
+        "11": {
+          "keywd": "site management"
+        },
+        "12": {
+          "keywd": "souvenir shops"
+        },
+        "13": {
+          "keywd": "evaluation activity"
+        },
+        "14": {
+          "keywd": "skilled workforce"
+        },
+        "15": {
+          "keywd": "destination management"
+        },
+        "16": {
+          "keywd": "urban roads"
+        },
+        "17": {
+          "keywd": "public space"
+        },
+        "18": {
+          "keywd": "public park"
+        },
+        "19": {
+          "keywd": "infrastructure service"
+        },
+        "20": {
+          "keywd": "civil works"
+        },
+        "21": {
+          "keywd": "heritage village"
+        },
+        "22": {
+          "keywd": "urban regeneration"
+        },
+        "23": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2015-08-27T03:53:59Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/351431468254958033/pdf/ISR-Disclosable-P126033-08-26-2015-1440647605478.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/351431468254958033/text/ISR-Disclosable-P126033-08-26-2015-1440647605478.txt",
+      "EnvironmentalCategory": "F",
+      "chronical_docm_id": "090224b08309cab9",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "351431468254958033",
+      "origu": "South Caucasus Country Unit (ECCSC)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/351431468254958033"
+    },
+    "D26405745": {
+      "id": "26405745",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Nitti, Rosanna"
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0843654f0_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,Business Cycles and Stabilization Policies,Common Carriers Industry,Cultural Heritage & Urban Revitalization,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Food & Beverage Industry,Hydrology,Literature & Folklore,Plastics & Rubber Industry,Pulp & Paper Industry",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR22127",
+      "docdt": "2016-05-25T04:00:00Z",
+      "datestored": "2016-05-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "development of tourism"
+        },
+        "2": {
+          "keywd": "points of sale"
+        },
+        "3": {
+          "keywd": "vehicle operating cost"
+        },
+        "4": {
+          "keywd": "weighted average"
+        },
+        "5": {
+          "keywd": "culture heritage"
+        },
+        "6": {
+          "keywd": "skilled workforce"
+        },
+        "7": {
+          "keywd": "souvenir shops"
+        },
+        "8": {
+          "keywd": "household water"
+        },
+        "9": {
+          "keywd": "piped water"
+        },
+        "10": {
+          "keywd": "destination management"
+        },
+        "11": {
+          "keywd": "urban roads"
+        },
+        "12": {
+          "keywd": "urban regeneration"
+        },
+        "13": {
+          "keywd": "private investment"
+        },
+        "14": {
+          "keywd": "Cultural Heritage"
+        },
+        "15": {
+          "keywd": "investment loan"
+        },
+        "16": {
+          "keywd": "infrastructure service"
+        },
+        "17": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2016-05-25T18:34:14Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/200451468030292803/pdf/ISR-Disclosable-P126033-05-25-2016-1464201226266.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/200451468030292803/text/ISR-Disclosable-P126033-05-25-2016-1464201226266.txt",
+      "EnvironmentalCategory": "F",
+      "chronical_docm_id": "090224b0843654f0",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "200451468030292803",
+      "origu": "Urban ECA (SCAUR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/200451468030292803"
+    },
+    "D29317266": {
+      "id": "29317266",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Nitti, Rosanna"
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Regional Development Project - P126033 - Sequence No : 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0854b8e6f_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,Business Cycles and Stabilization Policies,Common Carriers Industry,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Food & Beverage Industry,Hydrology,Inter-Urban Roads and Passenger Transport,Literature & Folklore,Plastics & Rubber Industry,Pulp & Paper Industry,Roads & Highways,Roads and Highways Performance,Transport in Urban Areas,Urban Transport",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR30321",
+      "docdt": "2017-12-28T05:00:00Z",
+      "datestored": "2017-12-28T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "development of tourism"
+        },
+        "1": {
+          "keywd": "points of sale"
+        },
+        "2": {
+          "keywd": "vehicle operating cost"
+        },
+        "3": {
+          "keywd": "Investment Project Financing"
+        },
+        "4": {
+          "keywd": "municipal development fund"
+        },
+        "5": {
+          "keywd": "categories of beneficiaries"
+        },
+        "6": {
+          "keywd": "quality of work"
+        },
+        "7": {
+          "keywd": "culture heritage"
+        },
+        "8": {
+          "keywd": "Investment Support"
+        },
+        "9": {
+          "keywd": "souvenir shops"
+        },
+        "10": {
+          "keywd": "urban roads"
+        },
+        "11": {
+          "keywd": "water system"
+        },
+        "12": {
+          "keywd": "weighted average"
+        },
+        "13": {
+          "keywd": "local population"
+        },
+        "14": {
+          "keywd": "civil works"
+        },
+        "15": {
+          "keywd": "construction support"
+        },
+        "16": {
+          "keywd": "project intervention"
+        },
+        "17": {
+          "keywd": "destination management"
+        },
+        "18": {
+          "keywd": "infrastructure service"
+        },
+        "19": {
+          "keywd": "Cultural Heritage"
+        },
+        "20": {
+          "keywd": "household water"
+        },
+        "21": {
+          "keywd": "private investment"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Regional Development Project - P126033 - Sequence No : 10"
+      },
+      "display_title": "Disclosable Version of the ISR - Regional Development Project - P126033 - Sequence No : 10",
+      "disclosure_date": "2017-12-28T15:37:27Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/796671514475449243/pdf/Disclosable-Version-of-the-ISR-Regional-Development-Project-P126033-Sequence-No-10.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/796671514475449243/text/Disclosable-Version-of-the-ISR-Regional-Development-Project-P126033-Sequence-No-10.txt",
+      "EnvironmentalCategory": "F",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0854b8e6f",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "796671514475449243",
+      "origu": "Urban ECA (SCAUR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/796671514475449243"
+    },
+    "D27652192": {
+      "id": "27652192",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Nitti, Rosanna"
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084cd7d20_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,Business Cycles and Stabilization Policies,Common Carriers Industry,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Food & Beverage Industry,Hydrology,Inter-Urban Roads and Passenger Transport,Literature & Folklore,Plastics & Rubber Industry,Pulp & Paper Industry,Roads & Highways,Roads and Highways Performance,Small Private Water Supply Providers,Town Water Supply and Sanitation,Transport in Urban Areas,Urban Transport,Water Supply and Sanitation Economics,Water and Human Health",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR28504",
+      "docdt": "2017-06-19T04:00:00Z",
+      "datestored": "2017-06-19T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "vehicle operating cost"
+        },
+        "1": {
+          "keywd": "people in urban area"
+        },
+        "2": {
+          "keywd": "development of tourism"
+        },
+        "3": {
+          "keywd": "points of sale"
+        },
+        "4": {
+          "keywd": "visitor center"
+        },
+        "5": {
+          "keywd": "tourist information centers"
+        },
+        "6": {
+          "keywd": "water supply works"
+        },
+        "7": {
+          "keywd": "destination management organizations"
+        },
+        "8": {
+          "keywd": "total private investment"
+        },
+        "9": {
+          "keywd": "water collection systems"
+        },
+        "10": {
+          "keywd": "culture heritage"
+        },
+        "11": {
+          "keywd": "weighted average"
+        },
+        "12": {
+          "keywd": "direct beneficiaries"
+        },
+        "13": {
+          "keywd": "organizational arrangement"
+        },
+        "14": {
+          "keywd": "household water"
+        },
+        "15": {
+          "keywd": "access road"
+        },
+        "16": {
+          "keywd": "piped water"
+        },
+        "17": {
+          "keywd": "Cultural Heritage"
+        },
+        "18": {
+          "keywd": "infrastructure service"
+        },
+        "19": {
+          "keywd": "investment loan"
+        },
+        "20": {
+          "keywd": "vehicle characteristic"
+        },
+        "21": {
+          "keywd": "private investor"
+        },
+        "22": {
+          "keywd": "road section"
+        },
+        "23": {
+          "keywd": "urban roads"
+        },
+        "24": {
+          "keywd": "water resource"
+        },
+        "25": {
+          "keywd": "souvenir shops"
+        },
+        "26": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2017-06-19T21:02:50Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/245571497906171462/pdf/ISR-Disclosable-P126033-06-19-2017-1497906155825.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/245571497906171462/text/ISR-Disclosable-P126033-06-19-2017-1497906155825.txt",
+      "EnvironmentalCategory": "F",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084cd7d20",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "245571497906171462",
+      "origu": "Urban ECA (SCAUR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/245571497906171462"
+    },
+    "D19744984": {
+      "id": "19744984",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Eiweida, Ahmed A. R."
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08254227d_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,Business Cycles and Stabilization Policies,Common Carriers Industry,Cultural Heritage & Preservation,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Food & Beverage Industry,Hydrology,Literature & Folklore,Marketing,Plastics & Rubber Industry,Private Sector Development Law,Private Sector Economics,Pulp & Paper Industry",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR14234",
+      "docdt": "2014-06-29T04:00:00Z",
+      "datestored": "2014-06-29T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "cultural heritage site"
+        },
+        "1": {
+          "keywd": "people in urban area"
+        },
+        "2": {
+          "keywd": "weighted average"
+        },
+        "3": {
+          "keywd": "private investment"
+        },
+        "4": {
+          "keywd": "culture heritage"
+        },
+        "5": {
+          "keywd": "development of tourism"
+        },
+        "6": {
+          "keywd": "Environmental Management Plan"
+        },
+        "7": {
+          "keywd": "quality of supervision"
+        },
+        "8": {
+          "keywd": "historic city core"
+        },
+        "9": {
+          "keywd": "points of sale"
+        },
+        "10": {
+          "keywd": "vernacular architecture"
+        },
+        "11": {
+          "keywd": "household water"
+        },
+        "12": {
+          "keywd": "public building"
+        },
+        "13": {
+          "keywd": "public park"
+        },
+        "14": {
+          "keywd": "conservation work"
+        },
+        "15": {
+          "keywd": "public space"
+        },
+        "16": {
+          "keywd": "urban regeneration"
+        },
+        "17": {
+          "keywd": "infrastructure service"
+        },
+        "18": {
+          "keywd": "construction waste"
+        },
+        "19": {
+          "keywd": "Environmental Assessment"
+        },
+        "20": {
+          "keywd": "contract management"
+        },
+        "21": {
+          "keywd": "involuntary resettlement"
+        },
+        "22": {
+          "keywd": "tourism facilities"
+        },
+        "23": {
+          "keywd": "conservation plan"
+        },
+        "24": {
+          "keywd": "piped water"
+        },
+        "25": {
+          "keywd": "vehicle operating"
+        },
+        "26": {
+          "keywd": "urban roads"
+        },
+        "27": {
+          "keywd": "financial agreement"
+        },
+        "28": {
+          "keywd": "investment amount"
+        },
+        "29": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 03",
+      "disclosure_date": "2014-06-29T21:47:13Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/395171468037485169/pdf/ISR-Disclosable-P126033-06-29-2014-1404078423537.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/395171468037485169/text/ISR-Disclosable-P126033-06-29-2014-1404078423537.txt",
+      "EnvironmentalCategory": "F",
+      "chronical_docm_id": "090224b08254227d",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "395171468037485169",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/395171468037485169"
+    },
+    "D26514573": {
+      "id": "26514573",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Nitti, Rosanna"
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0843f17cf_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,Business Cycles and Stabilization Policies,Common Carriers Industry,Cultural Heritage & Preservation,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Food & Beverage Industry,Hydrology,Inter-Urban Roads and Passenger Transport,Literature & Folklore,Plastics & Rubber Industry,Pulp & Paper Industry,Roads & Highways,Roads and Highways Performance,Transport in Urban Areas,Urban Transport",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR24124",
+      "docdt": "2016-06-22T04:00:00Z",
+      "datestored": "2016-06-22T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "points of sale"
+        },
+        "2": {
+          "keywd": "risk category"
+        },
+        "3": {
+          "keywd": "development of tourism"
+        },
+        "4": {
+          "keywd": "vehicle operating cost"
+        },
+        "5": {
+          "keywd": "culture heritage"
+        },
+        "6": {
+          "keywd": "weighted average"
+        },
+        "7": {
+          "keywd": "piped water"
+        },
+        "8": {
+          "keywd": "souvenir shops"
+        },
+        "9": {
+          "keywd": "private investment"
+        },
+        "10": {
+          "keywd": "Cultural Heritage"
+        },
+        "11": {
+          "keywd": "urban roads"
+        },
+        "12": {
+          "keywd": "destination management"
+        },
+        "13": {
+          "keywd": "infrastructure service"
+        },
+        "14": {
+          "keywd": "investment loan"
+        },
+        "15": {
+          "keywd": "household water"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2016-06-22T16:21:58Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/299251468030333146/pdf/ISR-Disclosable-P126033-06-22-2016-1466612499562.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/299251468030333146/text/ISR-Disclosable-P126033-06-22-2016-1466612499562.txt",
+      "EnvironmentalCategory": "F",
+      "chronical_docm_id": "090224b0843f17cf",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "299251468030333146",
+      "origu": "Urban ECA (SCAUR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/299251468030333146"
+    },
+    "D27048019": {
+      "id": "27048019",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Nitti, Rosanna"
+        }
+      },
+      "count": "Georgia",
+      "docna": {
+        "0": {
+          "docna": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GE-Regional Development Project -- P126033",
+      "subsc": "FY17 - Agricultural markets, commercialization and agri-business,FY17 - Other Water Supply, Sanitation and Waste Management,FY17 - Urban Transport,FY17 - Workforce Development and Vocational Education,FY17 - Sub-National Government",
+      "theme": "FY17 - Job Creation,FY17 - Rural Development,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Jobs,FY17 - Rural Infrastructure and service delivery,FY17 - Regional Integration,FY17 - Cultural Heritage,FY17 - Urban Planning",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0847fa82a_1_0"
+      },
+      "majtheme": "FY17 - Private Sector Development,FY17 - Urban and Rural Development",
+      "subtopic": "Artisans,Arts & Music,Business Cycles and Stabilization Policies,Common Carriers Industry,Cultural Policy,Culture and Cultural Practice,Culture in Sustainable Development,Food & Beverage Industry,Hydrology,Inter-Urban Roads and Passenger Transport,Literature & Folklore,Plastics & Rubber Industry,Pulp & Paper Industry,Roads & Highways,Roads and Highways Performance,Small Private Water Supply Providers,Town Water Supply and Sanitation,Transport in Urban Areas,Urban Transport,Water Supply and Sanitation Economics,Water and Human Health",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        },
+        "1": {
+          "sector": "Transportation"
+        },
+        "2": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "3": {
+          "sector": "Public Administration"
+        },
+        "4": {
+          "sector": "Industry, Trade and Services"
+        }
+      },
+      "repnb": "ISR26409",
+      "docdt": "2016-12-22T05:00:00Z",
+      "datestored": "2016-12-22T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "people in urban area"
+        },
+        "1": {
+          "keywd": "risk category"
+        },
+        "2": {
+          "keywd": "development of tourism"
+        },
+        "3": {
+          "keywd": "vehicle operating cost"
+        },
+        "4": {
+          "keywd": "water supply network"
+        },
+        "5": {
+          "keywd": "points of sale"
+        },
+        "6": {
+          "keywd": "culture heritage"
+        },
+        "7": {
+          "keywd": "weighted average"
+        },
+        "8": {
+          "keywd": "destination management"
+        },
+        "9": {
+          "keywd": "infrastructure service"
+        },
+        "10": {
+          "keywd": "cause-effect relationship"
+        },
+        "11": {
+          "keywd": "project finance"
+        },
+        "12": {
+          "keywd": "urban roads"
+        },
+        "13": {
+          "keywd": "site visits"
+        },
+        "14": {
+          "keywd": "Cultural Heritage"
+        },
+        "15": {
+          "keywd": "indirect investments"
+        },
+        "16": {
+          "keywd": "piped water"
+        },
+        "17": {
+          "keywd": "construction activities"
+        },
+        "18": {
+          "keywd": "private investment"
+        },
+        "19": {
+          "keywd": "investment loan"
+        },
+        "20": {
+          "keywd": "souvenir shops"
+        },
+        "21": {
+          "keywd": "household water"
+        },
+        "22": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Georgia - Regional Development Project : P126033 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2016-12-22T17:33:33Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/643031482428014756/pdf/ISR-Disclosable-P126033-12-22-2016-1482427972246.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/643031482428014756/text/ISR-Disclosable-P126033-12-22-2016-1482427972246.txt",
+      "EnvironmentalCategory": "F",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0847fa82a",
+      "totvolnb": "1",
+      "projectid": "P126033",
+      "guid": "643031482428014756",
+      "origu": "Urban ECA (SCAUR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/643031482428014756"
+    },
+    "facets": {}
+  }
+}

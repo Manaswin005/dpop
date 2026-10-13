@@ -1,0 +1,1740 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 17,
+  "documents": {
+    "D17119686": {
+      "id": "17119686",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Wiseman, William David"
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081841cca_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Pharmaceuticals & Pharmacoeconomics,Pharmaceuticals Industry,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR8998",
+      "docdt": "2012-12-26T05:00:00Z",
+      "datestored": "2012-12-26T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "Cash Transfer"
+        },
+        "3": {
+          "keywd": "cash transfer program"
+        },
+        "4": {
+          "keywd": "equity bank"
+        },
+        "5": {
+          "keywd": "payment system"
+        },
+        "6": {
+          "keywd": "government fund"
+        },
+        "7": {
+          "keywd": "birth certificate"
+        },
+        "8": {
+          "keywd": "program performance"
+        },
+        "9": {
+          "keywd": "consultative process"
+        },
+        "10": {
+          "keywd": "external assessment"
+        },
+        "11": {
+          "keywd": "school uniform"
+        },
+        "12": {
+          "keywd": "draft form"
+        },
+        "13": {
+          "keywd": "program beneficiary"
+        },
+        "14": {
+          "keywd": "payment process"
+        },
+        "15": {
+          "keywd": "sample household"
+        },
+        "16": {
+          "keywd": "Basic Education"
+        },
+        "17": {
+          "keywd": "timely payment"
+        },
+        "18": {
+          "keywd": "funds flow"
+        },
+        "19": {
+          "keywd": "financial agreement"
+        },
+        "20": {
+          "keywd": "double orphan"
+        },
+        "21": {
+          "keywd": "baseline survey"
+        },
+        "22": {
+          "keywd": "transfer value"
+        },
+        "23": {
+          "keywd": "spot check"
+        },
+        "24": {
+          "keywd": "program monitoring"
+        },
+        "25": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2012-12-26T22:59:23Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/291881468254082801/pdf/ISR-Disclosable-P111545-12262012-1356562762546.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/291881468254082801/text/ISR-Disclosable-P111545-12262012-1356562762546.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b081841cca",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "291881468254082801",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/291881468254082801"
+    },
+    "D27664999": {
+      "id": "27664999",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Mistiaen, Emma S."
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 17"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084cfd58b_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Employment and Shared Growth,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR28380",
+      "docdt": "2017-06-21T04:00:00Z",
+      "datestored": "2017-06-21T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "Cash Transfer"
+        },
+        "3": {
+          "keywd": "social protection strategy"
+        },
+        "4": {
+          "keywd": "cash transfer program"
+        },
+        "5": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 17"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 17",
+      "disclosure_date": "2017-06-21T21:06:21Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/973511498079182035/pdf/ISR-Disclosable-P111545-06-21-2017-1498079171408.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/973511498079182035/text/ISR-Disclosable-P111545-06-21-2017-1498079171408.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084cfd58b",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "973511498079182035",
+      "origu": "Social Protection & Labor AFR 1 (HAES1)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/973511498079182035"
+    },
+    "D17927650": {
+      "id": "17927650",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Tesliuc, Cornelia M."
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081cb87df_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Primary Education,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR11072",
+      "docdt": "2013-06-26T04:00:00Z",
+      "datestored": "2013-06-26T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "Cash Transfer"
+        },
+        "3": {
+          "keywd": "cash transfer program"
+        },
+        "4": {
+          "keywd": "number of beneficiaries"
+        },
+        "5": {
+          "keywd": "follow up survey"
+        },
+        "6": {
+          "keywd": "birth certificate"
+        },
+        "7": {
+          "keywd": "consultative process"
+        },
+        "8": {
+          "keywd": "full participation"
+        },
+        "9": {
+          "keywd": "parliamentary debate"
+        },
+        "10": {
+          "keywd": "draft form"
+        },
+        "11": {
+          "keywd": "operations manual"
+        },
+        "12": {
+          "keywd": "Basic Education"
+        },
+        "13": {
+          "keywd": "program evaluation"
+        },
+        "14": {
+          "keywd": "secure payment"
+        },
+        "15": {
+          "keywd": "external assessment"
+        },
+        "16": {
+          "keywd": "cash benefit"
+        },
+        "17": {
+          "keywd": "financial agreement"
+        },
+        "18": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2013-06-26T14:00:08Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/411471468254334460/pdf/ISR-Disclosable-P111545-06-26-2013-1372255197639.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/411471468254334460/text/ISR-Disclosable-P111545-06-26-2013-1372255197639.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b081cb87df",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "411471468254334460",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/411471468254334460"
+    },
+    "D26949894": {
+      "id": "26949894",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Mistiaen, Emma S."
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 16"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08470c87b_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR25535",
+      "docdt": "2016-11-17T05:00:00Z",
+      "datestored": "2016-11-17T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "cash transfer program"
+        },
+        "3": {
+          "keywd": "expansion of coverage"
+        },
+        "4": {
+          "keywd": "case management system"
+        },
+        "5": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 16"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 16",
+      "disclosure_date": "2016-11-17T20:26:59Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/816151479414421381/pdf/ISR-Disclosable-P111545-11-17-2016-1479414405365.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/816151479414421381/text/ISR-Disclosable-P111545-11-17-2016-1479414405365.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08470c87b",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "816151479414421381",
+      "origu": "Social Protection & Labor AFR 1 (HAES1)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/816151479414421381"
+    },
+    "D24545517": {
+      "id": "24545517",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 13"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082ecbe5b_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Inequality,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR19158",
+      "docdt": "2015-05-27T04:00:00Z",
+      "datestored": "2015-05-27T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "cash transfer program"
+        },
+        "3": {
+          "keywd": "delay in procurement"
+        },
+        "4": {
+          "keywd": "expansion plan"
+        },
+        "5": {
+          "keywd": "timely payment"
+        },
+        "6": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 13"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 13",
+      "disclosure_date": "2015-05-27T19:38:52Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/236931468272403898/pdf/ISR-Disclosable-P111545-05-27-2015-1432755522895.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/236931468272403898/text/ISR-Disclosable-P111545-05-27-2015-1432755522895.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082ecbe5b",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "236931468272403898",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/236931468272403898"
+    },
+    "D25656568": {
+      "id": "25656568",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Munavu, Michael Mutemi"
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 14"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b083c3baef_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Primary Education,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Services & Transfers to Poor,Social Protections & Assistance",
+      "teratopic": "Education,Macroeconomics and Economic Growth,Poverty Reduction,Public Sector Development,Social Protections and Labor",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR21433",
+      "docdt": "2015-12-08T05:00:00Z",
+      "datestored": "2015-12-08T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "number of beneficiaries"
+        },
+        "3": {
+          "keywd": "delay in procurement"
+        },
+        "4": {
+          "keywd": "audit finding"
+        },
+        "5": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 14"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 14",
+      "disclosure_date": "2015-12-08T22:20:02Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/246861468272460866/pdf/Kenya-Kenya-Cash-Transfer-for-Orphans-and-Vulnerable-Children-P111545-Implementation-Status-Results-Report-Sequence-14.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/246861468272460866/text/Kenya-Kenya-Cash-Transfer-for-Orphans-and-Vulnerable-Children-P111545-Implementation-Status-Results-Report-Sequence-14.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b083c3baef",
+      "totvolnb": "1",
+      "historic_topic": "Education,Macroeconomics and Economic Growth,Poverty Reduction,Public Sector Development,Social Protections and Labor",
+      "projectid": "P111545",
+      "guid": "246861468272460866",
+      "origu": "GSPDR - Social Protect &  Labor - GP",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/246861468272460866"
+    },
+    "D18814393": {
+      "id": "18814393",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Tesliuc, Cornelia M."
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0821ee7a1_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Financial Regulation & Supervision,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR13091",
+      "docdt": "2014-01-17T05:00:00Z",
+      "datestored": "2014-01-17T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "cash transfer program"
+        },
+        "2": {
+          "keywd": "beneficiary household"
+        },
+        "3": {
+          "keywd": "number of beneficiaries"
+        },
+        "4": {
+          "keywd": "equity bank"
+        },
+        "5": {
+          "keywd": "expansion plan"
+        },
+        "6": {
+          "keywd": "government financing"
+        },
+        "7": {
+          "keywd": "government capacity"
+        },
+        "8": {
+          "keywd": "Basic Education"
+        },
+        "9": {
+          "keywd": "household size"
+        },
+        "10": {
+          "keywd": "draft form"
+        },
+        "11": {
+          "keywd": "birth certificate"
+        },
+        "12": {
+          "keywd": "Payments for Services"
+        },
+        "13": {
+          "keywd": "financial agreement"
+        },
+        "14": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2014-01-17T16:04:34Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/912351468048291793/pdf/ISR-Disclosable-P111545-01-17-2014-1389974663623.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/912351468048291793/text/ISR-Disclosable-P111545-01-17-2014-1389974663623.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0821ee7a1",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "912351468048291793",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/912351468048291793"
+    },
+    "D23980295": {
+      "id": "23980295",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082a864bd_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Inequality,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR17607",
+      "docdt": "2015-02-10T05:00:00Z",
+      "datestored": "2015-02-10T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "delay in procurement"
+        },
+        "3": {
+          "keywd": "cash transfer program"
+        },
+        "4": {
+          "keywd": "number of beneficiaries"
+        },
+        "5": {
+          "keywd": "timely payment"
+        },
+        "6": {
+          "keywd": "expansion plan"
+        },
+        "7": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 12"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 12",
+      "disclosure_date": "2015-02-10T15:14:28Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/242281468038957836/pdf/ISR-Disclosable-P111545-02-10-2015-1423581251912.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/242281468038957836/text/ISR-Disclosable-P111545-02-10-2015-1423581251912.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082a864bd",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "242281468038957836",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/242281468038957836"
+    },
+    "D29518009": {
+      "id": "29518009",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Mistiaen, Emma S."
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Kenya Cash Transfer for Orphans and Vulnerable Children - P111545 - Sequence No : 18"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08556eb29_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Services & Transfers to Poor,Social Development & Poverty,Social Protections & Assistance",
+      "teratopic": "Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR29883",
+      "docdt": "2018-01-18T05:00:00Z",
+      "datestored": "2018-01-18T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "Cash Transfer"
+        },
+        "3": {
+          "keywd": "Investment Project Financing"
+        },
+        "4": {
+          "keywd": "cash transfer program"
+        },
+        "5": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Kenya Cash Transfer for Orphans and Vulnerable Children - P111545 - Sequence No : 18"
+      },
+      "display_title": "Disclosable Version of the ISR - Kenya Cash Transfer for Orphans and Vulnerable Children - P111545 - Sequence No : 18",
+      "disclosure_date": "2018-01-18T16:30:48Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/648571516293049721/pdf/Disclosable-Version-of-the-ISR-Kenya-Cash-Transfer-for-Orphans-and-Vulnerable-Children-P111545-Sequence-No-18.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/648571516293049721/text/Disclosable-Version-of-the-ISR-Kenya-Cash-Transfer-for-Orphans-and-Vulnerable-Children-P111545-Sequence-No-18.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08556eb29",
+      "totvolnb": "1",
+      "historic_topic": "Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "projectid": "P111545",
+      "guid": "648571516293049721",
+      "origu": "GSP01 - Social Protection & Labor AFR E",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/648571516293049721"
+    },
+    "D26197311": {
+      "id": "26197311",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Mistiaen, Emma S."
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 15"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084278adb_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Primary Education,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR22573",
+      "docdt": "2016-04-08T04:00:00Z",
+      "datestored": "2016-04-08T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "safety net program"
+        },
+        "3": {
+          "keywd": "lack of time"
+        },
+        "4": {
+          "keywd": "supreme audit authority"
+        },
+        "5": {
+          "keywd": "financial statement"
+        },
+        "6": {
+          "keywd": "results framework"
+        },
+        "7": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 15"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 15",
+      "disclosure_date": "2016-04-08T19:53:43Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/242831468043513184/pdf/ISR-Disclosable-P111545-04-08-2016-1460145213878.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/242831468043513184/text/ISR-Disclosable-P111545-04-08-2016-1460145213878.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b084278adb",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "242831468043513184",
+      "origu": "Social Protection & Labor AFR 1 (HAES1)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/242831468043513184"
+    },
+    "D19766272": {
+      "id": "19766272",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Tesliuc, Cornelia M."
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082561ef9_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Inequality,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Services & Transfers to Poor,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR15023",
+      "docdt": "2014-07-07T04:00:00Z",
+      "datestored": "2014-07-07T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "baseline data"
+        },
+        "3": {
+          "keywd": "Cash Transfer"
+        },
+        "4": {
+          "keywd": "delay in procurement"
+        },
+        "5": {
+          "keywd": "cash transfer program"
+        },
+        "6": {
+          "keywd": "credit proceeds"
+        },
+        "7": {
+          "keywd": "birth certificate"
+        },
+        "8": {
+          "keywd": "independent assessment"
+        },
+        "9": {
+          "keywd": "operational use"
+        },
+        "10": {
+          "keywd": "Payments for Services"
+        },
+        "11": {
+          "keywd": "payroll control"
+        },
+        "12": {
+          "keywd": "household size"
+        },
+        "13": {
+          "keywd": "financial resource"
+        },
+        "14": {
+          "keywd": "geographic targeting"
+        },
+        "15": {
+          "keywd": "baseline survey"
+        },
+        "16": {
+          "keywd": "reporting requirement"
+        },
+        "17": {
+          "keywd": "government fund"
+        },
+        "18": {
+          "keywd": "satisfactory manner"
+        },
+        "19": {
+          "keywd": "draft form"
+        },
+        "20": {
+          "keywd": "Basic Education"
+        },
+        "21": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2014-07-07T14:16:25Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/872621468044078854/pdf/ISR-Disclosable-P111545-07-07-2014-1404742572163.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/872621468044078854/text/ISR-Disclosable-P111545-07-07-2014-1404742572163.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082561ef9",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "872621468044078854",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/872621468044078854"
+    },
+    "D16424127": {
+      "id": "16424127",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Wiseman, William David"
+        },
+        "1": {
+          "author": "William David"
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Social Protection,FY17 - Public Administration - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012062515352527"
+      },
+      "majtheme": "FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Services & Transfers to Poor,Social Development & Poverty,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "FY17 - Social Protection"
+        }
+      },
+      "repnb": "ISR6671",
+      "docdt": "2012-06-25T04:00:00Z",
+      "datestored": "2012-06-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "beneficiary household"
+        },
+        "1": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "2": {
+          "keywd": "number of complaints"
+        },
+        "3": {
+          "keywd": "cash transfer program"
+        },
+        "4": {
+          "keywd": "spot check"
+        },
+        "5": {
+          "keywd": "payment process"
+        },
+        "6": {
+          "keywd": "complaint process"
+        },
+        "7": {
+          "keywd": "program eligibility"
+        },
+        "8": {
+          "keywd": "equity bank"
+        },
+        "9": {
+          "keywd": "appeals mechanism"
+        },
+        "10": {
+          "keywd": "community survey"
+        },
+        "11": {
+          "keywd": "Basic Education"
+        },
+        "12": {
+          "keywd": "external assessment"
+        },
+        "13": {
+          "keywd": "birth certificate"
+        },
+        "14": {
+          "keywd": "draft form"
+        },
+        "15": {
+          "keywd": "consultative process"
+        },
+        "16": {
+          "keywd": "financial agreement"
+        },
+        "17": {
+          "keywd": "communication strategy"
+        },
+        "18": {
+          "keywd": "regular payment"
+        },
+        "19": {
+          "keywd": "productive asset"
+        },
+        "20": {
+          "keywd": "household welfare"
+        },
+        "21": {
+          "keywd": "child labor"
+        },
+        "22": {
+          "keywd": "education outcome"
+        },
+        "23": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 07",
+      "pdfurl": "http://documents.worldbank.org/curated/en/214601468771320037/pdf/ISR0Disclosabl025201201340652924628.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/214601468771320037/text/ISR0Disclosabl025201201340652924628.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0814f788c",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "214601468771320037",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/214601468771320037"
+    },
+    "D15582085": {
+      "id": "15582085",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Wiseman, William David"
+        },
+        "1": {
+          "author": "William David"
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Social Protection,FY17 - Public Administration - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011122711504785"
+      },
+      "majtheme": "FY17 - Social Development and Protection,FY17 - Public Sector Management",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Gender and Development,Services & Transfers to Poor,Social Development & Poverty,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "FY17 - Social Protection"
+        }
+      },
+      "repnb": "ISR5455",
+      "docdt": "2011-12-27T05:00:00Z",
+      "datestored": "2011-12-27T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "postal corporation"
+        },
+        "3": {
+          "keywd": "monitoring and evaluation system"
+        },
+        "4": {
+          "keywd": "Cash Transfer"
+        },
+        "5": {
+          "keywd": "food price inflation"
+        },
+        "6": {
+          "keywd": "cash transfer program"
+        },
+        "7": {
+          "keywd": "development partner"
+        },
+        "8": {
+          "keywd": "program performance"
+        },
+        "9": {
+          "keywd": "complaints mechanism"
+        },
+        "10": {
+          "keywd": "external system"
+        },
+        "11": {
+          "keywd": "financial agreement"
+        },
+        "12": {
+          "keywd": "spot check"
+        },
+        "13": {
+          "keywd": "transfer value"
+        },
+        "14": {
+          "keywd": "biometric technology"
+        },
+        "15": {
+          "keywd": "appeals mechanism"
+        },
+        "16": {
+          "keywd": "external assessment"
+        },
+        "17": {
+          "keywd": "birth certificate"
+        },
+        "18": {
+          "keywd": "payment process"
+        },
+        "19": {
+          "keywd": "consultative process"
+        },
+        "20": {
+          "keywd": "draft form"
+        },
+        "21": {
+          "keywd": "household size"
+        },
+        "22": {
+          "keywd": "Basic Education"
+        },
+        "23": {
+          "keywd": "government plan"
+        },
+        "24": {
+          "keywd": "external support"
+        },
+        "25": {
+          "keywd": "grievance mechanism"
+        },
+        "26": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 06",
+      "pdfurl": "http://documents.worldbank.org/curated/en/784391468753349746/pdf/P1115450ISR0Di027201101325004647265.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/784391468753349746/text/P1115450ISR0Di027201101325004647265.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0811877ce",
+      "totvolnb": "1",
+      "projectid": "P111545",
+      "guid": "784391468753349746",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/784391468753349746"
+    },
+    "D30440389": {
+      "id": "30440389",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Mistiaen, Emma S."
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Kenya Cash Transfer for Orphans and Vulnerable Children - P111545 - Sequence No : 19"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08616a403_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Gender and Development,Services & Transfers to Poor,Social Protections & Assistance",
+      "teratopic": "Gender,Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR33219",
+      "docdt": "2018-09-21T04:00:00Z",
+      "datestored": "2018-09-21T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": " beneficiary household"
+        },
+        "2": {
+          "keywd": " Cash Transfer"
+        },
+        "3": {
+          "keywd": " survey data"
+        },
+        "4": {
+          "keywd": " cash transfer program"
+        },
+        "5": {
+          "keywd": " Investment Project Financing"
+        },
+        "6": {
+          "keywd": " East African Community"
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Kenya Cash Transfer for Orphans and Vulnerable Children - P111545 - Sequence No : 19"
+      },
+      "display_title": "Disclosable Version of the ISR - Kenya Cash Transfer for Orphans and Vulnerable Children - P111545 - Sequence No : 19",
+      "disclosure_date": "2018-09-21T18:08:04Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/994361537553285226/pdf/Disclosable-Version-of-the-ISR-Kenya-Cash-Transfer-for-Orphans-and-Vulnerable-Children-P111545-Sequence-No-19.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/994361537553285226/text/Disclosable-Version-of-the-ISR-Kenya-Cash-Transfer-for-Orphans-and-Vulnerable-Children-P111545-Sequence-No-19.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08616a403",
+      "totvolnb": "1",
+      "historic_topic": "Gender,Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "projectid": "P111545",
+      "guid": "994361537553285226",
+      "origu": "Social Protection & Labor AFR 1 (HAES1)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/994361537553285226"
+    },
+    "D30730965": {
+      "id": "30730965",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Mistiaen, Emma S."
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Disclosable Version of the ISR - Kenya Cash Transfer for Orphans and Vulnerable Children - P111545 - Sequence No : 20"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08680c9b1_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Educational Sciences,Health Project Design and Implementation,Health Systems Development & Reform,Services & Transfers to Poor,Social Protections & Assistance",
+      "teratopic": "Education,Health, Nutrition and Population,Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "repnb": "ISR34198",
+      "docdt": "2018-12-28T05:00:00Z",
+      "datestored": "2018-12-28T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": " school enrollment of children"
+        },
+        "2": {
+          "keywd": " cash transfer program"
+        },
+        "3": {
+          "keywd": " beneficiary household"
+        },
+        "4": {
+          "keywd": " quality of results"
+        },
+        "5": {
+          "keywd": " case management system"
+        },
+        "6": {
+          "keywd": " East African Community"
+        },
+        "7": {
+          "keywd": " Investment Project Financing"
+        },
+        "8": {
+          "keywd": " payments on time"
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Disclosable Version of the ISR - Kenya Cash Transfer for Orphans and Vulnerable Children - P111545 - Sequence No : 20"
+      },
+      "display_title": "Disclosable Version of the ISR - Kenya Cash Transfer for Orphans and Vulnerable Children - P111545 - Sequence No : 20",
+      "disclosure_date": "2018-12-28T20:49:48Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/488081546030191904/pdf/Disclosable-Version-of-the-ISR-Kenya-Cash-Transfer-for-Orphans-and-Vulnerable-Children-P111545-Sequence-No-20.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/488081546030191904/text/Disclosable-Version-of-the-ISR-Kenya-Cash-Transfer-for-Orphans-and-Vulnerable-Children-P111545-Sequence-No-20.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08680c9b1",
+      "totvolnb": "1",
+      "historic_topic": "Education,Health, Nutrition and Population,Macroeconomics and Economic Growth,Poverty Reduction,Social Protections and Labor",
+      "projectid": "P111545",
+      "guid": "488081546030191904",
+      "origu": "Social Protection & Labor AFR 1 (HAES1)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/488081546030191904"
+    },
+    "D13694078": {
+      "id": "13694078",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Wiseman, William David"
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011012616424678"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Gender and Development,Services & Transfers to Poor,Social Development & Poverty,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "docdt": "2011-01-26T05:00:00Z",
+      "datestored": "2011-01-26T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "beneficiary household"
+        },
+        "1": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "2": {
+          "keywd": "Indicator Baseline"
+        },
+        "3": {
+          "keywd": "Cash Transfer"
+        },
+        "4": {
+          "keywd": "external monitoring"
+        },
+        "5": {
+          "keywd": "household size"
+        },
+        "6": {
+          "keywd": "cash transfer program"
+        },
+        "7": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2011-01-26T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/938961468773701693/pdf/P1115450ISR0Di012620111296078165271.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/938961468773701693/text/P1115450ISR0Di012620111296078165271.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b080917a4e",
+      "projectid": "P111545",
+      "guid": "938961468773701693",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/938961468773701693"
+    },
+    "D14538467": {
+      "id": "14538467",
+      "admreg": "Eastern and Southern Africa",
+      "authors": {
+        "0": {
+          "author": "Wiseman, William David"
+        }
+      },
+      "count": "Kenya",
+      "docna": {
+        "0": {
+          "docna": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "KE-Kenya Cash Transfer for Orphans and Vulnerable Children -- P111545",
+      "subsc": "FY17 - Public Administration - Social Protection,FY17 - Social Protection",
+      "theme": "FY17 - Administrative and Civil Service Reform,FY17 - Social Protection,FY17 - Public Administration,FY17 - Social protection delivery systems,FY17 - Social Safety Nets",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011071018135067"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Social Development and Protection",
+      "subtopic": "Access of Poor to Social Services,Disability,Economic Assistance,Gender and Development,Services & Transfers to Poor,Social Development & Poverty,Social Protections & Assistance",
+      "sectr": {
+        "0": {
+          "sector": "Social Protection"
+        }
+      },
+      "docdt": "2011-07-10T04:00:00Z",
+      "datestored": "2011-07-10T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Orphans and Vulnerable Children"
+        },
+        "1": {
+          "keywd": "beneficiary household"
+        },
+        "2": {
+          "keywd": "postal corporation"
+        },
+        "3": {
+          "keywd": "social protection program"
+        },
+        "4": {
+          "keywd": "Cash Transfer"
+        },
+        "5": {
+          "keywd": "external monitoring system"
+        },
+        "6": {
+          "keywd": "food price inflation"
+        },
+        "7": {
+          "keywd": "investment in capacity"
+        },
+        "8": {
+          "keywd": "cash transfer program"
+        },
+        "9": {
+          "keywd": "external assessment"
+        },
+        "10": {
+          "keywd": "financial agreement"
+        },
+        "11": {
+          "keywd": "draft form"
+        },
+        "12": {
+          "keywd": "consultative process"
+        },
+        "13": {
+          "keywd": "external support"
+        },
+        "14": {
+          "keywd": "fiduciary risk"
+        },
+        "15": {
+          "keywd": "Basic Education"
+        },
+        "16": {
+          "keywd": "birth certificate"
+        },
+        "17": {
+          "keywd": "household size"
+        },
+        "18": {
+          "keywd": "payment process"
+        },
+        "19": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Kenya - Kenya Cash Transfer for Orphans and Vulnerable Children : P111545 - Implementation Status Results Report : Sequence 05",
+      "pdfurl": "http://documents.worldbank.org/curated/en/938801468771316911/pdf/P1115450ISR0Di010201101310336030138.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/938801468771316911/text/P1115450ISR0Di010201101310336030138.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b080dec555",
+      "projectid": "P111545",
+      "guid": "938801468771316911",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/938801468771316911"
+    },
+    "facets": {}
+  }
+}

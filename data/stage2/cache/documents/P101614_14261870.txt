@@ -1,0 +1,466 @@
+﻿                             The World Bank                                                                                                                                             Report No: ISR3372
+
+
+                                                                                                   Implementation Status & Results
+                                                                                                                Kosovo
+Public Disclosure Copy
+
+
+
+
+                                                                                                 Public Sector Modernization (P101614)
+
+                         Operation Name: Public Sector Modernization (P101614)                              Project Stage:   Implementation         Seq.No: 2      Status: ARCHIVED    Last Modified Date: 15-May-2011
+                                                                              Country: Kosovo                                        Approval FY:        2010
+                         Product Line: IBRD/IDA                               Region: EUROPE AND CENTRAL ASIA                        Lending Instrument: Specific Investment Loan
+                         Implementing Agency(ies):
+
+                         Key Dates
+                         Board Approval Date      04-Feb-2010         Original Closing Date 30-Jun-2013            Planned Mid Term Review Date                            Last Archived ISR Date 15-Nov-2010
+                         Effectiveness Date                           Revised Closing Date 30-Jun-2013             Actual Mid Term Review Date
+
+                         Project Development Objectives
+                         Project Development Objective (from Project Appraisal Document)
+
+                         (a) To strengthen the performance of key budget organizations in budget formulation, budget execution, and public procurement;
+                          (b) To establish the foundations for fiscally sustainable payroll management and effective human resource management in the core civil service; and
+                          (c) To create conditions for further automation of government work processes and for development of e-government applications.
+                         Has the Project Development Objective been changed since Board Approval of the Project?
+
+                            Yes           No
+
+                         Component(s)
+                         Component Name                                                                                                          Component Cost
+                         Component 1: Improving public financial management performance in selectedbudget organizations                                     3.00
+                         Component 2 - Improving payroll administration and laying the foundations for aprofessional civil                                  2.05
+                         service
+                         Component 3 - Increasing the security and efficiency of government information systems                                             2.30
+Public Disclosure Copy
+
+
+
+
+                         Component 4 - Project management, including project audit and evaluation                                                           0.40
+
+                         Overall Ratings
+                                                                  Previous Rating                       Current Rating
+                         Progress towards achievement of PDO      Unsatisfactory                        Moderately Unsatisfactory
+                         Overall Implementation Progress (IP)     Unsatisfactory                        Moderately Satisfactory
+                         Overall Risk Rating                      High                                  Medium-I
+
+                         Implementation Status Overview
+                         After a delay of 15 months since Board approval, project effectiveness is now imminent following the ratification of the Financing Agreement by the Parliament on May 6. After the
+                         ratification, the Government requested a final 30-day extension of effectiveness deadline to June 20, 2011, which the Bank has granted to allow enough time for the ratification act to
+
+                                                                                                                                                                                                           Page 1 of 9
+                             The World Bank                                                                                                                                            Report No: ISR3372
+
+
+
+                         come into force and enable the Government to meet the remaining effectiveness conditions, including the issuance of the relevant legal opinion.
+Public Disclosure Copy
+
+
+
+
+                         Preparations for the launch of the major procurement packages under all three main components are well advanced, which indicates that commitment of project funds and
+                         disbursements should move quite fast after effectiveness.
+
+                         Results
+
+                         Project Development Objective Indicators
+                         Indicator                                                               Baseline                                Current                                End Target
+                         Indicator Name                                                          Value                                   Value                                  Value
+                         Improved quality o f budget formulation and execution in the budget     PEFA assessment 2009 indicators:        PFM reform action plan is under        PEFA PI-1 score B;
+                         organizationsthat would participate in the proposed project             #         PI-1: score: C (actual        implementation, though no              PEFA PI-12 (iii), (iv) score B;
+                                                                                                 expenditure deviated from budget        activities are taking place at line    At least 4/5 beneficiary
+                                                                                                 by more than 15% in one of the          ministry level with the exception of   organizations meet at least 5/7
+                         Type                    Unit of Measure                                 last three years);                      the EU project supporting the          intermediate outcome indicators
+                         Custom Indicator        Text                                            #         PI-12 (iii, iv): Multi-year   public investment planing process.     Date
+                                                                                                 perspective in fiscal planning,         Date
+                                                                                                 expenditure policy & budgeting #                                               30-Jun-2013
+                                                                                                 score: C PI-12 (iii) score: C; PI-12    15-May-2011                            Comment
+                                                                                                 (iv) score: D;                          Comment
+                                                                                                 #         Only 3/7 quality indicators
+                                                                                                 of budget submissions met by all 5
+                                                                                                 beneficiary BOs; no BO meets 3
+                                                                                                 quality indicators for budget
+                                                                                                 execution
+                                                                                                 Date
+                                                                                                 30-Jun-2009
+                                                                                                 Comment
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                                                                                        Page 2 of 9
+                             The World Bank                                                                                                                Report No: ISR3372
+
+
+
+
+                         Indicator                                                               Baseline                               Current     End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                          Value                                  Value       Value
+                         Increased bidder participation in public procurement tenders and cost   8,270 bidders participated in                      Bidder participation increases by
+                         savings achieved through Quick Gains actions and e-procurement          procurement tenders in 2008;                       15%
+                                                                                                                                      Date
+                         modules                                                                 No electronic procurement
+                                                                                                 transactions;                        15-May-2011   Price disparities in QG
+                         Type                    Unit of Measure                                 QG study reports significant price Comment         procurement categories do not
+                         Custom Indicator        Text                                            disparities within procurement                     exceed 10% in the same year
+                                                                                                 categories in the same year
+                                                                                                 (2008):                                            Cost savings of at least 5% for
+                                                                                                 #         Civil works/ roads: up to                each category achieved
+                                                                                                 90%;                                               Date
+                                                                                                 #         Maintenance: 39%
+                                                                                                 #         Security: 41%;                           30-Jun-2013
+                                                                                                 #         Buildings rental 64%;                    Comment
+                                                                                                 #         Food 95%;
+                                                                                                 #         Medicines 17-70%;
+                                                                                                 #         Office supplies 26%;
+                                                                                                 #         Fuel 9.3% in a year/ up to
+                                                                                                 31% in a month
+
+
+                                                                                                 No electronic procurement
+                                                                                                 transactions
+
+                                                                                                 QG study reports significant price
+                                                                                                 disparities within procurement
+                                                                                                 categories in the same year
+                                                                                                 (2008):
+                                                                                                 #         Civil works/ roads: up to
+                                                                                                 90%;
+                                                                                                 #         Maintenance: 39%
+Public Disclosure Copy
+
+
+
+
+                                                                                                 #         Security: 41%;
+                                                                                                 #         Buildings rental 64%;
+                                                                                                 #         Food 95%;
+                                                                                                 #         Medicines 17-70%;
+                                                                                                 #         Office supplies 26%;
+                                                                                                 #         Fuel 9.3% in a year/ up to
+                                                                                                 31% in a month
+                                                                                                 Date
+                                                                                                 30-Sep-2009
+                                                                                                 Comment
+
+
+
+
+                                                                                                                                                                            Page 3 of 9
+                             The World Bank                                                                                                                                      Report No: ISR3372
+
+
+
+
+                         Indicator                                                              Baseline                              Current                             End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                         Value                                 Value                               Value
+                         Transparent and coherent pay and grading structure introduced in the   No grading system in the civil        Legislation introducing a unified   100% of permanent civil servants
+                         core civil service supported by improved ICT systems that enable       service;                              grading structure for the civil     graded;
+                         effective fiscal and management controls in payroll administration     Wide pay variations among civil       service entered into force in       Equal bases pay for posts of equal
+                                                                                                service bodies;                       January 2011. Secondary             grade and salary step across civil
+                         Type                   Unit of Measure                                 PEFA indicator PI-18                  legislationis under preparation.    service bodies;
+                         Custom Indicator       Text                                            (effectiveness of payroll controls)   Date                                Improved PEFA PI-18 score (C+ or
+                                                                                                score: D+;                                                                above)
+                                                                                                No link between HRMIS, payroll,       15-May-2011
+                                                                                                                                                                          Date
+                                                                                                and Treasury                          Comment
+                                                                                                                                                                          30-Jun-2013
+                                                                                                Date
+                                                                                                                                                                          Comment
+                                                                                                30-Sep-2009
+                                                                                                Comment
+
+
+                         Indicator                                                              Baseline                              Current                             End Target
+                         Indicator Name                                                         Value                                 Value                               Value
+                         Enhanced security and interoperability of government information       No adequate, secure data storage                                          Data center is operational;
+                         systems (through centralized data storage and systems maintenance,     and backup facility for major ICT                                         Reduced risk of data loss;
+                                                                                                                                      Date
+                         and interoperability framework)                                        systems;                                                                  Improved access to data control
+                                                                                                No interoperability between major     30-Sep-2010                         and physical security;
+                         Type                   Unit of Measure                                 ICT systems                           Comment                             New systems developedaccording
+                         Custom Indicator       Text                                            Date                                                                      to interoperability framework
+                                                                                                30-Sep-2009                                                               Date
+
+                                                                                                Comment
+                                                                                                                                                                          30-Jun-2013
+                                                                                                                                                                          Comment
+Public Disclosure Copy
+
+
+
+
+                         Intermediate Results Indicators
+
+
+
+
+                                                                                                                                                                                                  Page 4 of 9
+                             The World Bank                                                                                                                                   Report No: ISR3372
+
+
+
+
+                         Indicator                                                        Baseline                                   Current                           End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                   Value                                      Value                             Value
+                         Improved quality of budget and MTEF submissions of beneficiary   Beneficiary BOs comply with 3 out                                            All 5 beneficiary BOs meet the 7
+                         budget organizations                                             7 budget submission quality criteria Date                                    quality criteria
+                                                                                          (see comment for explanation)                                                Date
+                                                                                                                               15-May-2011
+                                                                                          Date                                                                         30-Jun-2013
+                         Type                   Unit of Measure                                                                      Comment
+                                                                                          30-Sep-2009                                                                  Comment
+                         Custom Indicator       Text                                                                                 Baseline status to be reviewed.
+                                                                                          Comment
+                                                                                          (a) Compliance with ceilings set by
+                                                                                          MTEF and MEF budget circulars.
+                                                                                          (5=NO)
+                                                                                          (b) Consistency with MTEF and
+                                                                                          sectoral policy priorities(5=YES)
+                                                                                          (c) Clear explanation of budget
+                                                                                          objectives and priorities (5=NO)
+                                                                                          (d) Fully developed cost estimates
+                                                                                          in budget plans for three separate,
+                                                                                          consecutive years. (5=NO)
+                                                                                          (e) Explanation and justification of
+                                                                                          proposed changes from previous
+                                                                                          budgets consistent with announced
+                                                                                          policies and MTEF. (5= YES)
+                                                                                          (f) Inclusion of all capital projects in
+                                                                                          PIP prior to their inclusion in
+                                                                                          budget submissions. (4/5= NO)
+                                                                                          (g) Compliance with deadlines set
+                                                                                          by MEF circulars. (5=YES)
+Public Disclosure Copy
+
+
+
+
+                                                                                                                                                                                               Page 5 of 9
+                             The World Bank                                                                                                                                       Report No: ISR3372
+
+
+
+
+                         Indicator                                                                Baseline                              Current                            End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                           Value                                 Value                              Value
+                         Improved budget execution rates by beneficiary budget organizations      (a) Deviation from original           Overall budget execution in 2010   All beneficiary BOs meet the
+                         (BOs)                                                                    approved budget expenditure by        was 93% and 91% for capital        interim outcome indicators for
+                                                                                                  beneficiary BOs does not exceed       investment.                        budget execution
+                                                                                                  10 percent (in aggregate and by       Date                               Date
+                         Type                    Unit of Measure                                  BO) for the year. (3/5=NO)
+                                                                                                                                        15-Sep-2010                        30-Jun-2013
+                         Custom Indicator        Text
+                                                                                                  (b) Variance in expenditure         Comment                              Comment
+                                                                                                  composition exceeds overall         Baseline status for beneficiary
+                                                                                                  deviation in primary expenditure by BOS to be reviewed.
+                                                                                                  no more than 5 percentage points
+                                                                                                  for the year. (5=NO)
+
+                                                                                                  (c) Targets (expenditure and
+                                                                                                  milestones) for at least 70 percent
+                                                                                                  of projects in approved budgets
+                                                                                                  are achieved. (5= NO)
+                                                                                                  Date
+                                                                                                  30-Sep-2009
+                                                                                                  Comment
+
+
+                         Indicator                                                                Baseline                              Current                            End Target
+                         Indicator Name                                                           Value                                 Value                              Value
+                         Status of public procurement activities is regularly monitored through   No central capacity exists to         not in place                       PPA and PPRC use electronic
+                         contract management information system                                   monitor procurement cycle                                                system to regularly monitor public
+                                                                                                                                        Date
+                                                                                                  Date                                                                     procurement activities by all
+                                                                                                                                        15-May-2011                        contracting authorities in Kosovo
+                         Type                    Unit of Measure                                  30-Sep-2009                           Comment                            Date
+Public Disclosure Copy
+
+
+
+
+                         Custom Indicator        Text                                             Comment
+                                                                                                                                                                           30-Jun-2013
+                                                                                                                                                                           Comment
+
+
+
+
+                                                                                                                                                                                                   Page 6 of 9
+                             The World Bank                                                                                                                 Report No: ISR3372
+
+
+
+
+                         Indicator                                                                Baseline                             Current       End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                           Value                                Value         Value
+                         HRMIS functions as a civil service registry and online data links        HRMIS does not include grade or                    HRMIS rolled out in all civil service
+                         between HRMIS-payroll-Treasury systems enable effective fiscal and       salary step data; includes only                    organizations
+                                                                                                                                       Date
+                         management controls in payroll administration                            personnel data for 3 civil service
+                                                                                                                                       30-Sep-2010   Date
+                                                                                                  organizations
+                         Type                    Unit of Measure                                                                       Comment
+                                                                                                                                                     30-Jun-2013
+                                                                                                  Date
+                         Custom Indicator        Text                                                                                                Comment
+                                                                                                  30-Sep-2009
+                                                                                                  Comment
+
+
+                         Indicator                                                                Baseline                             Current       End Target
+                         Indicator Name                                                           Value                                Value         Value
+                         Performance appraisal system is introduced and used as a basis for       No regular performance appraisal                   Managers trained (no.);
+                         progression along salary steps                                           system or mechanism for salary                     Performance appraisal launched in
+                                                                                                                                       Date
+                                                                                                  progression                                        pilot organizations
+                                                                                                                                       30-Sep-2010
+                                                                                                  Date                                               Date
+                         Type                    Unit of Measure                                                                       Comment
+                                                                                                  30-Sep-2009                                        30-Jun-2013
+                         Custom Indicator        Text
+                                                                                                  Comment                                            Comment
+
+
+                         Indicator                                                                Baseline                             Current       End Target
+                         Indicator Name                                                           Value                                Value         Value
+                         Ministry responsible for public administration has necessary capacity to MPA Department of Civil Service                    Department responsible for civil
+                         exercise key human resource management functions for the core civil      Administration has 25 staff (14 in                 service management has staff
+                                                                                                                                       Date
+                         service                                                                  payroll unit)                                      trained in all core HR functions
+                                                                                                                                       30-Sep-2010
+                                                                                                  Date                                               Date
+                         Type                    Unit of Measure                                                                       Comment
+                                                                                                  30-Sep-2009                                        30-Jun-2013
+                         Custom Indicator        Text
+Public Disclosure Copy
+
+
+
+
+                                                                                                  Comment                                            Comment
+
+
+
+
+                                                                                                                                                                              Page 7 of 9
+                             The World Bank                                                                                                                                              Report No: ISR3372
+
+
+
+
+                         Indicator                                                               Baseline                                Current                                  End Target
+Public Disclosure Copy
+
+
+
+
+                         Indicator Name                                                          Value                                   Value                                    Value
+                         Civil service training based on training strategy and monitored         No civil service training strategy.                                              Training impact assessment
+                         according to training impact assessment methodology                     KIPA training covers only basic                                                  methodology developed;
+                                                                                                                                       Date
+                                                                                                 needs of all public service. Training                                            KIPA training program revised;
+                                                                                                 effectiveness                         30-Sep-2010                                MPA & KIPA staff trained in using
+                         Type                    Unit of Measure                                 not systematically monitored.         Comment                                    the methodology
+                         Custom Indicator        Text                                            Date                                                                             Date
+                                                                                                 30-Sep-2009                                                                      30-Jun-2013
+                                                                                                 Comment                                                                          Comment
+
+
+                         Indicator                                                               Baseline                                Current                                  End Target
+                         Indicator Name                                                          Value                                   Value                                    Value
+                         Centralized data management and systems maintenance leads to            Approx. EUR 0.15 million annual                                                  Cost savings from ICT systems
+                         efficiency gains                                                        spending on duplicated                                                           maintenance of 30% (compared to
+                                                                                                                                     Date
+                                                                                                 maintenance, plus some EUR 0.4                                                   stand-alone systems)
+                                                                                                 million in duplicated equipment and 30-Sep-2010                                  Date
+                         Type                    Unit of Measure                                 development of stand-alone          Comment
+                                                                                                 systems                                                                          30-Jun-2013
+                         Custom Indicator        Text
+                                                                                                 Date                                                                             Comment
+
+                                                                                                 30-Sep-2009
+                                                                                                 Comment
+
+
+
+                         Data on Financial Performance (as of 22-Apr-2010)
+                         Financial Agreement(s) Key Dates
+                         Project               Loan No.                 Status                          Approval Date              Signing Date                 Effectiveness Date             Closing Date
+Public Disclosure Copy
+
+
+
+
+                         P101614               IDA-46920                Not Effective                   04-Feb-2010                10-Mar-2010                                                 30-Jun-2013
+                         P101614               IDA-H5450                Not Effective                   04-Feb-2010                10-Mar-2010                                                 30-Jun-2013
+
+                         Disbursements (in Millions)
+                         Project               Loan No.                 Status             Currency         Original           Revised             Cancelled          Disbursed           Undisbursed          % Disbursed
+                         P101614               IDA-46920                Not Effective      XDR                          2.90              2.90                 0.00               0.00                  2.90          0.00
+                         P101614               IDA-H5450                Not Effective      XDR                          2.30              2.30                 0.00               0.00                  2.30          0.00
+
+
+                         Disbursement Graph
+
+
+
+                                                                                                                                                                                                               Page 8 of 9
+                             The World Bank                                                                                                                                       Report No: ISR3372
+Public Disclosure Copy
+
+
+
+
+                         Key Decisions Regarding Implementation
+                         To avoid delays in launching activities after project effectiveness, the Bank team has urged the implementing agencies to start the procurement procedures for priority activities before
+                         project effectiveness. This is particularly important for time-sensitive activities such as the implementation of the new Civil Service Law (pay and grading reform), following the
+                         adoption of the law in 2010 (Component 2A). The Government may publish procurement notices, evaluate expressions of interest, prepare shortlists, and evaluate bids/ consultants'
+                         proposals (subject to the Bank's 'no objection') before project effectiveness without incurring any legal obligation to conclude contracts with the selected bidders/ consultants.
+                         Contracts can be signed after project effectiveness.
+
+                         Restructuring History
+                         There has been no restructuring to date.
+Public Disclosure Copy
+
+
+
+
+                         Related Projects
+
+
+
+
+                                                                                                                                                                                                     Page 9 of 9
+

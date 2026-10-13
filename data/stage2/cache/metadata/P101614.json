@@ -1,0 +1,2663 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 12,
+  "documents": {
+    "D27053809": {
+      "id": "27053809",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Kisunko, Gregory"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084807a9e_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,De Facto Governments,Democratic Government,Educational Sciences,Food Security,Health Care Services Industry,Judicial System Reform,Legal Products,Legal Reform,Legislation,Public Finance Decentralization and Poverty Reduction,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR26608",
+      "docdt": "2016-12-26T05:00:00Z",
+      "datestored": "2016-12-26T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "joint implementation"
+        },
+        "1": {
+          "keywd": "government institution"
+        },
+        "2": {
+          "keywd": "job classification"
+        },
+        "3": {
+          "keywd": "Performance Appraisal System"
+        },
+        "4": {
+          "keywd": "government information system"
+        },
+        "5": {
+          "keywd": "public sector modernization"
+        },
+        "6": {
+          "keywd": "human resource management"
+        },
+        "7": {
+          "keywd": "budget organizations"
+        },
+        "8": {
+          "keywd": "procurement system"
+        },
+        "9": {
+          "keywd": "public procurement tender"
+        },
+        "10": {
+          "keywd": "government job"
+        },
+        "11": {
+          "keywd": "Business Registration"
+        },
+        "12": {
+          "keywd": "budget execution rate"
+        },
+        "13": {
+          "keywd": "contract award notice"
+        },
+        "14": {
+          "keywd": "central government procurement"
+        },
+        "15": {
+          "keywd": "local government activity"
+        },
+        "16": {
+          "keywd": "Public Financial Management"
+        },
+        "17": {
+          "keywd": "civil service registry"
+        },
+        "18": {
+          "keywd": "public procurement activity"
+        },
+        "19": {
+          "keywd": "quality indicators"
+        },
+        "20": {
+          "keywd": "grade structure"
+        },
+        "21": {
+          "keywd": "data center"
+        },
+        "22": {
+          "keywd": "storage capacity"
+        },
+        "23": {
+          "keywd": "salary structure"
+        },
+        "24": {
+          "keywd": "procurement cycle"
+        },
+        "25": {
+          "keywd": "Centralized Procurement"
+        },
+        "26": {
+          "keywd": "budget formulation"
+        },
+        "27": {
+          "keywd": "data storage"
+        },
+        "28": {
+          "keywd": "systems maintenance"
+        },
+        "29": {
+          "keywd": "electronic procurement"
+        },
+        "30": {
+          "keywd": "approved budget"
+        },
+        "31": {
+          "keywd": "government decision"
+        },
+        "32": {
+          "keywd": "data loss"
+        },
+        "33": {
+          "keywd": "management control"
+        },
+        "34": {
+          "keywd": "data links"
+        },
+        "35": {
+          "keywd": "administration service"
+        },
+        "36": {
+          "keywd": "security management"
+        },
+        "37": {
+          "keywd": "online application"
+        },
+        "38": {
+          "keywd": "payroll management"
+        },
+        "39": {
+          "keywd": "expenditure composition"
+        },
+        "40": {
+          "keywd": "fiscally sustainable"
+        },
+        "41": {
+          "keywd": "primary expenditure"
+        },
+        "42": {
+          "keywd": "business process"
+        },
+        "43": {
+          "keywd": "e-government application"
+        },
+        "44": {
+          "keywd": "Physical securities"
+        },
+        "45": {
+          "keywd": "contract bidder"
+        },
+        "46": {
+          "keywd": "job description"
+        },
+        "47": {
+          "keywd": "financial constraint"
+        },
+        "48": {
+          "keywd": "enhanced security"
+        },
+        "49": {
+          "keywd": "data system"
+        },
+        "50": {
+          "keywd": "cyber attack"
+        },
+        "51": {
+          "keywd": "HR for HR"
+        },
+        "52": {
+          "keywd": "heating fuel"
+        },
+        "53": {
+          "keywd": "price difference"
+        },
+        "54": {
+          "keywd": "air ticket"
+        },
+        "55": {
+          "keywd": "pay grade"
+        },
+        "56": {
+          "keywd": "potential bidder"
+        },
+        "57": {
+          "keywd": "investment loan"
+        },
+        "58": {
+          "keywd": "efficiency gain"
+        },
+        "59": {
+          "keywd": "procurement value"
+        },
+        "60": {
+          "keywd": "contract implementation"
+        },
+        "61": {
+          "keywd": "price category"
+        },
+        "62": {
+          "keywd": "software application"
+        },
+        "63": {
+          "keywd": "data management"
+        },
+        "64": {
+          "keywd": "government contract"
+        },
+        "65": {
+          "keywd": "systems administration"
+        },
+        "66": {
+          "keywd": "public use"
+        },
+        "67": {
+          "keywd": "budget submission"
+        },
+        "68": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 12"
+      },
+      "display_title": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 12",
+      "disclosure_date": "2016-12-26T14:16:17Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/906451482761779617/pdf/ISR-Disclosable-P101614-12-26-2016-1482761762951.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/906451482761779617/text/ISR-Disclosable-P101614-12-26-2016-1482761762951.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b084807a9e",
+      "totvolnb": "1",
+      "projectid": "P101614",
+      "guid": "906451482761779617",
+      "origu": "GOV PSI - ECA (GGO15)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/906451482761779617"
+    },
+    "D25787356": {
+      "id": "25787356",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Kisunko, Gregory"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b084086153_2_0"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,De Facto Governments,Democratic Government,Educational Sciences,Food Security,Health Care Services Industry,ICT Policy and Strategies,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform",
+      "teratopic": "Finance and Financial Sector Development,Industry,International Economics and Trade,Private Sector Development,Public Sector Development",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR22139",
+      "docdt": "2016-01-15T05:00:00Z",
+      "datestored": "2016-01-15T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "contracts for supply"
+        },
+        "1": {
+          "keywd": "data center"
+        },
+        "2": {
+          "keywd": "budget organizations"
+        },
+        "3": {
+          "keywd": "government institution"
+        },
+        "4": {
+          "keywd": "government information system"
+        },
+        "5": {
+          "keywd": "public sector modernization"
+        },
+        "6": {
+          "keywd": "human resource management"
+        },
+        "7": {
+          "keywd": "Performance Appraisal System"
+        },
+        "8": {
+          "keywd": "quality indicators"
+        },
+        "9": {
+          "keywd": "grade structure"
+        },
+        "10": {
+          "keywd": "Public Financial Management"
+        },
+        "11": {
+          "keywd": "public procurement tender"
+        },
+        "12": {
+          "keywd": "Physical securities"
+        },
+        "13": {
+          "keywd": "central government agency"
+        },
+        "14": {
+          "keywd": "public procurement activity"
+        },
+        "15": {
+          "keywd": "civil service registry"
+        },
+        "16": {
+          "keywd": "civil service organization"
+        },
+        "17": {
+          "keywd": "civil service administration"
+        },
+        "18": {
+          "keywd": "budget execution rate"
+        },
+        "19": {
+          "keywd": "management control"
+        },
+        "20": {
+          "keywd": "grade system"
+        },
+        "21": {
+          "keywd": "approved budget"
+        },
+        "22": {
+          "keywd": "civil works"
+        },
+        "23": {
+          "keywd": "budget formulation"
+        },
+        "24": {
+          "keywd": "electronic procurement"
+        },
+        "25": {
+          "keywd": "Centralized Procurement"
+        },
+        "26": {
+          "keywd": "government decision"
+        },
+        "27": {
+          "keywd": "systems maintenance"
+        },
+        "28": {
+          "keywd": "procurement cycle"
+        },
+        "29": {
+          "keywd": "e-government application"
+        },
+        "30": {
+          "keywd": "contract implementation"
+        },
+        "31": {
+          "keywd": "fiscal value"
+        },
+        "32": {
+          "keywd": "outcome indicator"
+        },
+        "33": {
+          "keywd": "budget indicator"
+        },
+        "34": {
+          "keywd": "contract management"
+        },
+        "35": {
+          "keywd": "electronic contract"
+        },
+        "36": {
+          "keywd": "procurement system"
+        },
+        "37": {
+          "keywd": "primary budget"
+        },
+        "38": {
+          "keywd": "contract completion"
+        },
+        "39": {
+          "keywd": "data links"
+        },
+        "40": {
+          "keywd": "network equipment"
+        },
+        "41": {
+          "keywd": "expenditure outcome"
+        },
+        "42": {
+          "keywd": "software application"
+        },
+        "43": {
+          "keywd": "data management"
+        },
+        "44": {
+          "keywd": "efficiency gain"
+        },
+        "45": {
+          "keywd": "core system"
+        },
+        "46": {
+          "keywd": "unit price"
+        },
+        "47": {
+          "keywd": "heating oil"
+        },
+        "48": {
+          "keywd": "air ticket"
+        },
+        "49": {
+          "keywd": "procurement procedure"
+        },
+        "50": {
+          "keywd": "contract price"
+        },
+        "51": {
+          "keywd": "enhanced security"
+        },
+        "52": {
+          "keywd": "data storage"
+        },
+        "53": {
+          "keywd": "data loss"
+        },
+        "54": {
+          "keywd": "data control"
+        },
+        "55": {
+          "keywd": "payroll management"
+        },
+        "56": {
+          "keywd": "fiscally sustainable"
+        },
+        "57": {
+          "keywd": "investment loan"
+        },
+        "58": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2016-01-15T22:33:19Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/784071468269998349/pdf/ISR-Disclosable-P101614-01-15-2016-1452897186779.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/784071468269998349/text/ISR-Disclosable-P101614-01-15-2016-1452897186779.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0840859ef",
+      "totvolnb": "1",
+      "historic_topic": "Finance and Financial Sector Development,Industry,International Economics and Trade,Private Sector Development,Public Sector Development",
+      "projectid": "P101614",
+      "guid": "784071468269998349",
+      "origu": "GOV PSI - ECA (GGO15)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/784071468269998349"
+    },
+    "D18725029": {
+      "id": "18725029",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Sulko, Evis"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082185e5a_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,De Facto Governments,Democratic Government,ICT Policy and Strategies,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR12159",
+      "docdt": "2013-12-28T05:00:00Z",
+      "datestored": "2013-12-28T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public procurement activity"
+        },
+        "1": {
+          "keywd": "government information system"
+        },
+        "2": {
+          "keywd": "budget organizations"
+        },
+        "3": {
+          "keywd": "budget submission"
+        },
+        "4": {
+          "keywd": "civil service registry"
+        },
+        "5": {
+          "keywd": "budget execution rate"
+        },
+        "6": {
+          "keywd": "Civil Service Reform"
+        },
+        "7": {
+          "keywd": "Public Financial Management"
+        },
+        "8": {
+          "keywd": "civil service training"
+        },
+        "9": {
+          "keywd": "human resource management"
+        },
+        "10": {
+          "keywd": "civil service organization"
+        },
+        "11": {
+          "keywd": "human service"
+        },
+        "12": {
+          "keywd": "quality indicators"
+        },
+        "13": {
+          "keywd": "approved budget"
+        },
+        "14": {
+          "keywd": "budget formulation"
+        },
+        "15": {
+          "keywd": "electronic procurement"
+        },
+        "16": {
+          "keywd": "international consultant"
+        },
+        "17": {
+          "keywd": "procurement tender"
+        },
+        "18": {
+          "keywd": "civil works"
+        },
+        "19": {
+          "keywd": "expenditure composition"
+        },
+        "20": {
+          "keywd": "data loss"
+        },
+        "21": {
+          "keywd": "data center"
+        },
+        "22": {
+          "keywd": "enhanced security"
+        },
+        "23": {
+          "keywd": "assessment methodology"
+        },
+        "24": {
+          "keywd": "budget objective"
+        },
+        "25": {
+          "keywd": "primary expenditure"
+        },
+        "26": {
+          "keywd": "budget outcome"
+        },
+        "27": {
+          "keywd": "systems maintenance"
+        },
+        "28": {
+          "keywd": "efficiency gain"
+        },
+        "29": {
+          "keywd": "treasury system"
+        },
+        "30": {
+          "keywd": "procurement cycle"
+        },
+        "31": {
+          "keywd": "electronic system"
+        },
+        "32": {
+          "keywd": "payroll management"
+        },
+        "33": {
+          "keywd": "budget plan"
+        },
+        "34": {
+          "keywd": "fiscal planning"
+        },
+        "35": {
+          "keywd": "e-government application"
+        },
+        "36": {
+          "keywd": "intermediate outcome"
+        },
+        "37": {
+          "keywd": "policy priority"
+        },
+        "38": {
+          "keywd": "contract negotiation"
+        },
+        "39": {
+          "keywd": "fiscally sustainable"
+        },
+        "40": {
+          "keywd": "Physical securities"
+        },
+        "41": {
+          "keywd": "personnel data"
+        },
+        "42": {
+          "keywd": "data management"
+        },
+        "43": {
+          "keywd": "management control"
+        },
+        "44": {
+          "keywd": "outcome indicator"
+        },
+        "45": {
+          "keywd": "data storage"
+        },
+        "46": {
+          "keywd": "expenditure policy"
+        },
+        "47": {
+          "keywd": "contracting authority"
+        },
+        "48": {
+          "keywd": "contract management"
+        },
+        "49": {
+          "keywd": "data links"
+        },
+        "50": {
+          "keywd": "Medicine"
+        },
+        "51": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2013-12-28T23:26:57Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/865841468293146817/pdf/ISR-Disclosable-P101614-12-28-2013-1388273208580.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/865841468293146817/text/ISR-Disclosable-P101614-12-28-2013-1388273208580.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082185e5a",
+      "totvolnb": "1",
+      "projectid": "P101614",
+      "guid": "865841468293146817",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/865841468293146817"
+    },
+    "D24751413": {
+      "id": "24751413",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Kisunko, Gregory"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082fd51cd_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,De Facto Governments,Democratic Government,Educational Sciences,Food Security,Health Care Services Industry,ICT Policy and Strategies,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR20071",
+      "docdt": "2015-07-07T04:00:00Z",
+      "datestored": "2015-07-07T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "quality indicators"
+        },
+        "1": {
+          "keywd": "budget organizations"
+        },
+        "2": {
+          "keywd": "human resource management"
+        },
+        "3": {
+          "keywd": "public sector modernization"
+        },
+        "4": {
+          "keywd": "government information system"
+        },
+        "5": {
+          "keywd": "public procurement activity"
+        },
+        "6": {
+          "keywd": "public procurement tender"
+        },
+        "7": {
+          "keywd": "civil service administration"
+        },
+        "8": {
+          "keywd": "budget execution rate"
+        },
+        "9": {
+          "keywd": "Public Financial Management"
+        },
+        "10": {
+          "keywd": "civil service training"
+        },
+        "11": {
+          "keywd": "central government agency"
+        },
+        "12": {
+          "keywd": "civil service registry"
+        },
+        "13": {
+          "keywd": "electronic procurement"
+        },
+        "14": {
+          "keywd": "procurement contract"
+        },
+        "15": {
+          "keywd": "systems maintenance"
+        },
+        "16": {
+          "keywd": "approved budget"
+        },
+        "17": {
+          "keywd": "management control"
+        },
+        "18": {
+          "keywd": "budget formulation"
+        },
+        "19": {
+          "keywd": "data loss"
+        },
+        "20": {
+          "keywd": "budget submission"
+        },
+        "21": {
+          "keywd": "grade structure"
+        },
+        "22": {
+          "keywd": "enhanced security"
+        },
+        "23": {
+          "keywd": "data storage"
+        },
+        "24": {
+          "keywd": "government institution"
+        },
+        "25": {
+          "keywd": "performance performance"
+        },
+        "26": {
+          "keywd": "data links"
+        },
+        "27": {
+          "keywd": "data center"
+        },
+        "28": {
+          "keywd": "assessment methodology"
+        },
+        "29": {
+          "keywd": "fiscally sustainable"
+        },
+        "30": {
+          "keywd": "contracting authority"
+        },
+        "31": {
+          "keywd": "procurement cycle"
+        },
+        "32": {
+          "keywd": "e-government application"
+        },
+        "33": {
+          "keywd": "payroll management"
+        },
+        "34": {
+          "keywd": "electronic system"
+        },
+        "35": {
+          "keywd": "efficiency gain"
+        },
+        "36": {
+          "keywd": "data management"
+        },
+        "37": {
+          "keywd": "program effectiveness"
+        },
+        "38": {
+          "keywd": "investment loan"
+        },
+        "39": {
+          "keywd": "contract management"
+        },
+        "40": {
+          "keywd": "Agriculture"
+        },
+        "41": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2015-07-07T11:41:53Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/224101468038939507/pdf/ISR-Disclosable-P101614-07-07-2015-1436269300367.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/224101468038939507/text/ISR-Disclosable-P101614-07-07-2015-1436269300367.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b082fd51cd",
+      "totvolnb": "1",
+      "projectid": "P101614",
+      "guid": "224101468038939507",
+      "origu": "Governance - GP (GGODR)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/224101468038939507"
+    },
+    "D26681093": {
+      "id": "26681093",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Kisunko, Gregory"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0844db4a3_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,De Facto Governments,Democratic Government,Educational Sciences,Health Care Services Industry,Judicial System Reform,Legal Products,Legal Reform,Legislation,Public Finance Decentralization and Poverty Reduction,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR24749",
+      "docdt": "2016-08-10T04:00:00Z",
+      "datestored": "2016-08-10T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "extension of closing date"
+        },
+        "1": {
+          "keywd": "electronic information system"
+        },
+        "2": {
+          "keywd": "government institution"
+        },
+        "3": {
+          "keywd": "public sector modernization"
+        },
+        "4": {
+          "keywd": "government information system"
+        },
+        "5": {
+          "keywd": "human resource management"
+        },
+        "6": {
+          "keywd": "contracts for supply"
+        },
+        "7": {
+          "keywd": "budget organizations"
+        },
+        "8": {
+          "keywd": "budget execution rate"
+        },
+        "9": {
+          "keywd": "civil service registry"
+        },
+        "10": {
+          "keywd": "public procurement activity"
+        },
+        "11": {
+          "keywd": "government job"
+        },
+        "12": {
+          "keywd": "central government agency"
+        },
+        "13": {
+          "keywd": "public procurement tender"
+        },
+        "14": {
+          "keywd": "Public Financial Management"
+        },
+        "15": {
+          "keywd": "Public Procurement System"
+        },
+        "16": {
+          "keywd": "grade structure"
+        },
+        "17": {
+          "keywd": "quality indicators"
+        },
+        "18": {
+          "keywd": "procurement contract"
+        },
+        "19": {
+          "keywd": "civil works"
+        },
+        "20": {
+          "keywd": "budget formulation"
+        },
+        "21": {
+          "keywd": "management control"
+        },
+        "22": {
+          "keywd": "job classification"
+        },
+        "23": {
+          "keywd": "contract completion"
+        },
+        "24": {
+          "keywd": "data storage"
+        },
+        "25": {
+          "keywd": "systems maintenance"
+        },
+        "26": {
+          "keywd": "data center"
+        },
+        "27": {
+          "keywd": "approved budget"
+        },
+        "28": {
+          "keywd": "contract management"
+        },
+        "29": {
+          "keywd": "electronic procurement"
+        },
+        "30": {
+          "keywd": "heating oil"
+        },
+        "31": {
+          "keywd": "primary expenditure"
+        },
+        "32": {
+          "keywd": "administration service"
+        },
+        "33": {
+          "keywd": "budget submission"
+        },
+        "34": {
+          "keywd": "data links"
+        },
+        "35": {
+          "keywd": "government decision"
+        },
+        "36": {
+          "keywd": "e-government application"
+        },
+        "37": {
+          "keywd": "expenditure composition"
+        },
+        "38": {
+          "keywd": "payroll management"
+        },
+        "39": {
+          "keywd": "contract price"
+        },
+        "40": {
+          "keywd": "fiscally sustainable"
+        },
+        "41": {
+          "keywd": "investment loan"
+        },
+        "42": {
+          "keywd": "enhanced security"
+        },
+        "43": {
+          "keywd": "network equipment"
+        },
+        "44": {
+          "keywd": "procurement cycle"
+        },
+        "45": {
+          "keywd": "online application"
+        },
+        "46": {
+          "keywd": "data management"
+        },
+        "47": {
+          "keywd": "efficiency gain"
+        },
+        "48": {
+          "keywd": "software capacity"
+        },
+        "49": {
+          "keywd": "host security"
+        },
+        "50": {
+          "keywd": "business process"
+        },
+        "51": {
+          "keywd": "Centralized Procurement"
+        },
+        "52": {
+          "keywd": "financial constraint"
+        },
+        "53": {
+          "keywd": "data loss"
+        },
+        "54": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2016-08-10T18:53:39Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/674631470855220475/pdf/ISR-Disclosable-P101614-08-10-2016-1470855206588.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/674631470855220475/text/ISR-Disclosable-P101614-08-10-2016-1470855206588.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0844db4a3",
+      "totvolnb": "1",
+      "projectid": "P101614",
+      "guid": "674631470855220475",
+      "origu": "GOV PSI - ECA (GGO15)",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/674631470855220475"
+    },
+    "D23805349": {
+      "id": "23805349",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0829bd0ad_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,De Facto Governments,Democratic Government,Educational Sciences,Food Security,ICT Policy and Strategies,Judicial System Reform,Legal Products,Legal Reform,Legislation,Public Finance Decentralization and Poverty Reduction,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR16587",
+      "docdt": "2015-01-15T05:00:00Z",
+      "datestored": "2015-01-15T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "budget organizations"
+        },
+        "1": {
+          "keywd": "government information system"
+        },
+        "2": {
+          "keywd": "public sector modernization"
+        },
+        "3": {
+          "keywd": "human resource management"
+        },
+        "4": {
+          "keywd": "Public Financial Management"
+        },
+        "5": {
+          "keywd": "allocation of saving"
+        },
+        "6": {
+          "keywd": "capital investment expenditure"
+        },
+        "7": {
+          "keywd": "budget execution rate"
+        },
+        "8": {
+          "keywd": "Exchange Rates"
+        },
+        "9": {
+          "keywd": "delivery to citizen"
+        },
+        "10": {
+          "keywd": "civil service administration"
+        },
+        "11": {
+          "keywd": "civil service registry"
+        },
+        "12": {
+          "keywd": "civil service training"
+        },
+        "13": {
+          "keywd": "public procurement tender"
+        },
+        "14": {
+          "keywd": "public procurement activity"
+        },
+        "15": {
+          "keywd": "Public Sector Governance"
+        },
+        "16": {
+          "keywd": "management control"
+        },
+        "17": {
+          "keywd": "supervision cycle"
+        },
+        "18": {
+          "keywd": "systems maintenance"
+        },
+        "19": {
+          "keywd": "approved budget"
+        },
+        "20": {
+          "keywd": "quality indicators"
+        },
+        "21": {
+          "keywd": "Centralized Procurement"
+        },
+        "22": {
+          "keywd": "international consultant"
+        },
+        "23": {
+          "keywd": "budget formulation"
+        },
+        "24": {
+          "keywd": "electronic procurement"
+        },
+        "25": {
+          "keywd": "civil works"
+        },
+        "26": {
+          "keywd": "general elections"
+        },
+        "27": {
+          "keywd": "grade structure"
+        },
+        "28": {
+          "keywd": "outcome indicator"
+        },
+        "29": {
+          "keywd": "budget indicator"
+        },
+        "30": {
+          "keywd": "data loss"
+        },
+        "31": {
+          "keywd": "data storage"
+        },
+        "32": {
+          "keywd": "enhanced security"
+        },
+        "33": {
+          "keywd": "transactions cost"
+        },
+        "34": {
+          "keywd": "personnel planning"
+        },
+        "35": {
+          "keywd": "procurement contract"
+        },
+        "36": {
+          "keywd": "payroll management"
+        },
+        "37": {
+          "keywd": "performance performance"
+        },
+        "38": {
+          "keywd": "assessment methodology"
+        },
+        "39": {
+          "keywd": "e-government application"
+        },
+        "40": {
+          "keywd": "political stalemate"
+        },
+        "41": {
+          "keywd": "fiscally sustainable"
+        },
+        "42": {
+          "keywd": "program effectiveness"
+        },
+        "43": {
+          "keywd": "data management"
+        },
+        "44": {
+          "keywd": "investment loan"
+        },
+        "45": {
+          "keywd": "efficiency gain"
+        },
+        "46": {
+          "keywd": "data links"
+        },
+        "47": {
+          "keywd": "contract management"
+        },
+        "48": {
+          "keywd": "budget performance"
+        },
+        "49": {
+          "keywd": "electronic system"
+        },
+        "50": {
+          "keywd": "budget process"
+        },
+        "51": {
+          "keywd": "procurement cycle"
+        },
+        "52": {
+          "keywd": "contracting authority"
+        },
+        "53": {
+          "keywd": "Agriculture"
+        },
+        "54": {
+          "keywd": "expenditure composition"
+        },
+        "55": {
+          "keywd": "justice sector"
+        },
+        "56": {
+          "keywd": "government institution"
+        },
+        "57": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2015-01-15T20:51:51Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/602991468285622512/pdf/ISR-Disclosable-P101614-01-15-2015-1421355098088.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/602991468285622512/text/ISR-Disclosable-P101614-01-15-2015-1421355098088.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0829bd0ad",
+      "totvolnb": "1",
+      "projectid": "P101614",
+      "guid": "602991468285622512",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/602991468285622512"
+    },
+    "D17483395": {
+      "id": "17483395",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Sulko, Evis"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081a18950_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,De Facto Governments,Democratic Government,ICT Policy and Strategies,Judicial System Reform,Legal Products,Legal Reform,Legislation,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR9715",
+      "docdt": "2013-03-25T04:00:00Z",
+      "datestored": "2013-03-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public procurement activity"
+        },
+        "1": {
+          "keywd": "government information system"
+        },
+        "2": {
+          "keywd": "budget submission"
+        },
+        "3": {
+          "keywd": "contracting authority"
+        },
+        "4": {
+          "keywd": "human service"
+        },
+        "5": {
+          "keywd": "civil works"
+        },
+        "6": {
+          "keywd": "civil service registry"
+        },
+        "7": {
+          "keywd": "quality indicators"
+        },
+        "8": {
+          "keywd": "procurement tender"
+        },
+        "9": {
+          "keywd": "Performance Appraisal System"
+        },
+        "10": {
+          "keywd": "electronic procurement"
+        },
+        "11": {
+          "keywd": "civil service organization"
+        },
+        "12": {
+          "keywd": "budget execution rate"
+        },
+        "13": {
+          "keywd": "budget formulation"
+        },
+        "14": {
+          "keywd": "budget organizations"
+        },
+        "15": {
+          "keywd": "human resource management"
+        },
+        "16": {
+          "keywd": "approved budget"
+        },
+        "17": {
+          "keywd": "civil service training"
+        },
+        "18": {
+          "keywd": "Public Financial Management"
+        },
+        "19": {
+          "keywd": "Physical securities"
+        },
+        "20": {
+          "keywd": "job classification"
+        },
+        "21": {
+          "keywd": "enhanced security"
+        },
+        "22": {
+          "keywd": "data center"
+        },
+        "23": {
+          "keywd": "personnel data"
+        },
+        "24": {
+          "keywd": "budget circular"
+        },
+        "25": {
+          "keywd": "management control"
+        },
+        "26": {
+          "keywd": "data loss"
+        },
+        "27": {
+          "keywd": "data storage"
+        },
+        "28": {
+          "keywd": "treasury system"
+        },
+        "29": {
+          "keywd": "data links"
+        },
+        "30": {
+          "keywd": "electronic system"
+        },
+        "31": {
+          "keywd": "procurement cycle"
+        },
+        "32": {
+          "keywd": "policy priority"
+        },
+        "33": {
+          "keywd": "budget objective"
+        },
+        "34": {
+          "keywd": "budget plan"
+        },
+        "35": {
+          "keywd": "outcome indicator"
+        },
+        "36": {
+          "keywd": "expenditure composition"
+        },
+        "37": {
+          "keywd": "primary expenditure"
+        },
+        "38": {
+          "keywd": "systems maintenance"
+        },
+        "39": {
+          "keywd": "e-government application"
+        },
+        "40": {
+          "keywd": "assessment methodology"
+        },
+        "41": {
+          "keywd": "data management"
+        },
+        "42": {
+          "keywd": "payroll management"
+        },
+        "43": {
+          "keywd": "fiscally sustainable"
+        },
+        "44": {
+          "keywd": "efficiency gain"
+        },
+        "45": {
+          "keywd": "procurement process"
+        },
+        "46": {
+          "keywd": "financial agreement"
+        },
+        "47": {
+          "keywd": "expenditure policy"
+        },
+        "48": {
+          "keywd": "fiscal planning"
+        },
+        "49": {
+          "keywd": "intermediate outcome"
+        },
+        "50": {
+          "keywd": "Centralized Procurement"
+        },
+        "51": {
+          "keywd": "functional requirements"
+        },
+        "52": {
+          "keywd": "Medicine"
+        },
+        "53": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2013-03-25T16:42:01Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/216931468038340035/pdf/ISR-Disclosable-P101614-03-25-2013-1364229711659.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/216931468038340035/text/ISR-Disclosable-P101614-03-25-2013-1364229711659.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b081a18950",
+      "totvolnb": "1",
+      "projectid": "P101614",
+      "guid": "216931468038340035",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/216931468038340035"
+    },
+    "D19565743": {
+      "id": "19565743",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Sulko, Evis"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08249b131_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,De Facto Governments,Democratic Government,ICT Policy and Strategies,Judicial System Reform,Legal Products,Legal Reform,Legislation,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR13988",
+      "docdt": "2014-05-25T04:00:00Z",
+      "datestored": "2014-05-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "government information system"
+        },
+        "1": {
+          "keywd": "budget organizations"
+        },
+        "2": {
+          "keywd": "public procurement activity"
+        },
+        "3": {
+          "keywd": "budget submission"
+        },
+        "4": {
+          "keywd": "civil service training"
+        },
+        "5": {
+          "keywd": "civil service organization"
+        },
+        "6": {
+          "keywd": "budget execution rate"
+        },
+        "7": {
+          "keywd": "human service"
+        },
+        "8": {
+          "keywd": "Public Financial Management"
+        },
+        "9": {
+          "keywd": "delivery to citizen"
+        },
+        "10": {
+          "keywd": "human resource management"
+        },
+        "11": {
+          "keywd": "civil service registry"
+        },
+        "12": {
+          "keywd": "procurement tender"
+        },
+        "13": {
+          "keywd": "electronic procurement"
+        },
+        "14": {
+          "keywd": "data center"
+        },
+        "15": {
+          "keywd": "civil works"
+        },
+        "16": {
+          "keywd": "government commitment"
+        },
+        "17": {
+          "keywd": "approved budget"
+        },
+        "18": {
+          "keywd": "quality indicators"
+        },
+        "19": {
+          "keywd": "budget formulation"
+        },
+        "20": {
+          "keywd": "Centralized Procurement"
+        },
+        "21": {
+          "keywd": "contract management"
+        },
+        "22": {
+          "keywd": "supervision cycle"
+        },
+        "23": {
+          "keywd": "outcome indicator"
+        },
+        "24": {
+          "keywd": "fiscal planning"
+        },
+        "25": {
+          "keywd": "intermediate outcome"
+        },
+        "26": {
+          "keywd": "procurement cycle"
+        },
+        "27": {
+          "keywd": "electronic system"
+        },
+        "28": {
+          "keywd": "fiscal implication"
+        },
+        "29": {
+          "keywd": "contracting authority"
+        },
+        "30": {
+          "keywd": "expenditure policy"
+        },
+        "31": {
+          "keywd": "budget outcome"
+        },
+        "32": {
+          "keywd": "primary expenditure"
+        },
+        "33": {
+          "keywd": "expenditure composition"
+        },
+        "34": {
+          "keywd": "political cycle"
+        },
+        "35": {
+          "keywd": "budget plan"
+        },
+        "36": {
+          "keywd": "budget objective"
+        },
+        "37": {
+          "keywd": "policy priority"
+        },
+        "38": {
+          "keywd": "international consultant"
+        },
+        "39": {
+          "keywd": "contract negotiation"
+        },
+        "40": {
+          "keywd": "Physical securities"
+        },
+        "41": {
+          "keywd": "data storage"
+        },
+        "42": {
+          "keywd": "data loss"
+        },
+        "43": {
+          "keywd": "enhanced security"
+        },
+        "44": {
+          "keywd": "fiscally sustainable"
+        },
+        "45": {
+          "keywd": "monitoring indicator"
+        },
+        "46": {
+          "keywd": "assessment methodology"
+        },
+        "47": {
+          "keywd": "e-government application"
+        },
+        "48": {
+          "keywd": "data management"
+        },
+        "49": {
+          "keywd": "efficiency gain"
+        },
+        "50": {
+          "keywd": "payroll management"
+        },
+        "51": {
+          "keywd": "data links"
+        },
+        "52": {
+          "keywd": "systems maintenance"
+        },
+        "53": {
+          "keywd": "financial agreement"
+        },
+        "54": {
+          "keywd": "staff capacity"
+        },
+        "55": {
+          "keywd": "budgetary institution"
+        },
+        "56": {
+          "keywd": "procurement reform"
+        },
+        "57": {
+          "keywd": "job classification"
+        },
+        "58": {
+          "keywd": "general elections"
+        },
+        "59": {
+          "keywd": "treasury system"
+        },
+        "60": {
+          "keywd": "personnel data"
+        },
+        "61": {
+          "keywd": "important component"
+        },
+        "62": {
+          "keywd": "local capacity"
+        },
+        "63": {
+          "keywd": "management control"
+        },
+        "64": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2014-05-25T22:55:06Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/962111468047107200/pdf/ISR-Disclosable-P101614-05-25-2014-1401058493705.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/962111468047107200/text/ISR-Disclosable-P101614-05-25-2014-1401058493705.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b08249b131",
+      "totvolnb": "1",
+      "projectid": "P101614",
+      "guid": "962111468047107200",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/962111468047107200"
+    },
+    "D15582893": {
+      "id": "15582893",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Rontoyanni, Clelia Kalliopi Helena"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization : P101614 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011122722264893"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Judicial System Reform,Legal Products,Legal Reform,Legislation,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR5021",
+      "docdt": "2011-12-27T05:00:00Z",
+      "datestored": "2011-12-27T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "job classification"
+        },
+        "1": {
+          "keywd": "government information system"
+        },
+        "2": {
+          "keywd": "Public Financial Management"
+        },
+        "3": {
+          "keywd": "civil service pay"
+        },
+        "4": {
+          "keywd": "draft regulation"
+        },
+        "5": {
+          "keywd": "procurement activities"
+        },
+        "6": {
+          "keywd": "project effectiveness"
+        },
+        "7": {
+          "keywd": "procurement documents"
+        },
+        "8": {
+          "keywd": "financial agreement"
+        },
+        "9": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization : P101614 - Implementation Status Results Report : Sequence 03"
+      },
+      "display_title": "Kosovo - Public Sector Modernization : P101614 - Implementation Status Results Report : Sequence 03",
+      "pdfurl": "http://documents.worldbank.org/curated/en/560311468753290299/pdf/P1016140ISR0Di027201101325042807236.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/560311468753290299/text/P1016140ISR0Di027201101325042807236.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b0811882c1",
+      "totvolnb": "1",
+      "projectid": "P101614",
+      "guid": "560311468753290299",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/560311468753290299"
+    },
+    "D13083693": {
+      "id": "13083693",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Dillinger, William R."
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization : P101614 - Implementation Status Results Report : Sequence 01"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2010111514453393"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,Customs and Trade,De Facto Governments,Democratic Government,ICT Policy and Strategies,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2010-11-15T05:00:00Z",
+      "datestored": "2010-11-15T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "project effectiveness"
+        },
+        "1": {
+          "keywd": "human resource management"
+        },
+        "2": {
+          "keywd": "expressions of interest"
+        },
+        "3": {
+          "keywd": "budget execution"
+        },
+        "4": {
+          "keywd": "budget organizations"
+        },
+        "5": {
+          "keywd": "effectiveness condition"
+        },
+        "6": {
+          "keywd": "budget submission"
+        },
+        "7": {
+          "keywd": "public procurement activity"
+        },
+        "8": {
+          "keywd": "civil service training"
+        },
+        "9": {
+          "keywd": "public procurement tender"
+        },
+        "10": {
+          "keywd": "budget execution rate"
+        },
+        "11": {
+          "keywd": "civil service registry"
+        },
+        "12": {
+          "keywd": "Public Financial Management"
+        },
+        "13": {
+          "keywd": "financial management specialist"
+        },
+        "14": {
+          "keywd": "government information system"
+        },
+        "15": {
+          "keywd": "condition of effectiveness"
+        },
+        "16": {
+          "keywd": "enactment of law"
+        },
+        "17": {
+          "keywd": "quality indicators"
+        },
+        "18": {
+          "keywd": "data center"
+        },
+        "19": {
+          "keywd": "electronic procurement"
+        },
+        "20": {
+          "keywd": "approved budget"
+        },
+        "21": {
+          "keywd": "data storage"
+        },
+        "22": {
+          "keywd": "systems maintenance"
+        },
+        "23": {
+          "keywd": "budget formulation"
+        },
+        "24": {
+          "keywd": "civil works"
+        },
+        "25": {
+          "keywd": "procurement notice"
+        },
+        "26": {
+          "keywd": "legal obligation"
+        },
+        "27": {
+          "keywd": "prospective bidder"
+        },
+        "28": {
+          "keywd": "fiscally sustainable"
+        },
+        "29": {
+          "keywd": "data management"
+        },
+        "30": {
+          "keywd": "grade system"
+        },
+        "31": {
+          "keywd": "procurement procedure"
+        },
+        "32": {
+          "keywd": "system efficiency"
+        },
+        "33": {
+          "keywd": "budget circular"
+        },
+        "34": {
+          "keywd": "outcome indicator"
+        },
+        "35": {
+          "keywd": "primary expenditure"
+        },
+        "36": {
+          "keywd": "electronic contract"
+        },
+        "37": {
+          "keywd": "procurement cycle"
+        },
+        "38": {
+          "keywd": "procurement activities"
+        },
+        "39": {
+          "keywd": "contracting authority"
+        },
+        "40": {
+          "keywd": "secondary legislation"
+        },
+        "41": {
+          "keywd": "payroll control"
+        },
+        "42": {
+          "keywd": "e-government application"
+        },
+        "43": {
+          "keywd": "data control"
+        },
+        "44": {
+          "keywd": "Physical securities"
+        },
+        "45": {
+          "keywd": "payroll management"
+        },
+        "46": {
+          "keywd": "policy priority"
+        },
+        "47": {
+          "keywd": "budget objective"
+        },
+        "48": {
+          "keywd": "budget plan"
+        },
+        "49": {
+          "keywd": "data loss"
+        },
+        "50": {
+          "keywd": "intermediate outcome"
+        },
+        "51": {
+          "keywd": "fiscal planning"
+        },
+        "52": {
+          "keywd": "expenditure policy"
+        },
+        "53": {
+          "keywd": "procurement process"
+        },
+        "54": {
+          "keywd": "management control"
+        },
+        "55": {
+          "keywd": "disbursement condition"
+        },
+        "56": {
+          "keywd": "grade structure"
+        },
+        "57": {
+          "keywd": "civil law"
+        },
+        "58": {
+          "keywd": "civil administration"
+        },
+        "59": {
+          "keywd": "assessment methodology"
+        },
+        "60": {
+          "keywd": "data links"
+        },
+        "61": {
+          "keywd": "personnel data"
+        },
+        "62": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Kosovo - Public Sector Modernization : P101614 - Implementation Status Results Report : Sequence 01",
+      "disclosure_date": "2010-11-15T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/857351468753289548/pdf/P1016140ISR0Di011520101289850347280.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/857351468753289548/text/P1016140ISR0Di011520101289850347280.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b0804355e8",
+      "projectid": "P101614",
+      "guid": "857351468753289548",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/857351468753289548"
+    },
+    "D16675536": {
+      "id": "16675536",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Sulko, Evis"
+        },
+        "1": {
+          "author": "Evis"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012090115442036"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,De Facto Governments,Democratic Government,ICT Policy and Strategies,Judicial System Reform,Legal Products,Legal Reform,Legislation,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics,Regulatory Regimes,Social Policy",
+      "sectr": {
+        "0": {
+          "sector": "FY17 - Public Administration"
+        }
+      },
+      "repnb": "ISR7462",
+      "docdt": "2012-09-01T04:00:00Z",
+      "datestored": "2012-09-01T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "public procurement activity"
+        },
+        "1": {
+          "keywd": "government information system"
+        },
+        "2": {
+          "keywd": "budget submission"
+        },
+        "3": {
+          "keywd": "civil service organization"
+        },
+        "4": {
+          "keywd": "budget execution rate"
+        },
+        "5": {
+          "keywd": "civil service training"
+        },
+        "6": {
+          "keywd": "human service"
+        },
+        "7": {
+          "keywd": "civil service registry"
+        },
+        "8": {
+          "keywd": "Performance Appraisal System"
+        },
+        "9": {
+          "keywd": "human resource management"
+        },
+        "10": {
+          "keywd": "Public Financial Management"
+        },
+        "11": {
+          "keywd": "budget organizations"
+        },
+        "12": {
+          "keywd": "data center"
+        },
+        "13": {
+          "keywd": "contracting authority"
+        },
+        "14": {
+          "keywd": "job classification"
+        },
+        "15": {
+          "keywd": "quality indicators"
+        },
+        "16": {
+          "keywd": "electronic procurement"
+        },
+        "17": {
+          "keywd": "approved budget"
+        },
+        "18": {
+          "keywd": "civil works"
+        },
+        "19": {
+          "keywd": "budget formulation"
+        },
+        "20": {
+          "keywd": "procurement tender"
+        },
+        "21": {
+          "keywd": "fiscally sustainable"
+        },
+        "22": {
+          "keywd": "enhanced security"
+        },
+        "23": {
+          "keywd": "electronic system"
+        },
+        "24": {
+          "keywd": "data management"
+        },
+        "25": {
+          "keywd": "procurement cycle"
+        },
+        "26": {
+          "keywd": "data storage"
+        },
+        "27": {
+          "keywd": "data links"
+        },
+        "28": {
+          "keywd": "treasury system"
+        },
+        "29": {
+          "keywd": "personnel data"
+        },
+        "30": {
+          "keywd": "management control"
+        },
+        "31": {
+          "keywd": "primary expenditure"
+        },
+        "32": {
+          "keywd": "expenditure composition"
+        },
+        "33": {
+          "keywd": "outcome indicator"
+        },
+        "34": {
+          "keywd": "procurement procedure"
+        },
+        "35": {
+          "keywd": "e-government application"
+        },
+        "36": {
+          "keywd": "intermediate outcome"
+        },
+        "37": {
+          "keywd": "fiscal planning"
+        },
+        "38": {
+          "keywd": "budget plan"
+        },
+        "39": {
+          "keywd": "expenditure policy"
+        },
+        "40": {
+          "keywd": "payroll management"
+        },
+        "41": {
+          "keywd": "financial agreement"
+        },
+        "42": {
+          "keywd": "budget objective"
+        },
+        "43": {
+          "keywd": "policy priority"
+        },
+        "44": {
+          "keywd": "budget circular"
+        },
+        "45": {
+          "keywd": "systems maintenance"
+        },
+        "46": {
+          "keywd": "Physical securities"
+        },
+        "47": {
+          "keywd": "efficiency gain"
+        },
+        "48": {
+          "keywd": "data loss"
+        },
+        "49": {
+          "keywd": "assessment methodology"
+        },
+        "50": {
+          "keywd": "Centralized Procurement"
+        },
+        "51": {
+          "keywd": "functional requirements"
+        },
+        "52": {
+          "keywd": "procurement process"
+        },
+        "53": {
+          "keywd": "Medicine"
+        },
+        "54": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Kosovo - Public Sector Modernization Project : P101614 - Implementation Status Results Report : Sequence 04",
+      "pdfurl": "http://documents.worldbank.org/curated/en/160011468774559421/pdf/ISR0Disclosabl001201201346528659492.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/160011468774559421/text/ISR0Disclosabl001201201346528659492.txt",
+      "EnvironmentalCategory": "C",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081637489",
+      "totvolnb": "1",
+      "projectid": "P101614",
+      "guid": "160011468774559421",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/160011468774559421"
+    },
+    "D14261870": {
+      "id": "14261870",
+      "admreg": "Europe and Central Asia",
+      "authors": {
+        "0": {
+          "author": "Rontoyanni, Clelia Kalliopi Helena"
+        }
+      },
+      "count": "Kosovo",
+      "docna": {
+        "0": {
+          "docna": "Kosovo - Public Sector Modernization : P101614 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "XK-Public Sector Modernization Project -- P101614",
+      "subsc": "FY17 - Central Government (Central Agencies)",
+      "theme": "FY17 - Public Expenditure Management,FY17 - Administrative and Civil Service Reform,FY17 - Public Administration,FY17 - Public Finance Management,FY17 - Transparency, Accountability and Good Governance",
+      "prdln": "IBRD/IDA",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011052813272370"
+      },
+      "majtheme": "FY17 - Public Sector Management",
+      "subtopic": "Administrative & Civil Service Reform,Customs and Trade,De Facto Governments,Democratic Government,ICT Policy and Strategies,Public Finance Decentralization and Poverty Reduction,Public Financial Management,Public Sector Administrative & Civil Service Reform,Public Sector Administrative and Civil Service Reform,Public Sector Economics",
+      "sectr": {
+        "0": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2011-05-28T04:00:00Z",
+      "datestored": "2011-05-28T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "project effectiveness"
+        },
+        "1": {
+          "keywd": "human resource management"
+        },
+        "2": {
+          "keywd": "budget submission"
+        },
+        "3": {
+          "keywd": "budget organizations"
+        },
+        "4": {
+          "keywd": "budget execution"
+        },
+        "5": {
+          "keywd": "Public Financial Management"
+        },
+        "6": {
+          "keywd": "budget execution rate"
+        },
+        "7": {
+          "keywd": "public procurement tender"
+        },
+        "8": {
+          "keywd": "civil service training"
+        },
+        "9": {
+          "keywd": "expressions of interest"
+        },
+        "10": {
+          "keywd": "public procurement activity"
+        },
+        "11": {
+          "keywd": "civil service registry"
+        },
+        "12": {
+          "keywd": "government information system"
+        },
+        "13": {
+          "keywd": "electronic procurement"
+        },
+        "14": {
+          "keywd": "budget formulation"
+        },
+        "15": {
+          "keywd": "grade structure"
+        },
+        "16": {
+          "keywd": "data storage"
+        },
+        "17": {
+          "keywd": "systems maintenance"
+        },
+        "18": {
+          "keywd": "quality indicators"
+        },
+        "19": {
+          "keywd": "approved budget"
+        },
+        "20": {
+          "keywd": "procurement notice"
+        },
+        "21": {
+          "keywd": "civil administration"
+        },
+        "22": {
+          "keywd": "assessment methodology"
+        },
+        "23": {
+          "keywd": "data links"
+        },
+        "24": {
+          "keywd": "personnel data"
+        },
+        "25": {
+          "keywd": "data management"
+        },
+        "26": {
+          "keywd": "system efficiency"
+        },
+        "27": {
+          "keywd": "legal obligation"
+        },
+        "28": {
+          "keywd": "civil legislation"
+        },
+        "29": {
+          "keywd": "financial agreement"
+        },
+        "30": {
+          "keywd": "procurement procedure"
+        },
+        "31": {
+          "keywd": "outcome indicator"
+        },
+        "32": {
+          "keywd": "contracting authority"
+        },
+        "33": {
+          "keywd": "procurement activities"
+        },
+        "34": {
+          "keywd": "procurement cycle"
+        },
+        "35": {
+          "keywd": "electronic contract"
+        },
+        "36": {
+          "keywd": "primary expenditure"
+        },
+        "37": {
+          "keywd": "fiscal planning"
+        },
+        "38": {
+          "keywd": "fiscally sustainable"
+        },
+        "39": {
+          "keywd": "budget circular"
+        },
+        "40": {
+          "keywd": "policy priority"
+        },
+        "41": {
+          "keywd": "budget objective"
+        },
+        "42": {
+          "keywd": "Physical securities"
+        },
+        "43": {
+          "keywd": "budget plan"
+        },
+        "44": {
+          "keywd": "data control"
+        },
+        "45": {
+          "keywd": "data loss"
+        },
+        "46": {
+          "keywd": "intermediate outcome"
+        },
+        "47": {
+          "keywd": "data center"
+        },
+        "48": {
+          "keywd": "payroll management"
+        },
+        "49": {
+          "keywd": "e-government application"
+        },
+        "50": {
+          "keywd": "expenditure policy"
+        },
+        "51": {
+          "keywd": "budget activity"
+        },
+        "52": {
+          "keywd": "payroll control"
+        },
+        "53": {
+          "keywd": "management control"
+        },
+        "54": {
+          "keywd": "legal opinion"
+        },
+        "55": {
+          "keywd": "effectiveness condition"
+        },
+        "56": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Kosovo - Public Sector Modernization : P101614 - Implementation Status Results Report : Sequence 02",
+      "disclosure_date": "2011-05-28T04:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/496421468773711436/pdf/P1016140ISR0Di028201101306603643065.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/496421468773711436/text/P1016140ISR0Di028201101306603643065.txt",
+      "EnvironmentalCategory": "C",
+      "chronical_docm_id": "090224b080ccb34d",
+      "projectid": "P101614",
+      "guid": "496421468773711436",
+      "origu": "None",
+      "prdln_exact": "IBRD/IDA",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/496421468773711436"
+    },
+    "facets": {}
+  }
+}

@@ -1,0 +1,88 @@
+# =============================================================================
+# Central configuration — Development Program Outcome Prediction System
+# All paths are relative to the project root (the folder containing this file).
+# =============================================================================
+
+project:
+  name: Development Program Outcome Prediction System
+  random_seed: 42
+
+paths:
+  raw_data: data/raw/cleaned_development_program_dataset.csv
+  processed_dir: data/processed
+  reports_dir: reports
+  audit_dir: reports/data_audit
+  figures_dir: reports/figures
+  artifacts_dir: artifacts
+
+# --- Columns used for identification, grouping and record selection ----------
+columns:
+  project_id: Project ID
+  target_raw: IEG_Outcome
+  target: outcome_class          # created by target mapping
+  eval_date: IEG_EvalDate        # used ONLY to choose which evaluation label to keep
+  eval_type: IEG_EvalType        # used ONLY as a tie-breaker in record selection
+  approval_date: Approval Date
+  approval_fy: Approval FY
+
+# --- Target mapping (project-specific three-class grouping of IEG ratings) ---
+target:
+  class_order: [Successful, Partially Successful, Unsuccessful]
+  mapping:
+    Highly Satisfactory: Successful
+    Satisfactory: Successful
+    Moderately Satisfactory: Partially Successful
+    Moderately Unsatisfactory: Partially Successful
+    Unsatisfactory: Unsuccessful
+    Highly Unsatisfactory: Unsuccessful
+  excluded_labels: [Not Rated, Not Available, Not Applicable]
+
+# --- Repeated Project IDs: one evaluation per project ------------------------
+record_selection:
+  strategy: latest_rated_evaluation
+  # Tie-break when two evaluations share a date: higher priority wins.
+  # PAR = IEG Project Performance Assessment (field-based, supersedes earlier reviews)
+  eval_type_priority: [PAR, ES, EVM, PCR, PCN, PCM, CSSR]
+
+# --- Upstream imputation artifacts found during the Phase 0 audit ------------
+# The supplied "cleaned" file had missing values filled with a single constant.
+# These constants are treated as "value not reported" (NaN + indicator flag).
+upstream_imputation:
+  Lending Project Cost: 55700000.0
+
+# --- Stateless harmonisation -------------------------------------------------
+region_harmonisation:
+  AFE: AFR   # Africa East (post-2020 label) -> Africa
+  AFW: AFR   # Africa West (post-2020 label) -> Africa
+
+valid_approval_fy: [1940, 2025]
+
+split:
+  test_size: 0.20      # 80:20, stratified by outcome class
+
+cv:
+  n_splits: 5          # 5-fold stratified CV on the TRAINING set only
+
+feature_selection:
+  mi_min: 0.005        # mutual information (bits-ish units) below this = "weak"
+  chi2_p_max: 0.05     # chi-square p-value above this = "not significant"
+  redundancy_cramers_v: 0.90   # two categorical features this associated = redundant
+
+models:
+  gpc_subsample: 2000  # GPC cost grows with n^3; train on a stratified subsample
+  # TabPFN weights must be available locally (Hugging Face is unreachable in the
+  # dev workspace and newer versions need a licence acceptance). See README.
+  tabpfn_model_path: artifacts/tabpfn/tabpfn-v2-classifier-finetuned-zk73skhh.ckpt
+
+risk:
+  # Provisional, project-defined rule (NOT a validated decision threshold).
+  # Low risk needs: predicted Successful AND model score for Successful >= this value.
+  low_min_score_successful: 0.50
+
+# --- Approval-time predictive features (see reports/data_audit/feature_eligibility.csv)
+features:
+  categorical: [Region, Country Name, Sector Board, Agreement Type,
+                Lending Instrument Type, Lending Instrument, Product Line Code]
+  numerical: [Approval FY, Lending Project Cost]
+  # Derived in preprocessing (stateless): indicator that cost was not reported upstream
+  derived: [lending_cost_reported]

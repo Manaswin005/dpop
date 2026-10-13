@@ -1,0 +1,195 @@
+﻿                             The World Bank                                                                                                                                              Report No: ISR8343
+
+
+                                                                                                    Implementation Status & Results
+                                                                                                            Pacific Islands
+                                                                                           Pacific Regional Connectivity Program (P113184)
+Public Disclosure Copy
+
+
+
+
+                         Operation Name: Pacific Regional Connectivity Program (P113184)                     Project Stage:   Implementation         Seq.No: 2      Status: ARCHIVED    Archive Date:    14-Dec-2012
+                                                                              Country: Pacific Islands                                Approval FY:        2012
+                         Product Line: IBRD/IDA                               Region: EAST ASIA AND PACIFIC                           Lending Instrument: Adaptable Program Loan
+                         Implementing Agency(ies):
+
+                         Key Dates
+                         Board Approval Date      30-Aug-2011         Original Closing Date 23-Aug-2016             Planned Mid Term Review Date 25-Nov-2013                Last Archived ISR Date 11-Mar-2012
+                         Effectiveness Date       02-Nov-2011         Revised Closing Date 23-Aug-2016              Actual Mid Term Review Date
+
+                         Project Development Objectives
+                         Project Development Objective (from Project Appraisal Document)
+
+                         The objective of the Pacific Regional Connectivity Program is to reduce the cost and increase the availability of international bandwidth for participating countries, and
+                         thereby facilitate the development of a wide range of ICT applications to support social andeconomic development in the Pacific region.
+
+                          Phase 1. Tonga-Fiji Connectivity Project: The objective of the proposed Project isto improve the enabling environment for telecommunications and ICT in Tonga,
+                         including greater competition and increased access to infrastructure and services by reducing the costs of international connectivity and strengthening the
+                         telecommunications regulatory framework. Access to the capacity on this new infrastructure will be available on an open-access basis. Expected sector-specific
+                         outcomes are: (a) increased international connectivity; (b) improved enabling environment; and (c) increased access to ICT services.
+                         Has the Project Development Objective been changed since Board Approval of the Project?
+
+                            Yes           No
+
+                         Component(s)
+                         Component Name                                                                                                           Component Cost
+                         Component 1. Submarine cable system.                                                                                               32.20
+                         Component 2. Enabling environment: technical assistance for the Ministry of Information &                                           1.00
+Public Disclosure Copy
+
+
+
+
+                         Communications
+                         Component 3. Project management and administration                                                                                  0.80
+
+                         Overall Ratings
+                                                                  Previous Rating                        Current Rating
+                         Progress towards achievement of PDO      Satisfactory                           Moderately Satisfactory
+                         Overall Implementation Progress (IP)     Satisfactory                           Satisfactory
+                         Overall Risk Rating                                                             Moderate
+
+
+
+
+                                                                                                                                                                                                           Page 1 of 4
+                             The World Bank                                                                                                                                     Report No: ISR8343
+
+
+
+                         Implementation Status Overview
+                         The Project was declared effective on November 2, 2011. Overall implementation is progressing satisfactorily with the submarine cable system implementation underway, and set to
+                         become operational in July 2013. Component 2, which focuses on strengthening the enabling environment, is also progressing satisfactorily with legal, regulatory and capacity
+                         building advisers expected to begin work within the next few months. Component 3, project management, has improved significantly since the previous review. A project manager is
+Public Disclosure Copy
+
+
+
+
+                         in place and providing effective support to the implementing entities.
+
+
+                         Locations
+                         No Location data has been entered
+
+                         Results
+                         Project Development Objective Indicators
+                         Indicator Name                                     Core Unit of Measure               Baseline                       Current                           End Target
+                         International Internet bandwith                          Number           Value       37.00                          40.00                             2000.00
+                                                                                                   Date        29-Jul-2011                    26-Oct-2012                       30-Aug-2016
+                                                                                                   Comments    Mbps
+                         Increased capacity of MIC to deliver on its              Number           Value       1.00                           1.50                              5.00
+                         mandates                                                                  Date        29-Jul-2011                    26-Oct-2012                       30-Aug-2016
+                                                                                                   Comments
+                         Increased level of competition in the ICT sector         Number           Value       2.00                           5.00                              4.00
+                         (number of service providers)                                             Date                                       26-Oct-2012                       30-Aug-2016
+                                                                                                   Comments                                   The Ministry of Information
+                                                                                                                                              and Communications (MIC)
+                                                                                                                                              reports that there are now five
+                                                                                                                                              licensed internet service
+                                                                                                                                              providers (ISP)-including TCC
+                                                                                                                                              and Digicel, and that four
+                                                                                                                                              additional companies have
+                                                                                                                                              submitted license applications
+                                                                                                                                              to become ISPs.
+Public Disclosure Copy
+
+
+
+
+                         Access to Internet services (per 100 people)             Number           Value       1.00                                                             25.00
+                                                                                                   Date        29-Jul-2011                                                      30-Aug-2016
+                                                                                                   Comments
+                         Access to telephone services, mobile phone               Number           Value       59.00                                                            70.00
+                         (per 100 people)                                                          Date        29-Jul-2010                                                      30-Aug-2016
+                                                                                                   Comments
+
+
+                         Intermediate Results Indicators
+
+
+
+                                                                                                                                                                                                 Page 2 of 4
+                             The World Bank                                                                                                                                                         Report No: ISR8343
+
+
+
+                         Indicator Name                                     Core Unit of Measure                             Baseline                           Current                             End Target
+                         Component 1: Length of fiber optic network                   Kilometers              Value          0.00                               0.00                                827.00
+                         built (km)                                                                           Date           29-Jul-2011                        26-Oct-2012                         30-Aug-2016
+Public Disclosure Copy
+
+
+
+
+                                                                                                              Comments
+                         Component 1: Direct project beneficiareis                    Number                  Value          1000.00                            1100.00                             20000.00
+                         (people 50 percent female)                                                           Date           29-Jul-2011                        26-Oct-2012                         30-Aug-2016
+                                                                                                              Comments                                          65% female; 35% male
+                         Component 2: Price of wholesale international                Amount(USD)             Value          3600.00                            3600.00                             600.00
+                         capacity link                                                                        Date           29-Jul-2011                        26-Oct-2012                         30-Aug-2016
+                                                                                                              Comments
+                         Component 2: Volume of international traffic                 Number                  Value          30.00                              40.00                               400.00
+                         (Mbps)                                                                               Date           29-Jul-2011                        26-Oct-2012                         30-Aug-2016
+                                                                                                              Comments
+                         Component 2: Average per minute cost of                      Amount(USD)             Value          0.35                               0.35                                0.25
+                         international call                                                                   Date           29-Jul-2011                        26-Oct-2012                         30-Aug-2016
+                                                                                                              Comments
+                         Component 2: Retail price of Internet services               Amount(USD)             Value          716.00                             716.00                              300.00
+                         (per Mbps per month in $)                                                            Date           29-Jul-2011                        26-Oct-2012                         30-Aug-2016
+                                                                                                              Comments
+
+
+                         Data on Financial Performance (as of 13-Nov-2012)
+                         Financial Agreement(s) Key Dates
+                         Project              Ln/Cr/Tf                    Status                   Approval Date                 Signing Date           Effectiveness Date         Original Closing Date     Revised Closing Date
+                         P113184              IDA-H7310                   Effective                30-Aug-2011                   09-Sep-2011            02-Nov-2011                23-Aug-2016               23-Aug-2016
+                         P113184              TF-99368                    Effective                09-Sep-2011                   09-Sep-2011            09-Sep-2011                23-Aug-2016               23-Aug-2016
+Public Disclosure Copy
+
+
+
+
+                         Disbursements (in Millions)
+                         Project              Ln/Cr/Tf                    Status                   Currency           Original             Revised           Cancelled           Disbursed           Undisbursed          % Disbursed
+                         P113184              IDA-H7310                   Effective                USD                             17.20             17.20                0.00               1.39                15.08           8.00
+                         P113184              TF-99368                    Effective                USD                              0.50              0.50                0.00               0.00                  0.50          0.00
+
+
+                         Disbursement Graph
+
+
+
+
+                                                                                                                                                                                                                          Page 3 of 4
+                             The World Bank                                                                                                                                       Report No: ISR8343
+Public Disclosure Copy
+
+
+
+
+                         Key Decisions Regarding Implementation
+                         It was agreed that Tonga will conduct a robust public relations campaign to enhance the visibility of the Project to consumers (individuals and institutions), potential investors (both
+                         within Tonga and abroad), ISPs, and any other relevant stakeholders. This would involve the preparation of a marketing strategy for Tonga as an ICT destination, a consumer
+                         awareness campaign to ensure that the project is adopted and has the full envisaged impact on the direct beneficiaries, and media events including the preparation of a documentary
+                         film about ICT in Tonga. To ensure the success of these initiatives, the Government would need to engage a marketing/communications specialist to support this. These activities will
+                         raise the likelihood of PDO achievement.
+                         It was also agreed that the Government will review the issue of wholesale Internet pricing in the interest of maximizing the benefits of the new high-speed Internet connection, and
+                         also expedite implementation of the legal and regulatory support components.
+
+                         Restructuring History
+                         There has been no restructuring to date.
+Public Disclosure Copy
+
+
+
+
+                         Related Projects
+                         P128906-PW: Connectivity Project Phase X of Pacific Reg Connectivty Project
+
+
+
+
+                                                                                                                                                                                                     Page 4 of 4
+

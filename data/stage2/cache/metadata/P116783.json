@@ -1,0 +1,1039 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 8,
+  "documents": {
+    "D19726407": {
+      "id": "19726407",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-Senegal EFA-FTI Catalytic Fund -- P116783",
+      "subsc": "FY17 - Primary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Gender,FY17 - Education,FY17 - Education Financing",
+      "prdln": "Recipient Executed Activities",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082530ca8_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Educational Institutions & Facilities,Employment and Unemployment,Hydrology,Primary Education,Sanitation and Sewerage",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR15296",
+      "docdt": "2014-06-25T04:00:00Z",
+      "datestored": "2014-06-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "middle school"
+        },
+        "1": {
+          "keywd": "primary gross enrollment rate"
+        },
+        "2": {
+          "keywd": "procurement process"
+        },
+        "3": {
+          "keywd": "census data"
+        },
+        "4": {
+          "keywd": "auxiliary facility"
+        },
+        "5": {
+          "keywd": "school administration"
+        },
+        "6": {
+          "keywd": "number of classrooms"
+        },
+        "7": {
+          "keywd": "school construction program"
+        },
+        "8": {
+          "keywd": "primary completion rate"
+        },
+        "9": {
+          "keywd": "universal primary education"
+        },
+        "10": {
+          "keywd": "Recipient Executed Activities"
+        },
+        "11": {
+          "keywd": "basic education program"
+        },
+        "12": {
+          "keywd": "primary school classroom"
+        },
+        "13": {
+          "keywd": "dropout rate"
+        },
+        "14": {
+          "keywd": "high school"
+        },
+        "15": {
+          "keywd": "water point"
+        },
+        "16": {
+          "keywd": "financial agreement"
+        },
+        "17": {
+          "keywd": "government's policy"
+        },
+        "18": {
+          "keywd": "government use"
+        },
+        "19": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2014-06-25T15:31:06Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/336761468304190835/pdf/ISR-Disclosable-P116783-06-25-2014-1403710257383.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/336761468304190835/text/ISR-Disclosable-P116783-06-25-2014-1403710257383.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b082530ca8",
+      "totvolnb": "1",
+      "projectid": "P116783",
+      "guid": "336761468304190835",
+      "prdln_exact": "Recipient Executed Activities",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/336761468304190835"
+    },
+    "D17907422": {
+      "id": "17907422",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-Senegal EFA-FTI Catalytic Fund -- P116783",
+      "subsc": "FY17 - Primary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Gender,FY17 - Education,FY17 - Education Financing",
+      "prdln": "Recipient Executed Activities",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081c9c95b_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Primary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR11017",
+      "docdt": "2013-06-22T04:00:00Z",
+      "datestored": "2013-06-22T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "primary completion rate"
+        },
+        "1": {
+          "keywd": "primary gross enrollment rate"
+        },
+        "2": {
+          "keywd": "auxiliary facility"
+        },
+        "3": {
+          "keywd": "junior secondary school"
+        },
+        "4": {
+          "keywd": "universal primary education"
+        },
+        "5": {
+          "keywd": "Recipient Executed Activities"
+        },
+        "6": {
+          "keywd": "intake rate"
+        },
+        "7": {
+          "keywd": "primary level"
+        },
+        "8": {
+          "keywd": "Basic Education"
+        },
+        "9": {
+          "keywd": "financial agreement"
+        },
+        "10": {
+          "keywd": "procurement process"
+        },
+        "11": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 06",
+      "disclosure_date": "2013-06-22T23:14:52Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/340151468058786640/pdf/ISR-Disclosable-P116783-06-22-2013-1371942881408.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/340151468058786640/text/ISR-Disclosable-P116783-06-22-2013-1371942881408.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b081c9c95b",
+      "totvolnb": "1",
+      "projectid": "P116783",
+      "guid": "340151468058786640",
+      "prdln_exact": "Recipient Executed Activities",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/340151468058786640"
+    },
+    "D17110315": {
+      "id": "17110315",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-Senegal EFA-FTI Catalytic Fund -- P116783",
+      "subsc": "FY17 - Primary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Gender,FY17 - Education,FY17 - Education Financing",
+      "prdln": "Recipient Executed Activities",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08183756f_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Educational Institutions & Facilities,Hydrology,Primary Education,Sanitation and Sewerage",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR8782",
+      "docdt": "2012-12-23T05:00:00Z",
+      "datestored": "2012-12-23T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "primary gross enrollment rate"
+        },
+        "1": {
+          "keywd": "primary completion rate"
+        },
+        "2": {
+          "keywd": "junior secondary school"
+        },
+        "3": {
+          "keywd": "procurement process"
+        },
+        "4": {
+          "keywd": "Recipient Executed Activities"
+        },
+        "5": {
+          "keywd": "regional development agency"
+        },
+        "6": {
+          "keywd": "universal primary education"
+        },
+        "7": {
+          "keywd": "construction and equipment"
+        },
+        "8": {
+          "keywd": "auxiliary facility"
+        },
+        "9": {
+          "keywd": "school administration"
+        },
+        "10": {
+          "keywd": "water point"
+        },
+        "11": {
+          "keywd": "rainy season"
+        },
+        "12": {
+          "keywd": "Basic Education"
+        },
+        "13": {
+          "keywd": "school construction"
+        },
+        "14": {
+          "keywd": "remote area"
+        },
+        "15": {
+          "keywd": "school year"
+        },
+        "16": {
+          "keywd": "financial agreement"
+        },
+        "17": {
+          "keywd": "temporary structures"
+        },
+        "18": {
+          "keywd": "intake rate"
+        },
+        "19": {
+          "keywd": "primary level"
+        },
+        "20": {
+          "keywd": "dropout rate"
+        },
+        "21": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 05"
+      },
+      "display_title": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 05",
+      "disclosure_date": "2012-12-23T14:19:17Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/973491468058474506/pdf/ISR-Disclosable-P116783-12232012-1356272356790.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/973491468058474506/text/ISR-Disclosable-P116783-12232012-1356272356790.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08183756f",
+      "totvolnb": "1",
+      "projectid": "P116783",
+      "guid": "973491468058474506",
+      "prdln_exact": "Recipient Executed Activities",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/973491468058474506"
+    },
+    "D18732201": {
+      "id": "18732201",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-Senegal EFA-FTI Catalytic Fund -- P116783",
+      "subsc": "FY17 - Primary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Gender,FY17 - Education,FY17 - Education Financing",
+      "prdln": "Recipient Executed Activities",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08218d974_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Educational Institutions & Facilities,Hydrology,Primary Education,Sanitation and Sewerage",
+      "teratopic": "Education,Water Resources,Water Supply and Sanitation",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR13131",
+      "docdt": "2013-12-30T05:00:00Z",
+      "datestored": "2013-12-30T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "middle school"
+        },
+        "1": {
+          "keywd": "primary gross enrollment rate"
+        },
+        "2": {
+          "keywd": "primary completion rate"
+        },
+        "3": {
+          "keywd": "primary school classroom"
+        },
+        "4": {
+          "keywd": "basic education program"
+        },
+        "5": {
+          "keywd": "school construction program"
+        },
+        "6": {
+          "keywd": "universal primary education"
+        },
+        "7": {
+          "keywd": "Recipient Executed Activities"
+        },
+        "8": {
+          "keywd": "school administration"
+        },
+        "9": {
+          "keywd": "auxiliary facility"
+        },
+        "10": {
+          "keywd": "procurement process"
+        },
+        "11": {
+          "keywd": "water point"
+        },
+        "12": {
+          "keywd": "high school"
+        },
+        "13": {
+          "keywd": "rainy season"
+        },
+        "14": {
+          "keywd": "remote area"
+        },
+        "15": {
+          "keywd": "repetition rate"
+        },
+        "16": {
+          "keywd": "primary level"
+        },
+        "17": {
+          "keywd": "intake rate"
+        },
+        "18": {
+          "keywd": "government use"
+        },
+        "19": {
+          "keywd": "financial agreement"
+        },
+        "20": {
+          "keywd": "government's policy"
+        },
+        "21": {
+          "keywd": "dropout rate"
+        },
+        "22": {
+          "keywd": "result indicator"
+        },
+        "23": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2013-12-30T20:05:44Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/319761468105561298/pdf/ISR-Disclosable-P116783-12-30-2013-1388433936632.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/319761468105561298/text/ISR-Disclosable-P116783-12-30-2013-1388433936632.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b08218d974",
+      "totvolnb": "1",
+      "historic_topic": "Education,Water Resources,Water Supply and Sanitation",
+      "projectid": "P116783",
+      "guid": "319761468105561298",
+      "prdln_exact": "Recipient Executed Activities",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/319761468105561298"
+    },
+    "D20308359": {
+      "id": "20308359",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-Senegal EFA-FTI Catalytic Fund -- P116783",
+      "subsc": "FY17 - Primary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Gender,FY17 - Education,FY17 - Education Financing",
+      "prdln": "Recipient Executed Activities",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0827e02ac_1_0"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Education For All,Education for Development (superceded),Educational Populations,Educational Sciences,Hydrology,Primary Education,Sanitation and Sewerage",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "docdt": "2014-10-20T04:00:00Z",
+      "datestored": "2014-10-20T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "Quality Education for All"
+        },
+        "1": {
+          "keywd": "primary gross enrollment rate"
+        },
+        "2": {
+          "keywd": "junior secondary school"
+        },
+        "3": {
+          "keywd": "primary completion rate"
+        },
+        "4": {
+          "keywd": "basic education program"
+        },
+        "5": {
+          "keywd": "universal primary education"
+        },
+        "6": {
+          "keywd": "primary school graduate"
+        },
+        "7": {
+          "keywd": "construction and equipment"
+        },
+        "8": {
+          "keywd": "school construction program"
+        },
+        "9": {
+          "keywd": "management of school"
+        },
+        "10": {
+          "keywd": "junior secondary level"
+        },
+        "11": {
+          "keywd": "basic education system"
+        },
+        "12": {
+          "keywd": "Wage Bill Management"
+        },
+        "13": {
+          "keywd": "number of classrooms"
+        },
+        "14": {
+          "keywd": "Recipient Executed Activities"
+        },
+        "15": {
+          "keywd": "water point"
+        },
+        "16": {
+          "keywd": "dropout rate"
+        },
+        "17": {
+          "keywd": "Population Projection"
+        },
+        "18": {
+          "keywd": "procurement process"
+        },
+        "19": {
+          "keywd": "middle school"
+        },
+        "20": {
+          "keywd": "school administration"
+        },
+        "21": {
+          "keywd": "rural area"
+        },
+        "22": {
+          "keywd": "government use"
+        },
+        "23": {
+          "keywd": "additional water"
+        },
+        "24": {
+          "keywd": "safeguards requirement"
+        },
+        "25": {
+          "keywd": "regular supervision"
+        },
+        "26": {
+          "keywd": "primary level"
+        },
+        "27": {
+          "keywd": "resettlement issue"
+        },
+        "28": {
+          "keywd": "personnel management"
+        },
+        "29": {
+          "keywd": "gender target"
+        },
+        "30": {
+          "keywd": "repetition rate"
+        },
+        "31": {
+          "keywd": "education efficiency"
+        },
+        "32": {
+          "keywd": "intake rate"
+        },
+        "33": {
+          "keywd": "statistical yearbook"
+        },
+        "34": {
+          "keywd": "population census"
+        },
+        "35": {
+          "keywd": "population data"
+        },
+        "36": {
+          "keywd": "management improvement"
+        },
+        "37": {
+          "keywd": "government's policy"
+        },
+        "38": {
+          "keywd": "financial agreement"
+        },
+        "39": {
+          "keywd": "project datum"
+        },
+        "40": {
+          "keywd": "auxiliary facility"
+        },
+        "41": {
+          "keywd": "development policy"
+        },
+        "42": {
+          "keywd": "government goal"
+        },
+        "43": {
+          "keywd": "government structure"
+        },
+        "44": {
+          "keywd": "health facility"
+        },
+        "45": {
+          "keywd": "management software"
+        },
+        "46": {
+          "keywd": "contract management"
+        },
+        "47": {
+          "keywd": "monitoring data"
+        },
+        "48": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2014-10-20T22:48:10Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/451601468334317905/pdf/ISR-Disclosable-P116783-10-20-2014-1413845284159.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/451601468334317905/text/ISR-Disclosable-P116783-10-20-2014-1413845284159.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b0827e02ac",
+      "projectid": "P116783",
+      "guid": "451601468334317905",
+      "prdln_exact": "Recipient Executed Activities",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/451601468334317905"
+    },
+    "D16215022": {
+      "id": "16215022",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck"
+        },
+        "1": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-Senegal EFA-FTI Catalytic Fund -- P116783",
+      "subsc": "FY17 - Primary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Gender,FY17 - Education,FY17 - Education Financing",
+      "prdln": "Recipient Executed Activities",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012040815342422"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Airports and Air Services,Education For All,Educational Institutions & Facilities,Educational Sciences,Hydrology,Investment and Investment Climate,Primary Education,Sanitation and Sewerage,Teaching and Learning",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "repnb": "ISR6199",
+      "docdt": "2012-04-08T04:00:00Z",
+      "datestored": "2012-04-08T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "primary gross enrollment rate"
+        },
+        "1": {
+          "keywd": "primary completion rate"
+        },
+        "2": {
+          "keywd": "procurement process"
+        },
+        "3": {
+          "keywd": "auxiliary facility"
+        },
+        "4": {
+          "keywd": "school administration"
+        },
+        "5": {
+          "keywd": "water point"
+        },
+        "6": {
+          "keywd": "regional development agency"
+        },
+        "7": {
+          "keywd": "construction and equipment"
+        },
+        "8": {
+          "keywd": "universal primary education"
+        },
+        "9": {
+          "keywd": "junior secondary school"
+        },
+        "10": {
+          "keywd": "Recipient Executed Activities"
+        },
+        "11": {
+          "keywd": "Basic Education"
+        },
+        "12": {
+          "keywd": "school construction"
+        },
+        "13": {
+          "keywd": "dropout rate"
+        },
+        "14": {
+          "keywd": "school year"
+        },
+        "15": {
+          "keywd": "primary level"
+        },
+        "16": {
+          "keywd": "temporary structures"
+        },
+        "17": {
+          "keywd": "intake rate"
+        },
+        "18": {
+          "keywd": "financial agreement"
+        },
+        "19": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 04"
+      },
+      "display_title": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 04",
+      "pdfurl": "http://documents.worldbank.org/curated/en/269251468757540219/pdf/ISR0Disclosabl008201201333913663513.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/269251468757540219/text/ISR0Disclosabl008201201333913663513.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b08135118d",
+      "totvolnb": "1",
+      "projectid": "P116783",
+      "guid": "269251468757540219",
+      "origu": "None",
+      "prdln_exact": "Recipient Executed Activities",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/269251468757540219"
+    },
+    "D14978935": {
+      "id": "14978935",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 03"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-Senegal EFA-FTI Catalytic Fund -- P116783",
+      "subsc": "FY17 - Primary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Gender,FY17 - Education,FY17 - Education Financing",
+      "prdln": "Recipient Executed Activities",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011090619430035"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Educational Institutions & Facilities,Educational Sciences,Hydrology,Primary Education,Sanitation and Sewerage",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "docdt": "2011-09-06T04:00:00Z",
+      "datestored": "2011-09-06T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "dropout rate"
+        },
+        "1": {
+          "keywd": "number of classrooms"
+        },
+        "2": {
+          "keywd": "primary gross enrollment rate"
+        },
+        "3": {
+          "keywd": "school administration"
+        },
+        "4": {
+          "keywd": "water point"
+        },
+        "5": {
+          "keywd": "procurement process"
+        },
+        "6": {
+          "keywd": "primary completion rate"
+        },
+        "7": {
+          "keywd": "compulsory basic education"
+        },
+        "8": {
+          "keywd": "regional development agency"
+        },
+        "9": {
+          "keywd": "Recipient Executed Activities"
+        },
+        "10": {
+          "keywd": "financial agreement"
+        },
+        "11": {
+          "keywd": "education data"
+        },
+        "12": {
+          "keywd": "school construction"
+        },
+        "13": {
+          "keywd": "temporary structures"
+        },
+        "14": {
+          "keywd": "auxiliary facility"
+        },
+        "15": {
+          "keywd": "repetition rate"
+        },
+        "16": {
+          "keywd": "primary level"
+        },
+        "17": {
+          "keywd": "intake rate"
+        },
+        "18": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 03",
+      "pdfurl": "http://documents.worldbank.org/curated/en/798361468757756479/pdf/P1167830ISR0Di006201101315352579527.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/798361468757756479/text/P1167830ISR0Di006201101315352579527.txt",
+      "EnvironmentalCategory": "B",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b080f3eb22",
+      "projectid": "P116783",
+      "guid": "798361468757756479",
+      "origu": "None",
+      "prdln_exact": "Recipient Executed Activities",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/798361468757756479"
+    },
+    "D13971414": {
+      "id": "13971414",
+      "admreg": "Western and Central Africa",
+      "authors": {
+        "0": {
+          "author": "Seck, Atou"
+        }
+      },
+      "count": "Senegal",
+      "docna": {
+        "0": {
+          "docna": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 02"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "SN-Senegal EFA-FTI Catalytic Fund -- P116783",
+      "subsc": "FY17 - Primary Education,FY17 - Public Administration - Education",
+      "theme": "FY17 - Access to Education,FY17 - Gender,FY17 - Education,FY17 - Education Financing",
+      "prdln": "Recipient Executed Activities",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011032722453914"
+      },
+      "majtheme": "FY17 - Human Development and Gender",
+      "subtopic": "Educational Sciences,Primary Education",
+      "sectr": {
+        "0": {
+          "sector": "Education"
+        }
+      },
+      "docdt": "2011-03-27T04:00:00Z",
+      "datestored": "2011-03-27T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "procurement process"
+        },
+        "1": {
+          "keywd": "primary gross enrollment rate"
+        },
+        "2": {
+          "keywd": "dropout rate"
+        },
+        "3": {
+          "keywd": "primary completion rate"
+        },
+        "4": {
+          "keywd": "universal primary education"
+        },
+        "5": {
+          "keywd": "Recipient Executed Activities"
+        },
+        "6": {
+          "keywd": "temporary structures"
+        },
+        "7": {
+          "keywd": "education data"
+        },
+        "8": {
+          "keywd": "repetition rate"
+        },
+        "9": {
+          "keywd": "primary level"
+        },
+        "10": {
+          "keywd": "intake rate"
+        },
+        "11": {
+          "keywd": "education strategy"
+        },
+        "12": {
+          "keywd": "rural area"
+        },
+        "13": {
+          "keywd": "auxiliary facility"
+        },
+        "14": {
+          "keywd": "financial agreement"
+        },
+        "15": {
+          "keywd": "result indicator"
+        },
+        "16": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "Senegal - Senegal EFA-FTI Catalytic Fund : P116783 - Implementation Status Results Report : Sequence 02",
+      "disclosure_date": "2011-03-27T04:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/136701468764074344/pdf/P1167830ISR0Di027201101301280338782.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/136701468764074344/text/P1167830ISR0Di027201101301280338782.txt",
+      "EnvironmentalCategory": "B",
+      "chronical_docm_id": "090224b080a78fb4",
+      "projectid": "P116783",
+      "guid": "136701468764074344",
+      "origu": "None",
+      "prdln_exact": "Recipient Executed Activities",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/136701468764074344"
+    },
+    "facets": {}
+  }
+}

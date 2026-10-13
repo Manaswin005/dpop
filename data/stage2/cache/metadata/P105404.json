@@ -1,0 +1,1384 @@
+{
+  "rows": 30,
+  "os": 0,
+  "page": 1,
+  "total": 11,
+  "documents": {
+    "D17130932": {
+      "id": "17130932",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Dajani, Ibrahim Khalil Zaki"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 07"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08184de17_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Brown Issues and Health,Educational Sciences,Global Environment,Health and Sanitation,Hydrology,Pollution Management & Control,Urban Solid Waste Management",
+      "teratopic": "Education,Environment,Health, Nutrition and Population,Water Resources,Water Supply and Sanitation",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR9125",
+      "docdt": "2012-12-30T05:00:00Z",
+      "datestored": "2012-12-30T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "transfer station"
+        },
+        "2": {
+          "keywd": "solid waste management investment"
+        },
+        "3": {
+          "keywd": "construction of access road"
+        },
+        "4": {
+          "keywd": "Environmental and Social Safeguard"
+        },
+        "5": {
+          "keywd": "sanitary landfill facility"
+        },
+        "6": {
+          "keywd": "waste disposal practices"
+        },
+        "7": {
+          "keywd": "number of complaints"
+        },
+        "8": {
+          "keywd": "joint service"
+        },
+        "9": {
+          "keywd": "Municipalities"
+        },
+        "10": {
+          "keywd": "international procurement"
+        },
+        "11": {
+          "keywd": "intermediate outcome"
+        },
+        "12": {
+          "keywd": "qualified technical"
+        },
+        "13": {
+          "keywd": "construction of infrastructure"
+        },
+        "14": {
+          "keywd": "public awareness campaign"
+        },
+        "15": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 07"
+      },
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 07",
+      "disclosure_date": "2012-12-30T15:27:58Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/415511468117875609/pdf/ISR-Disclosable-P105404-12302012-1356881278424.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/415511468117875609/text/ISR-Disclosable-P105404-12302012-1356881278424.txt",
+      "EnvironmentalCategory": "A",
+      "chronical_docm_id": "090224b08184de17",
+      "totvolnb": "1",
+      "historic_topic": "Education,Environment,Health, Nutrition and Population,Water Resources,Water Supply and Sanitation",
+      "projectid": "P105404",
+      "guid": "415511468117875609",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/415511468117875609"
+    },
+    "D17975682": {
+      "id": "17975682",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Dajani, Ibrahim Khalil Zaki"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 08"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b081cfb671_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Brown Issues and Health,Global Environment,Health and Sanitation,Hydrology,Labor Markets,Pollution Management & Control,Urban Solid Waste Management",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR9348",
+      "docdt": "2013-07-08T04:00:00Z",
+      "datestored": "2013-07-08T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "Solid Waste Management"
+        },
+        "2": {
+          "keywd": "transfer station"
+        },
+        "3": {
+          "keywd": "Municipalities"
+        },
+        "4": {
+          "keywd": "solid waste management investment"
+        },
+        "5": {
+          "keywd": "sanitary landfill facility"
+        },
+        "6": {
+          "keywd": "waste disposal practices"
+        },
+        "7": {
+          "keywd": "international procurement"
+        },
+        "8": {
+          "keywd": "number of beneficiaries"
+        },
+        "9": {
+          "keywd": "qualified technical"
+        },
+        "10": {
+          "keywd": "public awareness campaign"
+        },
+        "11": {
+          "keywd": "access road"
+        },
+        "12": {
+          "keywd": "waste pickers"
+        },
+        "13": {
+          "keywd": "joint service"
+        },
+        "14": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 08"
+      },
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 08",
+      "disclosure_date": "2013-07-08T16:20:58Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/127641468117878779/pdf/ISR-Disclosable-P105404-07-08-2013-1373300445930.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/127641468117878779/text/ISR-Disclosable-P105404-07-08-2013-1373300445930.txt",
+      "EnvironmentalCategory": "A",
+      "chronical_docm_id": "090224b081cfb671",
+      "totvolnb": "1",
+      "projectid": "P105404",
+      "guid": "127641468117878779",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/127641468117878779"
+    },
+    "D25673986": {
+      "id": "25673986",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Dajani, Ibrahim Khalil Zaki"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 13"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b083c5c299_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Brown Issues and Health,Global Environment,Health and Sanitation,Hydrology,Pollution Management & Control,Urban Solid Waste Management,Vocational & Technical Education",
+      "teratopic": "Environment,Health, Nutrition and Population,Social Protections and Labor,Water Resources,Water Supply and Sanitation",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR21030",
+      "docdt": "2015-12-15T05:00:00Z",
+      "datestored": "2015-12-15T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "joint service"
+        },
+        "2": {
+          "keywd": "global environmental"
+        },
+        "3": {
+          "keywd": "extension of closing date"
+        },
+        "4": {
+          "keywd": "solid waste management investment"
+        },
+        "5": {
+          "keywd": "transfer station"
+        },
+        "6": {
+          "keywd": "disposal practice"
+        },
+        "7": {
+          "keywd": "sanitary landfill facility"
+        },
+        "8": {
+          "keywd": "sanitary waste management"
+        },
+        "9": {
+          "keywd": "public awareness campaign"
+        },
+        "10": {
+          "keywd": "waste management plan"
+        },
+        "11": {
+          "keywd": "international procurement"
+        },
+        "12": {
+          "keywd": "survey household"
+        },
+        "13": {
+          "keywd": "international standard"
+        },
+        "14": {
+          "keywd": "waste recovery"
+        },
+        "15": {
+          "keywd": "dump site"
+        },
+        "16": {
+          "keywd": "qualified technical"
+        },
+        "17": {
+          "keywd": "ground water"
+        },
+        "18": {
+          "keywd": "commercially viable"
+        },
+        "19": {
+          "keywd": "landfill site"
+        },
+        "20": {
+          "keywd": "site visits"
+        },
+        "21": {
+          "keywd": "field testing"
+        },
+        "22": {
+          "keywd": "contaminated land"
+        },
+        "23": {
+          "keywd": "financial viability"
+        },
+        "24": {
+          "keywd": "disposal service"
+        },
+        "25": {
+          "keywd": "resource recovery"
+        },
+        "26": {
+          "keywd": "waste minimization"
+        },
+        "27": {
+          "keywd": "special financing"
+        },
+        "28": {
+          "keywd": "investment loan"
+        },
+        "29": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 13"
+      },
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 13",
+      "disclosure_date": "2015-12-15T22:03:37Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/604041468319725524/pdf/West-Bank-and-Gaza-GZ-SOUTHERN-WEST-BANK-SOLID-WASTE-MANAGEMENT-P105404-Implementation-Status-Results-Report-Sequence-13.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/604041468319725524/text/West-Bank-and-Gaza-GZ-SOUTHERN-WEST-BANK-SOLID-WASTE-MANAGEMENT-P105404-Implementation-Status-Results-Report-Sequence-13.txt",
+      "EnvironmentalCategory": "A",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b083c5c299",
+      "totvolnb": "1",
+      "historic_topic": "Environment,Health, Nutrition and Population,Social Protections and Labor,Water Resources,Water Supply and Sanitation",
+      "projectid": "P105404",
+      "guid": "604041468319725524",
+      "origu": "GTIDR - Transport & ICT - GP",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/604041468319725524"
+    },
+    "D18726916": {
+      "id": "18726916",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Dajani, Ibrahim Khalil Zaki"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 09"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082186ec3_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Brown Issues and Health,Global Environment,Health and Sanitation,Hydrology,Labor Markets,Pollution Management & Control,Urban Solid Waste Management",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR12909",
+      "docdt": "2013-12-29T05:00:00Z",
+      "datestored": "2013-12-29T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "Solid Waste Management"
+        },
+        "2": {
+          "keywd": "Municipalities"
+        },
+        "3": {
+          "keywd": "solid waste management investment"
+        },
+        "4": {
+          "keywd": "waste disposal practices"
+        },
+        "5": {
+          "keywd": "transfer station"
+        },
+        "6": {
+          "keywd": "joint service"
+        },
+        "7": {
+          "keywd": "sanitary landfill facility"
+        },
+        "8": {
+          "keywd": "number of beneficiaries"
+        },
+        "9": {
+          "keywd": "qualified technical"
+        },
+        "10": {
+          "keywd": "international procurement"
+        },
+        "11": {
+          "keywd": "access road"
+        },
+        "12": {
+          "keywd": "waste pickers"
+        },
+        "13": {
+          "keywd": "public awareness campaign"
+        },
+        "14": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 09"
+      },
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 09",
+      "disclosure_date": "2013-12-29T14:43:05Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/670881468320380401/pdf/ISR-Disclosable-P105404-12-29-2013-1388328171850.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/670881468320380401/text/ISR-Disclosable-P105404-12-29-2013-1388328171850.txt",
+      "EnvironmentalCategory": "A",
+      "chronical_docm_id": "090224b082186ec3",
+      "totvolnb": "1",
+      "projectid": "P105404",
+      "guid": "670881468320380401",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/670881468320380401"
+    },
+    "D26484106": {
+      "id": "26484106",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Dajani, Ibrahim Khalil Zaki"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 14"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b0843bedc9_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Brown Issues and Health,Global Environment,Health and Sanitation,Hydrology,Pollution Management & Control,Urban Solid Waste Management,Vocational & Technical Education",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR23555",
+      "docdt": "2016-06-13T04:00:00Z",
+      "datestored": "2016-06-13T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "Environmental and Social Management Plan"
+        },
+        "2": {
+          "keywd": "joint service"
+        },
+        "3": {
+          "keywd": "solid waste management investment"
+        },
+        "4": {
+          "keywd": "transfer station"
+        },
+        "5": {
+          "keywd": "disposal practice"
+        },
+        "6": {
+          "keywd": "sanitary landfill facility"
+        },
+        "7": {
+          "keywd": "international procurement"
+        },
+        "8": {
+          "keywd": "sanitary waste management"
+        },
+        "9": {
+          "keywd": "public awareness campaign"
+        },
+        "10": {
+          "keywd": "waste management plan"
+        },
+        "11": {
+          "keywd": "survey household"
+        },
+        "12": {
+          "keywd": "commercially viable"
+        },
+        "13": {
+          "keywd": "financial viability"
+        },
+        "14": {
+          "keywd": "resource recovery"
+        },
+        "15": {
+          "keywd": "waste minimization"
+        },
+        "16": {
+          "keywd": "qualified technical"
+        },
+        "17": {
+          "keywd": "dump site"
+        },
+        "18": {
+          "keywd": "contaminated land"
+        },
+        "19": {
+          "keywd": "disposal service"
+        },
+        "20": {
+          "keywd": "investment loan"
+        },
+        "21": {
+          "keywd": "field testing"
+        },
+        "22": {
+          "keywd": "landfill site"
+        },
+        "23": {
+          "keywd": "ground water"
+        },
+        "24": {
+          "keywd": "special financing"
+        },
+        "25": {
+          "keywd": "waste recovery"
+        },
+        "26": {
+          "keywd": "international standard"
+        },
+        "27": {
+          "keywd": "site visits"
+        },
+        "28": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 14"
+      },
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 14",
+      "disclosure_date": "2016-06-13T21:01:25Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/568551468309854354/pdf/ISR-Disclosable-P105404-06-13-2016-1465851670793.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/568551468309854354/text/ISR-Disclosable-P105404-06-13-2016-1465851670793.txt",
+      "EnvironmentalCategory": "A",
+      "chronical_docm_id": "090224b0843bedc9",
+      "totvolnb": "1",
+      "projectid": "P105404",
+      "guid": "568551468309854354",
+      "origu": "Transport - MNA (IMNT1)",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/568551468309854354"
+    },
+    "D23108238": {
+      "id": "23108238",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 11"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08295e7f4_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Brown Issues and Health,Global Environment,Health and Sanitation,Hydrology,Labor Markets,Pollution Management & Control,Urban Solid Waste Management",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR15478",
+      "docdt": "2014-12-28T05:00:00Z",
+      "datestored": "2014-12-28T05:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "transfer station"
+        },
+        "2": {
+          "keywd": "Solid Waste Management"
+        },
+        "3": {
+          "keywd": "Municipalities"
+        },
+        "4": {
+          "keywd": "joint service"
+        },
+        "5": {
+          "keywd": "solid waste management investment"
+        },
+        "6": {
+          "keywd": "solid waste management system"
+        },
+        "7": {
+          "keywd": "sanitary landfill facility"
+        },
+        "8": {
+          "keywd": "waste disposal practices"
+        },
+        "9": {
+          "keywd": "public awareness campaign"
+        },
+        "10": {
+          "keywd": "qualified technical"
+        },
+        "11": {
+          "keywd": "waste management plan"
+        },
+        "12": {
+          "keywd": "waste per day"
+        },
+        "13": {
+          "keywd": "sanitary waste management"
+        },
+        "14": {
+          "keywd": "international procurement"
+        },
+        "15": {
+          "keywd": "environmental standard"
+        },
+        "16": {
+          "keywd": "waste minimization"
+        },
+        "17": {
+          "keywd": "disposal service"
+        },
+        "18": {
+          "keywd": "ground water"
+        },
+        "19": {
+          "keywd": "resource recovery"
+        },
+        "20": {
+          "keywd": "financial viability"
+        },
+        "21": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 11"
+      },
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 11",
+      "disclosure_date": "2014-12-28T22:50:04Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/167761468317064702/pdf/ISR-Disclosable-P105404-12-28-2014-1419806989506.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/167761468317064702/text/ISR-Disclosable-P105404-12-28-2014-1419806989506.txt",
+      "EnvironmentalCategory": "A",
+      "chronical_docm_id": "090224b08295e7f4",
+      "totvolnb": "1",
+      "projectid": "P105404",
+      "guid": "167761468317064702",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/167761468317064702"
+    },
+    "D16266721": {
+      "id": "16266721",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Dajani, Ibrahim Khalil Zaki"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 06"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2012051308262521"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Access of Poor to Social Services,Brown Issues and Health,Disability,Economic Assistance,Global Environment,Health and Sanitation,Income,Pollution Management & Control,Services & Transfers to Poor,Social Inclusion & Institutions,Urban Solid Waste Management",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR5816",
+      "docdt": "2012-05-13T04:00:00Z",
+      "datestored": "2012-05-13T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "alternative income-generating activity"
+        },
+        "2": {
+          "keywd": "solid waste management investment"
+        },
+        "3": {
+          "keywd": "construction of access road"
+        },
+        "4": {
+          "keywd": "transfer station"
+        },
+        "5": {
+          "keywd": "sanitary landfill facility"
+        },
+        "6": {
+          "keywd": "number of complaints"
+        },
+        "7": {
+          "keywd": "waste disposal practices"
+        },
+        "8": {
+          "keywd": "waste pickers"
+        },
+        "9": {
+          "keywd": "income generating activity"
+        },
+        "10": {
+          "keywd": "international procurement"
+        },
+        "11": {
+          "keywd": "qualified technical"
+        },
+        "12": {
+          "keywd": "public awareness campaign"
+        },
+        "13": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 06"
+      },
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 06",
+      "pdfurl": "http://documents.worldbank.org/curated/en/699151468760195108/pdf/ISR0Disclosabl013201201336911984419.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/699151468760195108/text/ISR0Disclosabl013201201336911984419.txt",
+      "EnvironmentalCategory": "A",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081406669",
+      "totvolnb": "1",
+      "projectid": "P105404",
+      "guid": "699151468760195108",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/699151468760195108"
+    },
+    "D19481493": {
+      "id": "19481493",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Dajani, Ibrahim Khalil Zaki"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 10"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b08244da3c_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Brown Issues and Health,Conflict and Fragile States,Global Environment,Health and Sanitation,Labor Markets,Pollution Management & Control,Urban Solid Waste Management",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR13695",
+      "docdt": "2014-05-10T04:00:00Z",
+      "datestored": "2014-05-10T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "transfer station"
+        },
+        "2": {
+          "keywd": "Municipalities"
+        },
+        "3": {
+          "keywd": "solid waste management investment"
+        },
+        "4": {
+          "keywd": "sanitary landfill facility"
+        },
+        "5": {
+          "keywd": "waste disposal practices"
+        },
+        "6": {
+          "keywd": "joint service"
+        },
+        "7": {
+          "keywd": "qualified technical"
+        },
+        "8": {
+          "keywd": "public awareness campaign"
+        },
+        "9": {
+          "keywd": "population and business"
+        },
+        "10": {
+          "keywd": "international procurement"
+        },
+        "11": {
+          "keywd": "waste pickers"
+        },
+        "12": {
+          "keywd": "truck load"
+        },
+        "13": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 10"
+      },
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 10",
+      "disclosure_date": "2014-05-10T18:25:03Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/952391468142489293/pdf/ISR-Disclosable-P105404-05-10-2014-1399746290662.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/952391468142489293/text/ISR-Disclosable-P105404-05-10-2014-1399746290662.txt",
+      "EnvironmentalCategory": "A",
+      "chronical_docm_id": "090224b08244da3c",
+      "totvolnb": "1",
+      "projectid": "P105404",
+      "guid": "952391468142489293",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/952391468142489293"
+    },
+    "D24671486": {
+      "id": "24671486",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "0000A8056"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 12"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "090224b082f668fd_1_0"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Brown Issues and Health,Global Environment,Health and Sanitation,Hydrology,Pollution Management & Control,Urban Solid Waste Management,Waste Disposal & Utilization",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "repnb": "ISR18173",
+      "docdt": "2015-06-19T04:00:00Z",
+      "datestored": "2015-06-19T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "transfer station"
+        },
+        "2": {
+          "keywd": "Municipalities"
+        },
+        "3": {
+          "keywd": "Partnership for Infrastructure Development"
+        },
+        "4": {
+          "keywd": "village council"
+        },
+        "5": {
+          "keywd": "joint service"
+        },
+        "6": {
+          "keywd": "solid waste management investment"
+        },
+        "7": {
+          "keywd": "operational management"
+        },
+        "8": {
+          "keywd": "disposal practice"
+        },
+        "9": {
+          "keywd": "public awareness campaign"
+        },
+        "10": {
+          "keywd": "sanitary landfill facility"
+        },
+        "11": {
+          "keywd": "waste management plan"
+        },
+        "12": {
+          "keywd": "financially sustainable system"
+        },
+        "13": {
+          "keywd": "cost recovery effort"
+        },
+        "14": {
+          "keywd": "number of beneficiaries"
+        },
+        "15": {
+          "keywd": "international procurement"
+        },
+        "16": {
+          "keywd": "solid waste service"
+        },
+        "17": {
+          "keywd": "waste management equipment"
+        },
+        "18": {
+          "keywd": "sanitary waste management"
+        },
+        "19": {
+          "keywd": "gas collection system"
+        },
+        "20": {
+          "keywd": "survey household"
+        },
+        "21": {
+          "keywd": "waste recovery"
+        },
+        "22": {
+          "keywd": "waste minimization"
+        },
+        "23": {
+          "keywd": "international operator"
+        },
+        "24": {
+          "keywd": "resource recovery"
+        },
+        "25": {
+          "keywd": "disposed waste"
+        },
+        "26": {
+          "keywd": "Advisory services"
+        },
+        "27": {
+          "keywd": "pilot activities"
+        },
+        "28": {
+          "keywd": "landfill area"
+        },
+        "29": {
+          "keywd": "monitoring cost"
+        },
+        "30": {
+          "keywd": "illegal dumping"
+        },
+        "31": {
+          "keywd": "landfill operator"
+        },
+        "32": {
+          "keywd": "fee structure"
+        },
+        "33": {
+          "keywd": "landfill site"
+        },
+        "34": {
+          "keywd": "field testing"
+        },
+        "35": {
+          "keywd": "contaminated land"
+        },
+        "36": {
+          "keywd": "dump site"
+        },
+        "37": {
+          "keywd": "qualified technical"
+        },
+        "38": {
+          "keywd": "commercially viable"
+        },
+        "39": {
+          "keywd": "ground water"
+        },
+        "40": {
+          "keywd": "social media"
+        },
+        "41": {
+          "keywd": "financial viability"
+        },
+        "42": {
+          "keywd": "citizen use"
+        },
+        "43": {
+          "keywd": "citizen engagement"
+        },
+        "44": {
+          "keywd": "urban development"
+        },
+        "45": {
+          "keywd": "special financing"
+        },
+        "46": {
+          "keywd": "investment loan"
+        },
+        "47": {
+          "keywd": "disposal service"
+        },
+        "48": {
+          "keywd": "organic waste"
+        },
+        "49": {
+          "keywd": "telephone surveys"
+        },
+        "50": {
+          "keywd": "site visits"
+        },
+        "51": {
+          "keywd": "sustainable livelihood"
+        },
+        "52": {
+          "keywd": "agricultural cooperative"
+        },
+        "53": {
+          "keywd": "electricity meters"
+        },
+        "54": {
+          "keywd": "financial distress"
+        },
+        "55": {
+          "keywd": "recycling schemes"
+        },
+        "56": {
+          "keywd": "fee collection"
+        },
+        "57": {
+          "keywd": "membership fee"
+        },
+        "58": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "repnme": {
+        "repnme": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 12"
+      },
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 12",
+      "disclosure_date": "2015-06-19T19:19:09Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/869451468309852090/pdf/ISR-Disclosable-P105404-06-19-2015-1434741533585.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/869451468309852090/text/ISR-Disclosable-P105404-06-19-2015-1434741533585.txt",
+      "EnvironmentalCategory": "A",
+      "chronical_docm_id": "090224b082f668fd",
+      "totvolnb": "1",
+      "projectid": "P105404",
+      "guid": "869451468309852090",
+      "origu": "OPS2DATASHEET",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/869451468309852090"
+    },
+    "D13836163": {
+      "id": "13836163",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Dajani, Ibrahim Khalil Zaki"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 04"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011022710145863"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2011-02-27T05:00:00Z",
+      "datestored": "2011-02-27T05:00:00Z",
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 04",
+      "disclosure_date": "2011-02-27T05:00:00Z",
+      "pdfurl": "http://documents.worldbank.org/curated/en/948301468762918207/pdf/P1054040ISR0Di022720111298819697645.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/948301468762918207/text/P1054040ISR0Di022720111298819697645.txt",
+      "EnvironmentalCategory": "A",
+      "chronical_docm_id": "090224b080a2756f",
+      "projectid": "P105404",
+      "guid": "948301468762918207",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/948301468762918207"
+    },
+    "D15362237": {
+      "id": "15362237",
+      "admreg": "Middle East, North Africa, Afghanistan, and Pakistan",
+      "authors": {
+        "0": {
+          "author": "Dajani, Ibrahim Khalil Zaki"
+        }
+      },
+      "count": "West Bank and Gaza",
+      "docna": {
+        "0": {
+          "docna": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 05"
+        }
+      },
+      "docty": "Implementation Status and Results Report",
+      "projn": "GZ-GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT -- P105404",
+      "subsc": "FY17 - Waste Management,FY17 - Sub-National Government",
+      "theme": "FY17 - Soil Pollution,FY17 - Administrative and Civil Service Reform,FY17 - Environmental Health and Pollution Management,FY17 - Public Administration,FY17 - Urban Development,FY17 - Urban Infrastructure and Service Delivery,FY17 - Air quality management,FY17 - Water Pollution,FY17 - Municipal Institution Building",
+      "prdln": "Special Financing",
+      "seccl": "Public",
+      "lang": "English",
+      "lndinstr": {
+        "0": {
+          "lndinstr": "Investment Project Financing"
+        }
+      },
+      "lndinstr_exact": "Investment Project Financing",
+      "entityids": {
+        "entityid": "0000A8056_2011102521281837"
+      },
+      "majtheme": "FY17 - Public Sector Management,FY17 - Urban and Rural Development,FY17 - Environment and Natural Resource Management",
+      "subtopic": "Brown Issues and Health,Global Environment,Health and Sanitation,Hydrology,Judicial System Reform,Legal Products,Legal Reform,Legislation,Pollution Management & Control,Public Finance Decentralization and Poverty Reduction,Public Sector Economics,Regulatory Regimes,Social Policy,Urban Solid Waste Management",
+      "sectr": {
+        "0": {
+          "sector": "Water, Sanitation and Waste Management"
+        },
+        "1": {
+          "sector": "Public Administration"
+        }
+      },
+      "docdt": "2011-10-25T04:00:00Z",
+      "datestored": "2011-10-25T04:00:00Z",
+      "keywd": {
+        "0": {
+          "keywd": "sanitary landfill"
+        },
+        "1": {
+          "keywd": "solid waste management investment"
+        },
+        "2": {
+          "keywd": "sanitary landfill facility"
+        },
+        "3": {
+          "keywd": "waste disposal practices"
+        },
+        "4": {
+          "keywd": "public awareness campaign"
+        },
+        "5": {
+          "keywd": "qualified technical"
+        },
+        "6": {
+          "keywd": "international procurement"
+        },
+        "7": {
+          "keywd": "waste recovery"
+        },
+        "8": {
+          "keywd": "joint service"
+        },
+        "9": {
+          "keywd": ""
+        }
+      },
+      "volnb": "1",
+      "majdocty": "Project Documents",
+      "display_title": "West Bank and Gaza - GZ-SOUTHERN WEST BANK SOLID WASTE MANAGEMENT : P105404 - Implementation Status Results Report : Sequence 05",
+      "pdfurl": "http://documents.worldbank.org/curated/en/955431468779119608/pdf/P1054040ISR0Di025201101319592497571.pdf",
+      "txturl": "http://documents.worldbank.org/curated/en/955431468779119608/text/P1054040ISR0Di025201101319592497571.txt",
+      "EnvironmentalCategory": "A",
+      "disclstat": "Disclosed",
+      "chronical_docm_id": "090224b081004855",
+      "projectid": "P105404",
+      "guid": "955431468779119608",
+      "origu": "None",
+      "prdln_exact": "Special Financing",
+      "available_in": "English",
+      "fullavailablein": [],
+      "url": "http://documents.worldbank.org/curated/en/955431468779119608"
+    },
+    "facets": {}
+  }
+}
